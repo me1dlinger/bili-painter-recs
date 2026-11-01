@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#fbfbfd">
+<title>评论区画师推荐分析</title>
+<style>
+:root{
+  --font:-apple-system,BlinkMacSystemFont,"SF Pro Text","SF Pro Display","Helvetica Neue","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace;
+  --bg:#fbfbfd; --surface:#ffffff; --surface-2:#f5f5f7; --surface-3:#f0f0f3;
+  --text:#1d1d1f; --text-2:#424245; --muted:#86868b; --muted-2:#a1a1a6;
+  --line:#e6e6eb; --line-2:#d2d2d7;
+  --blue:#0071e3; --blue-tint:#eef5ff; --blue-line:#cfe3fa;
+  --teal:#30b0c7; --orange:#ff9500; --green:#34c759; --gray:#8e8e93;
+  --radius:14px; --radius-sm:9px;
+  --shadow:0 1px 2px rgba(0,0,0,.04), 0 4px 14px rgba(0,0,0,.05);
+  --ease:cubic-bezier(.22,.61,.36,1);
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#000000; --surface:#1c1c1e; --surface-2:#2c2c2e; --surface-3:#3a3a3c;
+    --text:#f5f5f7; --text-2:#e5e5ea; --muted:#98989d; --muted-2:#7c7c80;
+    --line:#2c2c2e; --line-2:#3a3a3c;
+    --blue:#0a84ff; --blue-tint:#0d2135; --blue-line:#123a5c;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.5);
+  }
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--bg);color:var(--text);font-family:var(--font);
+  font-size:14px;line-height:1.5;-webkit-font-smoothing:antialiased;
+  text-rendering:optimizeLegibility;overflow-x:hidden;
+}
+.num{font-variant-numeric:tabular-nums;font-feature-settings:"tnum" 1}
+button{font-family:inherit;color:inherit;cursor:pointer}
+input,select{font-family:inherit}
+:focus-visible{outline:3px solid rgba(0,113,227,.45);outline-offset:2px;border-radius:6px}
+::selection{background:rgba(0,113,227,.18)}
+
+/* ---------- 顶部栏 ---------- */
+.topbar{
+  position:sticky;top:0;z-index:40;background:rgba(251,251,253,.82);
+  backdrop-filter:saturate(180%) blur(24px);-webkit-backdrop-filter:saturate(180%) blur(24px);
+  border-bottom:1px solid var(--line);
+}
+@media (prefers-color-scheme: dark){.topbar{background:rgba(0,0,0,.78)}}
+.tb-inner{max-width:1500px;margin:0 auto;padding:10px 24px;display:flex;align-items:center;gap:18px;min-height:56px}
+.anchors{display:flex;gap:2px;background:var(--surface-2);border:1px solid var(--line);border-radius:9px;padding:2px}
+.anchors a{font-size:12.5px;font-weight:500;color:var(--text-2);text-decoration:none;padding:5px 11px;border-radius:7px;transition:background .16s var(--ease)}
+.anchors a:hover{background:var(--surface)}
+.anchors a.on{background:var(--surface);color:var(--text);box-shadow:0 1px 2px rgba(0,0,0,.06)}
+.brand{display:flex;align-items:baseline;gap:10px;flex:0 0 auto}
+.brand h1{font-size:16px;font-weight:600;letter-spacing:-.01em;margin:0;white-space:nowrap}
+.brand .cref{font-size:11px;color:var(--muted-2);letter-spacing:.02em}
+.tb-tools{display:flex;align-items:center;gap:8px;margin-left:auto;flex-wrap:nowrap;justify-content:flex-end;min-width:0}
+.field{
+  display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--line);
+  border-radius:10px;padding:6px 10px;min-width:150px;flex:1 1 200px;max-width:300px;transition:border-color .16s var(--ease)
+}
+.field:focus-within{border-color:var(--blue)}
+.field svg{flex:0 0 auto;opacity:.45}
+.field input{border:0;outline:0;background:transparent;font-size:13.5px;width:100%;color:var(--text);min-width:0}
+.field input::placeholder{color:var(--muted-2)}
+.btn{
+  border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:7px 13px;
+  font-size:13px;font-weight:500;display:inline-flex;align-items:center;gap:6px;white-space:nowrap;
+  transition:background .16s var(--ease),border-color .16s var(--ease),transform .1s var(--ease)
+}
+.btn:hover{background:var(--surface-2)}
+.btn:active{transform:scale(.975)}
+.btn.primary{background:var(--blue);border-color:var(--blue);color:#fff}
+.btn.primary:hover{background:#0077ed}
+.btn.done{background:var(--green);border-color:var(--green);color:#fff}
+.sel{
+  appearance:none;border:1px solid var(--line);background:var(--surface);border-radius:10px;
+  padding:7px 28px 7px 12px;font-size:13px;font-weight:500;color:var(--text);
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path d='M1 1l4 4 4-4' fill='none' stroke='%2386868b' stroke-width='1.6' stroke-linecap='round'/></svg>");
+  background-repeat:no-repeat;background-position:right 10px center;
+}
+
+/* ---------- 布局 ---------- */
+main{max-width:1500px;margin:0 auto;padding:0 24px 72px}
+
+/* 数字条 */
+.stats{display:flex;align-items:stretch;padding:24px 0 20px;border-bottom:1px solid var(--line)}
+.stat{flex:1 1 0;padding:0 32px;border-right:1px solid var(--line);min-width:0}
+.stat:first-child{padding-left:0}
+.stat:last-child{border-right:0}
+.stat .k{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600;white-space:nowrap}
+.stat .v{font-size:30px;font-weight:600;letter-spacing:-.025em;line-height:1.1;margin-top:5px;font-variant-numeric:tabular-nums;white-space:nowrap}
+.stat .v .sub{font-size:15px;font-weight:500;color:var(--muted);letter-spacing:0;margin:0 3px}
+.stat .u{font-size:12px;color:var(--muted);font-weight:400;margin-left:4px;letter-spacing:0}
+.stat.upd{flex:1.35 1 0}
+.stat.upd .v{font-size:19px}
+.stat.upd .sub2{text-transform:none;letter-spacing:0;font-weight:400;margin-top:4px;white-space:normal;line-height:1.4}
+.dist{margin:0 0 12px}
+.distbar{display:flex;height:9px;border-radius:5px;overflow:hidden;background:var(--surface-3)}
+.distbar span{display:block;height:100%}
+.distbar span+span{box-shadow:0 0 0 1px var(--surface) inset}
+.distlegend{display:flex;gap:16px;flex-wrap:wrap;font-size:11.5px;color:var(--muted);margin-top:8px}
+.distlegend i{display:inline-block;width:7px;height:7px;border-radius:2px;margin-right:5px;vertical-align:1px}
+.distlegend b{color:var(--text);font-weight:600}
+
+.workspace{display:grid;grid-template-columns:minmax(0,1fr) minmax(360px,430px);gap:22px;align-items:start;padding-top:22px}
+@media (max-width:1080px){.workspace{grid-template-columns:minmax(0,1fr)}}
+
+.sec-head{display:flex;align-items:baseline;gap:10px;margin:0 0 10px}
+.sec-head h2{font-size:19px;font-weight:600;letter-spacing:-.015em;margin:0}
+.sec-head .n{font-size:12px;color:var(--muted);letter-spacing:.02em}
+.sec-head .sp{margin-left:auto;font-size:12px;color:var(--muted)}
+
+/* ---------- 画师表 ---------- */
+.tablewrap{
+  background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  overflow:hidden;box-shadow:var(--shadow)
+}
+.thead,.row{display:grid;grid-template-columns:34px minmax(112px,1fr) 132px minmax(0,1.5fr) 64px 46px 40px;align-items:center;gap:10px}
+.thead{
+  padding:0 14px;height:34px;background:var(--surface-2);border-bottom:1px solid var(--line);
+  font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;
+  position:sticky;top:0;z-index:5
+}
+.thead .r,.row .r{text-align:right}
+.thead .b{text-align:left;padding-left:2px}
+.scroller{max-height:calc(100vh - 250px);min-height:320px;overflow:auto;overscroll-behavior:contain}
+.row{
+  width:100%;border:0;background:transparent;text-align:left;padding:0 14px;height:35px;
+  border-bottom:1px solid var(--line);position:relative;transition:background .12s var(--ease)
+}
+.row:last-child{border-bottom:0}
+.row:hover{background:var(--surface-2)}
+.row[aria-selected="true"]{background:var(--blue-tint)}
+.row[aria-selected="true"]:before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--blue)}
+.row .i{font-size:11.5px;color:var(--muted-2);text-align:right;font-variant-numeric:tabular-nums}
+.row .nm{font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .al{font-size:11.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.scroller::-webkit-scrollbar,.d-body::-webkit-scrollbar{width:10px;height:10px}
+.scroller::-webkit-scrollbar-thumb,.d-body::-webkit-scrollbar-thumb{background:var(--line-2);border-radius:6px;border:3px solid var(--surface)}
+.scroller::-webkit-scrollbar-track,.d-body::-webkit-scrollbar-track{background:transparent}
+.scroller,.d-body{scrollbar-width:thin;scrollbar-color:var(--line-2) transparent}
+.row .m{text-align:right;font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--blue)}
+.row .u{text-align:right;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.row .sn{font-size:11.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.row .bar{height:6px;border-radius:3px;background:var(--surface-3);overflow:hidden}
+.row .bar i{display:block;height:100%;background:#bcd9f8;border-radius:3px}
+.row[aria-selected="true"] .bar i{background:var(--blue)}
+.warn-dot{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--orange);margin-left:5px;vertical-align:2px}
+
+/* ---------- 详情面板 ---------- */
+.detail{
+  position:sticky;top:78px;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+  box-shadow:var(--shadow);overflow:hidden;display:flex;flex-direction:column;
+  max-height:calc(100vh - 100px)
+}
+.d-head{padding:16px 18px 13px;border-bottom:1px solid var(--line)}
+.d-name{font-size:21px;font-weight:600;letter-spacing:-.02em;word-break:break-word;line-height:1.25}
+.d-alias{font-size:12px;color:var(--muted);margin-top:5px;word-break:break-word}
+.d-tiles{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:1px solid var(--line)}
+.d-tile{padding:11px 18px;border-right:1px solid var(--line)}
+.d-tile:last-child{border-right:0}
+.d-tile .k{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.d-tile .v{font-size:19px;font-weight:600;letter-spacing:-.01em;margin-top:2px;font-variant-numeric:tabular-nums}
+.d-actions{display:flex;gap:7px;padding:12px 18px;border-bottom:1px solid var(--line);flex-wrap:wrap}
+.d-body{overflow:auto;padding:14px 18px 18px;flex:1}
+.d-label{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600;margin:0 0 8px}
+.d-label.mt{margin-top:16px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:4px}
+.chip{font-size:12px;background:var(--surface-2);border:1px solid var(--line);border-radius:7px;padding:3px 8px;color:var(--text-2)}
+.chip.work{background:var(--blue-tint);border-color:var(--blue-line);color:var(--blue);font-weight:500;cursor:pointer}
+.chip.work:hover{background:var(--blue-line)}
+.tips{margin:0;padding:0;list-style:none}
+.tips li{font-size:12.5px;color:var(--text-2);padding:5px 0 5px 14px;position:relative;border-bottom:1px solid var(--line);line-height:1.5}
+.tips li:last-child{border-bottom:0}
+.tips li:before{content:"";position:absolute;left:0;top:12px;width:4px;height:4px;border-radius:50%;background:var(--line-2)}
+.ev{border-left:2px solid var(--line-2);padding:0 0 0 10px;margin:0 0 11px}
+.ev:last-child{margin-bottom:0}
+.ev .h{display:flex;gap:7px;align-items:baseline;font-size:11px;color:var(--muted);margin-bottom:2px}
+.ev .h b{color:var(--text-2);font-weight:600;font-size:11.5px}
+.ev .t{font-size:12.5px;color:var(--text-2);line-height:1.55;word-break:break-word}
+.ev.sub{border-left-color:var(--blue-line)}
+.pill{font-size:10px;background:var(--surface-3);color:var(--muted);border-radius:5px;padding:1px 5px;font-weight:600}
+.d-empty{padding:40px 18px;text-align:center;color:var(--muted);font-size:13px}
+
+/* ---------- 通用区块 ---------- */
+section{margin-top:34px}
+table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+th,td{text-align:left;padding:9px 14px;font-size:12.5px;border-bottom:1px solid var(--line);vertical-align:top;line-height:1.5}
+th{font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;background:var(--surface-2)}
+tr:last-child td{border-bottom:0}
+tbody tr:hover{background:var(--surface-2)}
+td .lk{cursor:pointer;font-weight:600;color:var(--blue)}
+td .lk:hover{text-decoration:underline}
+td.wn{font-weight:600;color:var(--text)}
+
+/* 评论 */
+.filters{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
+.fbtn{
+  border:1px solid var(--line);background:var(--surface);border-radius:9px;padding:5px 11px;font-size:12.5px;
+  color:var(--text-2);font-weight:500;transition:all .16s var(--ease)
+}
+.fbtn:hover{background:var(--surface-2)}
+.fbtn[aria-pressed="true"]{background:var(--text);border-color:var(--text);color:var(--bg)}
+.clist{columns:3;column-gap:8px}
+@media (max-width:1180px){.clist{columns:2}}
+@media (max-width:760px){.clist{columns:1}}
+.cm{background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:10px 12px;
+    overflow:hidden;break-inside:avoid;-webkit-column-break-inside:avoid;margin:0 0 8px}
+.cm .h{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted);margin-bottom:4px;flex-wrap:wrap}
+.cm .h .who{color:var(--text-2);font-weight:600;font-size:12px}
+.cm .h .cp{margin-left:auto;font-size:11px;border:1px solid var(--line);background:transparent;border-radius:6px;padding:2px 7px;color:var(--muted)}
+.cm .h .cp:hover{background:var(--surface-2);color:var(--text)}
+.cm .t{font-size:12.5px;color:var(--text-2);line-height:1.55;word-break:break-word;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.cm.open .t{-webkit-line-clamp:unset}
+.cm .more{font-size:11px;color:var(--blue);background:0;border:0;padding:3px 0 0}
+.cm .tags{margin-top:5px;display:flex;flex-wrap:wrap;gap:5px}
+.tg{font-size:11px;font-weight:600;background:var(--blue-tint);color:var(--blue);border:1px solid var(--blue-line);border-radius:6px;padding:1px 6px;cursor:pointer}
+.tg:hover{background:var(--blue-line)}
+.tg.g{background:var(--surface-2);color:var(--muted);border-color:var(--line);cursor:default}
+
+/* 说明 */
+.notes-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}
+.note{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:14px 16px;box-shadow:var(--shadow)}
+.note h3{margin:0 0 8px;font-size:13px;font-weight:600;letter-spacing:-.005em}
+.note ul{margin:0;padding-left:16px}
+.note li{font-size:12.5px;color:var(--text-2);margin-bottom:5px;line-height:1.55}
+
+/* 提示条 */
+.toast{
+  position:fixed;left:50%;transform:translateX(-50%) translateY(8px);bottom:24px;
+  background:var(--text);color:var(--bg);font-size:12.5px;font-weight:500;padding:8px 15px;border-radius:20px;
+  opacity:0;pointer-events:none;transition:opacity .18s var(--ease),transform .18s var(--ease);z-index:90
+}
+.toast.on{opacity:1;transform:translateX(-50%) translateY(0)}
+
+/* 移动端底部抽屉 */
+.sheet-back{position:fixed;inset:0;background:rgba(0,0,0,.32);opacity:0;pointer-events:none;transition:opacity .22s var(--ease);z-index:60}
+.sheet-back.on{opacity:1;pointer-events:auto}
+.sheet{
+  position:fixed;left:0;right:0;bottom:0;z-index:70;background:var(--surface);
+  border-radius:18px 18px 0 0;box-shadow:0 -8px 40px rgba(0,0,0,.25);
+  transform:translateY(102%);transition:transform .28s var(--ease);
+  max-height:82vh;display:flex;flex-direction:column;padding-bottom:env(safe-area-inset-bottom)
+}
+.sheet.on{transform:translateY(0)}
+.sheet .grab{width:36px;height:4px;border-radius:2px;background:var(--line-2);margin:8px auto 2px;flex:0 0 auto}
+.sheet .d-body{overflow:auto}
+@media (min-width:1081px){.sheet,.sheet-back{display:none}}
+
+.kbd{display:inline-block;font-size:10px;font-family:var(--mono);border:1px solid var(--line-2);border-bottom-width:2px;border-radius:4px;padding:1px 4px;color:var(--muted);margin:0 1px}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
+@media (max-width:820px){
+  .tb-inner{padding:9px 14px;gap:9px;flex-wrap:wrap}
+  .brand .cref{display:none}
+  .brand{flex:1 1 auto}
+  .anchors{order:2}
+  .tb-tools{width:100%;flex-wrap:wrap;justify-content:flex-start;margin-left:0;order:3;gap:8px}
+  .field{flex:1 1 100%;max-width:none;min-width:0}
+  .sel{flex:0 0 auto}
+  .tb-tools .btn{flex:1 1 auto;justify-content:center}
+  main{padding:0 14px 80px}
+  .stats{padding:16px 0 14px}
+  .stat{padding-right:16px;margin-right:16px}
+  .stat .v{font-size:23px}
+  .scroller{max-height:64vh;min-height:0}
+  .thead{display:none}
+  .row{grid-template-columns:22px minmax(0,1fr) auto;grid-template-areas:"i n m" ". s s";
+       height:auto;padding:9px 12px;row-gap:2px;align-items:baseline}
+  .row .i{grid-area:i}
+  .row .nm{grid-area:n;font-size:14px}
+  .row .m{grid-area:m;font-size:13.5px}
+  .row .sn{grid-area:s;font-size:11px;color:var(--muted)}
+  .row .al,.row .bar,.row .u{display:none}
+  .sec-head .sp{display:none}
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);border-bottom:0;padding:14px 0 12px}
+  .stat:nth-child(2){display:none}          /* 一级+二级 属于明细，移动端收进「说明」 */
+  .stat{padding:11px 0;border-right:0;border-bottom:1px solid var(--line)}
+  .stat:nth-child(odd){padding-right:12px;border-right:1px solid var(--line)}
+  .stat:nth-child(3),.stat:nth-child(4){padding-left:12px}
+  .stat .v{font-size:23px}
+  .stat.upd{grid-column:1 / -1;border-right:0;display:flex;align-items:baseline;gap:7px;padding:8px 0;border-bottom:0}
+  .stat.upd .k{margin:0}
+  .stat.upd .v{margin:0;font-size:13px}
+  .stat.upd .sub2{display:none}
+  .stat:not(.upd){padding:9px 0}
+  .detail{display:none}
+}
+</style>
+</head>
+<body>
+
+<header class="topbar">
+  <div class="tb-inner">
+    <div class="brand">
+      <h1>评论区画师推荐分析</h1>
+      <span class="cref">BV15cxq6tEFW</span>
+    </div>
+    <nav class="anchors" aria-label="区块导航">
+      <a href="#sec-artists" data-anchor="sec-artists">画师</a>
+      <a href="#sec-works" data-anchor="sec-works">作品</a>
+      <a href="#sec-comments" data-anchor="sec-comments">评论</a>
+      <a href="#sec-about" data-anchor="sec-about">说明</a>
+    </nav>
+    <div class="tb-tools">
+      <label class="field">
+        <svg width="13" height="13" viewBox="0 0 16 16" fill="none"><circle cx="6.6" cy="6.6" r="4.9" stroke="currentColor" stroke-width="1.6"/><path d="M10.4 10.4L14 14" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <input id="q" type="search" placeholder="搜索画师名、别名或评价" autocomplete="off">
+      </label>
+      <select class="sel" id="sort">
+        <option value="mentions">按提及次数</option>
+        <option value="users">按推荐人数</option>
+        <option value="name">按名称</option>
+      </select>
+      <button class="btn primary" id="copyAllNames">复制全部画师名</button>
+      <button class="btn" id="copyAllList">复制榜单</button>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="stats" id="stats"></div>
+
+  <div class="workspace" id="sec-artists">
+    <div>
+      <div class="sec-head">
+        <h2>画师榜</h2>
+        <span class="n" id="artistCount"></span>
+        <span class="sp"><span class="kbd">↑</span><span class="kbd">↓</span> 选择　<span class="kbd">Enter</span> 复制名字</span>
+      </div>
+      <div class="tablewrap">
+        <div class="thead">
+          <span class="r c-i">#</span><span class="b c-n">画师</span><span class="b c-a">别名</span><span class="b c-s">评论里的一句话</span><span class="c-b">热度</span><span class="r c-m">提及</span><span class="r c-u">人数</span>
+        </div>
+        <div class="scroller" id="rows" role="listbox" aria-label="画师榜"></div>
+      </div>
+    </div>
+    <aside class="detail" id="detail" aria-live="polite"></aside>
+  </div>
+
+  <section id="sec-works">
+    <div class="sec-head"><h2>作品</h2><span class="n">评论区提到的作品／系列</span><span class="sp">点画师名可跳到画师榜</span></div>
+    <table>
+      <thead><tr><th style="width:30%">作品 / 系列</th><th style="width:22%">对应画师</th><th>评论里的说明</th></tr></thead>
+      <tbody id="worksBody"></tbody>
+    </table>
+    <div class="filters" style="margin-top:12px">
+      <button class="btn" id="copyWorkArtists">复制作品表里的画师名</button>
+      <button class="btn" id="copyWorks">复制整张作品表</button>
+    </div>
+  </section>
+
+  <section id="sec-comments">
+    <div class="sec-head"><h2>评论分类</h2><span class="n" id="cmTotal"></span><span class="sp">点蓝色标签可跳到该画师</span></div>
+    <div class="dist" id="dist"></div>
+    <div class="filters" id="filters" style="margin-top:12px"></div>
+    <div class="clist" id="clist"></div>
+    <div class="filters" style="margin-top:12px"><button class="btn" id="loadMore">显示更多</button></div>
+  </section>
+
+  <section id="sec-about">
+    <div class="sec-head"><h2>口径说明</h2><span class="n">抓取方式 · 分类规则 · 计数规则</span></div>
+    <div class="notes-grid" id="about"></div>
+  </section>
+</main>
+
+<aside class="sheet" id="sheet">
+  <div class="grab"></div>
+  <div class="d-body" id="sheetBody"></div>
+</aside>
+<div class="sheet-back" id="sheetBack"></div>
+<div class="toast" id="toast"></div>
+
+<script>
+const state = { data:null, q:'', sort:'mentions', sel:0, cat:'artist_rec', limit:72, sheet:false, followed:0 };
+
+const $ = id => document.getElementById(id);
+const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+/* 复制：局域网为 http 非安全上下文，navigator.clipboard 不可用，走 execCommand 兜底 */
+function copyText(text, btn){
+  const ok = () => {
+    if (btn){ const t = btn.dataset.label || btn.textContent; btn.dataset.label = t; btn.classList.add('done'); btn.textContent = '已复制'; setTimeout(()=>{ btn.classList.remove('done'); btn.textContent = t; }, 1100); }
+    toast('已复制 ' + String(text).split('\n').length + ' 行');
+  };
+  const fallback = () => {
+    const ta = document.createElement('textarea');
+    ta.value = text; ta.setAttribute('readonly','');
+    ta.style.cssText = 'position:fixed;top:0;left:-9999px;opacity:0';
+    document.body.appendChild(ta); ta.select(); ta.setSelectionRange(0, ta.value.length);
+    let good = false; try { good = document.execCommand('copy'); } catch(e){ good = false; }
+    document.body.removeChild(ta);
+    good ? ok() : toast('复制失败，请手动选择文本');
+  };
+  if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(text).then(ok).catch(fallback);
+  else fallback();
+}
+let toastTimer=null;
+function toast(msg){
+  const el = $('toast'); el.textContent = msg; el.classList.add('on');
+  clearTimeout(toastTimer); toastTimer = setTimeout(()=>el.classList.remove('on'), 1500);
+}
+
+const CAT_LABEL = { artist_rec:'画师推荐', work_only:'推荐作品（未点名）', ask:'求推荐 / 提问', chat:'普通评论', empty:'无实质内容' };
+const CAT_COLOR = { artist_rec:'var(--blue)', work_only:'var(--teal)', ask:'var(--orange)', chat:'var(--gray)', empty:'var(--line-2)' };
+
+function visibleArtists(){
+  const d = state.data, q = state.q.trim().toLowerCase();
+  let list = d.artists.filter(a => !q || (a.name+' '+a.aliases.join(' ')+' '+a.notes.join(' ')).toLowerCase().includes(q));
+  if (state.sort === 'users') list = list.slice().sort((a,b)=> b.users-a.users || b.mentions-a.mentions || a.name.localeCompare(b.name,'ja'));
+  else if (state.sort === 'name') list = list.slice().sort((a,b)=> a.name.localeCompare(b.name,'ja'));
+  return list;
+}
+const worksOf = name => state.data.works.filter(w => w.artist === name);
+
+/* ---------- 数字条 ---------- */
+function renderStats(){
+  const d = state.data, u = d.meta.update || {};
+  $('stats').innerHTML = `
+    <div class="stat"><div class="k">抓取评论</div><div class="v">${d.meta.totalCount}<span class="u">条</span></div></div>
+    <div class="stat"><div class="k">一级 + 二级</div><div class="v">${d.meta.rootCount}<span class="sub">+</span>${d.meta.subCount}</div></div>
+    <div class="stat"><div class="k">去重画师</div><div class="v">${d.stats.artistCount}<span class="u">位</span></div></div>
+    <div class="stat"><div class="k">累计提及</div><div class="v">${d.stats.mentionCount}<span class="u">次</span></div></div>
+    <div class="stat upd"><div class="k">数据更新</div><div class="v">${esc((u.lastRun||d.meta.fetchedAt).slice(5,16))}<span class="u">${u.newComments ? "本次 +"+u.newComments+" 条" : "· 无新增"}</span></div><div class="k sub2">每 12 小时自动增量更新</div></div>
+`;
+  const c = d.stats.categories, total = d.meta.totalCount, order = ['artist_rec','work_only','ask','chat','empty'];
+  const bar = order.map(k => c[k] ? `<span style="width:${(c[k]/total*100).toFixed(2)}%;background:${CAT_COLOR[k]}"></span>` : '').join('');
+  const legend = order.map(k => `<span><i style="background:${CAT_COLOR[k]}"></i>${CAT_LABEL[k]} <b>${c[k]||0}</b>　<span style="color:var(--muted-2)">${(c[k]/total*100).toFixed(0)}%</span></span>`).join('');
+  $('dist').innerHTML = `<div class="distbar">${bar}</div><div class="distlegend">${legend}</div>`;
+  $('cmTotal').textContent = `${total} 条 · 画师推荐占 ${(c.artist_rec/total*100).toFixed(0)}%`;
+}
+
+/* ---------- 画师表 ---------- */
+function renderRows(){
+  const list = visibleArtists();
+  const max = Math.max(1, ...list.map(a=>a.mentions));
+  $('artistCount').textContent = `${list.length} / ${state.data.artists.length} 位`;
+  if (state.sel >= list.length) state.sel = 0;
+  $('rows').innerHTML = list.map((a,i)=>`
+    <button class="row" role="option" data-i="${i}" aria-selected="${i===state.sel}">
+      <span class="i">${state.sort==='name' ? '' : i+1}</span>
+      <span class="nm">${esc(a.name)}${a.lowConfidence?'<span class="warn-dot" title="低置信：疑似社团名或简称"></span>':''}</span>
+      <span class="al" title="${esc(a.aliases.join(' / '))}">${esc(a.aliases.slice(0,2).join(' / '))}${a.aliases.length>2?' +'+(a.aliases.length-2):''}${a.aliases.length?'':'—'}</span>
+      <span class="sn" title="${esc(a.notes[0]||'')}">${esc(a.notes[0]||'—')}</span>
+      <span class="bar"><i style="width:${Math.max(4, a.mentions/max*100)}%"></i></span>
+      <span class="m">${a.mentions}</span>
+      <span class="u">${a.users}</span>
+    </button>`).join('');
+  [...$('rows').children].forEach(el => {
+    el.onclick = () => { state.sel = Number(el.dataset.i); syncRows(); renderDetail(); if (window.matchMedia('(max-width:1080px)').matches) openSheet(); };
+  });
+  renderDetail();
+}
+function syncRows(){
+  [...$('rows').children].forEach((el,i)=> el.setAttribute('aria-selected', String(i===state.sel)));
+  const el = $('rows').children[state.sel];
+  if (el) el.scrollIntoView({ block:'nearest' });
+}
+
+function detailHTML(a){
+  if (!a) return '<div class="d-empty">没有匹配的画师，换个关键词试试。</div>';
+  const ws = worksOf(a.name);
+  return `
+  <div class="d-head">
+    <div class="d-name">${esc(a.name)}</div>
+    ${a.aliases.length ? `<div class="d-alias">别名　${esc(a.aliases.join('　·　'))}</div>` : '<div class="d-alias">无别名记录</div>'}
+  </div>
+  <div class="d-tiles">
+    <div class="d-tile"><div class="k">提及</div><div class="v">${a.mentions}</div></div>
+    <div class="d-tile"><div class="k">推荐者</div><div class="v">${a.users}</div></div>
+    <div class="d-tile"><div class="k">作品</div><div class="v">${ws.length}</div></div>
+  </div>
+  <div class="d-actions">
+    <button class="btn primary" data-copy="${esc(a.name)}">复制名字</button>
+    ${a.aliases.length?`<button class="btn" data-copy="${esc([a.name].concat(a.aliases).join(' / '))}">名字 + 别名</button>`:''}
+    <button class="btn" data-copy="${esc(a.name+'｜提及 '+a.mentions+' 次 / '+a.users+' 人推荐'+(ws.length?'｜作品：'+ws.map(w=>w.title).join('、'):'')+(a.notes.length?'\n评价：'+a.notes.join('；'):''))}">复制详情</button>
+  </div>
+  <div class="d-body">
+    ${a.lowConfidence ? '<p class="d-label">提示</p><div class="chip" style="color:var(--orange);border-color:var(--orange)">低置信：该名字疑似社团名或简称，请自行核对</div>' : ''}
+    ${ws.length ? `<p class="d-label${a.lowConfidence?' mt':''}">评论里提到的作品</p><div class="chips">${ws.map(w=>`<span class="chip work" data-work="${esc(w.title)}">${esc(w.title)}</span>`).join('')}</div>` : ''}
+    ${a.notes.length ? `<p class="d-label mt">评论里的评价（${a.notes.length}）</p><ul class="tips">${a.notes.map(n=>`<li>${esc(n)}</li>`).join('')}</ul>` : ''}
+    <p class="d-label mt">原始评论证据（${a.evidence.length}）</p>
+    ${a.evidence.map(e=>`
+      <div class="ev${e.isSub?' sub':''}">
+        <div class="h"><b>${esc(e.commenter)}</b><span class="pill">${e.isSub?'楼中楼':'一级评论'}</span>${e.written && e.written!==a.name?`<span>写作「${esc(e.written)}」</span>`:''}</div>
+        <div class="t">${esc(e.context)}</div>
+      </div>`).join('')}
+  </div>`;
+}
+function renderDetail(){
+  const list = visibleArtists(), a = list[state.sel];
+  const html = detailHTML(a);
+  $('detail').innerHTML = html;
+  $('sheetBody').innerHTML = html;
+  bindCopy($('detail')); bindCopy($('sheetBody'));
+}
+
+function bindCopy(root){
+  root.querySelectorAll('[data-copy]').forEach(b => b.onclick = () => copyText(b.dataset.copy, b));
+  root.querySelectorAll('[data-work]').forEach(b => b.onclick = () => {
+    const w = state.data.works.find(x => x.title === b.dataset.work);
+    if (w) jumpToArtist(w.artist);
+  });
+}
+
+function jumpToArtist(name){
+  const all = visibleArtists();
+  let idx = all.findIndex(a => a.name === name);
+  if (idx < 0){ state.q=''; $('q').value=''; state.sort='mentions'; $('sort').value='mentions'; renderRows(); idx = visibleArtists().findIndex(a=>a.name===name); }
+  if (idx < 0) return;
+  state.sel = idx; syncRows(); renderDetail();
+  $('rows').children[idx].scrollIntoView({ block:'center', behavior:'smooth' });
+  closeSheet();
+}
+
+function openSheet(){ state.sheet = true; $('sheet').classList.add('on'); $('sheetBack').classList.add('on'); }
+function closeSheet(){ state.sheet = false; $('sheet').classList.remove('on'); $('sheetBack').classList.remove('on'); }
+
+/* ---------- 作品 ---------- */
+function renderWorks(){
+  $('worksBody').innerHTML = state.data.works.map(w=>`
+    <tr><td class="wn">${esc(w.title)}</td>
+    <td><span class="lk" data-a="${esc(w.artist)}">${esc(w.artist)}</span></td>
+    <td>${esc(w.note)}</td></tr>`).join('');
+  $('worksBody').querySelectorAll('[data-a]').forEach(el => el.onclick = () => {
+    const n = el.dataset.a;
+    if (!state.data.artists.some(a=>a.name===n)) return toast('该作品未点名画师，画师榜中无对应条目');
+    jumpToArtist(n);
+  });
+}
+
+/* ---------- 评论 ---------- */
+function renderFilters(){
+  const c = state.data.stats.categories, order = ['artist_rec','work_only','ask','chat','empty'];
+  $('filters').innerHTML = order.map(k => `<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}">${CAT_LABEL[k]} ${c[k]||0}</button>`).join('');
+  $('filters').querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { state.cat = b.dataset.cat; state.limit = 72; renderFilters(); renderComments(); });
+}
+function renderComments(){
+  const list = state.data.comments
+    .filter(c => c.category === state.cat)
+    .sort((a,b)=> a.rootNo-b.rootNo || (a.isSub?1:0)-(b.isSub?1:0) || b.like-a.like);
+  const shown = list.slice(0, state.limit);
+  $('clist').innerHTML = shown.map((c,i)=>`
+    <article class="cm" data-cm="${i}">
+      <div class="h">
+        <span>#${c.rootNo}${c.isSub?' 楼中楼':' 一级'}</span>
+        <span class="who">${esc(c.user)}</span>
+        <span>赞 ${c.like}</span>
+        ${c.artists.length?`<button class="cp" data-cp="${i}">复制画师名 ${c.artists.length}</button>`:''}
+      </div>
+      <div class="t">${esc(c.content)}</div>
+      ${c.content.length > 90 ? `<button class="more" data-more="${i}">展开全部</button>` : ''}
+      <div class="tags">
+        ${c.artists.map(a=>`<span class="tg" data-a="${esc(a.artist)}">${esc(a.artist)}${a.written&&a.written!==a.artist?'（'+esc(a.written)+'）':''}</span>`).join('')}
+        ${c.workInfo?`<span class="tg g">${esc(c.workInfo.desc)}</span>`:''}
+        ${c.isSub&&c.rootUser?`<span class="tg g">回复 @${esc(c.rootUser)}</span>`:''}
+      </div>
+    </article>`).join('');
+  const root = $('clist');
+  root.querySelectorAll('[data-more]').forEach(b => b.onclick = () => { root.querySelector(`[data-cm="${b.dataset.more}"]`).classList.add('open'); b.remove(); });
+  root.querySelectorAll('[data-cp]').forEach(b => b.onclick = () => {
+    const c = shown[Number(b.dataset.cp)];
+    copyText([...new Set(c.artists.map(x=>x.artist))].join('\n'), b);
+  });
+  root.querySelectorAll('[data-a]').forEach(el => el.onclick = () => jumpToArtist(el.dataset.a));
+  $('loadMore').style.display = state.limit < list.length ? '' : 'none';
+  $('loadMore').textContent = `显示更多（还有 ${Math.max(0, list.length - state.limit)} 条）`;
+}
+
+/* ---------- 说明 ---------- */
+function renderAbout(){
+  const d = state.data;
+  $('about').innerHTML = `
+  <div class="note"><h3>数据来源</h3><ul>
+    <li>视频《${esc(d.meta.title)}》</li>
+    <li>BV 号 ${esc(d.meta.bvid)} · UP 主 ${esc((d.meta.owner||{}).name||'')}</li>
+    <li>抓取时间 ${esc(d.meta.fetchedAt)}</li>
+    <li>一级评论 ${d.meta.rootCount} 条 + 二级评论 ${d.meta.subCount} 条 = ${d.meta.totalCount} 条</li>
+    <li>视频页面标称 ${d.meta.claimedReplyCount} 条，差额属平台计数口径／已删除或风控隐藏</li>
+  </ul></div>
+  <div class="note"><h3>抓取方式</h3><ul>
+    <li>凭证取自 dsh-bili-scroll 插件内置的 bilibili-mcp 服务</li>
+    <li>一级评论走 x/v2/reply/main 分页，二级评论走 x/v2/reply/reply 逐楼翻页</li>
+    <li>已翻到末页：最新一条一级评论发布于抓取前数分钟</li>
+  </ul></div>
+  <div class="note"><h3>分类口径</h3><ul>
+    <li>画师推荐：正文直接点名了画师（含日文名、中文名、罗马音、昵称）</li>
+    <li>推荐作品（未点名）：只报作品名或配图描述；若楼中楼补出画师名，画师计入画师榜</li>
+    <li>求推荐 / 提问：求车牌、问作者名、求推荐</li>
+    <li>普通评论：感慨、玩梗、点评平台，未针对具体画师</li>
+    <li>无实质内容：@某人、表情、单字、纯数字</li>
+  </ul></div>
+  <div class="note"><h3>计数规则</h3><ul>
+    <li>同一画师的多种写法已合并为一条，别名在列表中列出</li>
+    <li>提及次数：评论里出现的次数；同一人在两条评论各提一次算两次</li>
+    <li>推荐人数：提到该画师的不同用户数，用于区分"一人刷屏"和"众人推荐"</li>
+    <li>橙点标记的名字疑似社团名、简称或非画师，保留原样供核对</li>
+  </ul></div>`;
+}
+
+/* ---------- 事件 ---------- */
+function init(){
+  renderStats(); renderRows(); renderWorks(); renderFilters(); renderComments(); renderAbout();
+  $('q').oninput = e => { state.q = e.target.value; state.sel = 0; renderRows(); };
+  $('sort').onchange = e => { state.sort = e.target.value; state.sel = 0; renderRows(); };
+  $('copyAllNames').onclick = e => copyText(visibleArtists().map(a=>a.name).join('\n'), e.currentTarget);
+  $('copyAllList').onclick = e => copyText('B站评论区画师推荐榜\n' + visibleArtists().map((a,i)=>`${i+1}. ${a.name}（提及 ${a.mentions} 次 / ${a.users} 人推荐${a.aliases.length?'；别名 '+a.aliases.join(' / '):''}）`).join('\n'), e.currentTarget);
+  $('loadMore').onclick = () => { state.limit += 96; renderComments(); };
+  $('copyWorkArtists').onclick = e => copyText([...new Set(state.data.works.map(w=>w.artist).filter(n=>n && !n.startsWith('（')))].join('\n'), e.currentTarget);
+  $('copyWorks').onclick = e => copyText('作品\t画师\t说明\n' + state.data.works.map(w=>`${w.title}\t${w.artist}\t${w.note}`).join('\n'), e.currentTarget);
+  $('sheetBack').onclick = closeSheet;
+  const anchors = [...document.querySelectorAll('.anchors a')];
+  anchors.forEach(a => a.onclick = ev => {
+    ev.preventDefault();
+    const t = document.getElementById(a.dataset.anchor);
+    if (t) window.scrollTo({ top: t.getBoundingClientRect().top + window.scrollY - 70, behavior: 'smooth' });
+  });
+  const obs = new IntersectionObserver(es => {
+    es.forEach(e => { if (e.isIntersecting){ anchors.forEach(a => a.classList.toggle('on', a.dataset.anchor === e.target.id)); } });
+  }, { rootMargin: '-70px 0px -70% 0px', threshold: 0 });
+  ['sec-artists','sec-works','sec-comments','sec-about'].forEach(id => { const el = document.getElementById(id); if (el) obs.observe(el); });
+
+  document.addEventListener('keydown', ev => {
+    if (ev.key === '/' && document.activeElement !== $('q')) { ev.preventDefault(); $('q').focus(); return; }
+    if (document.activeElement === $('q') && ev.key !== 'Escape') return;
+    if (ev.key === 'ArrowDown'){ ev.preventDefault(); state.sel = Math.min(state.sel+1, visibleArtists().length-1); syncRows(); renderDetail(); }
+    else if (ev.key === 'ArrowUp'){ ev.preventDefault(); state.sel = Math.max(state.sel-1, 0); syncRows(); renderDetail(); }
+    else if (ev.key === 'Enter'){ const a = visibleArtists()[state.sel]; if (a) copyText(a.name); }
+    else if (ev.key === 'Escape'){ closeSheet(); $('q').blur(); }
+  });
+}
+
+function loadData(){
+  return fetch('data.json', { cache: 'no-store' })
+    .then(r => { if (!r.ok) throw new Error('data.json ' + r.status); return r.json(); })
+    .catch(() => fetch('/api/data').then(r => r.json()));
+}
+loadData().then(d => {
+  state.data = d;
+  d.artists.forEach(a => a.notes = a.notes || []);
+  init();
+}).catch(err => { $('rows').innerHTML = '<div class="d-empty">数据加载失败：' + esc(err.message) + '</div>'; });
+</script>
+</body>
+</html>
