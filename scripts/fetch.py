@@ -200,6 +200,18 @@ async def main():
     md["updatedAt"] = NOW
     json.dump(md, open(mpath, "w", encoding="utf-8"), ensure_ascii=False)
 
+    # ---------- 待 AI 复核队列 ----------
+    pending = []
+    for k in new_ids:
+        c = store[k]
+        pending.append({
+            "rpid": c["rpid"], "user": c["user"], "content": c["content"],
+            "like": c["like"], "isSub": c["isSub"], "root": c.get("root", 0),
+            "autoMatched": auto_match(c["content"], pats),
+        })
+    json.dump({"generatedAt": NOW, "count": len(pending), "comments": pending},
+              open(os.path.join(STORE, "pending.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+
     log(f"新增 {len(new_ids)} 条评论，更新 {updated} 条，自动匹配新增提及 {added} 条")
     log(f"评论库合计 {len(store)} 条")
     json.dump({"lastRun": NOW, "claimed": claimed, "total": len(store),

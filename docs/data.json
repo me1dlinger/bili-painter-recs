@@ -30,7 +30,7 @@
    "ask": 14,
    "empty": 11
   },
-  "artistCount": 391,
+  "artistCount": 390,
   "mentionCount": 591
  },
  "artists": [
@@ -1449,6 +1449,42 @@
    ]
   },
   {
+   "name": "92m",
+   "aliases": [
+    "92M"
+   ],
+   "mentions": 3,
+   "users": 3,
+   "lowConfidence": false,
+   "notes": [
+    "很喜欢",
+    "自己 EH 下载栏中的画师"
+   ],
+   "evidence": [
+    {
+     "commenter": "不可复制的你",
+     "isSub": false,
+     "written": "92m",
+     "context": "",
+     "note": "很喜欢"
+    },
+    {
+     "commenter": "狗卡世界第一",
+     "isSub": false,
+     "written": "92m",
+     "context": "",
+     "note": ""
+    },
+    {
+     "commenter": "绅士雏",
+     "isSub": false,
+     "written": "92M",
+     "context": "",
+     "note": "自己 EH 下载栏中的画师"
+    }
+   ]
+  },
+  {
    "name": "as109",
    "aliases": [],
    "mentions": 3,
@@ -1906,32 +1942,6 @@
      "written": "KurinMon",
      "context": "",
      "note": "别名，搜KurinMon也行"
-    }
-   ]
-  },
-  {
-   "name": "92m",
-   "aliases": [],
-   "mentions": 2,
-   "users": 2,
-   "lowConfidence": false,
-   "notes": [
-    "很喜欢"
-   ],
-   "evidence": [
-    {
-     "commenter": "不可复制的你",
-     "isSub": false,
-     "written": "92m",
-     "context": "",
-     "note": "很喜欢"
-    },
-    {
-     "commenter": "狗卡世界第一",
-     "isSub": false,
-     "written": "92m",
-     "context": "",
-     "note": ""
     }
    ]
   },
@@ -3281,25 +3291,6 @@
      "written": "360 (コナ)",
      "context": "",
      "note": "原文为社团+作者写法，是否画师不确定"
-    }
-   ]
-  },
-  {
-   "name": "92M",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "lowConfidence": false,
-   "notes": [
-    "自己 EH 下载栏中的画师"
-   ],
-   "evidence": [
-    {
-     "commenter": "绅士雏",
-     "isSub": false,
-     "written": "92M",
-     "context": "",
-     "note": "自己 EH 下载栏中的画师"
     }
    ]
   },

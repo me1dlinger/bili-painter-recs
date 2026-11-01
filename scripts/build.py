@@ -27,6 +27,14 @@ LOW_CONF = set(cfg["lowConf"])
 WORKS = cfg["works"]
 WORK_ONLY = cfg["workOnly"]
 
+# AI 语义复核结果（存在时优先于正则规则）
+REVIEW = ({}
+          if not os.path.exists(S("store", "review.json"))
+          else json.load(open(S("store", "review.json"), encoding="utf-8")).get("comments", {}))
+
+# 名字归一：忽略大小写与空格，用于兜住「Croriin / croriin」这类写法差异
+_key = lambda n: re.sub(r"[\s·・._\-]", "", (n or "").strip()).lower()
+
 comments = list(store["comments"].values())
 for c in comments:
     c["user"] = c.get("user", "")
@@ -101,6 +109,23 @@ for m in mstore["mentions"]:
     mention_by_comment[c["rpid"]].append(art)
     groups[key].append(art)
 
+# 兜底归并：把只看大小写/空格/符号差异的名字合成一条（如 Croriin / croriin）
+merged = {}
+for name, ms in groups.items():
+    merged.setdefault(_key(name), []).append((name, ms))
+groups = {}
+for k, pairs in merged.items():
+    if len(pairs) == 1:
+        groups[pairs[0][0]] = pairs[0][1]
+    else:
+        pairs.sort(key=lambda t: -len(t[1]))          # 以提及最多的写法为准
+        keep = pairs[0][0]
+        for n, ms in pairs[1:]:
+            for m in ms:
+                m["written"] = m["written"] or n
+            pairs[0][1].extend(ms)
+        groups[keep] = pairs[0][1]
+
 artists_raw = []
 for name, ms in groups.items():
     users = {m["user"] for m in ms if m["user"]}
@@ -121,6 +146,10 @@ ASK_PAT = re.compile(r"(求|有没有|哪位|是谁|叫啥|叫什么|推荐一�
 EMPTY_PAT = re.compile(r"^[\s\W\d]*$")
 cat = {}
 for c in allc:
+    rv = REVIEW.get(str(c["rpid"]))
+    if rv and rv.get("category"):
+        cat[c["rpid"]] = rv["category"]
+        continue
     text = (c["content"] or "").strip()
     ms = mention_by_comment.get(c["rpid"], [])
     if ms:
