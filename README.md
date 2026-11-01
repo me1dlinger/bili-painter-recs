@@ -1,8 +1,14 @@
+> 内容提示：本仓库是 B 站公开评论区的画师提及统计，包含评论原文中的口语化描述；仓库与展示页均为公开。
+
 # B站评论区画师推荐分析
 
 把视频 [BV15cxq6tEFW](https://www.bilibili.com/video/BV15cxq6tEFW)（《牛哥力荐！瓶子爽聊最近的画师入驻b站…》）评论区的**全部画师/作者推荐**抽取、去重、结构化，并提供一个局域网可访问的分析网页。
 
 ## 看数据
+
+**在线（GitHub Pages）：https://me1dlinger.github.io/bili-painter-recs/**
+
+**局域网：**
 
 ```bash
 cd web && node server.js 8787      # 启动后访问 http://<本机IP>:8787
@@ -32,18 +38,32 @@ data.json             网页读取的数据
 画师推荐榜.md / .csv   结构化文档
 ```
 
-## 自动更新
+## 自动更新（每 12 小时，10:00 / 22:00）
 
-每 12 小时（10:00 / 22:00，Asia/Shanghai）自动增量抓取一次：
+由 crontab 驱动，一条链跑完并自动发布到 GitHub Pages：
 
-- 会话内定时任务（DSH 调度器）：到点唤醒 agent，跑脚本并对新评论做一次画师识别
-- 系统兜底：crontab `0 10,22 * * * /bin/sh …/scripts/cron_update.sh`，即使会话没开着也会更新
+```
+fetch.py       增量抓取评论，按 rpid 去重；新评论写进 store/pending.json
+ai_review.sh   起一个 headless DSH 会话，按 scripts/ai_prompt.md 做语义复核
+build.py       重建 data.json / 画师推荐榜.md / .csv
+publish.sh     同步到 docs/ 并 git push → Pages 自动刷新
+```
+
+**AI 复核那一步做什么**（纯代码做不到的部分）：
+
+- 语义分类：这条评论是「推荐画师 / 只报作品 / 提问 / 普通闲聊 / 无内容」
+- 抽画师：包括**数据库里还没有的新画师名**（字符串匹配只能认已知的 495 个名字）
+- 去重归并：判断新写法是否其实是已有画师的别名（简繁、中日、罗马音、大小写、昵称、错别字），是则沿用旧条目
+- 产出 `store/review.json`（分类结论）与追加 `store/mentions.json`（提及），`build.py` 优先采信 AI 结论
+
+没有新评论时 AI 步骤自动跳过，不消耗额度。
 
 ```bash
 crontab -l                          # 查看
 crontab -e                          # 改时间
-sh scripts/cron_update.sh           # 手动跑一次
-tail -f store/update.log            # 看日志
+sh scripts/cron_update.sh           # 手动跑一整轮（含发布）
+sh scripts/publish.sh               # 只重新发布当前数据
+tail -f store/update.log store/ai.log
 ```
 
 去重逻辑：以 `rpid` 为唯一键，已存在的评论只更新点赞数/回复数，不重复入库；新评论先按「已知画师名 + 别名」自动匹配，命中的写入 `mentions.json` 并标注「自动匹配 · 待复核」，agent 醒来时再人工复核。
