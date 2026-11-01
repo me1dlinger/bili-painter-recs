@@ -211,6 +211,7 @@ td.wn{font-weight:600;color:var(--text)}
     overflow:hidden;break-inside:avoid;-webkit-column-break-inside:avoid;margin:0 0 8px}
 .cm .h{display:flex;align-items:center;gap:7px;font-size:11px;color:var(--muted);margin-bottom:4px;flex-wrap:wrap}
 .cm .h .who{color:var(--text-2);font-weight:600;font-size:12px}
+.cm .h .tstamp{font-variant-numeric:tabular-nums;color:var(--muted-2)}
 .cm .h .cp{margin-left:auto;font-size:11px;border:1px solid var(--line);background:transparent;border-radius:6px;padding:2px 7px;color:var(--muted)}
 .cm .h .cp:hover{background:var(--surface-2);color:var(--text)}
 .cm .t{font-size:12.5px;color:var(--text-2);line-height:1.55;word-break:break-word;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
@@ -356,6 +357,15 @@ td.wn{font-weight:600;color:var(--text)}
     <div class="sec-head"><h2>评论分类</h2><span class="n" id="cmTotal"></span><span class="sp">点蓝色标签可跳到该画师</span></div>
     <div class="dist" id="dist"></div>
     <div class="filters" id="filters" style="margin-top:12px"></div>
+    <div class="filters" style="margin:-4px 0 12px">
+      <span style="font-size:12px;color:var(--muted);align-self:center;margin-right:2px">排序</span>
+      <select class="sel" id="csort">
+        <option value="floor">按楼层（热评顺序）</option>
+        <option value="new">按时间 · 最新在前</option>
+        <option value="old">按时间 · 最早在前</option>
+        <option value="like">按点赞数</option>
+      </select>
+    </div>
     <div class="clist" id="clist"></div>
     <div class="filters" style="margin-top:12px"><button class="btn" id="loadMore">显示更多</button></div>
   </section>
@@ -374,7 +384,7 @@ td.wn{font-weight:600;color:var(--text)}
 <div class="toast" id="toast"></div>
 
 <script>
-const state = { data:null, q:'', sort:'mentions', sel:0, cat:'artist_rec', limit:72, sheet:false, followed:0 };
+const state = { data:null, q:'', sort:'mentions', sel:0, cat:'artist_rec', csort:'floor', limit:72, sheet:false, followed:0 };
 
 const $ = id => document.getElementById(id);
 const esc = s => String(s==null?'':s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -536,17 +546,33 @@ function renderFilters(){
   const c = state.data.stats.categories, order = ['artist_rec','work_only','ask','chat','empty'];
   $('filters').innerHTML = order.map(k => `<button class="fbtn" data-cat="${k}" aria-pressed="${state.cat===k}">${CAT_LABEL[k]} ${c[k]||0}</button>`).join('');
   $('filters').querySelectorAll('[data-cat]').forEach(b => b.onclick = () => { state.cat = b.dataset.cat; state.limit = 72; renderFilters(); renderComments(); });
+  const cs = $('csort'); cs.value = state.csort;
+  cs.onchange = () => { state.csort = cs.value; state.limit = 72; renderComments(); };
 }
+function fmtTime(t){
+  if (!t) return '—';
+  const d = new Date(t * 1000);
+  const p = n => String(n).padStart(2,'0');
+  return `${p(d.getMonth()+1)}-${p(d.getDate())} ${p(d.getHours())}:${p(d.getMinutes())}`;
+}
+
+function sortComments(list){
+  const s = state.csort;
+  if (s === 'new') return list.slice().sort((a,b)=> (b.ctime||0)-(a.ctime||0) || b.like-a.like);
+  if (s === 'old') return list.slice().sort((a,b)=> (a.ctime||0)-(b.ctime||0) || b.like-a.like);
+  if (s === 'like') return list.slice().sort((a,b)=> b.like-a.like || (b.ctime||0)-(a.ctime||0));
+  return list.slice().sort((a,b)=> a.rootNo-b.rootNo || (a.isSub?1:0)-(b.isSub?1:0) || b.like-a.like);
+}
+
 function renderComments(){
-  const list = state.data.comments
-    .filter(c => c.category === state.cat)
-    .sort((a,b)=> a.rootNo-b.rootNo || (a.isSub?1:0)-(b.isSub?1:0) || b.like-a.like);
+  const list = sortComments(state.data.comments.filter(c => c.category === state.cat));
   const shown = list.slice(0, state.limit);
   $('clist').innerHTML = shown.map((c,i)=>`
     <article class="cm" data-cm="${i}">
       <div class="h">
         <span>#${c.rootNo}${c.isSub?' 楼中楼':' 一级'}</span>
         <span class="who">${esc(c.user)}</span>
+        <span class="tstamp">${fmtTime(c.ctime)}</span>
         <span>赞 ${c.like}</span>
         ${c.artists.length?`<button class="cp" data-cp="${i}">复制画师名 ${c.artists.length}</button>`:''}
       </div>

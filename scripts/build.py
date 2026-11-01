@@ -204,6 +204,7 @@ out = {
     "works": WORKS,
     "comments": [{
         "rootNo": c["rootNo"], "isSub": c["isSub"], "user": c["user"], "like": c["like"],
+        "ctime": c.get("ctime", 0), "firstSeen": c.get("firstSeen", ""),
         "content": c["content"], "category": cat.get(c["rpid"], "chat"),
         "artists": mention_by_comment.get(c["rpid"], []),
         "workInfo": WORK_ONLY.get(str(c["rpid"])) if not c["isSub"] else None,
