@@ -22,7 +22,16 @@ import time
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(HERE)
 STORE = os.path.join(ROOT, "store")
-DUTY_HOME = "/vol1/@apphome/fn-deepseek-harness/bili-duty"
+def _local(key, default=""):
+    f = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "store", "local.json")
+    if os.path.exists(f):
+        return json.load(open(f, encoding="utf-8")).get(key, default)
+    return default
+
+# 运行环境（本机私有配置，见 store/local.json；不进仓库）
+DUTY_HOME = os.environ.get("BILI_DUTY_HOME") or _local("dutyHome")
+if not DUTY_HOME:
+    raise SystemExit("缺少 BILI_DUTY_HOME：请在 store/local.json 里配置 dutyHome，或设置环境变量")
 sys.path.insert(0, os.path.join(DUTY_HOME, ".venv", "lib", "python3.11", "site-packages"))
 
 from bilibili_api import Credential, Api  # noqa: E402

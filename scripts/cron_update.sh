@@ -2,7 +2,7 @@
 # 每 12 小时：抓取 → AI 语义复核 → 重建 → 发布到 GitHub Pages
 set -e
 cd /vol1/1000/Data/codes/files/bili-painter-report
-PY=/vol1/@apphome/fn-deepseek-harness/bili-duty/.venv/bin/python
+PY=$(python3 -c "import json;print(json.load(open('store/local.json'))['python'])")
 {
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') 开始 ====="
   "$PY" scripts/fetch.py --quiet          # 1. 增量抓取（rpid 去重）

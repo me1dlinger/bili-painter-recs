@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-02 06:25:09",
+  "fetchedAt": "2026-11-02 06:40:42",
   "claimedReplyCount": 833,
   "rootCount": 211,
   "subCount": 326,
   "totalCount": 537,
   "update": {
-   "lastRun": "2026-11-02 06:25:09",
+   "lastRun": "2026-11-02 06:40:42",
    "claimed": 833,
    "total": 537,
-   "newComments": 18,
-   "autoMentions": 7
+   "newComments": 0,
+   "autoMentions": 0
   }
  },
  "stats": {
@@ -30,7 +30,7 @@
    "ask": 14,
    "empty": 13
   },
-  "artistCount": 394,
+  "artistCount": 393,
   "mentionCount": 604
  },
  "artists": [
@@ -1226,6 +1226,50 @@
    ]
   },
   {
+   "name": "sage・ジョー",
+   "aliases": [
+    "sage"
+   ],
+   "mentions": 4,
+   "users": 4,
+   "lowConfidence": false,
+   "notes": [
+    "顶级纯爱画师",
+    "画功看着比较舒适",
+    "长名单其中一位"
+   ],
+   "evidence": [
+    {
+     "commenter": "白露未已",
+     "isSub": false,
+     "written": "sage・ジョー",
+     "context": "",
+     "note": ""
+    },
+    {
+     "commenter": "这个昵称到底能取多长",
+     "isSub": false,
+     "written": "sage",
+     "context": "",
+     "note": "顶级纯爱画师"
+    },
+    {
+     "commenter": "妖怪me",
+     "isSub": false,
+     "written": "sage・ジョー",
+     "context": "",
+     "note": "画功看着比较舒适"
+    },
+    {
+     "commenter": "空想庭院",
+     "isSub": false,
+     "written": "sage",
+     "context": "",
+     "note": "长名单其中一位"
+    }
+   ]
+  },
+  {
    "name": "どじろー",
    "aliases": [
     "dojiro",
@@ -1582,42 +1626,6 @@
      "written": "eo58",
      "context": "",
      "note": "做过地下城主美"
-    }
-   ]
-  },
-  {
-   "name": "sage・ジョー",
-   "aliases": [
-    "sage"
-   ],
-   "mentions": 3,
-   "users": 3,
-   "lowConfidence": false,
-   "notes": [
-    "顶级纯爱画师",
-    "画功看着比较舒适"
-   ],
-   "evidence": [
-    {
-     "commenter": "白露未已",
-     "isSub": false,
-     "written": "sage・ジョー",
-     "context": "",
-     "note": ""
-    },
-    {
-     "commenter": "这个昵称到底能取多长",
-     "isSub": false,
-     "written": "sage",
-     "context": "",
-     "note": "顶级纯爱画师"
-    },
-    {
-     "commenter": "妖怪me",
-     "isSub": false,
-     "written": "sage・ジョー",
-     "context": "",
-     "note": "画功看着比较舒适"
     }
    ]
   },
@@ -4833,25 +4841,6 @@
      "commenter": "空想庭院",
      "isSub": false,
      "written": "rioko",
-     "context": "",
-     "note": "长名单其中一位"
-    }
-   ]
-  },
-  {
-   "name": "sage",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "lowConfidence": false,
-   "notes": [
-    "长名单其中一位"
-   ],
-   "evidence": [
-    {
-     "commenter": "空想庭院",
-     "isSub": false,
-     "written": "sage",
      "context": "",
      "note": "长名单其中一位"
     }
@@ -13960,7 +13949,7 @@
      "rpid": 322413257040
     },
     {
-     "artist": "92M",
+     "artist": "92m",
      "written": "92M",
      "note": "自己 EH 下载栏中的画师",
      "rootNo": 155,
@@ -16072,7 +16061,7 @@
      "rpid": 322620677488
     },
     {
-     "artist": "sage",
+     "artist": "sage・ジョー",
      "written": "sage",
      "note": "长名单其中一位",
      "rootNo": 208,

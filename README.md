@@ -82,5 +82,5 @@ tail -f store/update.log store/ai.log
 
 ## 数据来源
 
-凭证取自 `dsh-bili-scroll` 插件内置的 bilibili-mcp 服务（`/vol1/@apphome/fn-deepseek-harness/bili-duty/bili_credential.json`）。
-一级评论走 `x/v2/reply/main` 分页，二级评论走 `x/v2/reply/reply` 逐楼翻页。
+一级评论走 `x/v2/reply/main` 分页，二级评论走 `x/v2/reply/reply` 逐楼翻页；
+凭证放在本机，不进仓库，抓取脚本从本地凭证文件读取。

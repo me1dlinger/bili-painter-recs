@@ -24,7 +24,7 @@
 1. `store/mentions.json`：把新抽到的提及**追加**进 `mentions` 数组，每条字段——
    `root_no`（可留 0）、`commenter`、`is_sub`、`name_as_written`、`canonical_guess`、`context`（原文片段）、`note`（评价/作品）、`rpid`（必须填，用于精确定位）。
 2. `store/review.json`：`{"generatedAt": "...", "comments": {"<rpid>": {"category": "...", "artists": ["..."], "works": ["..."], "reason": "一句话理由"}}}`
-3. 跑 `python scripts/build.py` 重建 data.json 与文档（用 /vol1/@apphome/fn-deepseek-harness/bili-duty/.venv/bin/python）。
+3. 跑 `python scripts/build.py` 重建 data.json 与文档（用 store/local.json 里 python 指定的解释器）。
 
 ## 纪律
 

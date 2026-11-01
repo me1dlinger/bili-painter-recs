@@ -3,8 +3,8 @@
 # 没有新评论时直接跳过，不消耗额度。
 set -e
 cd /vol1/1000/Data/codes/files/bili-painter-report
-PY=/vol1/@apphome/fn-deepseek-harness/bili-duty/.venv/bin/python
-DSH=/vol1/@apphome/fn-deepseek-harness/.npm-global/bin/dsh
+PY=$(python3 -c "import json;print(json.load(open('store/local.json'))['python'])")
+DSH=$(python3 -c "import json;print(json.load(open('store/local.json')).get('dsh','dsh'))" 2>/dev/null || echo dsh)
 
 N=$("$PY" -c "import json;print(len(json.load(open('store/pending.json'))['comments']))" 2>/dev/null || echo 0)
 if [ "$N" = "0" ]; then

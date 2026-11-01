@@ -9,6 +9,7 @@
 """
 import collections
 import csv
+import unicodedata
 import json
 import os
 import re
@@ -32,8 +33,12 @@ REVIEW = ({}
           if not os.path.exists(S("store", "review.json"))
           else json.load(open(S("store", "review.json"), encoding="utf-8")).get("comments", {}))
 
-# 名字归一：忽略大小写与空格，用于兜住「Croriin / croriin」这类写法差异
-_key = lambda n: re.sub(r"[\s·・._\-]", "", (n or "").strip()).lower()
+# 名字归一：全角转半角 + 去掉空格与常见标点 + 忽略大小写
+# 用于兜住「92M / 92m」「Ｃｒｏｒｉｉｎ / Croriin」这类纯写法差异
+def _key(n):
+    n = unicodedata.normalize("NFKC", n or "")
+    n = re.sub(r"[\s·・._\-,、。！!？?（）()\[\]「」『』＆&~〜]", "", n)
+    return n.lower()
 
 comments = list(store["comments"].values())
 for c in comments:
@@ -109,7 +114,8 @@ for m in mstore["mentions"]:
     mention_by_comment[c["rpid"]].append(art)
     groups[key].append(art)
 
-# 兜底归并：把只看大小写/空格/符号差异的名字合成一条（如 Croriin / croriin）
+# 兜底归并：把只看大小写/空格/符号差异的名字合成一条（如 92m / 92M）
+MERGED = []
 merged = {}
 for name, ms in groups.items():
     merged.setdefault(_key(name), []).append((name, ms))
@@ -125,6 +131,7 @@ for k, pairs in merged.items():
                 m["written"] = m["written"] or n
             pairs[0][1].extend(ms)
         groups[keep] = pairs[0][1]
+        MERGED.append(f'{" / ".join(n for n, _ in pairs)} → {keep}')
 
 artists_raw = []
 for name, ms in groups.items():
@@ -286,5 +293,7 @@ for a in artists_out:
     add("")
 open(S("画师推荐榜.md"), "w", encoding="utf-8").write("\n".join(L))
 
+if MERGED:
+    print("写法归并:", "；".join(MERGED))
 print(f"评论 {len(allc)}（一级 {len(roots)} / 二级 {len(subs)}）｜画师 {len(artists_out)} 位｜提及 {out['stats']['mentionCount']} 次｜未匹配提及 {unmatched}")
 print("分类:", dict(cat_stats))
