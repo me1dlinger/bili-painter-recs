@@ -17,12 +17,14 @@
   "update": {
    "lastFetchAt": "2026-11-02 23:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-02 23:02:32",
+   "publishedAt": "2026-11-02 23:05:55",
    "delta": {
     "comments": 0,
     "artists": 0,
     "mentions": 0
-   }
+   },
+   "newArtists": [],
+   "newWorks": []
   }
  },
  "stats": {

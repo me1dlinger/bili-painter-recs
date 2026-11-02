@@ -199,12 +199,14 @@ for a in artists_raw:
 cat_stats = collections.Counter(cat.values())
 
 
-def _update_meta(out_stats):
+def _update_meta(out_stats, artist_names, work_items):
     """给前端用的更新信息：抓取时间 + 相对「上次发布」的变化量。
 
     state.json 里 published 是上次推到线上时的快照，所以差值反映的是
     「用户这次刷新页面，能比上次多看到什么」——不管变化来自定时抓取、
     手动补抓还是 AI 复核。
+    自 2026-11-02 起快照还带 artistNames / workTitles，据此算出
+    newArtists / newWorks 列表（新增画师、新增作品），供前端弹窗展示。
     """
     sp = S("store", "state.json")
     st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
@@ -213,11 +215,18 @@ def _update_meta(out_stats):
     d_comments = out_stats["comments"] - pub.get("comments", out_stats["comments"])
     d_artists = out_stats["artists"] - pub.get("artists", out_stats["artists"])
     d_mentions = out_stats["mentions"] - pub.get("mentions", out_stats["mentions"])
+    # 新增列表：没有快照基准（旧 state）时不给列表，避免把全量当新增
+    pub_names = set(pub.get("artistNames", []))
+    pub_works = set(pub.get("workTitles", []))
+    new_artists = [n for n in artist_names if n not in pub_names] if pub_names else []
+    new_works = [w for w in work_items if w["title"] not in pub_works] if pub_works else []
     return {
         "lastFetchAt": f.get("at", ""),
         "lastFetchNew": f.get("newComments", 0),
         "publishedAt": pub.get("at", ""),
         "delta": {"comments": d_comments, "artists": d_artists, "mentions": d_mentions},
+        "newArtists": new_artists,
+        "newWorks": new_works,
     }
 out = {
     "meta": {
@@ -226,7 +235,9 @@ out = {
         "fetchedAt": store.get("updatedAt", ""), "claimedReplyCount": store.get("claimedReplyCount", 0),
         "rootCount": len(roots), "subCount": len(subs), "totalCount": len(allc),
         "update": _update_meta(out_stats={"comments": len(allc), "artists": len(artists_out),
-                                          "mentions": sum(a["mentions"] for a in artists_out)}),
+                                          "mentions": sum(a["mentions"] for a in artists_out)},
+                               artist_names=[a["name"] for a in artists_out],
+                               work_items=WORKS),
     },
     "stats": {"categories": dict(cat_stats), "artistCount": len(artists_out),
               "mentionCount": sum(a["mentions"] for a in artists_out)},

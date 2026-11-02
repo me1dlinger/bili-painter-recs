@@ -90,6 +90,15 @@ main{max-width:1500px;margin:0 auto;padding:0 24px 72px}
 .stat{flex:1 1 0;padding:0 32px;border-right:1px solid var(--line);min-width:0}
 .stat:first-child{padding-left:0}
 .stat:last-child{border-right:0}
+.stat.clickable{cursor:pointer}
+.stat.clickable:hover .k{color:var(--blue)}
+.stat.clickable:hover .v{color:var(--blue)}
+.lk-inline{cursor:pointer;color:var(--blue);font-weight:600}
+.lk-inline:hover{text-decoration:underline}
+.delta-row{display:flex;gap:12px;padding:8px 0;border-bottom:1px dashed var(--line);align-items:baseline}
+.delta-row .wn{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.delta-row .lk{cursor:pointer;color:var(--blue);font-weight:600;flex:0 0 auto}
+.delta-row .lk:hover{text-decoration:underline}
 .stat .k{font-size:10.5px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600;white-space:nowrap}
 .stat .v{font-size:30px;font-weight:600;letter-spacing:-.025em;line-height:1.1;margin-top:5px;font-variant-numeric:tabular-nums;white-space:nowrap}
 .stat .v .sub{font-size:15px;font-weight:500;color:var(--muted);letter-spacing:0;margin:0 3px}
@@ -470,6 +479,17 @@ td.wn{font-weight:600;color:var(--text)}
   <div class="modal-foot" id="modalFoot"></div>
 </aside>
 
+<div class="modal-back" id="deltaBack"></div>
+<aside class="modal" id="deltaModal" role="dialog" aria-modal="true" aria-label="相对上次发布的新增画师与作品">
+  <div class="modal-head">
+    <span class="tagline">增量更新</span>
+    <span class="of" id="deltaOf"></span>
+    <button class="x" id="deltaClose" aria-label="关闭">✕</button>
+  </div>
+  <div class="modal-body" id="deltaBody"></div>
+  <div class="modal-foot" id="deltaFoot"></div>
+</aside>
+
 <aside class="sheet" id="sheet">
   <div class="grab"></div>
   <div class="d-body" id="sheetBody"></div>
@@ -535,15 +555,17 @@ function renderStats(){
   $('stats').innerHTML = `
     <div class="stat"><div class="k">抓取评论</div><div class="v">${d.meta.totalCount}<span class="u">条</span></div></div>
     <div class="stat"><div class="k">一级 + 二级</div><div class="v">${d.meta.rootCount}<span class="sub">+</span>${d.meta.subCount}</div></div>
-    <div class="stat"><div class="k">去重画师</div><div class="v">${d.stats.artistCount}<span class="u">位</span></div></div>
+    <div class="stat clickable" id="statArtists" title="点击查看相对上次发布新增的画师 / 作品"><div class="k">去重画师</div><div class="v">${d.stats.artistCount}<span class="u">位</span></div></div>
     <div class="stat"><div class="k">累计提及</div><div class="v">${d.stats.mentionCount}<span class="u">次</span></div></div>
-    <div class="stat upd"><div class="k">数据更新</div><div class="v">${esc((u.lastFetchAt||d.meta.fetchedAt).slice(5,16))}<span class="u">${deltaText(u)}</span></div><div class="k sub2">每 12 小时自动增量更新 · 上次发布 ${esc((u.publishedAt||'').slice(5,16)) || '—'}</div></div>
+    <div class="stat upd" id="statDelta" title="点「画师」或「作品」查看相对上次发布的新增内容"><div class="k">数据更新</div><div class="v">${esc((u.lastFetchAt||d.meta.fetchedAt).slice(5,16))}<span class="u">${deltaText(u)}</span></div><div class="k sub2">每小时自动增量更新 · 上次发布 ${esc((u.publishedAt||'').slice(5,16)) || '—'} · <b class="lk-inline">画师</b> / <b class="lk-inline">作品</b> 点击看新增</div></div>
 `;
   const c = d.stats.categories, total = d.meta.totalCount, order = ['artist_rec','work_only','ask','chat','empty'];
   const bar = order.map(k => c[k] ? `<span style="width:${(c[k]/total*100).toFixed(2)}%;background:${CAT_COLOR[k]}"></span>` : '').join('');
   const legend = order.map(k => `<span><i style="background:${CAT_COLOR[k]}"></i>${CAT_LABEL[k]} <b>${c[k]||0}</b>　<span style="color:var(--muted-2)">${(c[k]/total*100).toFixed(0)}%</span></span>`).join('');
   $('dist').innerHTML = `<div class="distbar">${bar}</div><div class="distlegend">${legend}</div>`;
   $('cmTotal').textContent = `${total} 条 · 画师推荐占 ${(c.artist_rec/total*100).toFixed(0)}%`;
+  $('statArtists').onclick = openDeltaModal;
+  $('statDelta').onclick = openDeltaModal;
 }
 
 /* ---------- 画师表 ---------- */
@@ -743,6 +765,34 @@ function closeRandom(){
   $('modalBack').classList.remove('on');
 }
 
+/* ---------- 增量更新弹窗：相对上次发布的新增画师 / 作品 ---------- */
+function openDeltaModal(){
+  const u = (state.data.meta.update || {});
+  const na = u.newArtists || [], nw = u.newWorks || [];
+  const dd = u.delta || {};
+  $('deltaOf').textContent = `${dd.artists||0} 位画师 · ${dd.comments||0} 条评论 · 上次发布 ${esc((u.publishedAt||'').slice(5,16)) || '—'}`;
+  let html = '';
+  if (!na.length && !nw.length){
+    html = '<div class="d-empty">相对上次发布没有新增画师或作品。之后每次发布，这里会列出新增内容。</div>';
+  }
+  if (na.length){
+    html += '<div class="r-sec">新增画师（' + na.length + '）</div><div class="chips">'
+      + na.map(n => `<button class="chip work" data-a="${esc(n)}">${esc(n)}</button>`).join('') + '</div>';
+  }
+  if (nw.length){
+    html += '<div class="r-sec">新增作品（' + nw.length + '）</div>'
+      + nw.map(w => `<div class="delta-row"><span class="wn">${esc(w.title)}</span><span class="lk" data-a="${esc(w.artist)}">${esc(w.artist)}</span></div>`).join('');
+  }
+  $('deltaBody').innerHTML = html;
+  $('deltaBody').querySelectorAll('[data-a]').forEach(el => el.onclick = () => { closeDelta(); jumpToArtist(el.dataset.a); });
+  $('deltaModal').classList.add('on');
+  $('deltaBack').classList.add('on');
+}
+function closeDelta(){
+  $('deltaModal').classList.remove('on');
+  $('deltaBack').classList.remove('on');
+}
+
 /* ---------- 作品 ---------- */
 function renderWorks(){
   $('worksBody').innerHTML = state.data.works.map(w=>`
@@ -866,6 +916,8 @@ function init(){
   $('randomPick').onclick = openRandom;
   $('modalClose').onclick = closeRandom;
   $('modalBack').onclick = closeRandom;
+  $('deltaClose').onclick = closeDelta;
+  $('deltaBack').onclick = closeDelta;
   $('cmBack').onclick = closeComment;
   $('copyAllNames').onclick = e => copyText(visibleArtists().map(a=>a.name).join('\n'), e.currentTarget);
   $('copyAllList').onclick = e => copyText('B站评论区画师推荐榜\n' + visibleArtists().map((a,i)=>`${i+1}. ${a.name}（提及 ${a.mentions} 次 / ${a.users} 人推荐${a.aliases.length?'；别名 '+a.aliases.join(' / '):''}）`).join('\n'), e.currentTarget);

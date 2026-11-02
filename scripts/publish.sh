@@ -16,6 +16,8 @@ st["published"] = {
     "comments": d["meta"]["totalCount"],
     "artists": d["stats"]["artistCount"],
     "mentions": d["stats"]["mentionCount"],
+    "artistNames": [a["name"] for a in d["artists"]],
+    "workTitles": [w["title"] for w in d["works"]],
 }
 json.dump(st, open(sp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print("发布快照:", st["published"])
