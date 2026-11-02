@@ -17962,6 +17962,34 @@
   ]
  },
  {
+  "name": "五十岚铃华",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "轻轻的百合花",
+    "isSub": false,
+    "written": "五十岚铃华",
+    "context": "",
+    "note": "求类似画师，点名作参照"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "五十岚铃华",
+    "written": "五十岚铃华",
+    "note": "求类似画师，点名作参照",
+    "rootNo": 225,
+    "isSub": false,
+    "user": "轻轻的百合花",
+    "rpid": 322737705952
+   }
+  ]
+ },
+ {
   "name": "亞美寿真",
   "aliases": [],
   "mentions": 1,

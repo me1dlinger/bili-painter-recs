@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-02 23:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-02 22:58:27",
+   "publishedAt": "2026-11-02 23:01:24",
    "delta": {
-    "comments": 1,
-    "artists": 0,
-    "mentions": 0
+    "comments": 0,
+    "artists": 1,
+    "mentions": 1
    }
   }
  },
@@ -33,8 +33,8 @@
    "ask": 17,
    "empty": 12
   },
-  "artistCount": 550,
-  "mentionCount": 964
+  "artistCount": 551,
+  "mentionCount": 965
  },
  "artists": [
   {
@@ -11441,6 +11441,26 @@
    ]
   },
   {
+   "name": "五十岚铃华",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "lowConfidence": false,
+   "notes": [
+    "求类似画师，点名作参照"
+   ],
+   "evidence": [
+    {
+     "rpid": 322737705952,
+     "commenter": "轻轻的百合花",
+     "isSub": false,
+     "written": "五十岚铃华",
+     "context": "",
+     "note": "求类似画师，点名作参照"
+    }
+   ]
+  },
+  {
    "name": "亞美寿真",
    "aliases": [],
    "mentions": 1,
@@ -22425,7 +22445,17 @@
    "firstSeen": "2026-11-02 22:52:58",
    "content": "五十岚铃华，有没有类似的画师，求求了[鼓掌]",
    "category": "ask",
-   "artists": [],
+   "artists": [
+    {
+     "artist": "五十岚铃华",
+     "written": "五十岚铃华",
+     "note": "求类似画师，点名作参照",
+     "rootNo": 225,
+     "isSub": false,
+     "user": "轻轻的百合花",
+     "rpid": 322737705952
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
