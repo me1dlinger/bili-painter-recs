@@ -9,24 +9,21 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 03:00:02",
+  "fetchedAt": "2026-11-03 04:00:01",
   "claimedReplyCount": 883,
   "rootCount": 231,
   "subCount": 653,
   "totalCount": 884,
   "update": {
-   "lastFetchAt": "2026-11-03 03:00:02",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 03:01:23",
+   "lastFetchAt": "2026-11-03 04:00:01",
+   "lastFetchNew": 0,
+   "publishedAt": "2026-11-03 03:03:21",
    "delta": {
     "comments": 0,
-    "artists": 2,
-    "mentions": 4
+    "artists": 0,
+    "mentions": 0
    },
-   "newArtists": [
-    "clneo",
-    "shake"
-   ],
+   "newArtists": [],
    "newWorks": []
   }
  },
@@ -14921,8 +14918,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 318738474049,
+   "rpid": 322517525712,
    "rootNo": 10,
+   "isSub": false,
+   "user": "鸽书常",
+   "like": 50,
+   "ctime": 1793460297,
+   "firstSeen": "",
+   "content": "我真得收藏这个视频了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318738474049,
+   "rootNo": 11,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
    "like": 49,
@@ -14935,26 +14946,12 @@
      "artist": "昼寝",
      "written": "晝寢",
      "note": "画功goat",
-     "rootNo": 10,
+     "rootNo": 11,
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049
     }
    ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322517525712,
-   "rootNo": 11,
-   "isSub": false,
-   "user": "鸽书常",
-   "like": 49,
-   "ctime": 1793460297,
-   "firstSeen": "",
-   "content": "我真得收藏这个视频了",
-   "category": "chat",
-   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -31581,7 +31578,7 @@
   },
   {
    "rpid": 318738690849,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
    "like": 28,
@@ -31651,7 +31648,7 @@
   },
   {
    "rpid": 322457008352,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "咕囖咕囖",
    "like": 3,
@@ -31783,7 +31780,7 @@
   },
   {
    "rpid": 322461323472,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "XXUlsk",
    "like": 12,
@@ -32049,7 +32046,7 @@
   },
   {
    "rpid": 322465536112,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "是Zach哒",
    "like": 10,
@@ -33629,7 +33626,7 @@
   },
   {
    "rpid": 322527557584,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "不要叫我动漫宅",
    "like": 1,
@@ -34385,7 +34382,7 @@
   },
   {
    "rpid": 318848677649,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "violetaaaaaaaaa",
    "like": 1,
@@ -34399,7 +34396,7 @@
   },
   {
    "rpid": 318851323329,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "霉霉子Official",
    "like": 0,
@@ -36174,7 +36171,7 @@
   },
   {
    "rpid": 322708659088,
-   "rootNo": 10,
+   "rootNo": 11,
    "isSub": true,
    "user": "莽苟",
    "like": 0,
