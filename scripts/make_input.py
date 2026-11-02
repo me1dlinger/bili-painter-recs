@@ -57,8 +57,10 @@ def main():
             "2) 抽正文里真实出现的画师名（每个输出一条 mentions 记录：name_as_written=原文写法，"
             "canonical_guess=归并后的规范名；若正文写法与 knownArtists 中某条目是同一人（简繁/中日/"
             "罗马音/昵称/错别字），canonical_guess 沿用该条目规范名；确认为新画师才用新名）；"
-            "3) 作品/评价信息填入 note。只处理真实存在的评论，只抽正文真实出现的名字，"
-            "不要凭印象补名字。输出写入 store/review.json，schema 见 merge_review.py 的说明，"
+            "3) 作品与评价：正文明确提到的作品名写入 works，对画师的评价/作品信息写入对应 "
+            "mentions 的 note。特别地：分类为 work_only（只报作品、没点名画师）的评论必须填 works。"
+            "只处理真实存在的评论，只抽正文真实出现的名字，不要凭印象补名字。"
+            "输出写入 store/review.json，schema 见 scripts/ai_prompt.md，"
             "不要改任何其他文件。"
         ),
         "knownArtists": known,
