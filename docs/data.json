@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-02 23:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-02 23:01:24",
+   "publishedAt": "2026-11-02 23:02:32",
    "delta": {
     "comments": 0,
-    "artists": 1,
-    "mentions": 1
+    "artists": 0,
+    "mentions": 0
    }
   }
  },
@@ -29,8 +29,8 @@
   "categories": {
    "chat": 316,
    "work_only": 13,
-   "artist_rec": 516,
-   "ask": 17,
+   "artist_rec": 517,
+   "ask": 16,
    "empty": 12
   },
   "artistCount": 551,
@@ -22444,7 +22444,7 @@
    "ctime": 1793630432,
    "firstSeen": "2026-11-02 22:52:58",
    "content": "五十岚铃华，有没有类似的画师，求求了[鼓掌]",
-   "category": "ask",
+   "category": "artist_rec",
    "artists": [
     {
      "artist": "五十岚铃华",

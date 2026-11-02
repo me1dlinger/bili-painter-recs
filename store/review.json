@@ -1,18 +1,12 @@
 {
-  "generatedAt": "2026-11-02 23:00:30",
+  "generatedAt": "2026-11-02 23:06:00",
   "comments": {
-    "322737705952": {
-      "category": "ask",
-      "artists": ["五十岚铃华"],
+    "322739658416": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "点名五十岚铃华并求类似画师推荐，属求推荐类",
-      "mentions": [
-        {
-          "name_as_written": "五十岚铃华",
-          "canonical_guess": "五十岚铃华",
-          "note": "求类似画师，点名作参照"
-        }
-      ]
+      "reason": "楼中楼讨论购买渠道（想要日版），未点名画师",
+      "mentions": []
     }
   }
 }

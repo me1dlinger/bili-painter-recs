@@ -139,10 +139,14 @@ def main():
     json.dump(cfg, open(os.path.join(STORE, "config.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
 
-    # ---------- 4. 清 pending ----------
+    # ---------- 4. 清 pending（只清本次已复核的 rpid，未复核的保留） ----------
+    # 防并发：fetch 可能在本轮 merge 期间追加了新评论，若整体清空会丢复核队列
     if not args.no_clear:
         p = os.path.join(STORE, "pending.json")
-        json.dump({"generatedAt": time.strftime("%Y-%m-%d %H:%M:%S"), "count": 0, "comments": []},
+        old = json.load(open(p, encoding="utf-8"))
+        kept = [x for x in old.get("comments", []) if str(x["rpid"]) not in reviewed_rpids]
+        json.dump({"generatedAt": time.strftime("%Y-%m-%d %H:%M:%S"),
+                   "count": len(kept), "comments": kept},
                   open(p, "w", encoding="utf-8"), ensure_ascii=False)
 
     print(f"mentions: {before} -> {len(m['mentions'])}（删占位 {removed}，追加 {added}，跳过 {skipped}）")
