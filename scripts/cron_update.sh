@@ -7,6 +7,10 @@ cd /vol1/1000/Data/codes/files/bili-painter-report
 NODEDIR=$(python3 -c "import json;print(json.load(open('store/local.json')).get('nodeBinDir',''))" 2>/dev/null || echo "")
 [ -n "$NODEDIR" ] && PATH="$NODEDIR:/usr/local/bin:/usr/bin:/bin:$PATH" && export PATH
 PY=$(python3 -c "import json;print(json.load(open('store/local.json'))['python'])")
+# git 凭据与代理配置在 /vol1/@appshare/fn-deepseek-harness/.gitconfig 与 .git-credentials；
+# cron 默认 HOME 是 passwd 里的 /home/fn-deepseek-harness，找不到凭据会导致 push 失败（实测 fatal: could not read Username）。
+# 显式指过去，让 git 能读到凭据与代理。
+export HOME=/vol1/@appshare/fn-deepseek-harness
 {
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') 开始 ====="
   # 防并发：上一轮还没跑完就跳过本轮（fetch 全量抓可能耗时数分钟）
