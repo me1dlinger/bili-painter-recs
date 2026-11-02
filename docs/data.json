@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-02 22:33:06",
-  "claimedReplyCount": 872,
-  "rootCount": 224,
+  "fetchedAt": "2026-11-02 22:52:58",
+  "claimedReplyCount": 873,
+  "rootCount": 225,
   "subCount": 648,
-  "totalCount": 872,
+  "totalCount": 873,
   "update": {
-   "lastFetchAt": "2026-11-02 22:33:06",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-02 22:29:16",
+   "lastFetchAt": "2026-11-02 22:52:58",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-02 22:34:27",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    }
@@ -30,7 +30,7 @@
    "chat": 315,
    "work_only": 13,
    "artist_rec": 516,
-   "ask": 16,
+   "ask": 17,
    "empty": 12
   },
   "artistCount": 550,
@@ -14559,7 +14559,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 364,
+   "like": 365,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -22416,6 +22416,20 @@
    "rootUser": ""
   },
   {
+   "rpid": 322737705952,
+   "rootNo": 225,
+   "isSub": false,
+   "user": "轻轻的百合花",
+   "like": 0,
+   "ctime": 1793630432,
+   "firstSeen": "2026-11-02 22:52:58",
+   "content": "五十岚铃华，有没有类似的画师，求求了[鼓掌]",
+   "category": "ask",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
    "rootNo": 34,
    "isSub": true,
@@ -22602,7 +22616,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 289,
+   "like": 290,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -22776,7 +22790,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "你怎么我有事",
-   "like": 1,
+   "like": 2,
    "ctime": 1793367846,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "回复 @Kirisaki_キ :[汤圆]",

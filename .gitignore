@@ -5,3 +5,4 @@ __pycache__/
 .DS_Store
 store/local.json
 store/review_input.json
+store/update.lock

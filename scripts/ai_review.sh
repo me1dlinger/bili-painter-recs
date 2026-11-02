@@ -1,6 +1,6 @@
 #!/bin/sh
-# 用 headless DSH 会话对新评论做语义复核（分类 + 画师抽取 + 别名去重）
-# 没有新评论时直接跳过，不消耗额度。
+# 检测待复核队列：有则标记日志（由主会话每小时定时复核，见 scripts/ai_prompt.md），不阻塞后续步骤。
+# 没有新评论时直接跳过。
 set -e
 cd /vol1/1000/Data/codes/files/bili-painter-report
 # cron 的 PATH 极简，node 常常找不到 —— 从 store/local.json 补上
