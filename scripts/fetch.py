@@ -83,19 +83,44 @@ def slim(r, is_sub=False, root=0):
 
 
 async def fetch_roots(aid, cred):
-    out, nxt = [], 1
+    """一级评论：两条通道都走一遍，取并集。
+
+    2026-11-02 教训：x/v2/reply/main 只返回「热门评论池」，会**整栋漏掉**部分大热楼
+    （实测漏掉一条 rcount=296 的「评论区的各位一人一个推荐画师」）。
+    旧的 x/v2/reply（pn 分页）能翻到它，所以两条都跑、按 rpid 去重合并。
+    """
+    seen = {}
+
+    # 通道 1：懒加载（覆盖热门池）
+    nxt = 1
     while nxt <= 60:
         resp = await api_get("https://api.bilibili.com/x/v2/reply/main",
                              {"oid": aid, "type": 1, "mode": 3, "next": nxt, "ps": 30}, cred)
         reps = resp.get("replies") or []
         if not reps:
             break
-        out.extend(slim(r) for r in reps)
+        for x in reps:
+            seen[x["rpid"]] = x
         if (resp.get("cursor") or {}).get("is_end"):
             break
         nxt += 1
         await asyncio.sleep(1.0)
-    return out
+    log(f"    通道1（懒加载）一级 {len(seen)} 条")
+
+    # 通道 2：旧接口 pn 分页（能翻到懒加载漏掉的楼）
+    pn, prev = 1, len(seen)
+    while pn <= 60:
+        resp = await api_get("https://api.bilibili.com/x/v2/reply",
+                             {"oid": aid, "type": 1, "pn": pn, "sort": 2, "ps": 20}, cred)
+        reps = resp.get("replies") or []
+        if not reps:
+            break
+        for x in reps:
+            seen[x["rpid"]] = x
+        pn += 1
+        await asyncio.sleep(1.0)
+    log(f"    通道2（pn 分页）合计一级 {len(seen)} 条（+{len(seen) - prev}）")
+    return [slim(x) for x in seen.values()]
 
 
 async def fetch_subs(aid, rpid, cred):
