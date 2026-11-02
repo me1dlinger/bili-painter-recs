@@ -248,9 +248,14 @@ async def main():
 
     log(f"新增 {len(new_ids)} 条评论，更新 {updated} 条，自动匹配新增提及 {added} 条")
     log(f"评论库合计 {len(store)} 条")
-    json.dump({"lastRun": NOW, "claimed": claimed, "total": len(store),
-               "newComments": len(new_ids), "autoMentions": added},
-              open(os.path.join(STORE, "state.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    # 注意：只更新「上次抓取」这一块，published（上次发布快照）由 publish.sh 维护
+    sp = os.path.join(STORE, "state.json")
+    st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
+    st["lastFetch"] = {"at": NOW, "newComments": len(new_ids),
+                       "updated": updated, "autoMentions": added, "total": len(store)}
+    st["claimed"] = claimed
+    st["total"] = len(store)
+    json.dump(st, open(sp, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     return len(new_ids)
 
 

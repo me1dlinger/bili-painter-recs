@@ -499,7 +499,7 @@ function renderStats(){
     <div class="stat"><div class="k">一级 + 二级</div><div class="v">${d.meta.rootCount}<span class="sub">+</span>${d.meta.subCount}</div></div>
     <div class="stat"><div class="k">去重画师</div><div class="v">${d.stats.artistCount}<span class="u">位</span></div></div>
     <div class="stat"><div class="k">累计提及</div><div class="v">${d.stats.mentionCount}<span class="u">次</span></div></div>
-    <div class="stat upd"><div class="k">数据更新</div><div class="v">${esc((u.lastRun||d.meta.fetchedAt).slice(5,16))}<span class="u">${u.newComments ? "本次 +"+u.newComments+" 条" : "· 无新增"}</span></div><div class="k sub2">每 12 小时自动增量更新</div></div>
+    <div class="stat upd"><div class="k">数据更新</div><div class="v">${esc((u.lastFetchAt||d.meta.fetchedAt).slice(5,16))}<span class="u">${deltaText(u)}</span></div><div class="k sub2">每 12 小时自动增量更新 · 上次发布 ${esc((u.publishedAt||'').slice(5,16)) || '—'}</div></div>
 `;
   const c = d.stats.categories, total = d.meta.totalCount, order = ['artist_rec','work_only','ask','chat','empty'];
   const bar = order.map(k => c[k] ? `<span style="width:${(c[k]/total*100).toFixed(2)}%;background:${CAT_COLOR[k]}"></span>` : '').join('');
@@ -679,6 +679,16 @@ function renderFilters(){
   const cs = $('csort'); cs.value = state.csort;
   cs.onchange = () => { state.csort = cs.value; state.limit = 72; renderComments(); };
 }
+function deltaText(u){
+  const dd = u.delta || {};
+  const parts = [];
+  if (dd.comments) parts.push((dd.comments > 0 ? '+' : '') + dd.comments + ' 条评论');
+  if (dd.artists) parts.push((dd.artists > 0 ? '+' : '') + dd.artists + ' 位画师');
+  if (parts.length) return '相对上次 ' + parts.join(' · ');
+  if (u.lastFetchNew) return '本次抓取 +' + u.lastFetchNew + ' 条';
+  return '· 与上次一致';
+}
+
 function fmtTime(t){
   if (!t) return '—';
   const d = new Date(t * 1000);

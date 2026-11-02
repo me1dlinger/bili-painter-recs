@@ -196,14 +196,36 @@ for a in artists_raw:
     })
 
 cat_stats = collections.Counter(cat.values())
+
+
+def _update_meta(out_stats):
+    """给前端用的更新信息：抓取时间 + 相对「上次发布」的变化量。
+
+    state.json 里 published 是上次推到线上时的快照，所以差值反映的是
+    「用户这次刷新页面，能比上次多看到什么」——不管变化来自定时抓取、
+    手动补抓还是 AI 复核。
+    """
+    sp = S("store", "state.json")
+    st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
+    f = st.get("lastFetch", {})
+    pub = st.get("published", {})
+    d_comments = out_stats["comments"] - pub.get("comments", out_stats["comments"])
+    d_artists = out_stats["artists"] - pub.get("artists", out_stats["artists"])
+    d_mentions = out_stats["mentions"] - pub.get("mentions", out_stats["mentions"])
+    return {
+        "lastFetchAt": f.get("at", ""),
+        "lastFetchNew": f.get("newComments", 0),
+        "publishedAt": pub.get("at", ""),
+        "delta": {"comments": d_comments, "artists": d_artists, "mentions": d_mentions},
+    }
 out = {
     "meta": {
         "title": store["title"], "bvid": store["bvid"], "aid": store["aid"],
         "owner": store.get("owner", {}), "desc": store.get("desc", ""),
         "fetchedAt": store.get("updatedAt", ""), "claimedReplyCount": store.get("claimedReplyCount", 0),
         "rootCount": len(roots), "subCount": len(subs), "totalCount": len(allc),
-        "update": (json.load(open(S("store", "state.json"), encoding="utf-8"))
-                   if os.path.exists(S("store", "state.json")) else {}),
+        "update": _update_meta(out_stats={"comments": len(allc), "artists": len(artists_out),
+                                          "mentions": sum(a["mentions"] for a in artists_out)}),
     },
     "stats": {"categories": dict(cat_stats), "artistCount": len(artists_out),
               "mentionCount": sum(a["mentions"] for a in artists_out)},
