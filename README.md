@@ -44,15 +44,24 @@ data.json             网页读取的数据
 
 ## 自动更新（每小时）
 
-由 crontab 驱动，一条链跑完并自动发布到 GitHub Pages：
+**两条定时线**：
+
+| 时间 | 谁 | 干什么 |
+| --- | --- | --- |
+| 每小时 0 分 | crontab（`0 * * * *`） | 跑 `cron_update.sh`：抓取 → 构建 → 发布（纯代码链，含防并发锁） |
+| 每小时 10 分 | 主会话定时提醒 | AI 语义复核：`make_input.py` → 填 `review.json` → `merge_review.py` → 发布 |
 
 ```
-fetch.py       增量抓取评论，按 rpid 去重；新评论写进 store/pending.json
+fetch.py       增量抓取评论，按 rpid 去重；新评论**追加**进 store/pending.json（不清空上一轮未复核的）
 make_input.py  生成结构化复核入参 store/review_input.json（pending + 已知画师名单 + 别名表）
-merge_review.py 把 AI 填好的 store/review.json 程序化合并（删占位/追加提及/别名回写/清队列）
+merge_review.py 把 AI 填好的 store/review.json 程序化合并（删占位/追加提及/别名回写/
+                只清已复核的队列 + 调 build）
 build.py       重建 data.json / 画师推荐榜.md / .csv
 publish.sh     同步到 docs/ 并 git push → Pages 自动刷新
 ```
+
+> 注意：`fetch.py` 的待复核队列是**追加合并**的，且 `merge_review.py` 只清「本轮已复核的 rpid」——
+> 未复核的评论不会被下一轮 fetch 或并发 merge 清掉（踩过坑：整点 fetch 与复核并发会丢队列）。
 
 **AI 复核那一步做什么**（纯代码做不到的部分，AI 只填 `store/review.json` 的结构化字段，
 文件合并全部由 `merge_review.py` 完成，杜绝手改 JSON 出错）：
