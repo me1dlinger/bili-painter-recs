@@ -181,7 +181,8 @@ for a in artists_raw:
     for m in a["_raw"]:
         c = by_rpid.get(m["rpid"])
         note = m["note"]
-        ev.append({"commenter": m["user"], "isSub": m["isSub"], "written": m["written"],
+        ev.append({"rpid": m.get("rpid"), "commenter": m["user"], "isSub": m["isSub"],
+                   "written": m["written"],
                    "context": (note if note.startswith("自动匹配") else (m.get("context") or ""))[:140],
                    "note": ("" if note.startswith("自动匹配") else note)})
     notes, seen = [], set()
@@ -232,7 +233,7 @@ out = {
     "artists": artists_out,
     "works": WORKS,
     "comments": [{
-        "rootNo": c["rootNo"], "isSub": c["isSub"], "user": c["user"], "like": c["like"],
+        "rpid": c["rpid"], "rootNo": c["rootNo"], "isSub": c["isSub"], "user": c["user"], "like": c["like"],
         "ctime": c.get("ctime", 0), "firstSeen": c.get("firstSeen", ""),
         "content": c["content"], "category": cat.get(c["rpid"], "chat"),
         "artists": mention_by_comment.get(c["rpid"], []),
