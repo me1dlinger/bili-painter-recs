@@ -4,3 +4,4 @@ __pycache__/
 *.log
 .DS_Store
 store/local.json
+store/review_input.json

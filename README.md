@@ -29,8 +29,12 @@ store/                数据仓（唯一真源）
   update.log          定时任务日志
 scripts/
   fetch.py            增量抓取：一级 + 全部楼中楼，按 rpid 去重合并
+  make_input.py       生成 AI 复核的结构化入参（review_input.json）
+  merge_review.py     程序化合并 AI 复核结果（删占位/追加提及/别名回写/清队列）
   build.py            重建 artists_raw.json / data.json / 画师推荐榜.md / .csv
-  cron_update.sh      fetch + build 的 cron 包装
+  cron_update.sh      fetch + build + publish 的 cron 包装（复核由主会话定时做）
+  ai_prompt.md        给 AI 复核的固定 schema 说明
+  publish.sh          同步 docs/ 并推送 GitHub
 web/
   server.js           零依赖静态服务 + /api/data
   public/index.html   单文件前端
@@ -38,23 +42,27 @@ data.json             网页读取的数据
 画师推荐榜.md / .csv   结构化文档
 ```
 
-## 自动更新（每 12 小时，10:00 / 22:00）
+## 自动更新（每小时）
 
 由 crontab 驱动，一条链跑完并自动发布到 GitHub Pages：
 
 ```
 fetch.py       增量抓取评论，按 rpid 去重；新评论写进 store/pending.json
-ai_review.sh   起一个 headless DSH 会话，按 scripts/ai_prompt.md 做语义复核
+make_input.py  生成结构化复核入参 store/review_input.json（pending + 已知画师名单 + 别名表）
+merge_review.py 把 AI 填好的 store/review.json 程序化合并（删占位/追加提及/别名回写/清队列）
 build.py       重建 data.json / 画师推荐榜.md / .csv
 publish.sh     同步到 docs/ 并 git push → Pages 自动刷新
 ```
 
-**AI 复核那一步做什么**（纯代码做不到的部分）：
+**AI 复核那一步做什么**（纯代码做不到的部分，AI 只填 `store/review.json` 的结构化字段，
+文件合并全部由 `merge_review.py` 完成，杜绝手改 JSON 出错）：
 
 - 语义分类：这条评论是「推荐画师 / 只报作品 / 提问 / 普通闲聊 / 无内容」
-- 抽画师：包括**数据库里还没有的新画师名**（字符串匹配只能认已知的 495 个名字）
+- 抽画师：包括**数据库里还没有的新画师名**（字符串匹配只能认已知的名字）
 - 去重归并：判断新写法是否其实是已有画师的别名（简繁、中日、罗马音、大小写、昵称、错别字），是则沿用旧条目
-- 产出 `store/review.json`（分类结论）与追加 `store/mentions.json`（提及），`build.py` 优先采信 AI 结论
+- 入参出参均固定 schema：`make_input.py` 产出入参，AI 按 `scripts/ai_prompt.md` 填出参，
+  `merge_review.py` 合并进 `store/mentions.json`（追加提及）与 `store/config.json`（别名回写），
+  并清空 `store/pending.json`；`build.py` 优先采信 AI 结论
 
 没有新评论时 AI 步骤自动跳过，不消耗额度。
 

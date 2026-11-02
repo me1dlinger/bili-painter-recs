@@ -1,5 +1,6 @@
 #!/bin/sh
-# 每 12 小时：抓取 → AI 语义复核 → 重建 → 发布到 GitHub Pages
+# 每小时：抓取 → 构建 → 发布到 GitHub Pages
+# （AI 语义复核由主会话的定时提醒完成，见 scripts/ai_prompt.md + merge_review.py）
 set -e
 cd /vol1/1000/Data/codes/files/bili-painter-report
 # cron 的 PATH 极简，补上 node / git 所在目录
