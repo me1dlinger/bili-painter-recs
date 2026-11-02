@@ -234,17 +234,27 @@ async def main():
     md["updatedAt"] = NOW
     json.dump(md, open(mpath, "w", encoding="utf-8"), ensure_ascii=False)
 
-    # ---------- 待 AI 复核队列 ----------
-    pending = []
+    # ---------- 待 AI 复核队列（追加合并，绝不清空上一轮未复核的） ----------
+    # 注意：pending 只在这里追加、由 merge_review.py 复核后清空。
+    # 若覆盖式重写，下一轮 fetch 无新评论时会把还没复核的队列清掉（踩过坑）。
+    ppath = os.path.join(STORE, "pending.json")
+    old_pending = []
+    if os.path.exists(ppath):
+        old_pending = json.load(open(ppath, encoding="utf-8")).get("comments", [])
+    seen_p = {str(x["rpid"]) for x in old_pending}
+    fresh = []
     for k in new_ids:
+        if k in seen_p:
+            continue
         c = store[k]
-        pending.append({
+        fresh.append({
             "rpid": c["rpid"], "user": c["user"], "content": c["content"],
             "like": c["like"], "isSub": c["isSub"], "root": c.get("root", 0),
             "autoMatched": auto_match(c["content"], pats),
         })
+    pending = old_pending + fresh
     json.dump({"generatedAt": NOW, "count": len(pending), "comments": pending},
-              open(os.path.join(STORE, "pending.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+              open(ppath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     log(f"新增 {len(new_ids)} 条评论，更新 {updated} 条，自动匹配新增提及 {added} 条")
     log(f"评论库合计 {len(store)} 条")

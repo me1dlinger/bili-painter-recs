@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-02 22:57:06",
-  "claimedReplyCount": 873,
+  "fetchedAt": "2026-11-02 23:00:02",
+  "claimedReplyCount": 874,
   "rootCount": 225,
-  "subCount": 648,
-  "totalCount": 873,
+  "subCount": 649,
+  "totalCount": 874,
   "update": {
-   "lastFetchAt": "2026-11-02 22:57:06",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-02 22:55:56",
+   "lastFetchAt": "2026-11-02 23:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-02 22:58:27",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    }
@@ -27,7 +27,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 315,
+   "chat": 316,
    "work_only": 13,
    "artist_rec": 516,
    "ask": 17,
@@ -36039,6 +36039,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "暴食-波奇Q"
+  },
+  {
+   "rpid": 322739658416,
+   "rootNo": 217,
+   "isSub": true,
+   "user": "青焰少年",
+   "like": 0,
+   "ctime": 1793631548,
+   "firstSeen": "2026-11-02 23:00:02",
+   "content": "但我想要日版的",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "ssbn大"
   }
  ]
 }
