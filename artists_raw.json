@@ -8475,6 +8475,52 @@
   ]
  },
  {
+  "name": "はらヘリ堂",
+  "aliases": [
+   "はらへり堂"
+  ],
+  "mentions": 2,
+  "users": 2,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "jaijankmz",
+    "isSub": true,
+    "written": "はらヘリ堂",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "夜雨书剑僧鬼狐",
+    "isSub": false,
+    "written": "はらへり堂",
+    "context": "",
+    "note": "推荐画师（へり/ヘリ 写法差异归并）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "はらヘリ堂",
+    "written": "はらヘリ堂",
+    "note": "",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "jaijankmz",
+    "rpid": 318682932369
+   },
+   {
+    "artist": "はらヘリ堂",
+    "written": "はらへり堂",
+    "note": "推荐画师（へり/ヘリ 写法差异归并）",
+    "rootNo": 231,
+    "isSub": false,
+    "user": "夜雨书剑僧鬼狐",
+    "rpid": 319022834577
+   }
+  ]
+ },
+ {
   "name": "はりぽてと",
   "aliases": [],
   "mentions": 2,
@@ -8603,6 +8649,52 @@
     "isSub": false,
     "user": "不是萝莉控哦丶",
     "rpid": 322386622864
+   }
+  ]
+ },
+ {
+  "name": "ぽりうれたん",
+  "aliases": [
+   "ぽるうれたん"
+  ],
+  "mentions": 2,
+  "users": 2,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "荻秋秋秋邱",
+    "isSub": false,
+    "written": "ぽりうれたん",
+    "context": "",
+    "note": "看的好看的本子画师几乎全进备忘录了"
+   },
+   {
+    "commenter": "夜雨书剑僧鬼狐",
+    "isSub": true,
+    "written": "ぽるうれたん",
+    "context": "",
+    "note": "推荐画师，疑似 ぽりうれたん 笔误（る/り）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "ぽりうれたん",
+    "written": "ぽりうれたん",
+    "note": "看的好看的本子画师几乎全进备忘录了",
+    "rootNo": 83,
+    "isSub": false,
+    "user": "荻秋秋秋邱",
+    "rpid": 318765839857
+   },
+   {
+    "artist": "ぽりうれたん",
+    "written": "ぽるうれたん",
+    "note": "推荐画师，疑似 ぽりうれたん 笔误（る/り）",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "夜雨书剑僧鬼狐",
+    "rpid": 319022316177
    }
   ]
  },
@@ -12583,6 +12675,34 @@
   ]
  },
  {
+  "name": "clneo",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "夜雨书剑僧鬼狐",
+    "isSub": false,
+    "written": "clneo",
+    "context": "",
+    "note": "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "clneo",
+    "written": "clneo",
+    "note": "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定",
+    "rootNo": 230,
+    "isSub": false,
+    "user": "夜雨书剑僧鬼狐",
+    "rpid": 319022694369
+   }
+  ]
+ },
+ {
   "name": "doza",
   "aliases": [],
   "mentions": 1,
@@ -14289,6 +14409,34 @@
     "isSub": false,
     "user": "终焉暴君_狂少",
     "rpid": 318988010289
+   }
+  ]
+ },
+ {
+  "name": "shake",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "玩太刀的波奇酱",
+    "isSub": false,
+    "written": "shake",
+    "context": "",
+    "note": "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "shake",
+    "written": "shake",
+    "note": "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定",
+    "rootNo": 152,
+    "isSub": false,
+    "user": "玩太刀的波奇酱",
+    "rpid": 322755453792
    }
   ]
  },
@@ -16089,34 +16237,6 @@
   ]
  },
  {
-  "name": "はらヘリ堂",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "jaijankmz",
-    "isSub": true,
-    "written": "はらヘリ堂",
-    "context": "",
-    "note": ""
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "はらヘリ堂",
-    "written": "はらヘリ堂",
-    "note": "",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "jaijankmz",
-    "rpid": 318682932369
-   }
-  ]
- },
- {
   "name": "ひるなぎ",
   "aliases": [],
   "mentions": 1,
@@ -16365,34 +16485,6 @@
     "isSub": false,
     "user": "空想庭院",
     "rpid": 322620677488
-   }
-  ]
- },
- {
-  "name": "ぽりうれたん",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "荻秋秋秋邱",
-    "isSub": false,
-    "written": "ぽりうれたん",
-    "context": "",
-    "note": "看的好看的本子画师几乎全进备忘录了"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "ぽりうれたん",
-    "written": "ぽりうれたん",
-    "note": "看的好看的本子画师几乎全进备忘录了",
-    "rootNo": 83,
-    "isSub": false,
-    "user": "荻秋秋秋邱",
-    "rpid": 318765839857
    }
   ]
  },

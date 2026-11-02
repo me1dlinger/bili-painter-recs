@@ -17,26 +17,29 @@
   "update": {
    "lastFetchAt": "2026-11-03 03:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 02:01:24",
+   "publishedAt": "2026-11-03 03:01:23",
    "delta": {
-    "comments": 1,
-    "artists": 0,
-    "mentions": 0
+    "comments": 0,
+    "artists": 2,
+    "mentions": 4
    },
-   "newArtists": [],
+   "newArtists": [
+    "clneo",
+    "shake"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 323,
-   "work_only": 14,
-   "artist_rec": 518,
-   "ask": 17,
-   "empty": 12
+   "chat": 319,
+   "work_only": 13,
+   "artist_rec": 521,
+   "ask": 18,
+   "empty": 13
   },
-  "artistCount": 551,
-  "mentionCount": 966
+  "artistCount": 553,
+  "mentionCount": 970
  },
  "artists": [
   {
@@ -5048,6 +5051,36 @@
    ]
   },
   {
+   "name": "はらヘリ堂",
+   "aliases": [
+    "はらへり堂"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "lowConfidence": false,
+   "notes": [
+    "推荐画师（へり/ヘリ 写法差异归并）"
+   ],
+   "evidence": [
+    {
+     "rpid": 318682932369,
+     "commenter": "jaijankmz",
+     "isSub": true,
+     "written": "はらヘリ堂",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 319022834577,
+     "commenter": "夜雨书剑僧鬼狐",
+     "isSub": false,
+     "written": "はらへり堂",
+     "context": "",
+     "note": "推荐画师（へり/ヘリ 写法差异归并）"
+    }
+   ]
+  },
+  {
    "name": "はりぽてと",
    "aliases": [],
    "mentions": 2,
@@ -5127,6 +5160,37 @@
      "written": "へんりいだ",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "ぽりうれたん",
+   "aliases": [
+    "ぽるうれたん"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "lowConfidence": false,
+   "notes": [
+    "看的好看的本子画师几乎全进备忘录了",
+    "推荐画师，疑似 ぽりうれたん 笔误（る/り）"
+   ],
+   "evidence": [
+    {
+     "rpid": 318765839857,
+     "commenter": "荻秋秋秋邱",
+     "isSub": false,
+     "written": "ぽりうれたん",
+     "context": "",
+     "note": "看的好看的本子画师几乎全进备忘录了"
+    },
+    {
+     "rpid": 319022316177,
+     "commenter": "夜雨书剑僧鬼狐",
+     "isSub": true,
+     "written": "ぽるうれたん",
+     "context": "",
+     "note": "推荐画师，疑似 ぽりうれたん 笔误（る/り）"
     }
    ]
   },
@@ -7741,6 +7805,26 @@
    ]
   },
   {
+   "name": "clneo",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "lowConfidence": false,
+   "notes": [
+    "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定"
+   ],
+   "evidence": [
+    {
+     "rpid": 319022694369,
+     "commenter": "夜雨书剑僧鬼狐",
+     "isSub": false,
+     "written": "clneo",
+     "context": "",
+     "note": "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定"
+    }
+   ]
+  },
+  {
    "name": "doza",
    "aliases": [],
    "mentions": 1,
@@ -8895,6 +8979,26 @@
      "written": "sevengar",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "shake",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "lowConfidence": false,
+   "notes": [
+    "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定"
+   ],
+   "evidence": [
+    {
+     "rpid": 322755453792,
+     "commenter": "玩太刀的波奇酱",
+     "isSub": false,
+     "written": "shake",
+     "context": "",
+     "note": "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定"
     }
    ]
   },
@@ -10143,24 +10247,6 @@
    ]
   },
   {
-   "name": "はらヘリ堂",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "lowConfidence": false,
-   "notes": [],
-   "evidence": [
-    {
-     "rpid": 318682932369,
-     "commenter": "jaijankmz",
-     "isSub": true,
-     "written": "はらヘリ堂",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
    "name": "ひるなぎ",
    "aliases": [],
    "mentions": 1,
@@ -10331,26 +10417,6 @@
      "written": "ほみなみあ",
      "context": "",
      "note": "长名单其中一位"
-    }
-   ]
-  },
-  {
-   "name": "ぽりうれたん",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "lowConfidence": false,
-   "notes": [
-    "看的好看的本子画师几乎全进备忘录了"
-   ],
-   "evidence": [
-    {
-     "rpid": 318765839857,
-     "commenter": "荻秋秋秋邱",
-     "isSub": false,
-     "written": "ぽりうれたん",
-     "context": "",
-     "note": "看的好看的本子画师几乎全进备忘录了"
     }
    ]
   },
@@ -20639,8 +20705,18 @@
    "ctime": 1793643965,
    "firstSeen": "2026-11-03 03:00:02",
    "content": "shake",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "shake",
+     "written": "shake",
+     "note": "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定",
+     "rootNo": 152,
+     "isSub": false,
+     "user": "玩太刀的波奇酱",
+     "rpid": 322755453792
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -22532,7 +22608,7 @@
    "ctime": 1793636227,
    "firstSeen": "2026-11-03 01:00:01",
    "content": "@潜水关系户 评论区我不敢看了",
-   "category": "chat",
+   "category": "empty",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -22547,7 +22623,17 @@
    "firstSeen": "2026-11-03 02:00:02",
    "content": "clneo人間有没有懂得",
    "category": "ask",
-   "artists": [],
+   "artists": [
+    {
+     "artist": "clneo",
+     "written": "clneo",
+     "note": "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定",
+     "rootNo": 230,
+     "isSub": false,
+     "user": "夜雨书剑僧鬼狐",
+     "rpid": 319022694369
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -22560,8 +22646,18 @@
    "ctime": 1793640572,
    "firstSeen": "2026-11-03 02:00:02",
    "content": "はらへり堂[滑稽]",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "はらヘリ堂",
+     "written": "はらへり堂",
+     "note": "推荐画师（へり/ヘリ 写法差异归并）",
+     "rootNo": 231,
+     "isSub": false,
+     "user": "夜雨书剑僧鬼狐",
+     "rpid": 319022834577
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -36199,7 +36295,7 @@
    "ctime": 1793637154,
    "firstSeen": "2026-11-03 01:00:01",
    "content": "我是真喜欢修女篇，但是为什么作者这几篇下来越画越幼了啊，岂可修，我要看大姐姐啊，不想看萝莉[大哭]",
-   "category": "work_only",
+   "category": "ask",
    "artists": [],
    "workInfo": null,
    "rootUser": "暴食-波奇Q"
@@ -36227,8 +36323,18 @@
    "ctime": 1793640107,
    "firstSeen": "2026-11-03 02:00:02",
    "content": "ぽるうれたん",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "ぽりうれたん",
+     "written": "ぽるうれたん",
+     "note": "推荐画师，疑似 ぽりうれたん 笔误（る/り）",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "夜雨书剑僧鬼狐",
+     "rpid": 319022316177
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   },

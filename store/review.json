@@ -1,26 +1,64 @@
 {
-  "generatedAt": "2026-11-03 01:04:00",
+  "generatedAt": "2026-11-03 03:02:00",
   "comments": {
-    "319017995153": {
+    "319022694369": {
+      "category": "ask",
+      "artists": ["clneo"],
+      "works": [],
+      "reason": "问 clneo人間 有没有懂的；clneo 疑为画师名，人間疑为作品主题，语境不明",
+      "mentions": [
+        {
+          "name_as_written": "clneo",
+          "canonical_guess": "clneo",
+          "note": "原句 clneo人間有没有懂得；clneo 疑为画师（人間 疑为作品主题），不确定"
+        }
+      ]
+    },
+    "319022834577": {
+      "category": "artist_rec",
+      "artists": ["はらヘリ堂"],
+      "works": [],
+      "reason": "推荐画师 はらへり堂（はらヘリ堂 平/片假名差异）",
+      "mentions": [
+        {
+          "name_as_written": "はらへり堂",
+          "canonical_guess": "はらヘリ堂",
+          "note": "推荐画师（へり/ヘリ 写法差异归并）"
+        }
+      ]
+    },
+    "319022515473": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "@他人互动感慨，未点名画师",
+      "reason": "楼中楼「確かに」附和，未点名画师",
       "mentions": []
     },
-    "322748781072": {
-      "category": "work_only",
-      "artists": [],
-      "works": ["修女篇"],
-      "reason": "提到作品修女篇（works 表对应「修女篇（那个修女）」→鳥居ヨシツナ），未点名画师，讨论画风越画越幼",
-      "mentions": []
-    },
-    "322748860928": {
-      "category": "chat",
-      "artists": [],
+    "319022316177": {
+      "category": "artist_rec",
+      "artists": ["ぽりうれたん"],
       "works": [],
-      "reason": "闲聊真人本，未点名画师",
-      "mentions": []
+      "reason": "一人一个推荐画师楼里点名 ぽるうれたん（疑似 ぽりうれたん 笔误）",
+      "mentions": [
+        {
+          "name_as_written": "ぽるうれたん",
+          "canonical_guess": "ぽりうれたん",
+          "note": "推荐画师，疑似 ぽりうれたん 笔误（る/り）"
+        }
+      ]
+    },
+    "322755453792": {
+      "category": "artist_rec",
+      "artists": ["shake"],
+      "works": [],
+      "reason": "仅一个英文词 shake，画师推荐评论区语境，疑为画师名",
+      "mentions": [
+        {
+          "name_as_written": "shake",
+          "canonical_guess": "shake",
+          "note": "仅一个英文词 shake，疑为画师名（pixiv 存在同名画师），不确定"
+        }
+      ]
     }
   }
 }
