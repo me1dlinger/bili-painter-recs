@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 01:00:01",
-  "claimedReplyCount": 879,
-  "rootCount": 228,
-  "subCount": 651,
-  "totalCount": 879,
+  "fetchedAt": "2026-11-03 02:00:02",
+  "claimedReplyCount": 882,
+  "rootCount": 230,
+  "subCount": 653,
+  "totalCount": 883,
   "update": {
-   "lastFetchAt": "2026-11-03 01:00:01",
-   "lastFetchNew": 3,
-   "publishedAt": "2026-11-03 01:01:22",
+   "lastFetchAt": "2026-11-03 02:00:02",
+   "lastFetchNew": 4,
+   "publishedAt": "2026-11-03 01:04:19",
    "delta": {
-    "comments": 0,
+    "comments": 4,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,10 +29,10 @@
  },
  "stats": {
   "categories": {
-   "chat": 319,
+   "chat": 322,
    "work_only": 14,
    "artist_rec": 518,
-   "ask": 16,
+   "ask": 17,
    "empty": 12
   },
   "artistCount": 551,
@@ -14859,7 +14859,7 @@
    "rootNo": 10,
    "isSub": false,
    "user": "鸽书常",
-   "like": 48,
+   "like": 49,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -14873,7 +14873,7 @@
    "rootNo": 11,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 46,
+   "like": 47,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15085,8 +15085,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 318671560929,
+   "rpid": 322631723568,
    "rootNo": 15,
+   "isSub": false,
+   "user": "不平等云雾",
+   "like": 30,
+   "ctime": 1793542679,
+   "firstSeen": "2026-11-01 22:21:18",
+   "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318671560929,
+   "rootNo": 16,
    "isSub": false,
    "user": "波奇至今",
    "like": 28,
@@ -15100,20 +15114,6 @@
     "resolved_by_reply": null,
     "desc": "吐槽某作品剧情，未给名字"
    },
-   "rootUser": ""
-  },
-  {
-   "rpid": 322631723568,
-   "rootNo": 16,
-   "isSub": false,
-   "user": "不平等云雾",
-   "like": 28,
-   "ctime": 1793542679,
-   "firstSeen": "2026-11-01 22:21:18",
-   "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
-   "category": "chat",
-   "artists": [],
-   "workInfo": null,
    "rootUser": ""
   },
   {
@@ -15141,7 +15141,7 @@
    "rootNo": 18,
    "isSub": false,
    "user": "Parzival-__-",
-   "like": 23,
+   "like": 24,
    "ctime": 1793367834,
    "firstSeen": "",
    "content": "あるぷ神中神",
@@ -22524,6 +22524,34 @@
    "rootUser": ""
   },
   {
+   "rpid": 319022694369,
+   "rootNo": 229,
+   "isSub": false,
+   "user": "夜雨书剑僧鬼狐",
+   "like": 0,
+   "ctime": 1793640377,
+   "firstSeen": "2026-11-03 02:00:02",
+   "content": "clneo人間有没有懂得",
+   "category": "ask",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 319022834577,
+   "rootNo": 230,
+   "isSub": false,
+   "user": "夜雨书剑僧鬼狐",
+   "like": 0,
+   "ctime": 1793640572,
+   "firstSeen": "2026-11-03 02:00:02",
+   "content": "はらへり堂[滑稽]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
    "rootNo": 34,
    "isSub": true,
@@ -23188,7 +23216,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "King-gooDBye",
-   "like": 43,
+   "like": 44,
    "ctime": 1793369820,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "有人懂云呑めお吗[星星眼]",
@@ -31446,7 +31474,7 @@
    "rootNo": 11,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 23,
+   "like": 24,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -35454,7 +35482,7 @@
   },
   {
    "rpid": 318922875713,
-   "rootNo": 16,
+   "rootNo": 15,
    "isSub": true,
    "user": "云就爱跟风",
    "like": 0,
@@ -35614,7 +35642,7 @@
   },
   {
    "rpid": 322657912896,
-   "rootNo": 16,
+   "rootNo": 15,
    "isSub": true,
    "user": "不平等云雾",
    "like": 2,
@@ -35642,7 +35670,7 @@
   },
   {
    "rpid": 318935426001,
-   "rootNo": 16,
+   "rootNo": 15,
    "isSub": true,
    "user": "邦邦咔邦__",
    "like": 0,
@@ -36175,6 +36203,34 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "到此一游NIE"
+  },
+  {
+   "rpid": 319022316177,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "夜雨书剑僧鬼狐",
+   "like": 0,
+   "ctime": 1793640107,
+   "firstSeen": "2026-11-03 02:00:02",
+   "content": "ぽるうれたん",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319022515473,
+   "rootNo": 18,
+   "isSub": true,
+   "user": "夜雨书剑僧鬼狐",
+   "like": 0,
+   "ctime": 1793640279,
+   "firstSeen": "2026-11-03 02:00:02",
+   "content": "確かに",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Parzival-__-"
   }
  ]
 }
