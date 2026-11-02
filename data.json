@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 00:00:02",
-  "claimedReplyCount": 876,
-  "rootCount": 227,
-  "subCount": 649,
-  "totalCount": 876,
+  "fetchedAt": "2026-11-03 01:00:01",
+  "claimedReplyCount": 879,
+  "rootCount": 228,
+  "subCount": 651,
+  "totalCount": 879,
   "update": {
-   "lastFetchAt": "2026-11-03 00:00:02",
-   "lastFetchNew": 2,
-   "publishedAt": "2026-11-02 23:13:36",
+   "lastFetchAt": "2026-11-03 01:00:01",
+   "lastFetchNew": 3,
+   "publishedAt": "2026-11-03 00:01:24",
    "delta": {
-    "comments": 2,
+    "comments": 3,
     "artists": 0,
     "mentions": 0
    },
@@ -29,11 +29,11 @@
  },
  "stats": {
   "categories": {
-   "chat": 318,
+   "chat": 319,
    "work_only": 13,
    "artist_rec": 517,
-   "ask": 16,
-   "empty": 12
+   "ask": 17,
+   "empty": 13
   },
   "artistCount": 551,
   "mentionCount": 965
@@ -14581,7 +14581,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 368,
+   "like": 370,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -14801,7 +14801,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "Syberiumance",
-   "like": 56,
+   "like": 57,
    "ctime": 1793387480,
    "firstSeen": "",
    "content": "牛哥一嗓子把だにまる 半年多没更新的小号喊出来了",
@@ -15055,7 +15055,7 @@
    "rootNo": 14,
    "isSub": false,
    "user": "半步超大杯諾小弟",
-   "like": 39,
+   "like": 40,
    "ctime": 1793381898,
    "firstSeen": "",
    "content": "要說goat那當然是肉捧魔羅\n硬生生把假小子加進我XP裡的大師[汤圆]",
@@ -15287,25 +15287,11 @@
    "rootUser": ""
   },
   {
-   "rpid": 322403233360,
+   "rpid": 322616341040,
    "rootNo": 24,
    "isSub": false,
-   "user": "咲一咲菌",
-   "like": 11,
-   "ctime": 1793376615,
-   "firstSeen": "",
-   "content": "还真是，这个老湿眼睛画的很有特点，很涩，之前那一本冲田总司画的太好用了",
-   "category": "chat",
-   "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322616341040,
-   "rootNo": 25,
-   "isSub": false,
    "user": "狗卡世界第一",
-   "like": 11,
+   "like": 12,
    "ctime": 1793534081,
    "firstSeen": "",
    "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
@@ -15315,7 +15301,7 @@
      "artist": "鳥居ヨシツナ",
      "written": "鸟居ヨシツナ",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
@@ -15324,7 +15310,7 @@
      "artist": "フグタ家",
      "written": "フグタ家",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
@@ -15333,7 +15319,7 @@
      "artist": "じゃが山たらヲ",
      "written": "じゃが山たらヲ",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
@@ -15342,7 +15328,7 @@
      "artist": "だにまる",
      "written": "だにまる",
      "note": "视频里的",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
@@ -15351,7 +15337,7 @@
      "artist": "咲良ゆき",
      "written": "咲良ゆき",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
@@ -15360,12 +15346,26 @@
      "artist": "92m",
      "written": "92m",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 24,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040
     }
    ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322403233360,
+   "rootNo": 25,
+   "isSub": false,
+   "user": "咲一咲菌",
+   "like": 11,
+   "ctime": 1793376615,
+   "firstSeen": "",
+   "content": "还真是，这个老湿眼睛画的很有特点，很涩，之前那一本冲田总司画的太好用了",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -22490,6 +22490,20 @@
    "rootUser": ""
   },
   {
+   "rpid": 319017995153,
+   "rootNo": 228,
+   "isSub": false,
+   "user": "www我是我www",
+   "like": 0,
+   "ctime": 1793636227,
+   "firstSeen": "2026-11-03 01:00:01",
+   "content": "@潜水关系户 评论区我不敢看了",
+   "category": "empty",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
    "rootNo": 34,
    "isSub": true,
@@ -25729,7 +25743,7 @@
   },
   {
    "rpid": 322404030608,
-   "rootNo": 24,
+   "rootNo": 25,
    "isSub": true,
    "user": "糖丸立香",
    "like": 2,
@@ -25767,7 +25781,7 @@
   },
   {
    "rpid": 322404297136,
-   "rootNo": 24,
+   "rootNo": 25,
    "isSub": true,
    "user": "咲一咲菌",
    "like": 1,
@@ -25780,7 +25794,7 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "",
-     "rootNo": 24,
+     "rootNo": 25,
      "isSub": true,
      "user": "咲一咲菌",
      "rpid": 322404297136
@@ -36105,7 +36119,7 @@
    "rootNo": 217,
    "isSub": true,
    "user": "青焰少年",
-   "like": 0,
+   "like": 1,
    "ctime": 1793631548,
    "firstSeen": "2026-11-02 23:00:02",
    "content": "但我想要日版的",
@@ -36113,6 +36127,34 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "ssbn大"
+  },
+  {
+   "rpid": 322748781072,
+   "rootNo": 3,
+   "isSub": true,
+   "user": "DTwwy",
+   "like": 0,
+   "ctime": 1793637154,
+   "firstSeen": "2026-11-03 01:00:01",
+   "content": "我是真喜欢修女篇，但是为什么作者这几篇下来越画越幼了啊，岂可修，我要看大姐姐啊，不想看萝莉[大哭]",
+   "category": "ask",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "暴食-波奇Q"
+  },
+  {
+   "rpid": 322748860928,
+   "rootNo": 123,
+   "isSub": true,
+   "user": "瓦米哈152",
+   "like": 0,
+   "ctime": 1793637233,
+   "firstSeen": "2026-11-03 01:00:01",
+   "content": "我都是真人本子换着看的",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "到此一游NIE"
   }
  ]
 }
