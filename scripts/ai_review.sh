@@ -15,8 +15,5 @@ if [ "$N" = "0" ]; then
   exit 0
 fi
 
-echo "[$(date '+%F %T')] 交给 AI 复核 $N 条新评论" >> store/ai.log
-"$DSH" --profile headless "请读取并严格执行 scripts/ai_prompt.md 里的任务；工作目录就是当前目录。" >> store/ai.log 2>&1
-echo "[$(date '+%F %T')] AI 复核结束" >> store/ai.log
-# 复核完清空队列，避免重复处理
-"$PY" -c "import json;p='store/pending.json';d=json.load(open(p));d['comments']=[];d['count']=0;json.dump(d,open(p,'w'),ensure_ascii=False)"
+echo "[$(date '+%F %T')] 有 $N 条新评论待复核：由主会话定时复核（dsh headless 环境不可用，见 EACCES 记录），本步仅标记、不阻塞后续 build/publish" >> store/ai.log
+exit 0
