@@ -24,14 +24,14 @@
  },
  "stats": {
   "categories": {
-   "ask": 16,
-   "work_only": 15,
+   "chat": 301,
+   "work_only": 13,
    "artist_rec": 498,
-   "chat": 291,
-   "empty": 19
+   "ask": 15,
+   "empty": 12
   },
-  "artistCount": 521,
-  "mentionCount": 916
+  "artistCount": 522,
+  "mentionCount": 917
  },
  "artists": [
   {
@@ -1754,7 +1754,8 @@
    "notes": [
     "都是神",
     "原文带@",
-    "长名单其中一位"
+    "长名单其中一位",
+    "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万"
    ],
    "evidence": [
     {
@@ -1795,9 +1796,9 @@
     {
      "commenter": "会飞deFlyable",
      "isSub": false,
-     "written": "きょくちょ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "局长",
+     "context": "",
+     "note": "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万"
     }
    ]
   },
@@ -2412,7 +2413,8 @@
    "lowConfidence": false,
    "notes": [
     "长名单其中一位",
-    "好书作者，哪怕是过去画的也很值得一看"
+    "好书作者，哪怕是过去画的也很值得一看",
+    "小体型看またのんき（按体型偏好推荐其作品）"
    ],
    "evidence": [
     {
@@ -2440,8 +2442,8 @@
      "commenter": "丼芹人菜",
      "isSub": false,
      "written": "またのんき",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "小体型看またのんき（按体型偏好推荐其作品）"
     }
    ]
   },
@@ -7935,6 +7937,25 @@
    ]
   },
   {
+   "name": "あいがも堂",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "lowConfidence": false,
+   "notes": [
+    "大体型看あいがも堂（新画师，按体型偏好推荐其作品）"
+   ],
+   "evidence": [
+    {
+     "commenter": "丼芹人菜",
+     "isSub": false,
+     "written": "あいがも堂",
+     "context": "",
+     "note": "大体型看あいがも堂（新画师，按体型偏好推荐其作品）"
+    }
+   ]
+  },
+  {
    "name": "あいらんどう",
    "aliases": [],
    "mentions": 1,
@@ -12931,7 +12952,7 @@
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
-   "category": "ask",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -20067,7 +20088,16 @@
     {
      "artist": "またのんき",
      "written": "またのんき",
-     "note": "自动匹配 · 待复核",
+     "note": "小体型看またのんき（按体型偏好推荐其作品）",
+     "rootNo": 213,
+     "isSub": false,
+     "user": "丼芹人菜",
+     "rpid": 322666864752
+    },
+    {
+     "artist": "あいがも堂",
+     "written": "あいがも堂",
+     "note": "大体型看あいがも堂（新画师，按体型偏好推荐其作品）",
      "rootNo": 213,
      "isSub": false,
      "user": "丼芹人菜",
@@ -20089,8 +20119,8 @@
    "artists": [
     {
      "artist": "きょくちょ",
-     "written": "きょくちょ",
-     "note": "自动匹配 · 待复核",
+     "written": "局长",
+     "note": "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万",
      "rootNo": 214,
      "isSub": false,
      "user": "会飞deFlyable",
@@ -20457,7 +20487,7 @@
    "ctime": 1793367846,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "回复 @Kirisaki_キ :[汤圆]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -20711,7 +20741,7 @@
    "ctime": 1793369611,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "我[doge][doge][doge]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -20816,7 +20846,7 @@
    "ctime": 1793370050,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "[箱庭少女之梦表情包_好耶]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -21288,7 +21318,7 @@
    "ctime": 1793370994,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "桜の灯る日へ",
-   "category": "work_only",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -22755,7 +22785,7 @@
    "ctime": 1793374841,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "话说有人知道《我的女神》的一本同人黑白的本吗？",
-   "category": "ask",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -22964,7 +22994,7 @@
    "ctime": 1793375999,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "回复 @薄云倾灯 :催眠天国真神了",
-   "category": "work_only",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -23312,7 +23342,7 @@
    "ctime": 1793377583,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "回复 @Ryen- :[doge]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -25570,7 +25600,7 @@
    "ctime": 1793405468,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "【mm】",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -27076,7 +27106,7 @@
    "ctime": 1793414972,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "[星星眼]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -27510,7 +27540,7 @@
    "ctime": 1793416394,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "千万不要回复我然后让我匮乏的时候来这里看作者名字啊[无限暖暖_毛线汪汪]",
-   "category": "chat",
+   "category": "ask",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -28354,7 +28384,7 @@
    "ctime": 1793421890,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "mark",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"

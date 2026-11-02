@@ -3444,9 +3444,9 @@
    {
     "commenter": "会飞deFlyable",
     "isSub": false,
-    "written": "きょくちょ",
+    "written": "局长",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万"
    }
   ],
   "_raw": [
@@ -3497,8 +3497,8 @@
    },
    {
     "artist": "きょくちょ",
-    "written": "きょくちょ",
-    "note": "自动匹配 · 待复核",
+    "written": "局长",
+    "note": "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万",
     "rootNo": 214,
     "isSub": false,
     "user": "会飞deFlyable",
@@ -4654,7 +4654,7 @@
     "isSub": false,
     "written": "またのんき",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "小体型看またのんき（按体型偏好推荐其作品）"
    }
   ],
   "_raw": [
@@ -4688,7 +4688,7 @@
    {
     "artist": "またのんき",
     "written": "またのんき",
-    "note": "自动匹配 · 待复核",
+    "note": "小体型看またのんき（按体型偏好推荐其作品）",
     "rootNo": 213,
     "isSub": false,
     "user": "丼芹人菜",
@@ -13769,6 +13769,34 @@
     "isSub": false,
     "user": "霞ヶ丘诗羽",
     "rpid": 322460508672
+   }
+  ]
+ },
+ {
+  "name": "あいがも堂",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "丼芹人菜",
+    "isSub": false,
+    "written": "あいがも堂",
+    "context": "",
+    "note": "大体型看あいがも堂（新画师，按体型偏好推荐其作品）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "あいがも堂",
+    "written": "あいがも堂",
+    "note": "大体型看あいがも堂（新画师，按体型偏好推荐其作品）",
+    "rootNo": 213,
+    "isSub": false,
+    "user": "丼芹人菜",
+    "rpid": 322666864752
    }
   ]
  },

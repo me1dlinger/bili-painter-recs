@@ -734,11 +734,14 @@ function renderAbout(){
     <li>BV 号 ${esc(d.meta.bvid)} · UP 主 ${esc((d.meta.owner||{}).name||'')}</li>
     <li>抓取时间 ${esc(d.meta.fetchedAt)}</li>
     <li>一级评论 ${d.meta.rootCount} 条 + 二级评论 ${d.meta.subCount} 条 = ${d.meta.totalCount} 条</li>
-    <li>视频页面标称 ${d.meta.claimedReplyCount} 条，差额属平台计数口径／已删除或风控隐藏</li>
+    <li>${d.meta.claimedReplyCount && d.meta.totalCount >= d.meta.claimedReplyCount
+      ? `覆盖完整：已抓到 ${d.meta.totalCount} 条，与接口声明数（${d.meta.claimedReplyCount}）一致`
+      : `已抓 ${d.meta.totalCount} 条 / 接口声明 ${d.meta.claimedReplyCount} 条`}</li>
   </ul></div>
   <div class="note"><h3>抓取方式</h3><ul>
-    <li>一级评论走 x/v2/reply/main 分页，二级评论走 x/v2/reply/reply 逐楼翻页</li>
-    <li>已翻到末页：最新一条一级评论发布于抓取前数分钟</li>
+    <li>一级评论走两条通道取并集：x/v2/reply/main（懒加载）＋ x/v2/reply（pn 分页）</li>
+    <li>单一接口会漏整栋热楼：x/v2/reply/main 只返回热门池，实测漏掉过一条 296 条回复的楼；旧接口能翻到它</li>
+    <li>二级评论走 x/v2/reply/reply 逐楼翻页，直到声明条数为止，不设条数上限</li>
   </ul></div>
   <div class="note"><h3>分类口径</h3><ul>
     <li>画师推荐：正文直接点名了画师（含日文名、中文名、罗马音、昵称）</li>
