@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-02 23:06:00",
+  "generatedAt": "2026-11-03 01:04:00",
   "comments": {
-    "322739658416": {
+    "319017995153": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "楼中楼讨论购买渠道（想要日版），未点名画师",
+      "reason": "@他人互动感慨，未点名画师",
+      "mentions": []
+    },
+    "322748781072": {
+      "category": "work_only",
+      "artists": [],
+      "works": ["修女篇"],
+      "reason": "提到作品修女篇（works 表对应「修女篇（那个修女）」→鳥居ヨシツナ），未点名画师，讨论画风越画越幼",
+      "mentions": []
+    },
+    "322748860928": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "闲聊真人本，未点名画师",
       "mentions": []
     }
   }

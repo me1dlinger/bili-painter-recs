@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 01:00:01",
    "lastFetchNew": 3,
-   "publishedAt": "2026-11-03 00:01:24",
+   "publishedAt": "2026-11-03 01:01:22",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 319,
-   "work_only": 13,
-   "artist_rec": 517,
-   "ask": 17,
-   "empty": 13
+   "work_only": 14,
+   "artist_rec": 518,
+   "ask": 16,
+   "empty": 12
   },
   "artistCount": 551,
-  "mentionCount": 965
+  "mentionCount": 966
  },
  "artists": [
   {
@@ -1033,6 +1033,120 @@
    ]
   },
   {
+   "name": "肉棒魔羅ノ進",
+   "aliases": [
+    "内棒魔罗進",
+    "肉○魔罗",
+    "肉捧魔羅",
+    "肉棒魔罗",
+    "肉棒魔羅",
+    "魔罗",
+    "魔罗进老师",
+    "魔羅ノ進"
+   ],
+   "mentions": 11,
+   "users": 10,
+   "lowConfidence": false,
+   "notes": [
+    "把假小子加進XP裡的大師",
+    "原文用○遮挡",
+    "假小子的神",
+    "仅两字，疑指前文魔羅ノ進",
+    "传奇假小子训练家",
+    "问还能不能出好看的大姐姐本"
+   ],
+   "evidence": [
+    {
+     "rpid": 322410339760,
+     "commenter": "半步超大杯諾小弟",
+     "isSub": false,
+     "written": "肉捧魔羅",
+     "context": "",
+     "note": "把假小子加進XP裡的大師"
+    },
+    {
+     "rpid": 322418299216,
+     "commenter": "此木此木云",
+     "isSub": true,
+     "written": "肉棒魔羅ノ進",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318708680129,
+     "commenter": "海绵宝宝霸王丝儿",
+     "isSub": false,
+     "written": "肉○魔罗",
+     "context": "",
+     "note": "原文用○遮挡"
+    },
+    {
+     "rpid": 322444931792,
+     "commenter": "小七ぃ",
+     "isSub": false,
+     "written": "魔羅ノ進",
+     "context": "",
+     "note": "假小子的神"
+    },
+    {
+     "rpid": 322401104352,
+     "commenter": "姬姫",
+     "isSub": false,
+     "written": "魔罗",
+     "context": "",
+     "note": "仅两字，疑指前文魔羅ノ進"
+    },
+    {
+     "rpid": 322644440240,
+     "commenter": "大鼋",
+     "isSub": true,
+     "written": "肉棒魔罗",
+     "context": "",
+     "note": "传奇假小子训练家"
+    },
+    {
+     "rpid": 318710394001,
+     "commenter": "MMieLL",
+     "isSub": true,
+     "written": "肉棒魔罗",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318755945313,
+     "commenter": "丁丁又又真真",
+     "isSub": true,
+     "written": "魔罗进老师",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322610878432,
+     "commenter": "Loopsr811",
+     "isSub": true,
+     "written": "内棒魔罗進",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322644395120,
+     "commenter": "大鼋",
+     "isSub": true,
+     "written": "肉棒魔罗",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322739734656,
+     "commenter": "青焰少年",
+     "isSub": false,
+     "written": "肉棒魔羅",
+     "context": "",
+     "note": "问还能不能出好看的大姐姐本"
+    }
+   ]
+  },
+  {
    "name": "腐蝕",
    "aliases": [
     "腐蚀",
@@ -1127,110 +1241,6 @@
      "commenter": "悠然自得随和-",
      "isSub": true,
      "written": "腐蚀",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
-   "name": "肉棒魔羅ノ進",
-   "aliases": [
-    "内棒魔罗進",
-    "肉○魔罗",
-    "肉捧魔羅",
-    "肉棒魔罗",
-    "魔罗",
-    "魔罗进老师",
-    "魔羅ノ進"
-   ],
-   "mentions": 10,
-   "users": 9,
-   "lowConfidence": false,
-   "notes": [
-    "把假小子加進XP裡的大師",
-    "原文用○遮挡",
-    "假小子的神",
-    "仅两字，疑指前文魔羅ノ進",
-    "传奇假小子训练家"
-   ],
-   "evidence": [
-    {
-     "rpid": 322410339760,
-     "commenter": "半步超大杯諾小弟",
-     "isSub": false,
-     "written": "肉捧魔羅",
-     "context": "",
-     "note": "把假小子加進XP裡的大師"
-    },
-    {
-     "rpid": 322418299216,
-     "commenter": "此木此木云",
-     "isSub": true,
-     "written": "肉棒魔羅ノ進",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318708680129,
-     "commenter": "海绵宝宝霸王丝儿",
-     "isSub": false,
-     "written": "肉○魔罗",
-     "context": "",
-     "note": "原文用○遮挡"
-    },
-    {
-     "rpid": 322444931792,
-     "commenter": "小七ぃ",
-     "isSub": false,
-     "written": "魔羅ノ進",
-     "context": "",
-     "note": "假小子的神"
-    },
-    {
-     "rpid": 322401104352,
-     "commenter": "姬姫",
-     "isSub": false,
-     "written": "魔罗",
-     "context": "",
-     "note": "仅两字，疑指前文魔羅ノ進"
-    },
-    {
-     "rpid": 322644440240,
-     "commenter": "大鼋",
-     "isSub": true,
-     "written": "肉棒魔罗",
-     "context": "",
-     "note": "传奇假小子训练家"
-    },
-    {
-     "rpid": 318710394001,
-     "commenter": "MMieLL",
-     "isSub": true,
-     "written": "肉棒魔罗",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318755945313,
-     "commenter": "丁丁又又真真",
-     "isSub": true,
-     "written": "魔罗进老师",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322610878432,
-     "commenter": "Loopsr811",
-     "isSub": true,
-     "written": "内棒魔罗進",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322644395120,
-     "commenter": "大鼋",
-     "isSub": true,
-     "written": "肉棒魔罗",
      "context": "",
      "note": ""
     }
@@ -22470,8 +22480,18 @@
    "ctime": 1793631583,
    "firstSeen": "2026-11-03 00:00:02",
    "content": "肉棒魔羅还能出好看的大姐姐本吗，还能支棱起来吗",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "肉棒魔羅ノ進",
+     "written": "肉棒魔羅",
+     "note": "问还能不能出好看的大姐姐本",
+     "rootNo": 226,
+     "isSub": false,
+     "user": "青焰少年",
+     "rpid": 322739734656
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -22498,7 +22518,7 @@
    "ctime": 1793636227,
    "firstSeen": "2026-11-03 01:00:01",
    "content": "@潜水关系户 评论区我不敢看了",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -36137,7 +36157,7 @@
    "ctime": 1793637154,
    "firstSeen": "2026-11-03 01:00:01",
    "content": "我是真喜欢修女篇，但是为什么作者这几篇下来越画越幼了啊，岂可修，我要看大姐姐啊，不想看萝莉[大哭]",
-   "category": "ask",
+   "category": "work_only",
    "artists": [],
    "workInfo": null,
    "rootUser": "暴食-波奇Q"
