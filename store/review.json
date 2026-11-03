@@ -1,113 +1,18 @@
 {
-  "generatedAt": "2026-11-03 19:02:00",
+  "generatedAt": "2026-11-03 21:02:00",
   "comments": {
-    "322807254960": {
-      "category": "ask",
-      "artists": [],
-      "works": [],
-      "reason": "求牛哥的本子；牛哥未明确指向名单内画师，不抽取",
-      "mentions": []
-    },
-    "322807839984": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼感慨图片似曾相识，未点名画师",
-      "mentions": []
-    },
-    "322809270672": {
+    "322817902272": {
       "category": "artist_rec",
-      "artists": ["胃之上奇嘉郎"],
+      "artists": ["YD"],
       "works": [],
-      "reason": "提到胃之上奇嘉郎及其著名作品侍奉委员",
+      "reason": "楼中楼点名 yd（YD），评价是神",
       "mentions": [
         {
-          "name_as_written": "胃之上奇嘉郎",
-          "canonical_guess": "胃之上奇嘉郎",
-          "note": "著名的侍奉委员那本"
+          "name_as_written": "yd",
+          "canonical_guess": "YD",
+          "note": "yd是神"
         }
       ]
-    },
-    "322809003376": {
-      "category": "artist_rec",
-      "artists": ["肉棒魔羅ノ進"],
-      "works": [],
-      "reason": "roubang魔罗进（肉棒魔羅ノ進 拼音+简体写法），确认画师名",
-      "mentions": [
-        {
-          "name_as_written": "roubang魔罗进",
-          "canonical_guess": "肉棒魔羅ノ進",
-          "note": "拼音+简体写法点名"
-        }
-      ]
-    },
-    "322810189552": {
-      "category": "artist_rec",
-      "artists": ["えいとまん"],
-      "works": [],
-      "reason": "单论本子都不如 eightman（えいとまん 罗马音）",
-      "mentions": [
-        {
-          "name_as_written": "eightman",
-          "canonical_guess": "えいとまん",
-          "note": "单论本子都不如 eightman"
-        }
-      ]
-    },
-    "322812631808": {
-      "category": "ask",
-      "artists": ["Nakamura Regura"],
-      "works": [],
-      "reason": "点名仲村レグラ（Nakamura Regura 日文写法）并求懂的人",
-      "mentions": [
-        {
-          "name_as_written": "仲村レグラ",
-          "canonical_guess": "Nakamura Regura",
-          "note": "有没有懂得（求懂的人）"
-        }
-      ]
-    },
-    "322814235616": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼问头像，未点名画师（autoMatched 的 ks 为子串误匹配）",
-      "mentions": []
-    },
-    "319079840433": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "有品位，未点名画师",
-      "mentions": []
-    },
-    "319080876609": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "讨论本子与战斗漫差距，未点名画师",
-      "mentions": []
-    },
-    "322815812144": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "建议加点赞数统计，未点名画师",
-      "mentions": []
-    },
-    "322816091472": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "圣人啊，感慨无画师名",
-      "mentions": []
-    },
-    "322815928544": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "纯爱是对的，未点名画师",
-      "mentions": []
     }
   }
 }

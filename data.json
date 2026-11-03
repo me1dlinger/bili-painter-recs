@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 20:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 19:04:11",
+   "publishedAt": "2026-11-03 20:01:28",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -30,9 +30,9 @@
  "stats": {
   "categories": {
    "chat": 334,
-   "artist_rec": 538,
+   "artist_rec": 539,
    "work_only": 13,
-   "ask": 19,
+   "ask": 18,
    "empty": 14
   },
   "artistCount": 554,
@@ -1203,7 +1203,8 @@
     "goat（史上最佳）",
     "你想说yd吧，其实orange maru是社团",
     "Orangemaru严格来说是一个社团，我猜你想说YD",
-    "yd是吧，你小子"
+    "yd是吧，你小子",
+    "yd是神"
    ],
    "evidence": [
     {
@@ -1282,9 +1283,9 @@
      "rpid": 322817902272,
      "commenter": "Lc丶Angel",
      "isSub": true,
-     "written": "YD",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "yd",
+     "context": "",
+     "note": "yd是神"
     }
    ]
   },
@@ -24032,7 +24033,7 @@
    "ctime": 1793701494,
    "firstSeen": "2026-11-03 19:00:02",
    "content": "仲村レグラ，有没有懂得？",
-   "category": "ask",
+   "category": "artist_rec",
    "artists": [
     {
      "artist": "Nakamura Regura",
@@ -38712,8 +38713,8 @@
    "artists": [
     {
      "artist": "YD",
-     "written": "YD",
-     "note": "自动匹配 · 待复核",
+     "written": "yd",
+     "note": "yd是神",
      "rootNo": 1,
      "isSub": true,
      "user": "Lc丶Angel",
