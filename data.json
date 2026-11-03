@@ -17,26 +17,28 @@
   "update": {
    "lastFetchAt": "2026-11-04 02:00:02",
    "lastFetchNew": 4,
-   "publishedAt": "2026-11-04 02:00:49",
+   "publishedAt": "2026-11-04 02:01:27",
    "delta": {
-    "comments": 4,
-    "artists": 0,
-    "mentions": 0
+    "comments": 0,
+    "artists": 1,
+    "mentions": 1
    },
-   "newArtists": [],
+   "newArtists": [
+    "幾花にいろ"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
    "chat": 340,
-   "artist_rec": 543,
+   "artist_rec": 544,
    "work_only": 13,
    "ask": 19,
-   "empty": 15
+   "empty": 14
   },
-  "artistCount": 556,
-  "mentionCount": 992
+  "artistCount": 557,
+  "mentionCount": 993
  },
  "artists": [
   {
@@ -12988,6 +12990,29 @@
      "written": "平つくね",
      "context": "",
      "note": "长名单其中一位"
+    }
+   ]
+  },
+  {
+   "name": "幾花にいろ",
+   "aliases": [
+    "几花"
+   ],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "不过好像人间蒸发了"
+   ],
+   "evidence": [
+    {
+     "rpid": 319117347345,
+     "commenter": "Mr.Limit",
+     "isSub": true,
+     "written": "几花",
+     "context": "",
+     "note": "不过好像人间蒸发了"
     }
    ]
   },
@@ -38967,8 +38992,19 @@
    "ctime": 1793725567,
    "firstSeen": "2026-11-04 02:00:02",
    "content": "几花，不过好像人间蒸发了",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "幾花にいろ",
+     "written": "几花",
+     "note": "不过好像人间蒸发了",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "Mr.Limit",
+     "rpid": 319117347345,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   },
@@ -38981,7 +39017,7 @@
    "ctime": 1793726078,
    "firstSeen": "2026-11-04 02:00:02",
    "content": "很短",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "三块半儿"

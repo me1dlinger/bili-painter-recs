@@ -20955,6 +20955,38 @@
   ]
  },
  {
+  "name": "幾花にいろ",
+  "aliases": [
+   "几花"
+  ],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "Mr.Limit",
+    "isSub": true,
+    "written": "几花",
+    "context": "",
+    "note": "不过好像人间蒸发了"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "幾花にいろ",
+    "written": "几花",
+    "note": "不过好像人间蒸发了",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "Mr.Limit",
+    "rpid": 319117347345,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "御免なさい",
   "aliases": [],
   "mentions": 1,
