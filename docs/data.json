@@ -17,9 +17,9 @@
   "update": {
    "lastFetchAt": "2026-11-03 21:00:01",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 21:00:18",
+   "publishedAt": "2026-11-03 21:01:27",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
     "mentions": 0
    },
@@ -29,11 +29,11 @@
  },
  "stats": {
   "categories": {
-   "chat": 335,
+   "chat": 334,
    "artist_rec": 539,
    "work_only": 13,
    "ask": 18,
-   "empty": 14
+   "empty": 15
   },
   "artistCount": 554,
   "mentionCount": 988
@@ -38734,7 +38734,7 @@
    "ctime": 1793709532,
    "firstSeen": "2026-11-03 21:00:01",
    "content": "回复 @Ryen- :😂",
-   "category": "chat",
+   "category": "empty",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"

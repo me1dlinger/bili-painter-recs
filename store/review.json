@@ -1,18 +1,12 @@
 {
-  "generatedAt": "2026-11-03 21:02:00",
+  "generatedAt": "2026-11-03 22:02:00",
   "comments": {
-    "322817902272": {
-      "category": "artist_rec",
-      "artists": ["YD"],
+    "322826540048": {
+      "category": "empty",
+      "artists": [],
       "works": [],
-      "reason": "楼中楼点名 yd（YD），评价是神",
-      "mentions": [
-        {
-          "name_as_written": "yd",
-          "canonical_guess": "YD",
-          "note": "yd是神"
-        }
-      ]
+      "reason": "纯表情评论，无实质内容",
+      "mentions": []
     }
   }
 }
