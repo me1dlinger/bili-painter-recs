@@ -9,29 +9,27 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 22:00:05",
-  "claimedReplyCount": 919,
+  "fetchedAt": "2026-11-03 23:00:02",
+  "claimedReplyCount": 922,
   "rootCount": 238,
-  "subCount": 682,
-  "totalCount": 920,
+  "subCount": 685,
+  "totalCount": 923,
   "update": {
-   "lastFetchAt": "2026-11-03 22:00:05",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 22:01:31",
+   "lastFetchAt": "2026-11-03 23:00:02",
+   "lastFetchNew": 3,
+   "publishedAt": "2026-11-03 23:00:37",
    "delta": {
-    "comments": 0,
-    "artists": 1,
-    "mentions": 1
+    "comments": 3,
+    "artists": 0,
+    "mentions": 0
    },
-   "newArtists": [
-    "如月みゆ"
-   ],
+   "newArtists": [],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 335,
+   "chat": 338,
    "artist_rec": 540,
    "work_only": 13,
    "ask": 18,
@@ -53,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 296,
+   "likes": 297,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -2079,7 +2077,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 67,
+   "likes": 68,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -3175,7 +3173,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 317,
+   "likes": 318,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -5204,7 +5202,7 @@
    ],
    "mentions": 2,
    "users": 2,
-   "likes": 10,
+   "likes": 11,
    "lowConfidence": false,
    "notes": [
     "画风很喜欢",
@@ -15410,7 +15408,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 391,
+   "like": 392,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -15424,7 +15422,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 142,
+   "like": 143,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -15438,7 +15436,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 142
+     "like": 143
     }
    ],
    "workInfo": null,
@@ -15449,7 +15447,7 @@
    "rootNo": 3,
    "isSub": false,
    "user": "超级巨音箱蟀侠",
-   "like": 125,
+   "like": 126,
    "ctime": 1793371000,
    "firstSeen": "",
    "content": "我推荐这个 燃烧瓶必看",
@@ -15667,7 +15665,7 @@
    "rootNo": 9,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 58,
+   "like": 59,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15681,7 +15679,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 58
+     "like": 59
     }
    ],
    "workInfo": null,
@@ -15731,7 +15729,7 @@
    "rootNo": 12,
    "isSub": false,
    "user": "三块半儿",
-   "like": 51,
+   "like": 52,
    "ctime": 1793382607,
    "firstSeen": "",
    "content": "传奇假小子",
@@ -16283,8 +16281,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318704343057,
+   "rpid": 318848290545,
    "rootNo": 28,
+   "isSub": false,
+   "user": "violetaaaaaaaaa",
+   "like": 11,
+   "ctime": 1793508216,
+   "firstSeen": "",
+   "content": "えいとまん，这个画风我是真的喜欢，让我记了很久",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "えいとまん",
+     "written": "えいとまん",
+     "note": "画风很喜欢",
+     "rootNo": 28,
+     "isSub": false,
+     "user": "violetaaaaaaaaa",
+     "rpid": 318848290545,
+     "like": 11
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318704343057,
+   "rootNo": 29,
    "isSub": false,
    "user": "Redの杰仔",
    "like": 10,
@@ -16297,7 +16320,7 @@
      "artist": "煌野一人",
      "written": "煌野一人老师",
      "note": "",
-     "rootNo": 28,
+     "rootNo": 29,
      "isSub": false,
      "user": "Redの杰仔",
      "rpid": 318704343057,
@@ -16309,7 +16332,7 @@
   },
   {
    "rpid": 322419700624,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": false,
    "user": "えっちゃん_Official",
    "like": 10,
@@ -16322,7 +16345,7 @@
      "artist": "毎日健康生活",
      "written": "每日健康生活",
      "note": "水里画师里的goat",
-     "rootNo": 29,
+     "rootNo": 30,
      "isSub": false,
      "user": "えっちゃん_Official",
      "rpid": 322419700624,
@@ -16334,7 +16357,7 @@
   },
   {
    "rpid": 318723073201,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": false,
    "user": "暹罗暹罗Toxy",
    "like": 10,
@@ -16347,35 +16370,10 @@
      "artist": "Croriin",
      "written": "Croriin",
      "note": "人外本，粉红漫画上刷到",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": false,
      "user": "暹罗暹罗Toxy",
      "rpid": 318723073201,
-     "like": 10
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318848290545,
-   "rootNo": 31,
-   "isSub": false,
-   "user": "violetaaaaaaaaa",
-   "like": 10,
-   "ctime": 1793508216,
-   "firstSeen": "",
-   "content": "えいとまん，这个画风我是真的喜欢，让我记了很久",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "えいとまん",
-     "written": "えいとまん",
-     "note": "画风很喜欢",
-     "rootNo": 31,
-     "isSub": false,
-     "user": "violetaaaaaaaaa",
-     "rpid": 318848290545,
      "like": 10
     }
    ],
@@ -24271,7 +24269,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 311,
+   "like": 312,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24285,7 +24283,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 311
+     "like": 312
     }
    ],
    "workInfo": null,
@@ -29479,7 +29477,7 @@
   },
   {
    "rpid": 322419610576,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "susha",
    "like": 0,
@@ -29493,7 +29491,7 @@
   },
   {
    "rpid": 318704684641,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "幽心碧思",
    "like": 1,
@@ -29727,7 +29725,7 @@
   },
   {
    "rpid": 318706424961,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "卡面来打比了多_crossz",
    "like": 0,
@@ -29780,7 +29778,7 @@
   },
   {
    "rpid": 322421835696,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "惘尘丶",
    "like": 0,
@@ -29872,7 +29870,7 @@
   },
   {
    "rpid": 318707200929,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "奶淇琳都很亚撒西捏",
    "like": 1,
@@ -30167,7 +30165,7 @@
   },
   {
    "rpid": 322423651728,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "冥夜之猫",
    "like": 0,
@@ -30237,7 +30235,7 @@
   },
   {
    "rpid": 318708690241,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "Dorayakinana",
    "like": 0,
@@ -30250,7 +30248,7 @@
      "artist": "毎日健康生活",
      "written": "健康哥哥",
      "note": "",
-     "rootNo": 29,
+     "rootNo": 30,
      "isSub": true,
      "user": "Dorayakinana",
      "rpid": 318708690241,
@@ -30426,7 +30424,7 @@
   },
   {
    "rpid": 318710229953,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
    "like": 0,
@@ -30490,7 +30488,7 @@
   },
   {
    "rpid": 318710765265,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "Redの杰仔",
    "like": 0,
@@ -30687,7 +30685,7 @@
   },
   {
    "rpid": 318711704401,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
    "like": 1,
@@ -30843,7 +30841,7 @@
   },
   {
    "rpid": 318712568881,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "郑律子",
    "like": 0,
@@ -31469,7 +31467,7 @@
   },
   {
    "rpid": 318719111521,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "神奇的malatang",
    "like": 1,
@@ -31849,7 +31847,7 @@
   },
   {
    "rpid": 318720913409,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "鬼上身的男人",
    "like": 0,
@@ -32062,7 +32060,7 @@
   },
   {
    "rpid": 318722041041,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "蕾姆拉姆の夫",
    "like": 1,
@@ -32334,7 +32332,7 @@
   },
   {
    "rpid": 318723168065,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "暹罗暹罗Toxy",
    "like": 0,
@@ -32490,7 +32488,7 @@
   },
   {
    "rpid": 322440594704,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "郁金香监狱图书馆尘虵",
    "like": 4,
@@ -32503,7 +32501,7 @@
      "artist": "Croriin",
      "written": "Croiin",
      "note": "人外之神",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": true,
      "user": "郁金香监狱图书馆尘虵",
      "rpid": 322440594704,
@@ -32570,7 +32568,7 @@
   },
   {
    "rpid": 318724488753,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "白河萤来喽",
    "like": 0,
@@ -32718,7 +32716,7 @@
   },
   {
    "rpid": 322442556464,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "爱草芥的八奈见",
    "like": 0,
@@ -32731,7 +32729,7 @@
      "artist": "黒本君",
      "written": "黑本君",
      "note": "jc系列也不错",
-     "rootNo": 29,
+     "rootNo": 30,
      "isSub": true,
      "user": "爱草芥的八奈见",
      "rpid": 322442556464,
@@ -34688,7 +34686,7 @@
   },
   {
    "rpid": 318788597969,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "荻秋秋秋邱",
    "like": 0,
@@ -35711,7 +35709,7 @@
   },
   {
    "rpid": 322535498608,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "半步超大杯諾小弟",
    "like": 1,
@@ -36558,7 +36556,7 @@
   },
   {
    "rpid": 322585148064,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "星夜asuka",
    "like": 1,
@@ -37784,7 +37782,7 @@
   },
   {
    "rpid": 322676682592,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "ssbn大",
    "like": 0,
@@ -38294,7 +38292,7 @@
   },
   {
    "rpid": 319041101425,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "传奇机械师德尔马丁",
    "like": 0,
@@ -38307,7 +38305,7 @@
      "artist": "Croriin",
      "written": "croriin",
      "note": "他是我的神，强烈推荐",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": true,
      "user": "传奇机械师德尔马丁",
      "rpid": 319041101425,
@@ -38786,6 +38784,48 @@
    ],
    "workInfo": null,
    "rootUser": "99Commun"
+  },
+  {
+   "rpid": 322835577344,
+   "rootNo": 15,
+   "isSub": true,
+   "user": "hang醬",
+   "like": 0,
+   "ctime": 1793714959,
+   "firstSeen": "2026-11-03 23:00:02",
+   "content": "我认可你是一位真正的绅士[doge]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "不平等云雾"
+  },
+  {
+   "rpid": 322837919680,
+   "rootNo": 104,
+   "isSub": true,
+   "user": "不是病娇",
+   "like": 0,
+   "ctime": 1793716278,
+   "firstSeen": "2026-11-03 23:00:02",
+   "content": "回复 @DangerOfPerson : 对 剧情真的太多公式牛，有些看标题就知道剧情了，要不然就是太逆天，但是只为了起飞还是牛好用，表情和玩法太好用了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "不是病娇"
+  },
+  {
+   "rpid": 322837919664,
+   "rootNo": 104,
+   "isSub": true,
+   "user": "不是病娇",
+   "like": 0,
+   "ctime": 1793716278,
+   "firstSeen": "2026-11-03 23:00:02",
+   "content": "回复 @DangerOfPerson : 对 剧情真的太多公式牛，有些看标题就知道剧情了，要不然就是太逆天，但是只为了起飞还是牛好用，表情和玩法太好用了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "不是病娇"
   }
  ]
 }
