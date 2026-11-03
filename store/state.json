@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 883,
- "total": 884,
+ "claimed": 884,
+ "total": 885,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-03 07:00:02",
-  "newComments": 0,
-  "updated": 3,
-  "autoMentions": 0,
-  "total": 884
+  "at": "2026-11-03 08:00:02",
+  "newComments": 1,
+  "updated": 6,
+  "autoMentions": 1,
+  "total": 885
  },
  "published": {
-  "at": "2026-11-03 07:01:22",
-  "comments": 884,
+  "at": "2026-11-03 08:01:23",
+  "comments": 885,
   "artists": 553,
-  "mentions": 970,
+  "mentions": 971,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -31,9 +31,9 @@
    "桃雲",
    "雲呑めお",
    "木瀬樹",
+   "武田弘光",
    "青豆腐",
    "昼寝",
-   "武田弘光",
    "田屋沼屋",
    "Croriin",
    "40010試作型",

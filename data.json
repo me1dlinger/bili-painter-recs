@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 07:00:02",
-  "claimedReplyCount": 883,
+  "fetchedAt": "2026-11-03 08:00:02",
+  "claimedReplyCount": 884,
   "rootCount": 231,
-  "subCount": 653,
-  "totalCount": 884,
+  "subCount": 654,
+  "totalCount": 885,
   "update": {
-   "lastFetchAt": "2026-11-03 07:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-03 06:01:22",
+   "lastFetchAt": "2026-11-03 08:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-03 07:01:22",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 319,
-   "artist_rec": 521,
+   "artist_rec": 522,
    "work_only": 13,
    "ask": 18,
    "empty": 13
   },
   "artistCount": 553,
-  "mentionCount": 970
+  "mentionCount": 971
  },
  "artists": [
   {
@@ -1685,6 +1685,82 @@
    ]
   },
   {
+   "name": "武田弘光",
+   "aliases": [],
+   "mentions": 8,
+   "users": 8,
+   "lowConfidence": false,
+   "notes": [
+    "我只看武田弘光"
+   ],
+   "evidence": [
+    {
+     "rpid": 322462001472,
+     "commenter": "空凛似凉月",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318739839777,
+     "commenter": "Y2QAQ",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322420689408,
+     "commenter": "往人",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318707218257,
+     "commenter": "奶淇琳都很亚撒西捏",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318683391153,
+     "commenter": "Ga1y_がり",
+     "isSub": true,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318988010289,
+     "commenter": "终焉暴君_狂少",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322700507520,
+     "commenter": "忧郁干脆man",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": "我只看武田弘光"
+    },
+    {
+     "rpid": 322763269728,
+     "commenter": "Z4D1镝",
+     "isSub": true,
+     "written": "武田弘光",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "青豆腐",
    "aliases": [],
    "mentions": 8,
@@ -1836,74 +1912,6 @@
      "written": "昼寝",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "武田弘光",
-   "aliases": [],
-   "mentions": 7,
-   "users": 7,
-   "lowConfidence": false,
-   "notes": [
-    "我只看武田弘光"
-   ],
-   "evidence": [
-    {
-     "rpid": 322462001472,
-     "commenter": "空凛似凉月",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318739839777,
-     "commenter": "Y2QAQ",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322420689408,
-     "commenter": "往人",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318707218257,
-     "commenter": "奶淇琳都很亚撒西捏",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318683391153,
-     "commenter": "Ga1y_がり",
-     "isSub": true,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318988010289,
-     "commenter": "终焉暴君_狂少",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322700507520,
-     "commenter": "忧郁干脆man",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": "我只看武田弘光"
     }
    ]
   },
@@ -14654,7 +14662,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 374,
+   "like": 375,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -14668,7 +14676,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 127,
+   "like": 128,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -14946,7 +14954,7 @@
    "rootNo": 11,
    "isSub": false,
    "user": "鸽书常",
-   "like": 50,
+   "like": 51,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -16321,8 +16329,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 318727969409,
+   "rpid": 318709104193,
    "rootNo": 50,
+   "isSub": false,
+   "user": "仰望·半月",
+   "like": 4,
+   "ctime": 1793406781,
+   "firstSeen": "",
+   "content": "[脱单doge]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318727969409,
+   "rootNo": 51,
    "isSub": false,
    "user": "Stage5-黑之魔王",
    "like": 4,
@@ -16335,7 +16357,7 @@
      "artist": "rurudo",
      "written": "rurudo",
      "note": "",
-     "rootNo": 50,
+     "rootNo": 51,
      "isSub": false,
      "user": "Stage5-黑之魔王",
      "rpid": 318727969409
@@ -16346,7 +16368,7 @@
   },
   {
    "rpid": 318894600145,
-   "rootNo": 51,
+   "rootNo": 52,
    "isSub": false,
    "user": "归虚_梦演",
    "like": 4,
@@ -16359,7 +16381,7 @@
      "artist": "どじろー",
      "written": "dojiro",
      "note": "神中之神；情感丰富、青涩纯真、人物立体真实",
-     "rootNo": 51,
+     "rootNo": 52,
      "isSub": false,
      "user": "归虚_梦演",
      "rpid": 318894600145
@@ -16370,7 +16392,7 @@
   },
   {
    "rpid": 318678174993,
-   "rootNo": 52,
+   "rootNo": 53,
    "isSub": false,
    "user": "Hayate铁文",
    "like": 3,
@@ -16383,7 +16405,7 @@
      "artist": "森島コン",
      "written": "森島コン",
      "note": "姐姐正太的神，画风往酷形方向变",
-     "rootNo": 52,
+     "rootNo": 53,
      "isSub": false,
      "user": "Hayate铁文",
      "rpid": 318678174993
@@ -16394,7 +16416,7 @@
   },
   {
    "rpid": 322396343520,
-   "rootNo": 53,
+   "rootNo": 54,
    "isSub": false,
    "user": "cotten44",
    "like": 3,
@@ -16407,7 +16429,7 @@
      "artist": "川上六角",
      "written": "川上六角",
      "note": "不爱画表情，画风细致；偏爱妮娅、赫萝",
-     "rootNo": 53,
+     "rootNo": 54,
      "isSub": false,
      "user": "cotten44",
      "rpid": 322396343520
@@ -16418,7 +16440,7 @@
   },
   {
    "rpid": 322411946864,
-   "rootNo": 54,
+   "rootNo": 55,
    "isSub": false,
    "user": "卡普斯基",
    "like": 3,
@@ -16431,7 +16453,7 @@
      "artist": "師走の翁",
      "written": "师走の翁",
      "note": "",
-     "rootNo": 54,
+     "rootNo": 55,
      "isSub": false,
      "user": "卡普斯基",
      "rpid": 322411946864
@@ -16440,7 +16462,7 @@
      "artist": "八宝備仁",
      "written": "八宝备仁",
      "note": "插画，童年滤镜",
-     "rootNo": 54,
+     "rootNo": 55,
      "isSub": false,
      "user": "卡普斯基",
      "rpid": 322411946864
@@ -16451,7 +16473,7 @@
   },
   {
    "rpid": 318708951937,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": false,
    "user": "这个昵称到底能取多长",
    "like": 3,
@@ -16464,7 +16486,7 @@
      "artist": "homao",
      "written": "homao",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16473,7 +16495,7 @@
      "artist": "栗原",
      "written": "栗原",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16482,7 +16504,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16491,7 +16513,7 @@
      "artist": "kakao",
      "written": "kakao",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16500,7 +16522,7 @@
      "artist": "柚十扇",
      "written": "柚十扇",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16509,7 +16531,7 @@
      "artist": "潮騷",
      "written": "潮騷",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16518,7 +16540,7 @@
      "artist": "亞美寿真",
      "written": "亞美寿真",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16527,7 +16549,7 @@
      "artist": "六角八十助",
      "written": "六角八十助",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16536,7 +16558,7 @@
      "artist": "花兄",
      "written": "花兄",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16545,7 +16567,7 @@
      "artist": "無糖紅茶",
      "written": "無糖紅茶",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16554,7 +16576,7 @@
      "artist": "sage・ジョー",
      "written": "sage",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16563,7 +16585,7 @@
      "artist": "真白しらこ",
      "written": "真白",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16572,7 +16594,7 @@
      "artist": "朝峰",
      "written": "朝峰",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16581,7 +16603,7 @@
      "artist": "美矢火",
      "written": "美矢火",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16590,7 +16612,7 @@
      "artist": "立花",
      "written": "立花",
      "note": "顶级纯爱画师",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
@@ -16599,26 +16621,12 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "部分不是纯爱，但画风太无敌了",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937
     }
    ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318709104193,
-   "rootNo": 56,
-   "isSub": false,
-   "user": "仰望·半月",
-   "like": 3,
-   "ctime": 1793406781,
-   "firstSeen": "",
-   "content": "[脱单doge]",
-   "category": "chat",
-   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -25431,7 +25439,7 @@
    "rootNo": 3,
    "isSub": true,
    "user": "叁玖似天",
-   "like": 6,
+   "like": 7,
    "ctime": 1793375035,
    "firstSeen": "",
    "content": "回复 @Z在此 :纯爱，但是评论区有牛[汤圆]",
@@ -27221,7 +27229,7 @@
   },
   {
    "rpid": 322414581856,
-   "rootNo": 53,
+   "rootNo": 54,
    "isSub": true,
    "user": "前有泪_但无谓",
    "like": 0,
@@ -28708,7 +28716,7 @@
   },
   {
    "rpid": 322425631936,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": true,
    "user": "白兰哲",
    "like": 0,
@@ -28721,7 +28729,7 @@
      "artist": "真白しらこ",
      "written": "真白老师",
      "note": "最喜欢真白老师的作品",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "白兰哲",
      "rpid": 322425631936
@@ -29149,7 +29157,7 @@
   },
   {
    "rpid": 318712427617,
-   "rootNo": 56,
+   "rootNo": 50,
    "isSub": true,
    "user": "直接写出解",
    "like": 0,
@@ -29162,7 +29170,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "画的确实夸张",
-     "rootNo": 56,
+     "rootNo": 50,
      "isSub": true,
      "user": "直接写出解",
      "rpid": 318712427617
@@ -30030,7 +30038,7 @@
   },
   {
    "rpid": 322436519792,
-   "rootNo": 53,
+   "rootNo": 54,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 0,
@@ -30110,7 +30118,7 @@
   },
   {
    "rpid": 322436642288,
-   "rootNo": 52,
+   "rootNo": 53,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 0,
@@ -30522,7 +30530,7 @@
   },
   {
    "rpid": 318722984977,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": true,
    "user": "Cyborg86",
    "like": 0,
@@ -30535,7 +30543,7 @@
      "artist": "flugel",
      "written": "flugel",
      "note": "",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977
@@ -30544,7 +30552,7 @@
      "artist": "羽原",
      "written": "羽原",
      "note": "",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977
@@ -30553,7 +30561,7 @@
      "artist": "木瀬樹",
      "written": "木濑树",
      "note": "",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977
@@ -30562,7 +30570,7 @@
      "artist": "变熊",
      "written": "变熊",
      "note": "",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977
@@ -30571,7 +30579,7 @@
      "artist": "ホムンクルス",
      "written": "人造人",
      "note": "",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977
@@ -31285,7 +31293,7 @@
   },
   {
    "rpid": 318731651841,
-   "rootNo": 56,
+   "rootNo": 50,
    "isSub": true,
    "user": "踉踉_跄",
    "like": 0,
@@ -31327,7 +31335,7 @@
   },
   {
    "rpid": 318733261521,
-   "rootNo": 50,
+   "rootNo": 51,
    "isSub": true,
    "user": "-澪凪-",
    "like": 0,
@@ -31783,7 +31791,7 @@
    "rootNo": 10,
    "isSub": true,
    "user": "XXUlsk",
-   "like": 13,
+   "like": 14,
    "ctime": 1793429306,
    "firstSeen": "",
    "content": "这踏马是本子？",
@@ -34197,7 +34205,7 @@
   },
   {
    "rpid": 322554083648,
-   "rootNo": 56,
+   "rootNo": 50,
    "isSub": true,
    "user": "尾刃账",
    "like": 0,
@@ -35355,7 +35363,7 @@
   },
   {
    "rpid": 318894394161,
-   "rootNo": 56,
+   "rootNo": 50,
    "isSub": true,
    "user": "英梨梨errr",
    "like": 0,
@@ -35981,7 +35989,7 @@
   },
   {
    "rpid": 322681013360,
-   "rootNo": 56,
+   "rootNo": 50,
    "isSub": true,
    "user": "吉隆坡气象学家",
    "like": 0,
@@ -36348,6 +36356,30 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "Parzival-__-"
+  },
+  {
+   "rpid": 322763269728,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "Z4D1镝",
+   "like": 0,
+   "ctime": 1793663264,
+   "firstSeen": "2026-11-03 08:00:02",
+   "content": "武田弘光",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "武田弘光",
+     "written": "武田弘光",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "Z4D1镝",
+     "rpid": 322763269728
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
   }
  ]
 }
