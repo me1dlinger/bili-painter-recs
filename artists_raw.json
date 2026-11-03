@@ -3863,7 +3863,7 @@
     "isSub": true,
     "written": "三十郎",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "点名推荐，未附评价"
    }
   ],
   "_raw": [
@@ -3924,7 +3924,7 @@
    {
     "artist": "三十郎",
     "written": "三十郎",
-    "note": "自动匹配 · 待复核",
+    "note": "点名推荐，未附评价",
     "rootNo": 123,
     "isSub": true,
     "user": "心天天好",
@@ -18172,6 +18172,34 @@
     "isSub": false,
     "user": "无聊的ZzZz",
     "rpid": 318695651185
+   }
+  ]
+ },
+ {
+  "name": "东堂葵",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "心天天好",
+    "isSub": true,
+    "written": "东堂葵",
+    "context": "",
+    "note": "推荐画师楼里点名，疑为小众画师或角色名，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "东堂葵",
+    "written": "东堂葵",
+    "note": "推荐画师楼里点名，疑为小众画师或角色名，不确定",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "心天天好",
+    "rpid": 322789472992
    }
   ]
  },

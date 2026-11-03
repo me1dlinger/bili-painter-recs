@@ -1,108 +1,29 @@
 {
-  "generatedAt": "2026-11-03 13:03:00",
+  "generatedAt": "2026-11-03 15:02:00",
   "comments": {
-    "322775407680": {
+    "322789494656": {
       "category": "artist_rec",
-      "artists": ["世徒ゆうき"],
+      "artists": ["三十郎"],
       "works": [],
-      "reason": "GOAT 还得是世徒，点名世徒ゆうき",
+      "reason": "推荐画师楼里点名三十郎",
       "mentions": [
         {
-          "name_as_written": "世徒",
-          "canonical_guess": "世徒ゆうき",
-          "note": "GOAT 还得是世徒，强烈认可"
+          "name_as_written": "三十郎",
+          "canonical_guess": "三十郎",
+          "note": "点名推荐，未附评价"
         }
       ]
     },
-    "322780142240": {
+    "322789472992": {
       "category": "artist_rec",
-      "artists": ["師走の翁"],
+      "artists": ["东堂葵"],
       "works": [],
-      "reason": "点名师走之翁（師走の翁 简体），评价剧情脑洞无敌",
+      "reason": "推荐画师楼里点名东堂葵；东堂葵为知名角色名，疑为小众画师或玩梗，不确定",
       "mentions": [
         {
-          "name_as_written": "师走之翁",
-          "canonical_guess": "師走の翁",
-          "note": "剧情脑洞太无敌了"
-        }
-      ]
-    },
-    "319049464289": {
-      "category": "artist_rec",
-      "artists": ["みちきんぐ"],
-      "works": [],
-      "reason": "点名米奇王（みちきんぐ），评价神中神",
-      "mentions": [
-        {
-          "name_as_written": "米奇王",
-          "canonical_guess": "みちきんぐ",
-          "note": "神中神"
-        }
-      ]
-    },
-    "319050814961": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "聊怀旧服，未点名画师",
-      "mentions": []
-    },
-    "319049286641": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼互动调侃，未点名画师",
-      "mentions": []
-    },
-    "319049307249": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼评价作品太短纯爱无敌，未点名画师",
-      "mentions": []
-    },
-    "319049238257": {
-      "category": "work_only",
-      "artists": [],
-      "works": ["坏妹妹系列"],
-      "reason": "楼中楼提到作品坏妹妹系列，未点名画师",
-      "mentions": []
-    },
-    "319049334097": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼评价画技高超剧情nt，未点名画师",
-      "mentions": []
-    },
-    "319049406369": {
-      "category": "artist_rec",
-      "artists": ["きょくちょ", "karory"],
-      "works": [],
-      "reason": "点名局长（きょくちょ）与 karory，评价局长不戳我、karory 是神",
-      "mentions": [
-        {
-          "name_as_written": "局长",
-          "canonical_guess": "きょくちょ",
-          "note": "不是很戳我"
-        },
-        {
-          "name_as_written": "karory",
-          "canonical_guess": "karory",
-          "note": "是神"
-        }
-      ]
-    },
-    "319049452033": {
-      "category": "artist_rec",
-      "artists": ["みちきんぐ"],
-      "works": [],
-      "reason": "点名米奇王（みちきんぐ），疑问为什么没人说",
-      "mentions": [
-        {
-          "name_as_written": "米奇王",
-          "canonical_guess": "みちきんぐ",
-          "note": "咋没有说米奇王啊"
+          "name_as_written": "东堂葵",
+          "canonical_guess": "东堂葵",
+          "note": "推荐画师楼里点名，疑为小众画师或角色名，不确定"
         }
       ]
     }
