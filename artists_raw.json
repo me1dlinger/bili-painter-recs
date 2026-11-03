@@ -508,7 +508,7 @@
     "artist": "みちきんぐ",
     "written": "米奇王",
     "note": "",
-    "rootNo": 59,
+    "rootNo": 60,
     "isSub": false,
     "user": "Y2QAQ",
     "rpid": 318739839777
@@ -625,7 +625,7 @@
     "artist": "みちきんぐ",
     "written": "米奇王",
     "note": "神中神",
-    "rootNo": 59,
+    "rootNo": 60,
     "isSub": true,
     "user": "汝乃傻十三",
     "rpid": 319049464289
@@ -800,7 +800,7 @@
     "artist": "あるぷ",
     "written": "あるぷ",
     "note": "神中神",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": false,
     "user": "Parzival-__-",
     "rpid": 322387191376
@@ -809,7 +809,7 @@
     "artist": "あるぷ",
     "written": "apl",
     "note": "无敌了",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664
@@ -818,7 +818,7 @@
     "artist": "あるぷ",
     "written": "alp",
     "note": "",
-    "rootNo": 25,
+    "rootNo": 26,
     "isSub": true,
     "user": "咲一咲菌",
     "rpid": 322404297136
@@ -1058,7 +1058,7 @@
     "artist": "ホムンクルス",
     "written": "人造人",
     "note": "",
-    "rootNo": 57,
+    "rootNo": 58,
     "isSub": false,
     "user": "神奇的malatang",
     "rpid": 318719693297
@@ -1305,7 +1305,7 @@
     "artist": "kakao",
     "written": "kakao",
     "note": "",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664
@@ -2626,7 +2626,7 @@
     "artist": "桃雲",
     "written": "桃云",
     "note": "",
-    "rootNo": 57,
+    "rootNo": 58,
     "isSub": false,
     "user": "神奇的malatang",
     "rpid": 318719693297
@@ -2937,7 +2937,7 @@
     "artist": "木瀬樹",
     "written": "木濑树",
     "note": "纯爱得看",
-    "rootNo": 75,
+    "rootNo": 76,
     "isSub": false,
     "user": "afraak",
     "rpid": 322420343328
@@ -3068,7 +3068,7 @@
     "artist": "武田弘光",
     "written": "武田弘光",
     "note": "",
-    "rootNo": 59,
+    "rootNo": 60,
     "isSub": false,
     "user": "Y2QAQ",
     "rpid": 318739839777
@@ -3217,7 +3217,7 @@
     "artist": "青豆腐",
     "written": "青豆腐",
     "note": "",
-    "rootNo": 68,
+    "rootNo": 69,
     "isSub": false,
     "user": "呜呜丶灬",
     "rpid": 322398380096
@@ -5093,7 +5093,7 @@
     "artist": "八宝備仁",
     "written": "八宝备仁",
     "note": "",
-    "rootNo": 67,
+    "rootNo": 68,
     "isSub": false,
     "user": "刹诗久",
     "rpid": 318684900993
@@ -5878,7 +5878,7 @@
     "artist": "煌野一人",
     "written": "煌野一人",
     "note": "",
-    "rootNo": 68,
+    "rootNo": 69,
     "isSub": false,
     "user": "呜呜丶灬",
     "rpid": 322398380096
@@ -5938,7 +5938,7 @@
     "artist": "立花",
     "written": "立花",
     "note": "",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664
@@ -6559,7 +6559,7 @@
     "artist": "はるこん",
     "written": "はるこん",
     "note": "真劲（楼下称触手goat）",
-    "rootNo": 26,
+    "rootNo": 25,
     "isSub": false,
     "user": "劍崎刀火",
     "rpid": 318716246753
@@ -6619,7 +6619,7 @@
     "artist": "ましゅー",
     "written": "ましゅー",
     "note": "听说是上岸了",
-    "rootNo": 76,
+    "rootNo": 77,
     "isSub": false,
     "user": "Last丶燃烧你的梦",
     "rpid": 318710578209
@@ -6741,7 +6741,7 @@
     "artist": "パイレーツキャット",
     "written": "パイレーツキャット",
     "note": "画风无敌",
-    "rootNo": 76,
+    "rootNo": 77,
     "isSub": false,
     "user": "Last丶燃烧你的梦",
     "rpid": 318710578209
@@ -7236,7 +7236,7 @@
     "artist": "智弘カイ",
     "written": "智弘カイ",
     "note": "接遇课2",
-    "rootNo": 65,
+    "rootNo": 66,
     "isSub": false,
     "user": "CryoLegionnaire",
     "rpid": 318673208065
@@ -7245,7 +7245,7 @@
     "artist": "智弘カイ",
     "written": "智泓",
     "note": "这个系列确实好看",
-    "rootNo": 65,
+    "rootNo": 66,
     "isSub": true,
     "user": "沧海的琉璃",
     "rpid": 322388327088
@@ -7568,6 +7568,68 @@
   ]
  },
  {
+  "name": "胃之上奇嘉郎",
+  "aliases": [
+   "胃之上奇朗"
+  ],
+  "mentions": 3,
+  "users": 3,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "XDY想画whatcanisay",
+    "isSub": true,
+    "written": "胃之上奇嘉郎",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "横行跋涉天蓝怪",
+    "isSub": true,
+    "written": "胃之上奇朗",
+    "context": "",
+    "note": "很久不画了，领先业界十年"
+   },
+   {
+    "commenter": "DERTF",
+    "isSub": false,
+    "written": "胃之上奇嘉郎",
+    "context": "",
+    "note": "自动匹配 · 待复核"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "胃之上奇嘉郎",
+    "written": "胃之上奇嘉郎",
+    "note": "",
+    "rootNo": 11,
+    "isSub": true,
+    "user": "XDY想画whatcanisay",
+    "rpid": 318862554113
+   },
+   {
+    "artist": "胃之上奇嘉郎",
+    "written": "胃之上奇朗",
+    "note": "很久不画了，领先业界十年",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "横行跋涉天蓝怪",
+    "rpid": 318936308001
+   },
+   {
+    "artist": "胃之上奇嘉郎",
+    "written": "胃之上奇嘉郎",
+    "note": "自动匹配 · 待复核",
+    "rootNo": 235,
+    "isSub": false,
+    "user": "DERTF",
+    "rpid": 322799332000
+   }
+  ]
+ },
+ {
   "name": "袁藤冲人",
   "aliases": [
    "袁腾冲人"
@@ -7726,7 +7788,7 @@
     "artist": "赤月屋",
     "written": "赤月",
     "note": "",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664
@@ -7735,7 +7797,7 @@
     "artist": "赤月屋",
     "written": "赤月屋",
     "note": "三姐妹，可谓英雄",
-    "rootNo": 73,
+    "rootNo": 74,
     "isSub": false,
     "user": "泪雨终结",
     "rpid": 318697136577
@@ -8755,7 +8817,7 @@
     "artist": "はりぽてと",
     "written": "はりぽてと",
     "note": "就火了那两本，后面直接查无此人",
-    "rootNo": 76,
+    "rootNo": 77,
     "isSub": false,
     "user": "Last丶燃烧你的梦",
     "rpid": 318710578209
@@ -8852,7 +8914,7 @@
     "artist": "へんりいだ",
     "written": "へんりいだ",
     "note": "",
-    "rootNo": 66,
+    "rootNo": 67,
     "isSub": false,
     "user": "不是萝莉控哦丶",
     "rpid": 322386622864
@@ -9473,7 +9535,7 @@
     "artist": "如月群真",
     "written": "如月群真",
     "note": "",
-    "rootNo": 70,
+    "rootNo": 71,
     "isSub": false,
     "user": "光辉丨TVT",
     "rpid": 322398701136
@@ -10057,7 +10119,7 @@
     "artist": "焦茶",
     "written": "焦茶",
     "note": "可惜老师去世了",
-    "rootNo": 74,
+    "rootNo": 75,
     "isSub": false,
     "user": "木莲莲鱼",
     "rpid": 322412839056
@@ -10429,52 +10491,6 @@
     "isSub": true,
     "user": "美琴-大力",
     "rpid": 322675660176
-   }
-  ]
- },
- {
-  "name": "胃之上奇嘉郎",
-  "aliases": [
-   "胃之上奇朗"
-  ],
-  "mentions": 2,
-  "users": 2,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "XDY想画whatcanisay",
-    "isSub": true,
-    "written": "胃之上奇嘉郎",
-    "context": "",
-    "note": ""
-   },
-   {
-    "commenter": "横行跋涉天蓝怪",
-    "isSub": true,
-    "written": "胃之上奇朗",
-    "context": "",
-    "note": "很久不画了，领先业界十年"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "胃之上奇嘉郎",
-    "written": "胃之上奇嘉郎",
-    "note": "",
-    "rootNo": 11,
-    "isSub": true,
-    "user": "XDY想画whatcanisay",
-    "rpid": 318862554113
-   },
-   {
-    "artist": "胃之上奇嘉郎",
-    "written": "胃之上奇朗",
-    "note": "很久不画了，领先业界十年",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "横行跋涉天蓝怪",
-    "rpid": 318936308001
    }
   ]
  },
@@ -10961,7 +10977,7 @@
     "artist": "黒青郎君",
     "written": "黒青郎君",
     "note": "百华庄、永世流转系列，国风本子巅峰",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": false,
     "user": "我永远喜欢東山奈央",
     "rpid": 322419990320
@@ -10970,7 +10986,7 @@
     "artist": "黒青郎君",
     "written": "黑青郎君",
     "note": "永远娘系列",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "暴食-波奇Q",
     "rpid": 322436157120
@@ -11139,7 +11155,7 @@
     "artist": "けれんめ",
     "written": "けれんメ",
     "note": "",
-    "rootNo": 57,
+    "rootNo": 58,
     "isSub": false,
     "user": "神奇的malatang",
     "rpid": 318719693297
@@ -11148,7 +11164,7 @@
     "artist": "けれんめ",
     "written": "けれんめ",
     "note": "堪称里界藤本树",
-    "rootNo": 57,
+    "rootNo": 58,
     "isSub": false,
     "user": "神奇的malatang",
     "rpid": 318719693297
@@ -11275,7 +11291,7 @@
     "artist": "月ノ輪ガモ",
     "written": "月轮老师",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 18,
     "isSub": false,
     "user": "Master獨角",
     "rpid": 322427300160
@@ -11284,7 +11300,7 @@
     "artist": "月ノ輪ガモ",
     "written": "月ノ輪ガモ",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 18,
     "isSub": true,
     "user": "Master獨角",
     "rpid": 322484259584
@@ -11428,7 +11444,7 @@
     "artist": "360 (コナ)",
     "written": "360 (コナ)",
     "note": "原文为社团+作者写法，是否画师不确定",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "゚牧野神奈",
     "rpid": 322593988000
@@ -11876,7 +11892,7 @@
     "artist": "FLY",
     "written": "FLY",
     "note": "",
-    "rootNo": 74,
+    "rootNo": 75,
     "isSub": false,
     "user": "木莲莲鱼",
     "rpid": 322412839056
@@ -13978,7 +13994,7 @@
     "artist": "mstpjin",
     "written": "mstpjin",
     "note": "心中的goat",
-    "rootNo": 58,
+    "rootNo": 59,
     "isSub": false,
     "user": "情澜缘予甄潇醉",
     "rpid": 318733322129
@@ -18140,7 +18156,7 @@
     "artist": "三芳",
     "written": "三芳",
     "note": "神中神",
-    "rootNo": 18,
+    "rootNo": 19,
     "isSub": true,
     "user": "花斯特卷卷",
     "rpid": 318682850705
@@ -19758,7 +19774,7 @@
     "artist": "東山",
     "written": "東山",
     "note": "",
-    "rootNo": 69,
+    "rootNo": 70,
     "isSub": false,
     "user": "世界独行-",
     "rpid": 322398664112
@@ -20436,7 +20452,7 @@
     "artist": "海濑苍羽",
     "written": "海濑苍羽",
     "note": "确实好看，不确定是否为画师名",
-    "rootNo": 63,
+    "rootNo": 64,
     "isSub": true,
     "user": "長恭雲陵",
     "rpid": 318800590929
@@ -21200,7 +21216,7 @@
     "artist": "紅端よどむ",
     "written": "紅端よどむ",
     "note": "这位在我这一本封神",
-    "rootNo": 77,
+    "rootNo": 78,
     "isSub": false,
     "user": "理与不智",
     "rpid": 322428182256

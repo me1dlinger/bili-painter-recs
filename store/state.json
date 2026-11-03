@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 900,
- "total": 901,
+ "claimed": 903,
+ "total": 904,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-03 15:00:02",
-  "newComments": 0,
-  "updated": 6,
-  "autoMentions": 0,
-  "total": 901
+  "at": "2026-11-03 16:00:02",
+  "newComments": 3,
+  "updated": 12,
+  "autoMentions": 1,
+  "total": 904
  },
  "published": {
-  "at": "2026-11-03 15:01:26",
-  "comments": 901,
+  "at": "2026-11-03 16:01:26",
+  "comments": 904,
   "artists": 554,
-  "mentions": 981,
+  "mentions": 982,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -88,6 +88,7 @@
    "森島コン",
    "清炭ハリケーン",
    "満開開花",
+   "胃之上奇嘉郎",
    "袁藤冲人",
    "豆六",
    "赤月屋",
@@ -150,7 +151,6 @@
    "笹森トモエ",
    "米山舞",
    "美矢火",
-   "胃之上奇嘉郎",
    "背德漢",
    "藤丸",
    "阿拉库列",

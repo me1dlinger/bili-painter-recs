@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 15:00:02",
-  "claimedReplyCount": 900,
-  "rootCount": 234,
-  "subCount": 667,
-  "totalCount": 901,
+  "fetchedAt": "2026-11-03 16:00:02",
+  "claimedReplyCount": 903,
+  "rootCount": 235,
+  "subCount": 669,
+  "totalCount": 904,
   "update": {
-   "lastFetchAt": "2026-11-03 15:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-03 15:00:51",
+   "lastFetchAt": "2026-11-03 16:00:02",
+   "lastFetchNew": 3,
+   "publishedAt": "2026-11-03 15:01:26",
    "delta": {
-    "comments": 0,
+    "comments": 3,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 325,
-   "artist_rec": 532,
+   "chat": 327,
+   "artist_rec": 533,
    "work_only": 13,
    "ask": 17,
    "empty": 14
   },
   "artistCount": 554,
-  "mentionCount": 981
+  "mentionCount": 982
  },
  "artists": [
   {
@@ -4456,6 +4456,44 @@
    ]
   },
   {
+   "name": "胃之上奇嘉郎",
+   "aliases": [
+    "胃之上奇朗"
+   ],
+   "mentions": 3,
+   "users": 3,
+   "lowConfidence": false,
+   "notes": [
+    "很久不画了，领先业界十年"
+   ],
+   "evidence": [
+    {
+     "rpid": 318862554113,
+     "commenter": "XDY想画whatcanisay",
+     "isSub": true,
+     "written": "胃之上奇嘉郎",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318936308001,
+     "commenter": "横行跋涉天蓝怪",
+     "isSub": true,
+     "written": "胃之上奇朗",
+     "context": "",
+     "note": "很久不画了，领先业界十年"
+    },
+    {
+     "rpid": 322799332000,
+     "commenter": "DERTF",
+     "isSub": false,
+     "written": "胃之上奇嘉郎",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "袁藤冲人",
    "aliases": [
     "袁腾冲人"
@@ -6284,36 +6322,6 @@
      "written": "美矢火",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "胃之上奇嘉郎",
-   "aliases": [
-    "胃之上奇朗"
-   ],
-   "mentions": 2,
-   "users": 2,
-   "lowConfidence": false,
-   "notes": [
-    "很久不画了，领先业界十年"
-   ],
-   "evidence": [
-    {
-     "rpid": 318862554113,
-     "commenter": "XDY想画whatcanisay",
-     "isSub": true,
-     "written": "胃之上奇嘉郎",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318936308001,
-     "commenter": "横行跋涉天蓝怪",
-     "isSub": true,
-     "written": "胃之上奇朗",
-     "context": "",
-     "note": "很久不画了，领先业界十年"
     }
    ]
   },
@@ -14778,7 +14786,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 138,
+   "like": 141,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -15220,7 +15228,7 @@
    "rootNo": 13,
    "isSub": false,
    "user": "三块半儿",
-   "like": 48,
+   "like": 49,
    "ctime": 1793382607,
    "firstSeen": "",
    "content": "传奇假小子",
@@ -15310,8 +15318,32 @@
    "rootUser": ""
   },
   {
-   "rpid": 322387191376,
+   "rpid": 322427300160,
    "rootNo": 18,
+   "isSub": false,
+   "user": "Master獨角",
+   "like": 25,
+   "ctime": 1793409008,
+   "firstSeen": "",
+   "content": "月轮老师也不错",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "月ノ輪ガモ",
+     "written": "月轮老师",
+     "note": "",
+     "rootNo": 18,
+     "isSub": false,
+     "user": "Master獨角",
+     "rpid": 322427300160
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322387191376,
+   "rootNo": 19,
    "isSub": false,
    "user": "Parzival-__-",
    "like": 24,
@@ -15324,7 +15356,7 @@
      "artist": "あるぷ",
      "written": "あるぷ",
      "note": "神中神",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": false,
      "user": "Parzival-__-",
      "rpid": 322387191376
@@ -15335,7 +15367,7 @@
   },
   {
    "rpid": 322419990320,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": false,
    "user": "我永远喜欢東山奈央",
    "like": 23,
@@ -15348,34 +15380,10 @@
      "artist": "黒青郎君",
      "written": "黒青郎君",
      "note": "百华庄、永世流转系列，国风本子巅峰",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": false,
      "user": "我永远喜欢東山奈央",
      "rpid": 322419990320
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322427300160,
-   "rootNo": 20,
-   "isSub": false,
-   "user": "Master獨角",
-   "like": 23,
-   "ctime": 1793409008,
-   "firstSeen": "",
-   "content": "月轮老师也不错",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "月ノ輪ガモ",
-     "written": "月轮老师",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "Master獨角",
-     "rpid": 322427300160
     }
    ],
    "workInfo": null,
@@ -15539,25 +15547,11 @@
    "rootUser": ""
   },
   {
-   "rpid": 322403233360,
+   "rpid": 318716246753,
    "rootNo": 25,
    "isSub": false,
-   "user": "咲一咲菌",
-   "like": 11,
-   "ctime": 1793376615,
-   "firstSeen": "",
-   "content": "还真是，这个老湿眼睛画的很有特点，很涩，之前那一本冲田总司画的太好用了",
-   "category": "chat",
-   "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318716246753,
-   "rootNo": 26,
-   "isSub": false,
    "user": "劍崎刀火",
-   "like": 11,
+   "like": 12,
    "ctime": 1793412305,
    "firstSeen": "",
    "content": "はるこん这个真劲啊",
@@ -15567,12 +15561,26 @@
      "artist": "はるこん",
      "written": "はるこん",
      "note": "真劲（楼下称触手goat）",
-     "rootNo": 26,
+     "rootNo": 25,
      "isSub": false,
      "user": "劍崎刀火",
      "rpid": 318716246753
     }
    ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322403233360,
+   "rootNo": 26,
+   "isSub": false,
+   "user": "咲一咲菌",
+   "like": 11,
+   "ctime": 1793376615,
+   "firstSeen": "",
+   "content": "还真是，这个老湿眼睛画的很有特点，很涩，之前那一本冲田总司画的太好用了",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -16733,8 +16741,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 318719693297,
+   "rpid": 322430887504,
    "rootNo": 57,
+   "isSub": false,
+   "user": "到此一游NIE",
+   "like": 3,
+   "ctime": 1793411550,
+   "firstSeen": "",
+   "content": "有一说一，本子看多了感觉有点审美疲劳了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318719693297,
+   "rootNo": 58,
    "isSub": false,
    "user": "神奇的malatang",
    "like": 3,
@@ -16747,7 +16769,7 @@
      "artist": "ホムンクルス",
      "written": "人造人",
      "note": "",
-     "rootNo": 57,
+     "rootNo": 58,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16756,7 +16778,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "",
-     "rootNo": 57,
+     "rootNo": 58,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16765,7 +16787,7 @@
      "artist": "けれんめ",
      "written": "けれんメ",
      "note": "",
-     "rootNo": 57,
+     "rootNo": 58,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16774,7 +16796,7 @@
      "artist": "けれんめ",
      "written": "けれんめ",
      "note": "堪称里界藤本树",
-     "rootNo": 57,
+     "rootNo": 58,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16785,7 +16807,7 @@
   },
   {
    "rpid": 318733322129,
-   "rootNo": 58,
+   "rootNo": 59,
    "isSub": false,
    "user": "情澜缘予甄潇醉",
    "like": 3,
@@ -16798,7 +16820,7 @@
      "artist": "mstpjin",
      "written": "mstpjin",
      "note": "心中的goat",
-     "rootNo": 58,
+     "rootNo": 59,
      "isSub": false,
      "user": "情澜缘予甄潇醉",
      "rpid": 318733322129
@@ -16809,7 +16831,7 @@
   },
   {
    "rpid": 318739839777,
-   "rootNo": 59,
+   "rootNo": 60,
    "isSub": false,
    "user": "Y2QAQ",
    "like": 3,
@@ -16822,7 +16844,7 @@
      "artist": "武田弘光",
      "written": "武田弘光",
      "note": "",
-     "rootNo": 59,
+     "rootNo": 60,
      "isSub": false,
      "user": "Y2QAQ",
      "rpid": 318739839777
@@ -16831,7 +16853,7 @@
      "artist": "みちきんぐ",
      "written": "米奇王",
      "note": "",
-     "rootNo": 59,
+     "rootNo": 60,
      "isSub": false,
      "user": "Y2QAQ",
      "rpid": 318739839777
@@ -16842,7 +16864,7 @@
   },
   {
    "rpid": 318747785409,
-   "rootNo": 60,
+   "rootNo": 61,
    "isSub": false,
    "user": "暗中观察的阿尔托莉雅",
    "like": 3,
@@ -16856,7 +16878,7 @@
   },
   {
    "rpid": 318767779025,
-   "rootNo": 61,
+   "rootNo": 62,
    "isSub": false,
    "user": "奔跑的小前Edwin",
    "like": 3,
@@ -16874,7 +16896,7 @@
   },
   {
    "rpid": 318784886369,
-   "rootNo": 62,
+   "rootNo": 63,
    "isSub": false,
    "user": "魔女の部屋",
    "like": 3,
@@ -16888,7 +16910,7 @@
   },
   {
    "rpid": 322504073008,
-   "rootNo": 63,
+   "rootNo": 64,
    "isSub": false,
    "user": "不会驱魔的驱魔骚年",
    "like": 3,
@@ -16902,7 +16924,7 @@
   },
   {
    "rpid": 322584930960,
-   "rootNo": 64,
+   "rootNo": 65,
    "isSub": false,
    "user": "WXYZ9",
    "like": 3,
@@ -16916,7 +16938,7 @@
   },
   {
    "rpid": 318673208065,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": false,
    "user": "CryoLegionnaire",
    "like": 2,
@@ -16929,7 +16951,7 @@
      "artist": "智弘カイ",
      "written": "智弘カイ",
      "note": "接遇课2",
-     "rootNo": 65,
+     "rootNo": 66,
      "isSub": false,
      "user": "CryoLegionnaire",
      "rpid": 318673208065
@@ -16940,7 +16962,7 @@
   },
   {
    "rpid": 322386622864,
-   "rootNo": 66,
+   "rootNo": 67,
    "isSub": false,
    "user": "不是萝莉控哦丶",
    "like": 2,
@@ -16953,7 +16975,7 @@
      "artist": "へんりいだ",
      "written": "へんりいだ",
      "note": "",
-     "rootNo": 66,
+     "rootNo": 67,
      "isSub": false,
      "user": "不是萝莉控哦丶",
      "rpid": 322386622864
@@ -16964,7 +16986,7 @@
   },
   {
    "rpid": 318684900993,
-   "rootNo": 67,
+   "rootNo": 68,
    "isSub": false,
    "user": "刹诗久",
    "like": 2,
@@ -16977,7 +16999,7 @@
      "artist": "八宝備仁",
      "written": "八宝备仁",
      "note": "",
-     "rootNo": 67,
+     "rootNo": 68,
      "isSub": false,
      "user": "刹诗久",
      "rpid": 318684900993
@@ -16988,7 +17010,7 @@
   },
   {
    "rpid": 322398380096,
-   "rootNo": 68,
+   "rootNo": 69,
    "isSub": false,
    "user": "呜呜丶灬",
    "like": 2,
@@ -17001,7 +17023,7 @@
      "artist": "煌野一人",
      "written": "煌野一人",
      "note": "",
-     "rootNo": 68,
+     "rootNo": 69,
      "isSub": false,
      "user": "呜呜丶灬",
      "rpid": 322398380096
@@ -17010,7 +17032,7 @@
      "artist": "青豆腐",
      "written": "青豆腐",
      "note": "",
-     "rootNo": 68,
+     "rootNo": 69,
      "isSub": false,
      "user": "呜呜丶灬",
      "rpid": 322398380096
@@ -17021,7 +17043,7 @@
   },
   {
    "rpid": 322398664112,
-   "rootNo": 69,
+   "rootNo": 70,
    "isSub": false,
    "user": "世界独行-",
    "like": 2,
@@ -17034,7 +17056,7 @@
      "artist": "東山",
      "written": "東山",
      "note": "",
-     "rootNo": 69,
+     "rootNo": 70,
      "isSub": false,
      "user": "世界独行-",
      "rpid": 322398664112
@@ -17045,7 +17067,7 @@
   },
   {
    "rpid": 322398701136,
-   "rootNo": 70,
+   "rootNo": 71,
    "isSub": false,
    "user": "光辉丨TVT",
    "like": 2,
@@ -17058,7 +17080,7 @@
      "artist": "如月群真",
      "written": "如月群真",
      "note": "",
-     "rootNo": 70,
+     "rootNo": 71,
      "isSub": false,
      "user": "光辉丨TVT",
      "rpid": 322398701136
@@ -17069,7 +17091,7 @@
   },
   {
    "rpid": 318690556753,
-   "rootNo": 71,
+   "rootNo": 72,
    "isSub": false,
    "user": "享清宵福了",
    "like": 2,
@@ -17083,7 +17105,7 @@
   },
   {
    "rpid": 322410685232,
-   "rootNo": 72,
+   "rootNo": 73,
    "isSub": false,
    "user": "百鬼绫目人间至宝",
    "like": 2,
@@ -17101,7 +17123,7 @@
   },
   {
    "rpid": 318697136577,
-   "rootNo": 73,
+   "rootNo": 74,
    "isSub": false,
    "user": "泪雨终结",
    "like": 2,
@@ -17114,7 +17136,7 @@
      "artist": "赤月屋",
      "written": "赤月屋",
      "note": "三姐妹，可谓英雄",
-     "rootNo": 73,
+     "rootNo": 74,
      "isSub": false,
      "user": "泪雨终结",
      "rpid": 318697136577
@@ -17125,7 +17147,7 @@
   },
   {
    "rpid": 322412839056,
-   "rootNo": 74,
+   "rootNo": 75,
    "isSub": false,
    "user": "木莲莲鱼",
    "like": 2,
@@ -17138,7 +17160,7 @@
      "artist": "焦茶",
      "written": "焦茶",
      "note": "可惜老师去世了",
-     "rootNo": 74,
+     "rootNo": 75,
      "isSub": false,
      "user": "木莲莲鱼",
      "rpid": 322412839056
@@ -17147,7 +17169,7 @@
      "artist": "FLY",
      "written": "FLY",
      "note": "",
-     "rootNo": 74,
+     "rootNo": 75,
      "isSub": false,
      "user": "木莲莲鱼",
      "rpid": 322412839056
@@ -17158,7 +17180,7 @@
   },
   {
    "rpid": 322420343328,
-   "rootNo": 75,
+   "rootNo": 76,
    "isSub": false,
    "user": "afraak",
    "like": 2,
@@ -17171,7 +17193,7 @@
      "artist": "木瀬樹",
      "written": "木濑树",
      "note": "纯爱得看",
-     "rootNo": 75,
+     "rootNo": 76,
      "isSub": false,
      "user": "afraak",
      "rpid": 322420343328
@@ -17182,7 +17204,7 @@
   },
   {
    "rpid": 318710578209,
-   "rootNo": 76,
+   "rootNo": 77,
    "isSub": false,
    "user": "Last丶燃烧你的梦",
    "like": 2,
@@ -17195,7 +17217,7 @@
      "artist": "パイレーツキャット",
      "written": "パイレーツキャット",
      "note": "画风无敌",
-     "rootNo": 76,
+     "rootNo": 77,
      "isSub": false,
      "user": "Last丶燃烧你的梦",
      "rpid": 318710578209
@@ -17204,7 +17226,7 @@
      "artist": "はりぽてと",
      "written": "はりぽてと",
      "note": "就火了那两本，后面直接查无此人",
-     "rootNo": 76,
+     "rootNo": 77,
      "isSub": false,
      "user": "Last丶燃烧你的梦",
      "rpid": 318710578209
@@ -17213,7 +17235,7 @@
      "artist": "ましゅー",
      "written": "ましゅー",
      "note": "听说是上岸了",
-     "rootNo": 76,
+     "rootNo": 77,
      "isSub": false,
      "user": "Last丶燃烧你的梦",
      "rpid": 318710578209
@@ -17224,7 +17246,7 @@
   },
   {
    "rpid": 322428182256,
-   "rootNo": 77,
+   "rootNo": 78,
    "isSub": false,
    "user": "理与不智",
    "like": 2,
@@ -17237,26 +17259,12 @@
      "artist": "紅端よどむ",
      "written": "紅端よどむ",
      "note": "这位在我这一本封神",
-     "rootNo": 77,
+     "rootNo": 78,
      "isSub": false,
      "user": "理与不智",
      "rpid": 322428182256
     }
    ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322430887504,
-   "rootNo": 78,
-   "isSub": false,
-   "user": "到此一游NIE",
-   "like": 2,
-   "ctime": 1793411550,
-   "firstSeen": "",
-   "content": "有一说一，本子看多了感觉有点审美疲劳了",
-   "category": "chat",
-   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -22831,6 +22839,30 @@
    "rootUser": ""
   },
   {
+   "rpid": 322799332000,
+   "rootNo": 235,
+   "isSub": false,
+   "user": "DERTF",
+   "like": 0,
+   "ctime": 1793692257,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "画里有怨念的来了：胃之上奇嘉郎",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "胃之上奇嘉郎",
+     "written": "胃之上奇嘉郎",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 235,
+     "isSub": false,
+     "user": "DERTF",
+     "rpid": 322799332000
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
    "rootNo": 35,
    "isSub": true,
@@ -23216,7 +23248,7 @@
   },
   {
    "rpid": 322388327088,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "沧海的琉璃",
    "like": 1,
@@ -23229,7 +23261,7 @@
      "artist": "智弘カイ",
      "written": "智泓",
      "note": "这个系列确实好看",
-     "rootNo": 65,
+     "rootNo": 66,
      "isSub": true,
      "user": "沧海的琉璃",
      "rpid": 322388327088
@@ -23691,7 +23723,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "啾啾武夫",
-   "like": 2,
+   "like": 3,
    "ctime": 1793370369,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "东山翔",
@@ -23826,7 +23858,7 @@
   },
   {
    "rpid": 318679498833,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "Rhozxky",
    "like": 1,
@@ -24530,7 +24562,7 @@
   },
   {
    "rpid": 318682850705,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "花斯特卷卷",
    "like": 0,
@@ -24543,7 +24575,7 @@
      "artist": "三芳",
      "written": "三芳",
      "note": "神中神",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": true,
      "user": "花斯特卷卷",
      "rpid": 318682850705
@@ -25102,7 +25134,7 @@
   },
   {
    "rpid": 322397521856,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "五胞胎凝视",
    "like": 0,
@@ -25144,7 +25176,7 @@
   },
   {
    "rpid": 318684590753,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "ZZSolarRift",
    "like": 0,
@@ -25158,7 +25190,7 @@
   },
   {
    "rpid": 322398041136,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "关于我不知叫啥那件事",
    "like": 0,
@@ -26070,7 +26102,7 @@
   },
   {
    "rpid": 322404030608,
-   "rootNo": 25,
+   "rootNo": 26,
    "isSub": true,
    "user": "糖丸立香",
    "like": 2,
@@ -26108,7 +26140,7 @@
   },
   {
    "rpid": 322404297136,
-   "rootNo": 25,
+   "rootNo": 26,
    "isSub": true,
    "user": "咲一咲菌",
    "like": 1,
@@ -26121,7 +26153,7 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "",
-     "rootNo": 25,
+     "rootNo": 26,
      "isSub": true,
      "user": "咲一咲菌",
      "rpid": 322404297136
@@ -26241,7 +26273,7 @@
   },
   {
    "rpid": 322405246128,
-   "rootNo": 71,
+   "rootNo": 72,
    "isSub": true,
    "user": "黑鹘",
    "like": 0,
@@ -26619,7 +26651,7 @@
   },
   {
    "rpid": 318694506817,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "Khun_",
    "like": 0,
@@ -26743,7 +26775,7 @@
   },
   {
    "rpid": 318695984657,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "头疼菌",
    "like": 0,
@@ -27531,7 +27563,7 @@
   },
   {
    "rpid": 318701329649,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "百叶窗下的夏日",
    "like": 0,
@@ -29018,7 +29050,7 @@
   },
   {
    "rpid": 322426148336,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "变成光守护橙汁啤酒",
    "like": 1,
@@ -29359,7 +29391,7 @@
   },
   {
    "rpid": 322428160656,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "我永遠喜欢冬马和纱",
    "like": 0,
@@ -29531,7 +29563,7 @@
   },
   {
    "rpid": 318716109713,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "Ryul-",
    "like": 0,
@@ -29569,7 +29601,7 @@
   },
   {
    "rpid": 322431974624,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "chellyEGOISTs",
    "like": 0,
@@ -29607,7 +29639,7 @@
   },
   {
    "rpid": 318716691137,
-   "rootNo": 26,
+   "rootNo": 25,
    "isSub": true,
    "user": "静帆船",
    "like": 0,
@@ -29711,7 +29743,7 @@
   },
   {
    "rpid": 322433511984,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "如此易碎的日常",
    "like": 1,
@@ -29728,7 +29760,7 @@
    "rootNo": 13,
    "isSub": true,
    "user": "如此易碎的日常",
-   "like": 0,
+   "like": 1,
    "ctime": 1793413424,
    "firstSeen": "",
    "content": "很急",
@@ -30027,7 +30059,7 @@
   },
   {
    "rpid": 318719694129,
-   "rootNo": 65,
+   "rootNo": 66,
    "isSub": true,
    "user": "伴亩方塘",
    "like": 0,
@@ -30164,7 +30196,7 @@
   },
   {
    "rpid": 322436157120,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 2,
@@ -30177,7 +30209,7 @@
      "artist": "黒青郎君",
      "written": "黑青郎君",
      "note": "永远娘系列",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "暴食-波奇Q",
      "rpid": 322436157120
@@ -30188,7 +30220,7 @@
   },
   {
    "rpid": 322436184576,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "草莓NK",
    "like": 1,
@@ -30268,7 +30300,7 @@
   },
   {
    "rpid": 322436597200,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "羊驼牧场场主",
    "like": 9,
@@ -30423,7 +30455,7 @@
   },
   {
    "rpid": 322437370816,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "愿作恶鬼流浪的孤独者",
    "like": 8,
@@ -30491,7 +30523,7 @@
    "rootNo": 123,
    "isSub": true,
    "user": "蕉兵必back",
-   "like": 15,
+   "like": 16,
    "ctime": 1793415903,
    "firstSeen": "",
    "content": "真有村田的水平谁还画本子啊，早就去接商稿了",
@@ -30544,7 +30576,7 @@
   },
   {
    "rpid": 318722132945,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "Cyborg86",
    "like": 1,
@@ -30906,7 +30938,7 @@
   },
   {
    "rpid": 322440471952,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "徒留迷香",
    "like": 0,
@@ -30968,7 +31000,7 @@
   },
   {
    "rpid": 322440603664,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "ktv1025",
    "like": 0,
@@ -30981,7 +31013,7 @@
      "artist": "あるぷ",
      "written": "apl",
      "note": "无敌了",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664
@@ -30990,7 +31022,7 @@
      "artist": "立花",
      "written": "立花",
      "note": "",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664
@@ -30999,7 +31031,7 @@
      "artist": "赤月屋",
      "written": "赤月",
      "note": "",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664
@@ -31008,7 +31040,7 @@
      "artist": "kakao",
      "written": "kakao",
      "note": "",
-     "rootNo": 18,
+     "rootNo": 19,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664
@@ -31990,7 +32022,7 @@
   },
   {
    "rpid": 318744810097,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "CJJ长手猪",
    "like": 0,
@@ -32066,7 +32098,7 @@
   },
   {
    "rpid": 318746297409,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "沐辰Ofiice",
    "like": 3,
@@ -32080,7 +32112,7 @@
   },
   {
    "rpid": 322463544176,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "水墨流染",
    "like": 0,
@@ -32135,7 +32167,7 @@
    "rootNo": 3,
    "isSub": true,
    "user": "二阶堂樱羽艾玛",
-   "like": 0,
+   "like": 1,
    "ctime": 1793431367,
    "firstSeen": "",
    "content": "1212119",
@@ -32685,7 +32717,7 @@
   },
   {
    "rpid": 322484259584,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "Master獨角",
    "like": 0,
@@ -32698,7 +32730,7 @@
      "artist": "月ノ輪ガモ",
      "written": "月ノ輪ガモ",
      "note": "",
-     "rootNo": 20,
+     "rootNo": 18,
      "isSub": true,
      "user": "Master獨角",
      "rpid": 322484259584
@@ -33298,7 +33330,7 @@
   },
   {
    "rpid": 322515787120,
-   "rootNo": 63,
+   "rootNo": 64,
    "isSub": true,
    "user": "陌陌糰子",
    "like": 6,
@@ -33363,7 +33395,7 @@
   },
   {
    "rpid": 322516540112,
-   "rootNo": 63,
+   "rootNo": 64,
    "isSub": true,
    "user": "不会驱魔的驱魔骚年",
    "like": 2,
@@ -33410,7 +33442,7 @@
   },
   {
    "rpid": 318798948817,
-   "rootNo": 63,
+   "rootNo": 64,
    "isSub": true,
    "user": "七海深实实实实实",
    "like": 1,
@@ -33495,7 +33527,7 @@
   },
   {
    "rpid": 318800590929,
-   "rootNo": 63,
+   "rootNo": 64,
    "isSub": true,
    "user": "長恭雲陵",
    "like": 0,
@@ -33508,7 +33540,7 @@
      "artist": "海濑苍羽",
      "written": "海濑苍羽",
      "note": "确实好看，不确定是否为画师名",
-     "rootNo": 63,
+     "rootNo": 64,
      "isSub": true,
      "user": "長恭雲陵",
      "rpid": 318800590929
@@ -33893,7 +33925,7 @@
   },
   {
    "rpid": 318810006353,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "又拿永远骗我",
    "like": 0,
@@ -34454,7 +34486,7 @@
   },
   {
    "rpid": 318834898737,
-   "rootNo": 20,
+   "rootNo": 18,
    "isSub": true,
    "user": "讲歇后语的caulis",
    "like": 0,
@@ -35047,7 +35079,7 @@
   },
   {
    "rpid": 322593988000,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "゚牧野神奈",
    "like": 0,
@@ -35060,7 +35092,7 @@
      "artist": "360 (コナ)",
      "written": "360 (コナ)",
      "note": "原文为社团+作者写法，是否画师不确定",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "゚牧野神奈",
      "rpid": 322593988000
@@ -35216,7 +35248,7 @@
    "rootNo": 13,
    "isSub": true,
    "user": "俗家老衲",
-   "like": 0,
+   "like": 1,
    "ctime": 1793529059,
    "firstSeen": "",
    "content": "回复 @I霜无寒I :啥名字来着",
@@ -35541,7 +35573,7 @@
   },
   {
    "rpid": 318896229905,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "归虚_梦演",
    "like": 0,
@@ -35775,7 +35807,7 @@
   },
   {
    "rpid": 322648847984,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "超高出力属性解放斩",
    "like": 0,
@@ -35813,7 +35845,7 @@
   },
   {
    "rpid": 318924816705,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "滑稽吊吊",
    "like": 0,
@@ -35869,7 +35901,7 @@
   },
   {
    "rpid": 318928856225,
-   "rootNo": 58,
+   "rootNo": 59,
    "isSub": true,
    "user": "Pan小窝",
    "like": 0,
@@ -36001,7 +36033,7 @@
   },
   {
    "rpid": 322671018448,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "机械の泪",
    "like": 0,
@@ -36101,7 +36133,7 @@
   },
   {
    "rpid": 322677212208,
-   "rootNo": 66,
+   "rootNo": 67,
    "isSub": true,
    "user": "ssbn大",
    "like": 1,
@@ -36167,7 +36199,7 @@
   },
   {
    "rpid": 318954412449,
-   "rootNo": 58,
+   "rootNo": 59,
    "isSub": true,
    "user": "情澜缘予甄潇醉",
    "like": 0,
@@ -36257,7 +36289,7 @@
   },
   {
    "rpid": 322688062448,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "黄叶Hasalei",
    "like": 0,
@@ -36471,7 +36503,7 @@
   },
   {
    "rpid": 322748860928,
-   "rootNo": 78,
+   "rootNo": 57,
    "isSub": true,
    "user": "瓦米哈152",
    "like": 0,
@@ -36509,7 +36541,7 @@
   },
   {
    "rpid": 319022515473,
-   "rootNo": 18,
+   "rootNo": 19,
    "isSub": true,
    "user": "夜雨书剑僧鬼狐",
    "like": 0,
@@ -36722,7 +36754,7 @@
   },
   {
    "rpid": 319049464289,
-   "rootNo": 59,
+   "rootNo": 60,
    "isSub": true,
    "user": "汝乃傻十三",
    "like": 0,
@@ -36735,7 +36767,7 @@
      "artist": "みちきんぐ",
      "written": "米奇王",
      "note": "神中神",
-     "rootNo": 59,
+     "rootNo": 60,
      "isSub": true,
      "user": "汝乃傻十三",
      "rpid": 319049464289
@@ -36805,6 +36837,34 @@
    ],
    "workInfo": null,
    "rootUser": "Falcons-AY"
+  },
+  {
+   "rpid": 319063217329,
+   "rootNo": 191,
+   "isSub": true,
+   "user": "溺水虎鲸",
+   "like": 0,
+   "ctime": 1793689611,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "卖实体啊，本子画师在日本就是漫画家，漫展就是18禁大摆摊，抛开线下实体其他渠道肯定有收入，卖给出版方收版权就行，还有好多本子画师上岸的",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "domier7"
+  },
+  {
+   "rpid": 322797673824,
+   "rootNo": 232,
+   "isSub": true,
+   "user": "潜水关系户",
+   "like": 0,
+   "ctime": 1793690949,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "太少了再给我找点",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "www我是我www"
   }
  ]
 }
