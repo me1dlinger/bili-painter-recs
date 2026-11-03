@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 16:00:02",
    "lastFetchNew": 3,
-   "publishedAt": "2026-11-03 15:01:26",
+   "publishedAt": "2026-11-03 16:01:26",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,10 +29,10 @@
  },
  "stats": {
   "categories": {
-   "chat": 327,
+   "chat": 326,
    "artist_rec": 533,
    "work_only": 13,
-   "ask": 17,
+   "ask": 18,
    "empty": 14
   },
   "artistCount": 554,
@@ -4464,7 +4464,8 @@
    "users": 3,
    "lowConfidence": false,
    "notes": [
-    "很久不画了，领先业界十年"
+    "很久不画了，领先业界十年",
+    "画里有怨念的来了"
    ],
    "evidence": [
     {
@@ -4488,8 +4489,8 @@
      "commenter": "DERTF",
      "isSub": false,
      "written": "胃之上奇嘉郎",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "画里有怨念的来了"
     }
    ]
   },
@@ -22852,7 +22853,7 @@
     {
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
-     "note": "自动匹配 · 待复核",
+     "note": "画里有怨念的来了",
      "rootNo": 235,
      "isSub": false,
      "user": "DERTF",
@@ -36861,7 +36862,7 @@
    "ctime": 1793690949,
    "firstSeen": "2026-11-03 16:00:02",
    "content": "太少了再给我找点",
-   "category": "chat",
+   "category": "ask",
    "artists": [],
    "workInfo": null,
    "rootUser": "www我是我www"

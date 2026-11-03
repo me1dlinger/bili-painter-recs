@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-11-03 15:02:00",
+  "generatedAt": "2026-11-03 17:02:00",
   "comments": {
-    "322789494656": {
+    "322799332000": {
       "category": "artist_rec",
-      "artists": ["三十郎"],
+      "artists": ["胃之上奇嘉郎"],
       "works": [],
-      "reason": "推荐画师楼里点名三十郎",
+      "reason": "点名胃之上奇嘉郎，画里有怨念的画师",
       "mentions": [
         {
-          "name_as_written": "三十郎",
-          "canonical_guess": "三十郎",
-          "note": "点名推荐，未附评价"
+          "name_as_written": "胃之上奇嘉郎",
+          "canonical_guess": "胃之上奇嘉郎",
+          "note": "画里有怨念的来了"
         }
       ]
     },
-    "322789472992": {
-      "category": "artist_rec",
-      "artists": ["东堂葵"],
+    "322797673824": {
+      "category": "ask",
+      "artists": [],
       "works": [],
-      "reason": "推荐画师楼里点名东堂葵；东堂葵为知名角色名，疑为小众画师或玩梗，不确定",
-      "mentions": [
-        {
-          "name_as_written": "东堂葵",
-          "canonical_guess": "东堂葵",
-          "note": "推荐画师楼里点名，疑为小众画师或角色名，不确定"
-        }
-      ]
+      "reason": "求更多推荐（太少了再给我找点）",
+      "mentions": []
+    },
+    "319063217329": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "讨论本子画师商业模式（实体/漫展/上岸），未点名画师",
+      "mentions": []
     }
   }
 }
