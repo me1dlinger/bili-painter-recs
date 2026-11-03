@@ -1,26 +1,44 @@
 {
-  "generatedAt": "2026-11-04 00:02:00",
+  "generatedAt": "2026-11-04 02:02:00",
   "comments": {
-    "322837919680": {
-      "category": "chat",
-      "artists": [],
+    "322848241872": {
+      "category": "artist_rec",
+      "artists": ["guss."],
       "works": [],
-      "reason": "楼中楼讨论剧情公式化/NTR，未点名画师",
-      "mentions": []
+      "reason": "zuss.彬珩baby 去掉彬珩就是；与上次 guss.璧屿beer 同模式，zuss 疑为 guss. 输入变体",
+      "mentions": [
+        {
+          "name_as_written": "zuss.彬珩baby",
+          "canonical_guess": "guss.",
+          "note": "去掉彬珩就是 zuss.baby，zuss 疑为 guss. 输入变体，不确定"
+        }
+      ]
     },
-    "322837919664": {
-      "category": "chat",
-      "artists": [],
+    "322847832144": {
+      "category": "artist_rec",
+      "artists": ["たことかいと"],
       "works": [],
-      "reason": "楼中楼讨论剧情公式化/NTR（重复内容），未点名画师",
-      "mentions": []
+      "reason": "一级评论点名たことかいと（新画师，不确定）",
+      "mentions": [
+        {
+          "name_as_written": "たことかいと",
+          "canonical_guess": "たことかいと",
+          "note": "点名画师，未附评价，不确定"
+        }
+      ]
     },
-    "322835577344": {
-      "category": "chat",
-      "artists": [],
+    "322849000496": {
+      "category": "artist_rec",
+      "artists": ["Nakamura Regura"],
       "works": [],
-      "reason": "楼中楼互动调侃绅士，未点名画师",
-      "mentions": []
+      "reason": "点名仲村（Nakamura Regura 简称），评价最好的大姐姐类型画师",
+      "mentions": [
+        {
+          "name_as_written": "仲村",
+          "canonical_guess": "Nakamura Regura",
+          "note": "我见过最好的大姐姐类型画师"
+        }
+      ]
     }
   }
 }

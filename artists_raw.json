@@ -6686,6 +6686,73 @@
   ]
  },
  {
+  "name": "Nakamura Regura",
+  "aliases": [
+   "仲村",
+   "仲村レグラ"
+  ],
+  "mentions": 3,
+  "users": 3,
+  "likes": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "-誰でも大好き_",
+    "isSub": true,
+    "written": "Nakamura Regura",
+    "context": "",
+    "note": "画风无敌"
+   },
+   {
+    "commenter": "大海边的樱花树",
+    "isSub": false,
+    "written": "仲村レグラ",
+    "context": "",
+    "note": "有没有懂得（求懂的人）"
+   },
+   {
+    "commenter": "继国缘一233",
+    "isSub": true,
+    "written": "仲村",
+    "context": "",
+    "note": "我见过最好的大姐姐类型画师"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "Nakamura Regura",
+    "written": "Nakamura Regura",
+    "note": "画风无敌",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "-誰でも大好き_",
+    "rpid": 322435496448,
+    "like": 1
+   },
+   {
+    "artist": "Nakamura Regura",
+    "written": "仲村レグラ",
+    "note": "有没有懂得（求懂的人）",
+    "rootNo": 239,
+    "isSub": false,
+    "user": "大海边的樱花树",
+    "rpid": 322812631808,
+    "like": 0
+   },
+   {
+    "artist": "Nakamura Regura",
+    "written": "仲村",
+    "note": "我见过最好的大姐姐类型画师",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "继国缘一233",
+    "rpid": 322849000496,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "OrangeMaru",
   "aliases": [
    "Orangemaru"
@@ -8705,55 +8772,6 @@
   ]
  },
  {
-  "name": "Nakamura Regura",
-  "aliases": [
-   "仲村レグラ"
-  ],
-  "mentions": 2,
-  "users": 2,
-  "likes": 1,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "-誰でも大好き_",
-    "isSub": true,
-    "written": "Nakamura Regura",
-    "context": "",
-    "note": "画风无敌"
-   },
-   {
-    "commenter": "大海边的樱花树",
-    "isSub": false,
-    "written": "仲村レグラ",
-    "context": "",
-    "note": "有没有懂得（求懂的人）"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "Nakamura Regura",
-    "written": "Nakamura Regura",
-    "note": "画风无敌",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "-誰でも大好き_",
-    "rpid": 322435496448,
-    "like": 1
-   },
-   {
-    "artist": "Nakamura Regura",
-    "written": "仲村レグラ",
-    "note": "有没有懂得（求懂的人）",
-    "rootNo": 239,
-    "isSub": false,
-    "user": "大海边的樱花树",
-    "rpid": 322812631808,
-    "like": 0
-   }
-  ]
- },
- {
   "name": "clone",
   "aliases": [
    "clone人间"
@@ -8799,6 +8817,55 @@
     "user": "暗黑木子明",
     "rpid": 318731483009,
     "like": 0
+   }
+  ]
+ },
+ {
+  "name": "guss.",
+  "aliases": [
+   "zuss.彬珩baby"
+  ],
+  "mentions": 2,
+  "users": 2,
+  "likes": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "Eaian",
+    "isSub": false,
+    "written": "guss.",
+    "context": "",
+    "note": "原文含糊（guss.璧屿beer 去掉璧屿便是）"
+   },
+   {
+    "commenter": "呆唯可可爱爱捏",
+    "isSub": false,
+    "written": "zuss.彬珩baby",
+    "context": "",
+    "note": "去掉彬珩就是 zuss.baby，zuss 疑为 guss. 输入变体，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "guss.",
+    "written": "guss.",
+    "note": "原文含糊（guss.璧屿beer 去掉璧屿便是）",
+    "rootNo": 219,
+    "isSub": false,
+    "user": "Eaian",
+    "rpid": 322614010000,
+    "like": 0
+   },
+   {
+    "artist": "guss.",
+    "written": "zuss.彬珩baby",
+    "note": "去掉彬珩就是 zuss.baby，zuss 疑为 guss. 输入变体，不确定",
+    "rootNo": 159,
+    "isSub": false,
+    "user": "呆唯可可爱爱捏",
+    "rpid": 322848241872,
+    "like": 1
    }
   ]
  },
@@ -14010,36 +14077,6 @@
   ]
  },
  {
-  "name": "guss.",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "likes": 0,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "Eaian",
-    "isSub": false,
-    "written": "guss.",
-    "context": "",
-    "note": "原文含糊（guss.璧屿beer 去掉璧屿便是）"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "guss.",
-    "written": "guss.",
-    "note": "原文含糊（guss.璧屿beer 去掉璧屿便是）",
-    "rootNo": 219,
-    "isSub": false,
-    "user": "Eaian",
-    "rpid": 322614010000,
-    "like": 0
-   }
-  ]
- },
- {
   "name": "hahakigi",
   "aliases": [],
   "mentions": 1,
@@ -17340,6 +17377,36 @@
     "user": "师珩不失衡",
     "rpid": 322402282624,
     "like": 1
+   }
+  ]
+ },
+ {
+  "name": "たことかいと",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "main-actor",
+    "isSub": false,
+    "written": "たことかいと",
+    "context": "",
+    "note": "点名画师，未附评价，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "たことかいと",
+    "written": "たことかいと",
+    "note": "点名画师，未附评价，不确定",
+    "rootNo": 240,
+    "isSub": false,
+    "user": "main-actor",
+    "rpid": 322847832144,
+    "like": 0
    }
   ]
  },
