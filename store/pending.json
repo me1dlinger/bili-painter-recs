@@ -1,1 +1,26 @@
-{"generatedAt": "2026-11-03 12:00:37", "count": 0, "comments": []}
+{
+ "generatedAt": "2026-11-03 12:00:02",
+ "count": 2,
+ "comments": [
+  {
+   "rpid": 322775407680,
+   "user": "Touko_",
+   "content": "goat还得是世徒",
+   "like": 0,
+   "isSub": false,
+   "root": 0,
+   "autoMatched": [
+    "世徒ゆうき"
+   ]
+  },
+  {
+   "rpid": 322780142240,
+   "user": "Gabriel_ovo",
+   "content": "师走之翁，剧情脑洞太无敌了",
+   "like": 0,
+   "isSub": false,
+   "root": 0,
+   "autoMatched": []
+  }
+ ]
+}
