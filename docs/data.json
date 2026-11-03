@@ -17,9 +17,9 @@
   "update": {
    "lastFetchAt": "2026-11-03 09:00:01",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 08:01:23",
+   "publishedAt": "2026-11-03 09:01:22",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
     "mentions": 0
    },
@@ -30,9 +30,9 @@
  "stats": {
   "categories": {
    "chat": 319,
-   "artist_rec": 522,
+   "artist_rec": 523,
    "work_only": 13,
-   "ask": 18,
+   "ask": 17,
    "empty": 14
   },
   "artistCount": 553,
@@ -1691,7 +1691,8 @@
    "users": 8,
    "lowConfidence": false,
    "notes": [
-    "我只看武田弘光"
+    "我只看武田弘光",
+    "点名推荐，未附评价"
    ],
    "evidence": [
     {
@@ -1755,8 +1756,8 @@
      "commenter": "Z4D1镝",
      "isSub": true,
      "written": "武田弘光",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -20710,7 +20711,7 @@
    "ctime": 1793640377,
    "firstSeen": "2026-11-03 02:00:02",
    "content": "clneo人間有没有懂得",
-   "category": "ask",
+   "category": "artist_rec",
    "artists": [
     {
      "artist": "clneo",
@@ -36371,7 +36372,7 @@
     {
      "artist": "武田弘光",
      "written": "武田弘光",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "Z4D1镝",
