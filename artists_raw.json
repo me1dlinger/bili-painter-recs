@@ -5076,7 +5076,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 109,
+  "likes": 111,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5118,7 +5118,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 101
+    "like": 103
    },
    {
     "artist": "eo58",
@@ -5743,7 +5743,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 316,
+  "likes": 317,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5805,7 +5805,7 @@
     "isSub": true,
     "user": "Kirisaki_キ",
     "rpid": 318674430225,
-    "like": 310
+    "like": 311
    },
    {
     "artist": "無糖紅茶",
@@ -11249,7 +11249,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 108,
+  "likes": 110,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -11277,7 +11277,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 101
+    "like": 103
    },
    {
     "artist": "米山舞",
@@ -21682,7 +21682,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 101,
+  "likes": 103,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -21703,7 +21703,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 101
+    "like": 103
    }
   ]
  },

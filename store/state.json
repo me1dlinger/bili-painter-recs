@@ -1,19 +1,19 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 918,
- "total": 919,
+ "claimed": 919,
+ "total": 920,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-03 21:00:01",
+  "at": "2026-11-03 22:00:05",
   "newComments": 1,
-  "updated": 16,
+  "updated": 3,
   "autoMentions": 0,
-  "total": 919
+  "total": 920
  },
  "published": {
-  "at": "2026-11-03 22:00:50",
-  "comments": 919,
+  "at": "2026-11-03 22:01:31",
+  "comments": 920,
   "artists": 554,
   "mentions": 988,
   "artistNames": [

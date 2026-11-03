@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 21:00:01",
-  "claimedReplyCount": 918,
+  "fetchedAt": "2026-11-03 22:00:05",
+  "claimedReplyCount": 919,
   "rootCount": 238,
-  "subCount": 681,
-  "totalCount": 919,
+  "subCount": 682,
+  "totalCount": 920,
   "update": {
-   "lastFetchAt": "2026-11-03 21:00:01",
+   "lastFetchAt": "2026-11-03 22:00:05",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 21:01:27",
+   "publishedAt": "2026-11-03 22:00:50",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 334,
+   "chat": 335,
    "artist_rec": 539,
    "work_only": 13,
    "ask": 18,
@@ -2781,7 +2781,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 109,
+   "likes": 111,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -3173,7 +3173,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 316,
+   "likes": 317,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -6508,7 +6508,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 108,
+   "likes": 110,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -13478,7 +13478,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 101,
+   "likes": 103,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -15549,7 +15549,7 @@
    "rootNo": 6,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 101,
+   "like": 103,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -15563,7 +15563,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 101
+     "like": 103
     },
     {
      "artist": "eo58",
@@ -15573,7 +15573,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 101
+     "like": 103
     },
     {
      "artist": "毛谁",
@@ -15583,7 +15583,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 101
+     "like": 103
     }
    ],
    "workInfo": null,
@@ -24248,7 +24248,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 310,
+   "like": 311,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24262,7 +24262,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 310
+     "like": 311
     }
    ],
    "workInfo": null,
@@ -38735,6 +38735,20 @@
    "firstSeen": "2026-11-03 21:00:01",
    "content": "回复 @Ryen- :😂",
    "category": "empty",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319097207857,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "夏莱的厨圣",
+   "like": 0,
+   "ctime": 1793712027,
+   "firstSeen": "2026-11-03 22:00:05",
+   "content": "如月みゆ",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
