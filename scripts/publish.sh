@@ -28,5 +28,15 @@ if git diff --cached --quiet; then
   exit 0
 fi
 git commit -q -m "data: 更新评论区画师数据 $(date '+%Y-%m-%d %H:%M')"
-git push -q origin main
+# git push 偶发网络失败（TLS 握手等），自动重试最多 3 次，避免整点轮断更
+n=0
+while ! git push -q origin main; do
+  n=$((n+1))
+  if [ "$n" -ge 3 ]; then
+    echo "推送失败（已重试 3 次），请稍后手动执行 git push origin main"
+    exit 1
+  fi
+  echo "推送失败，3 秒后重试（第 $n 次）"
+  sleep 3
+done
 echo "已推送：$(git rev-parse --short HEAD)"
