@@ -110,6 +110,7 @@ for m in mstore["mentions"]:
     art = {
         "artist": key, "written": written, "note": (m.get("note") or "").strip(),
         "rootNo": c["rootNo"], "isSub": c["isSub"], "user": c["user"], "rpid": c["rpid"],
+        "like": c.get("like", 0),
     }
     mention_by_comment[c["rpid"]].append(art)
     groups[key].append(art)
@@ -139,6 +140,7 @@ for name, ms in groups.items():
     aliases = sorted({m["written"] for m in ms if m["written"] and m["written"] != name})
     artists_raw.append({
         "name": name, "aliases": aliases, "mentions": len(ms), "users": len(users),
+        "likes": sum((m.get("like") or 0) for m in ms),
         "lowConfidence": name in LOW_CONF,
         "notes": [],  # 由 data.json 阶段补全
         "evidence": [{"commenter": m["user"], "isSub": m["isSub"], "written": m["written"],
@@ -193,6 +195,7 @@ for a in artists_raw:
             notes.append(n)
     artists_out.append({
         "name": a["name"], "aliases": a["aliases"], "mentions": a["mentions"], "users": a["users"],
+        "likes": a["likes"],
         "lowConfidence": a["lowConfidence"], "notes": notes[:8], "evidence": ev,
     })
 

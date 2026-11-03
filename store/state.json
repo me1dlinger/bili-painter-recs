@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 908,
- "total": 909,
+ "claimed": 916,
+ "total": 917,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-03 18:00:02",
-  "newComments": 4,
-  "updated": 9,
-  "autoMentions": 2,
-  "total": 909
+  "at": "2026-11-03 19:00:02",
+  "newComments": 8,
+  "updated": 11,
+  "autoMentions": 1,
+  "total": 917
  },
  "published": {
-  "at": "2026-11-03 18:01:29",
-  "comments": 909,
+  "at": "2026-11-03 19:01:28",
+  "comments": 917,
   "artists": 554,
-  "mentions": 985,
+  "mentions": 986,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -101,6 +101,7 @@
    "clone",
    "homao",
    "kamasu",
+   "ks",
    "santa",
    "usa",
    "あかざわRED",
@@ -250,7 +251,6 @@
    "kingbang",
    "kizuka",
    "kozi",
-   "ks",
    "kubikiri",
    "level41",
    "manno",
