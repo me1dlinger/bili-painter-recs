@@ -260,9 +260,9 @@ json.dump(out, open(S("data.json"), "w", encoding="utf-8"), ensure_ascii=False, 
 # CSV / MD
 with open(S("画师推荐榜.csv"), "w", encoding="utf-8-sig", newline="") as f:
     wr = csv.writer(f)
-    wr.writerow(["排名", "画师", "别名", "提及次数", "推荐人数", "评论里的作品", "评论里的评价", "低置信"])
+    wr.writerow(["排名", "画师", "别名", "提及次数", "推荐人数", "点赞数", "评论里的作品", "评论里的评价", "低置信"])
     for i, a in enumerate(artists_out, 1):
-        wr.writerow([i, a["name"], " / ".join(a["aliases"]), a["mentions"], a["users"],
+        wr.writerow([i, a["name"], " / ".join(a["aliases"]), a["mentions"], a["users"], a["likes"],
                      " ; ".join(works_by_artist.get(a["name"], [])), " ; ".join(a["notes"]),
                      "是" if a["lowConfidence"] else ""])
 
@@ -288,11 +288,11 @@ add("")
 add("一位推荐者在一条评论里列出一串画师时，每个画师各计一次；同一画师被多人推荐则累计。")
 add("「提及次数」是评论里出现的次数，「推荐人数」是提到该画师的不同用户数。\n")
 add("## 二、画师推荐榜（去重 + 提及次数）\n")
-add("| # | 画师 | 别名 | 提及次数 | 推荐人数 | 评论里提到的作品 | 评论里的评价 |")
-add("| ---: | --- | --- | ---: | ---: | --- | --- |")
+add("| # | 画师 | 别名 | 提及次数 | 推荐人数 | 点赞数 | 评论里提到的作品 | 评论里的评价 |")
+add("| ---: | --- | --- | ---: | ---: | ---: | --- | --- |")
 for i, a in enumerate(artists_out, 1):
     nm = a["name"] + ("（低置信）" if a["lowConfidence"] else "")
-    add(f"| {i} | {nm} | {' / '.join(a['aliases']) or '—'} | {a['mentions']} | {a['users']} | "
+    add(f"| {i} | {nm} | {' / '.join(a['aliases']) or '—'} | {a['mentions']} | {a['users']} | {a['likes']} | "
         f"{' / '.join(works_by_artist.get(a['name'], [])) or '—'} | {('；'.join(a['notes'][:4]) or '—').replace('|','／')} |")
 add("")
 add("## 三、评论区提到的作品／系列\n")

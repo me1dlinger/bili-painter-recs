@@ -127,7 +127,7 @@ main{max-width:1500px;margin:0 auto;padding:0 24px 72px}
   background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
   overflow:hidden;box-shadow:var(--shadow)
 }
-.thead,.row{display:grid;grid-template-columns:34px minmax(112px,1fr) 132px minmax(0,1.5fr) 64px 46px 40px;align-items:center;gap:10px}
+.thead,.row{display:grid;grid-template-columns:34px minmax(112px,1fr) 132px minmax(0,1.5fr) 60px 44px 40px 42px;align-items:center;gap:10px}
 .thead{
   padding:0 14px;height:34px;background:var(--surface-2);border-bottom:1px solid var(--line);
   font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600;
@@ -153,6 +153,7 @@ main{max-width:1500px;margin:0 auto;padding:0 24px 72px}
 .scroller,.d-body{scrollbar-width:thin;scrollbar-color:var(--line-2) transparent}
 .row .m{text-align:right;font-size:13px;font-weight:600;font-variant-numeric:tabular-nums;color:var(--blue)}
 .row .u{text-align:right;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.row .l{text-align:right;font-size:12px;color:var(--muted-2);font-variant-numeric:tabular-nums}
 .row .sn{font-size:11.5px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .row .bar{height:6px;border-radius:3px;background:var(--surface-3);overflow:hidden}
 .row .bar i{display:block;height:100%;background:#bcd9f8;border-radius:3px}
@@ -391,6 +392,8 @@ td.wn{font-weight:600;color:var(--text)}
       </label>
       <select class="sel" id="sort">
         <option value="mentions">按提及次数</option>
+        <option value="hot">加权热度（提及+点赞）</option>
+        <option value="likes">按点赞数</option>
         <option value="users">按推荐人数</option>
         <option value="name">按名称</option>
         <option value="random">随机顺序</option>
@@ -417,7 +420,7 @@ td.wn{font-weight:600;color:var(--text)}
       </div>
       <div class="tablewrap">
         <div class="thead">
-          <span class="r c-i">#</span><span class="b c-n">画师</span><span class="b c-a">别名</span><span class="b c-s">评论里的一句话</span><span class="c-b">热度</span><span class="r c-m">提及</span><span class="r c-u">人数</span>
+          <span class="r c-i">#</span><span class="b c-n">画师</span><span class="b c-a">别名</span><span class="b c-s">评论里的一句话</span><span class="c-b">热度</span><span class="r c-m">提及</span><span class="r c-u">人数</span><span class="r c-l">赞</span>
         </div>
         <div class="scroller" id="rows" role="listbox" aria-label="画师榜"></div>
       </div>
@@ -540,6 +543,8 @@ function visibleArtists(){
   const d = state.data, q = state.q.trim().toLowerCase();
   let list = d.artists.filter(a => !q || (a.name+' '+a.aliases.join(' ')+' '+a.notes.join(' ')).toLowerCase().includes(q));
   if (state.sort === 'users') list = list.slice().sort((a,b)=> b.users-a.users || b.mentions-a.mentions || a.name.localeCompare(b.name,'ja'));
+  else if (state.sort === 'likes') list = list.slice().sort((a,b)=> (b.likes??0)-(a.likes??0) || b.mentions-a.mentions || a.name.localeCompare(b.name,'ja'));
+  else if (state.sort === 'hot') list = list.slice().sort((a,b)=> (b.mentions*10+(b.likes??0))-(a.mentions*10+(a.likes??0)) || a.name.localeCompare(b.name,'ja'));
   else if (state.sort === 'name') list = list.slice().sort((a,b)=> a.name.localeCompare(b.name,'ja'));
   else if (state.sort === 'random'){
     if (!state.randOrder) state.randOrder = new Map(shuffle(d.artists.map(a=>a.name)).map((n,i)=>[n,i]));
@@ -583,6 +588,7 @@ function renderRows(){
       <span class="bar"><i style="width:${Math.max(4, a.mentions/max*100)}%"></i></span>
       <span class="m">${a.mentions}</span>
       <span class="u">${a.users}</span>
+      <span class="l">${a.likes??0}</span>
     </button>`).join('');
   [...$('rows').children].forEach(el => {
     el.onclick = () => { state.sel = Number(el.dataset.i); syncRows(); renderDetail(); if (window.matchMedia('(max-width:1080px)').matches) openSheet(); };
@@ -770,10 +776,15 @@ function openDeltaModal(){
   const u = (state.data.meta.update || {});
   const na = u.newArtists || [], nw = u.newWorks || [];
   const dd = u.delta || {};
-  $('deltaOf').textContent = `${dd.artists||0} 位画师 · ${dd.comments||0} 条评论 · 上次发布 ${esc((u.publishedAt||'').slice(5,16)) || '—'}`;
+  const pct = v => v ? '+' + v : v;
+  $('deltaOf').textContent = `相对上次发布：${pct(dd.comments||0)} 评论 · ${pct(dd.artists||0)} 画师 · ${pct(dd.mentions||0)} 提及（${esc((u.publishedAt||'').slice(5,16)) || '—'}）`;
   let html = '';
   if (!na.length && !nw.length){
-    html = '<div class="d-empty">相对上次发布没有新增画师或作品。之后每次发布，这里会列出新增内容。</div>';
+    if ((dd.comments||0) + (dd.artists||0) + (dd.mentions||0) === 0){
+      html = '<div class="d-empty">相对上次发布没有变化。之后每次发布，这里会列出新增画师与作品。</div>';
+    } else {
+      html = `<div class="d-empty">本次只有评论/提及增加（${pct(dd.comments||0)} 条评论 · ${pct(dd.mentions||0)} 次提及），没有新增画师或作品。</div>`;
+    }
   }
   if (na.length){
     html += '<div class="r-sec">新增画师（' + na.length + '）</div><div class="chips">'

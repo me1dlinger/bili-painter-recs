@@ -17,9 +17,9 @@
   "update": {
    "lastFetchAt": "2026-11-03 19:00:02",
    "lastFetchNew": 8,
-   "publishedAt": "2026-11-03 18:01:29",
+   "publishedAt": "2026-11-03 19:01:28",
    "delta": {
-    "comments": 8,
+    "comments": 0,
     "artists": 0,
     "mentions": 1
    },
@@ -36,7 +36,7 @@
    "empty": 14
   },
   "artistCount": 554,
-  "mentionCount": 986
+  "mentionCount": 987
  },
  "artists": [
   {
@@ -1068,6 +1068,7 @@
   {
    "name": "肉棒魔羅ノ進",
    "aliases": [
+    "roubang魔罗进",
     "内棒魔罗進",
     "肉○魔罗",
     "肉捧魔羅",
@@ -1087,7 +1088,8 @@
     "假小子的神",
     "仅两字，疑指前文魔羅ノ進",
     "传奇假小子训练家",
-    "问还能不能出好看的大姐姐本"
+    "问还能不能出好看的大姐姐本",
+    "拼音+简体写法点名"
    ],
    "evidence": [
     {
@@ -1182,9 +1184,9 @@
      "rpid": 322809003376,
      "commenter": "酸巧克力派",
      "isSub": true,
-     "written": "肉棒魔羅ノ進",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "roubang魔罗进",
+     "context": "",
+     "note": "拼音+简体写法点名"
     }
    ]
   },
@@ -3547,7 +3549,8 @@
    "lowConfidence": false,
    "notes": [
     "很久不画了，领先业界十年",
-    "画里有怨念的来了"
+    "画里有怨念的来了",
+    "著名的侍奉委员那本"
    ],
    "evidence": [
     {
@@ -3579,8 +3582,8 @@
      "commenter": "DERTF",
      "isSub": true,
      "written": "胃之上奇嘉郎",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "著名的侍奉委员那本"
     }
    ]
   },
@@ -4911,6 +4914,38 @@
    ]
   },
   {
+   "name": "Nakamura Regura",
+   "aliases": [
+    "仲村レグラ"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "likes": 1,
+   "lowConfidence": false,
+   "notes": [
+    "画风无敌",
+    "有没有懂得（求懂的人）"
+   ],
+   "evidence": [
+    {
+     "rpid": 322435496448,
+     "commenter": "-誰でも大好き_",
+     "isSub": true,
+     "written": "Nakamura Regura",
+     "context": "",
+     "note": "画风无敌"
+    },
+    {
+     "rpid": 322812631808,
+     "commenter": "大海边的樱花树",
+     "isSub": false,
+     "written": "仲村レグラ",
+     "context": "",
+     "note": "有没有懂得（求懂的人）"
+    }
+   ]
+  },
+  {
    "name": "clone",
    "aliases": [
     "clone人间"
@@ -4999,35 +5034,6 @@
      "written": "kamasu",
      "context": "",
      "note": "自己 EH 下载栏中的画师"
-    }
-   ]
-  },
-  {
-   "name": "ks",
-   "aliases": [],
-   "mentions": 2,
-   "users": 2,
-   "likes": 1,
-   "lowConfidence": false,
-   "notes": [
-    "全彩佳代子画的最舒服，纯爱画师"
-   ],
-   "evidence": [
-    {
-     "rpid": 318718097169,
-     "commenter": "SANSJOJO",
-     "isSub": true,
-     "written": "ks",
-     "context": "",
-     "note": "全彩佳代子画的最舒服，纯爱画师"
-    },
-    {
-     "rpid": 322814235616,
-     "commenter": "我才是吴迪ovo",
-     "isSub": true,
-     "written": "ks",
-     "context": "自动匹配 · 待复核",
-     "note": ""
     }
    ]
   },
@@ -5177,6 +5183,38 @@
      "written": "うしのみや",
      "context": "",
      "note": "珍藏的三位之一"
+    }
+   ]
+  },
+  {
+   "name": "えいとまん",
+   "aliases": [
+    "eightman"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "likes": 10,
+   "lowConfidence": false,
+   "notes": [
+    "画风很喜欢",
+    "单论本子都不如 eightman"
+   ],
+   "evidence": [
+    {
+     "rpid": 318848290545,
+     "commenter": "violetaaaaaaaaa",
+     "isSub": false,
+     "written": "えいとまん",
+     "context": "",
+     "note": "画风很喜欢"
+    },
+    {
+     "rpid": 322810189552,
+     "commenter": "Etiw",
+     "isSub": false,
+     "written": "eightman",
+     "context": "",
+     "note": "单论本子都不如 eightman"
     }
    ]
   },
@@ -7785,27 +7823,6 @@
    ]
   },
   {
-   "name": "Nakamura Regura",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 1,
-   "lowConfidence": false,
-   "notes": [
-    "画风无敌"
-   ],
-   "evidence": [
-    {
-     "rpid": 322435496448,
-     "commenter": "-誰でも大好き_",
-     "isSub": true,
-     "written": "Nakamura Regura",
-     "context": "",
-     "note": "画风无敌"
-    }
-   ]
-  },
-  {
    "name": "Ogre",
    "aliases": [],
    "mentions": 1,
@@ -8695,6 +8712,27 @@
      "written": "kozi",
      "context": "",
      "note": "长名单其中一位"
+    }
+   ]
+  },
+  {
+   "name": "ks",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 1,
+   "lowConfidence": false,
+   "notes": [
+    "全彩佳代子画的最舒服，纯爱画师"
+   ],
+   "evidence": [
+    {
+     "rpid": 318718097169,
+     "commenter": "SANSJOJO",
+     "isSub": true,
+     "written": "ks",
+     "context": "",
+     "note": "全彩佳代子画的最舒服，纯爱画师"
     }
    ]
   },
@@ -9924,27 +9962,6 @@
      "written": "うるりひ",
      "context": "",
      "note": "长名单其中一位"
-    }
-   ]
-  },
-  {
-   "name": "えいとまん",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 10,
-   "lowConfidence": false,
-   "notes": [
-    "画风很喜欢"
-   ],
-   "evidence": [
-    {
-     "rpid": 318848290545,
-     "commenter": "violetaaaaaaaaa",
-     "isSub": false,
-     "written": "えいとまん",
-     "context": "",
-     "note": "画风很喜欢"
     }
    ]
   },
@@ -23982,8 +23999,19 @@
    "ctime": 1793700077,
    "firstSeen": "2026-11-03 19:00:02",
    "content": "单论本子我觉得都不如eightman",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "えいとまん",
+     "written": "eightman",
+     "note": "单论本子都不如 eightman",
+     "rootNo": 237,
+     "isSub": false,
+     "user": "Etiw",
+     "rpid": 322810189552,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -23997,7 +24025,18 @@
    "firstSeen": "2026-11-03 19:00:02",
    "content": "仲村レグラ，有没有懂得？",
    "category": "ask",
-   "artists": [],
+   "artists": [
+    {
+     "artist": "Nakamura Regura",
+     "written": "仲村レグラ",
+     "note": "有没有懂得（求懂的人）",
+     "rootNo": 238,
+     "isSub": false,
+     "user": "大海边的樱花树",
+     "rpid": 322812631808,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -38531,8 +38570,8 @@
    "artists": [
     {
      "artist": "肉棒魔羅ノ進",
-     "written": "肉棒魔羅ノ進",
-     "note": "自动匹配 · 待复核",
+     "written": "roubang魔罗进",
+     "note": "拼音+简体写法点名",
      "rootNo": 13,
      "isSub": true,
      "user": "酸巧克力派",
@@ -38557,7 +38596,7 @@
     {
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
-     "note": "自动匹配 · 待复核",
+     "note": "著名的侍奉委员那本",
      "rootNo": 158,
      "isSub": true,
      "user": "DERTF",
@@ -38605,19 +38644,8 @@
    "ctime": 1793702433,
    "firstSeen": "2026-11-03 19:00:02",
    "content": "回复 @Duskswood :你头像是哪个",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "ks",
-     "written": "ks",
-     "note": "自动匹配 · 待复核",
-     "rootNo": 17,
-     "isSub": true,
-     "user": "我才是吴迪ovo",
-     "rpid": 322814235616,
-     "like": 0
-    }
-   ],
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": "Duskswood"
   },

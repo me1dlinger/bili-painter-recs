@@ -1958,6 +1958,7 @@
  {
   "name": "肉棒魔羅ノ進",
   "aliases": [
+   "roubang魔罗进",
    "内棒魔罗進",
    "肉○魔罗",
    "肉捧魔羅",
@@ -2053,9 +2054,9 @@
    {
     "commenter": "酸巧克力派",
     "isSub": true,
-    "written": "肉棒魔羅ノ進",
+    "written": "roubang魔罗进",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "拼音+简体写法点名"
    }
   ],
   "_raw": [
@@ -2171,8 +2172,8 @@
    },
    {
     "artist": "肉棒魔羅ノ進",
-    "written": "肉棒魔羅ノ進",
-    "note": "自动匹配 · 待复核",
+    "written": "roubang魔罗进",
+    "note": "拼音+简体写法点名",
     "rootNo": 13,
     "isSub": true,
     "user": "酸巧克力派",
@@ -6421,7 +6422,7 @@
     "isSub": true,
     "written": "胃之上奇嘉郎",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "著名的侍奉委员那本"
    }
   ],
   "_raw": [
@@ -6458,7 +6459,7 @@
    {
     "artist": "胃之上奇嘉郎",
     "written": "胃之上奇嘉郎",
-    "note": "自动匹配 · 待复核",
+    "note": "著名的侍奉委员那本",
     "rootNo": 158,
     "isSub": true,
     "user": "DERTF",
@@ -8687,6 +8688,55 @@
   ]
  },
  {
+  "name": "Nakamura Regura",
+  "aliases": [
+   "仲村レグラ"
+  ],
+  "mentions": 2,
+  "users": 2,
+  "likes": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "-誰でも大好き_",
+    "isSub": true,
+    "written": "Nakamura Regura",
+    "context": "",
+    "note": "画风无敌"
+   },
+   {
+    "commenter": "大海边的樱花树",
+    "isSub": false,
+    "written": "仲村レグラ",
+    "context": "",
+    "note": "有没有懂得（求懂的人）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "Nakamura Regura",
+    "written": "Nakamura Regura",
+    "note": "画风无敌",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "-誰でも大好き_",
+    "rpid": 322435496448,
+    "like": 1
+   },
+   {
+    "artist": "Nakamura Regura",
+    "written": "仲村レグラ",
+    "note": "有没有懂得（求懂的人）",
+    "rootNo": 238,
+    "isSub": false,
+    "user": "大海边的樱花树",
+    "rpid": 322812631808,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "clone",
   "aliases": [
    "clone人间"
@@ -8827,53 +8877,6 @@
     "isSub": false,
     "user": "绅士雏",
     "rpid": 322413257040,
-    "like": 0
-   }
-  ]
- },
- {
-  "name": "ks",
-  "aliases": [],
-  "mentions": 2,
-  "users": 2,
-  "likes": 1,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "SANSJOJO",
-    "isSub": true,
-    "written": "ks",
-    "context": "",
-    "note": "全彩佳代子画的最舒服，纯爱画师"
-   },
-   {
-    "commenter": "我才是吴迪ovo",
-    "isSub": true,
-    "written": "ks",
-    "context": "",
-    "note": "自动匹配 · 待复核"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "ks",
-    "written": "ks",
-    "note": "全彩佳代子画的最舒服，纯爱画师",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "SANSJOJO",
-    "rpid": 318718097169,
-    "like": 1
-   },
-   {
-    "artist": "ks",
-    "written": "ks",
-    "note": "自动匹配 · 待复核",
-    "rootNo": 17,
-    "isSub": true,
-    "user": "我才是吴迪ovo",
-    "rpid": 322814235616,
     "like": 0
    }
   ]
@@ -9111,6 +9114,55 @@
     "isSub": false,
     "user": "岩扉kexcen",
     "rpid": 318811695505,
+    "like": 0
+   }
+  ]
+ },
+ {
+  "name": "えいとまん",
+  "aliases": [
+   "eightman"
+  ],
+  "mentions": 2,
+  "users": 2,
+  "likes": 10,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "violetaaaaaaaaa",
+    "isSub": false,
+    "written": "えいとまん",
+    "context": "",
+    "note": "画风很喜欢"
+   },
+   {
+    "commenter": "Etiw",
+    "isSub": false,
+    "written": "eightman",
+    "context": "",
+    "note": "单论本子都不如 eightman"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "えいとまん",
+    "written": "えいとまん",
+    "note": "画风很喜欢",
+    "rootNo": 31,
+    "isSub": false,
+    "user": "violetaaaaaaaaa",
+    "rpid": 318848290545,
+    "like": 10
+   },
+   {
+    "artist": "えいとまん",
+    "written": "eightman",
+    "note": "单论本子都不如 eightman",
+    "rootNo": 237,
+    "isSub": false,
+    "user": "Etiw",
+    "rpid": 322810189552,
     "like": 0
    }
   ]
@@ -13221,36 +13273,6 @@
   ]
  },
  {
-  "name": "Nakamura Regura",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "likes": 1,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "-誰でも大好き_",
-    "isSub": true,
-    "written": "Nakamura Regura",
-    "context": "",
-    "note": "画风无敌"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "Nakamura Regura",
-    "written": "Nakamura Regura",
-    "note": "画风无敌",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "-誰でも大好き_",
-    "rpid": 322435496448,
-    "like": 1
-   }
-  ]
- },
- {
   "name": "Ogre",
   "aliases": [],
   "mentions": 1,
@@ -14597,6 +14619,36 @@
     "user": "空想庭院",
     "rpid": 322620677488,
     "like": 2
+   }
+  ]
+ },
+ {
+  "name": "ks",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 1,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "SANSJOJO",
+    "isSub": true,
+    "written": "ks",
+    "context": "",
+    "note": "全彩佳代子画的最舒服，纯爱画师"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "ks",
+    "written": "ks",
+    "note": "全彩佳代子画的最舒服，纯爱画师",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "SANSJOJO",
+    "rpid": 318718097169,
+    "like": 1
    }
   ]
  },
@@ -16429,36 +16481,6 @@
     "user": "空想庭院",
     "rpid": 322620677488,
     "like": 2
-   }
-  ]
- },
- {
-  "name": "えいとまん",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "likes": 10,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "violetaaaaaaaaa",
-    "isSub": false,
-    "written": "えいとまん",
-    "context": "",
-    "note": "画风很喜欢"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "えいとまん",
-    "written": "えいとまん",
-    "note": "画风很喜欢",
-    "rootNo": 31,
-    "isSub": false,
-    "user": "violetaaaaaaaaa",
-    "rpid": 318848290545,
-    "like": 10
    }
   ]
  },
