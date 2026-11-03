@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 904,
- "total": 905,
+ "claimed": 908,
+ "total": 909,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-03 17:00:02",
-  "newComments": 1,
-  "updated": 6,
-  "autoMentions": 1,
-  "total": 905
+  "at": "2026-11-03 18:00:02",
+  "newComments": 4,
+  "updated": 9,
+  "autoMentions": 2,
+  "total": 909
  },
  "published": {
-  "at": "2026-11-03 18:00:19",
-  "comments": 905,
+  "at": "2026-11-03 18:01:29",
+  "comments": 909,
   "artists": 554,
-  "mentions": 983,
+  "mentions": 985,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -62,6 +62,7 @@
    "にの子",
    "煌野一人",
    "立花",
+   "胃之上奇嘉郎",
    "92m",
    "Fan",
    "Jin",
@@ -88,7 +89,6 @@
    "森島コン",
    "清炭ハリケーン",
    "満開開花",
-   "胃之上奇嘉郎",
    "袁藤冲人",
    "豆六",
    "赤月屋",
