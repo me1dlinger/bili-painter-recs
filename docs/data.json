@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 16:00:02",
-  "claimedReplyCount": 903,
+  "fetchedAt": "2026-11-03 17:00:02",
+  "claimedReplyCount": 904,
   "rootCount": 235,
-  "subCount": 669,
-  "totalCount": 904,
+  "subCount": 670,
+  "totalCount": 905,
   "update": {
-   "lastFetchAt": "2026-11-03 16:00:02",
-   "lastFetchNew": 3,
-   "publishedAt": "2026-11-03 16:01:26",
+   "lastFetchAt": "2026-11-03 17:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-03 17:00:36",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 326,
-   "artist_rec": 533,
+   "artist_rec": 534,
    "work_only": 13,
    "ask": 18,
    "empty": 14
   },
   "artistCount": 554,
-  "mentionCount": 982
+  "mentionCount": 983
  },
  "artists": [
   {
@@ -1949,6 +1949,89 @@
    ]
   },
   {
+   "name": "三十郎",
+   "aliases": [
+    "さんじゅうろ"
+   ],
+   "mentions": 8,
+   "users": 7,
+   "lowConfidence": false,
+   "notes": [
+    "人体钻研度最好",
+    "线条清晰，画风舒服，角色画的也好看，神中神",
+    "画功的细致方面绝对堪称顶配",
+    "牛的，本本精品",
+    "三十郎画的确实很美",
+    "点名推荐，未附评价"
+   ],
+   "evidence": [
+    {
+     "rpid": 318827127009,
+     "commenter": "nobleeeguy",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322440779360,
+     "commenter": "奋战一夜仍不倒",
+     "isSub": false,
+     "written": "三十郎",
+     "context": "",
+     "note": "人体钻研度最好"
+    },
+    {
+     "rpid": 322491695728,
+     "commenter": "屑の魔女イレナ",
+     "isSub": false,
+     "written": "さんじゅうろ",
+     "context": "",
+     "note": "线条清晰，画风舒服，角色画的也好看，神中神"
+    },
+    {
+     "rpid": 322444051104,
+     "commenter": "奋战一夜仍不倒",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "",
+     "note": "画功的细致方面绝对堪称顶配"
+    },
+    {
+     "rpid": 318908303937,
+     "commenter": "心心相惜的彼岸花",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "",
+     "note": "牛的，本本精品"
+    },
+    {
+     "rpid": 322687890384,
+     "commenter": "黄叶Hasalei",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "",
+     "note": "三十郎画的确实很美"
+    },
+    {
+     "rpid": 322789494656,
+     "commenter": "心天天好",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "",
+     "note": "点名推荐，未附评价"
+    },
+    {
+     "rpid": 322803837248,
+     "commenter": "萧萧暮贤",
+     "isSub": true,
+     "written": "三十郎",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "昼寝",
    "aliases": [
     "晝寢"
@@ -2169,81 +2252,6 @@
      "written": "田屋沼屋",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "三十郎",
-   "aliases": [
-    "さんじゅうろ"
-   ],
-   "mentions": 7,
-   "users": 6,
-   "lowConfidence": false,
-   "notes": [
-    "人体钻研度最好",
-    "线条清晰，画风舒服，角色画的也好看，神中神",
-    "画功的细致方面绝对堪称顶配",
-    "牛的，本本精品",
-    "三十郎画的确实很美",
-    "点名推荐，未附评价"
-   ],
-   "evidence": [
-    {
-     "rpid": 318827127009,
-     "commenter": "nobleeeguy",
-     "isSub": true,
-     "written": "三十郎",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322440779360,
-     "commenter": "奋战一夜仍不倒",
-     "isSub": false,
-     "written": "三十郎",
-     "context": "",
-     "note": "人体钻研度最好"
-    },
-    {
-     "rpid": 322491695728,
-     "commenter": "屑の魔女イレナ",
-     "isSub": false,
-     "written": "さんじゅうろ",
-     "context": "",
-     "note": "线条清晰，画风舒服，角色画的也好看，神中神"
-    },
-    {
-     "rpid": 322444051104,
-     "commenter": "奋战一夜仍不倒",
-     "isSub": true,
-     "written": "三十郎",
-     "context": "",
-     "note": "画功的细致方面绝对堪称顶配"
-    },
-    {
-     "rpid": 318908303937,
-     "commenter": "心心相惜的彼岸花",
-     "isSub": true,
-     "written": "三十郎",
-     "context": "",
-     "note": "牛的，本本精品"
-    },
-    {
-     "rpid": 322687890384,
-     "commenter": "黄叶Hasalei",
-     "isSub": true,
-     "written": "三十郎",
-     "context": "",
-     "note": "三十郎画的确实很美"
-    },
-    {
-     "rpid": 322789494656,
-     "commenter": "心天天好",
-     "isSub": true,
-     "written": "三十郎",
-     "context": "",
-     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -14811,7 +14819,7 @@
    "rootNo": 3,
    "isSub": false,
    "user": "超级巨音箱蟀侠",
-   "like": 124,
+   "like": 125,
    "ctime": 1793371000,
    "firstSeen": "",
    "content": "我推荐这个 燃烧瓶必看",
@@ -15041,7 +15049,7 @@
    "rootNo": 10,
    "isSub": false,
    "user": "鸽书常",
-   "like": 56,
+   "like": 57,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -15271,7 +15279,7 @@
    "rootNo": 15,
    "isSub": false,
    "user": "不平等云雾",
-   "like": 31,
+   "like": 32,
    "ctime": 1793542679,
    "firstSeen": "2026-11-01 22:21:18",
    "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
@@ -16661,8 +16669,32 @@
    "rootUser": ""
   },
   {
-   "rpid": 318678174993,
+   "rpid": 318733322129,
    "rootNo": 54,
+   "isSub": false,
+   "user": "情澜缘予甄潇醉",
+   "like": 4,
+   "ctime": 1793422644,
+   "firstSeen": "",
+   "content": "我心中的goat只有一个。mstpjin老师。",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "mstpjin",
+     "written": "mstpjin",
+     "note": "心中的goat",
+     "rootNo": 54,
+     "isSub": false,
+     "user": "情澜缘予甄潇醉",
+     "rpid": 318733322129
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318678174993,
+   "rootNo": 55,
    "isSub": false,
    "user": "Hayate铁文",
    "like": 3,
@@ -16675,7 +16707,7 @@
      "artist": "森島コン",
      "written": "森島コン",
      "note": "姐姐正太的神，画风往酷形方向变",
-     "rootNo": 54,
+     "rootNo": 55,
      "isSub": false,
      "user": "Hayate铁文",
      "rpid": 318678174993
@@ -16686,7 +16718,7 @@
   },
   {
    "rpid": 322396343520,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": false,
    "user": "cotten44",
    "like": 3,
@@ -16699,7 +16731,7 @@
      "artist": "川上六角",
      "written": "川上六角",
      "note": "不爱画表情，画风细致；偏爱妮娅、赫萝",
-     "rootNo": 55,
+     "rootNo": 56,
      "isSub": false,
      "user": "cotten44",
      "rpid": 322396343520
@@ -16710,7 +16742,7 @@
   },
   {
    "rpid": 322411946864,
-   "rootNo": 56,
+   "rootNo": 57,
    "isSub": false,
    "user": "卡普斯基",
    "like": 3,
@@ -16723,7 +16755,7 @@
      "artist": "師走の翁",
      "written": "师走の翁",
      "note": "",
-     "rootNo": 56,
+     "rootNo": 57,
      "isSub": false,
      "user": "卡普斯基",
      "rpid": 322411946864
@@ -16732,7 +16764,7 @@
      "artist": "八宝備仁",
      "written": "八宝备仁",
      "note": "插画，童年滤镜",
-     "rootNo": 56,
+     "rootNo": 57,
      "isSub": false,
      "user": "卡普斯基",
      "rpid": 322411946864
@@ -16743,7 +16775,7 @@
   },
   {
    "rpid": 322430887504,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": false,
    "user": "到此一游NIE",
    "like": 3,
@@ -16757,7 +16789,7 @@
   },
   {
    "rpid": 318719693297,
-   "rootNo": 58,
+   "rootNo": 59,
    "isSub": false,
    "user": "神奇的malatang",
    "like": 3,
@@ -16770,7 +16802,7 @@
      "artist": "ホムンクルス",
      "written": "人造人",
      "note": "",
-     "rootNo": 58,
+     "rootNo": 59,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16779,7 +16811,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "",
-     "rootNo": 58,
+     "rootNo": 59,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16788,7 +16820,7 @@
      "artist": "けれんめ",
      "written": "けれんメ",
      "note": "",
-     "rootNo": 58,
+     "rootNo": 59,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
@@ -16797,34 +16829,10 @@
      "artist": "けれんめ",
      "written": "けれんめ",
      "note": "堪称里界藤本树",
-     "rootNo": 58,
+     "rootNo": 59,
      "isSub": false,
      "user": "神奇的malatang",
      "rpid": 318719693297
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318733322129,
-   "rootNo": 59,
-   "isSub": false,
-   "user": "情澜缘予甄潇醉",
-   "like": 3,
-   "ctime": 1793422644,
-   "firstSeen": "",
-   "content": "我心中的goat只有一个。mstpjin老师。",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "mstpjin",
-     "written": "mstpjin",
-     "note": "心中的goat",
-     "rootNo": 59,
-     "isSub": false,
-     "user": "情澜缘予甄潇醉",
-     "rpid": 318733322129
     }
    ],
    "workInfo": null,
@@ -27426,7 +27434,7 @@
   },
   {
    "rpid": 322414581856,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": true,
    "user": "前有泪_但无谓",
    "like": 0,
@@ -27605,7 +27613,7 @@
    "rootNo": 13,
    "isSub": true,
    "user": "゙河城荷取",
-   "like": 10,
+   "like": 11,
    "ctime": 1793389893,
    "firstSeen": "",
    "content": "下面那个脸不是籽岷吗",
@@ -29602,7 +29610,7 @@
   },
   {
    "rpid": 322431974624,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "chellyEGOISTs",
    "like": 0,
@@ -29744,7 +29752,7 @@
   },
   {
    "rpid": 322433511984,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "如此易碎的日常",
    "like": 1,
@@ -30221,7 +30229,7 @@
   },
   {
    "rpid": 322436184576,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "草莓NK",
    "like": 1,
@@ -30235,7 +30243,7 @@
   },
   {
    "rpid": 322436519792,
-   "rootNo": 55,
+   "rootNo": 56,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 0,
@@ -30301,7 +30309,7 @@
   },
   {
    "rpid": 322436597200,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "羊驼牧场场主",
    "like": 9,
@@ -30315,7 +30323,7 @@
   },
   {
    "rpid": 322436642288,
-   "rootNo": 54,
+   "rootNo": 55,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 0,
@@ -30456,7 +30464,7 @@
   },
   {
    "rpid": 322437370816,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "愿作恶鬼流浪的孤独者",
    "like": 8,
@@ -30939,7 +30947,7 @@
   },
   {
    "rpid": 322440471952,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "徒留迷香",
    "like": 0,
@@ -32099,7 +32107,7 @@
   },
   {
    "rpid": 318746297409,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "沐辰Ofiice",
    "like": 3,
@@ -32113,7 +32121,7 @@
   },
   {
    "rpid": 322463544176,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "水墨流染",
    "like": 0,
@@ -33926,7 +33934,7 @@
   },
   {
    "rpid": 318810006353,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "又拿永远骗我",
    "like": 0,
@@ -35808,7 +35816,7 @@
   },
   {
    "rpid": 322648847984,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "超高出力属性解放斩",
    "like": 0,
@@ -35846,7 +35854,7 @@
   },
   {
    "rpid": 318924816705,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "滑稽吊吊",
    "like": 0,
@@ -35902,7 +35910,7 @@
   },
   {
    "rpid": 318928856225,
-   "rootNo": 59,
+   "rootNo": 54,
    "isSub": true,
    "user": "Pan小窝",
    "like": 0,
@@ -36034,7 +36042,7 @@
   },
   {
    "rpid": 322671018448,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "机械の泪",
    "like": 0,
@@ -36200,7 +36208,7 @@
   },
   {
    "rpid": 318954412449,
-   "rootNo": 59,
+   "rootNo": 54,
    "isSub": true,
    "user": "情澜缘予甄潇醉",
    "like": 0,
@@ -36504,7 +36512,7 @@
   },
   {
    "rpid": 322748860928,
-   "rootNo": 57,
+   "rootNo": 58,
    "isSub": true,
    "user": "瓦米哈152",
    "like": 0,
@@ -36866,6 +36874,30 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "www我是我www"
+  },
+  {
+   "rpid": 322803837248,
+   "rootNo": 4,
+   "isSub": true,
+   "user": "萧萧暮贤",
+   "like": 0,
+   "ctime": 1793695794,
+   "firstSeen": "2026-11-03 17:00:02",
+   "content": "回复 @nobleeeguy :さんじゅうろう的剧情我不是很喜欢，虽然她真的是快乐天很热门的老师[兔兔岛_开心][兔兔岛_开心][兔兔岛_开心]",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "三十郎",
+     "written": "三十郎",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 4,
+     "isSub": true,
+     "user": "萧萧暮贤",
+     "rpid": 322803837248
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "萧萧暮贤"
   }
  ]
 }
