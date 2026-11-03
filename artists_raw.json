@@ -464,16 +464,16 @@
    {
     "commenter": "汝乃傻十三",
     "isSub": true,
-    "written": "みちきんぐ",
+    "written": "米奇王",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "神中神"
    },
    {
     "commenter": "汝乃傻十三",
     "isSub": true,
-    "written": "みちきんぐ",
+    "written": "米奇王",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "咋没有说米奇王啊"
    }
   ],
   "_raw": [
@@ -623,8 +623,8 @@
    },
    {
     "artist": "みちきんぐ",
-    "written": "みちきんぐ",
-    "note": "自动匹配 · 待复核",
+    "written": "米奇王",
+    "note": "神中神",
     "rootNo": 59,
     "isSub": true,
     "user": "汝乃傻十三",
@@ -632,8 +632,8 @@
    },
    {
     "artist": "みちきんぐ",
-    "written": "みちきんぐ",
-    "note": "自动匹配 · 待复核",
+    "written": "米奇王",
+    "note": "咋没有说米奇王啊",
     "rootNo": 1,
     "isSub": true,
     "user": "汝乃傻十三",
@@ -3611,9 +3611,9 @@
    {
     "commenter": "汝乃傻十三",
     "isSub": true,
-    "written": "きょくちょ",
+    "written": "局长",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "不是很戳我"
    }
   ],
   "_raw": [
@@ -3673,8 +3673,8 @@
    },
    {
     "artist": "きょくちょ",
-    "written": "きょくちょ",
-    "note": "自动匹配 · 待复核",
+    "written": "局长",
+    "note": "不是很戳我",
     "rootNo": 1,
     "isSub": true,
     "user": "汝乃傻十三",
@@ -4971,9 +4971,9 @@
    {
     "commenter": "Touko_",
     "isSub": false,
-    "written": "世徒ゆうき",
+    "written": "世徒",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "GOAT 还得是世徒，强烈认可"
    }
   ],
   "_raw": [
@@ -5006,8 +5006,8 @@
    },
    {
     "artist": "世徒ゆうき",
-    "written": "世徒ゆうき",
-    "note": "自动匹配 · 待复核",
+    "written": "世徒",
+    "note": "GOAT 还得是世徒，强烈认可",
     "rootNo": 157,
     "isSub": false,
     "user": "Touko_",
@@ -6293,7 +6293,7 @@
     "isSub": true,
     "written": "karory",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "是神"
    }
   ],
   "_raw": [
@@ -6318,7 +6318,7 @@
    {
     "artist": "karory",
     "written": "karory",
-    "note": "自动匹配 · 待复核",
+    "note": "是神",
     "rootNo": 1,
     "isSub": true,
     "user": "汝乃傻十三",
@@ -6994,6 +6994,69 @@
     "isSub": true,
     "user": "老菠萝羊驼",
     "rpid": 322409625776
+   }
+  ]
+ },
+ {
+  "name": "師走の翁",
+  "aliases": [
+   "师走の翁",
+   "师走之翁"
+  ],
+  "mentions": 3,
+  "users": 3,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "卡普斯基",
+    "isSub": false,
+    "written": "师走の翁",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "101连击熊",
+    "isSub": true,
+    "written": "師走の翁",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "Gabriel_ovo",
+    "isSub": false,
+    "written": "师走之翁",
+    "context": "",
+    "note": "剧情脑洞太无敌了"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "師走の翁",
+    "written": "师走の翁",
+    "note": "",
+    "rootNo": 56,
+    "isSub": false,
+    "user": "卡普斯基",
+    "rpid": 322411946864
+   },
+   {
+    "artist": "師走の翁",
+    "written": "師走の翁",
+    "note": "",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "101连击熊",
+    "rpid": 322689272944
+   },
+   {
+    "artist": "師走の翁",
+    "written": "师走之翁",
+    "note": "剧情脑洞太无敌了",
+    "rootNo": 88,
+    "isSub": false,
+    "user": "Gabriel_ovo",
+    "rpid": 322780142240
    }
   ]
  },
@@ -9451,52 +9514,6 @@
     "isSub": false,
     "user": "cotten44",
     "rpid": 322396343520
-   }
-  ]
- },
- {
-  "name": "師走の翁",
-  "aliases": [
-   "师走の翁"
-  ],
-  "mentions": 2,
-  "users": 2,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "卡普斯基",
-    "isSub": false,
-    "written": "师走の翁",
-    "context": "",
-    "note": ""
-   },
-   {
-    "commenter": "101连击熊",
-    "isSub": true,
-    "written": "師走の翁",
-    "context": "",
-    "note": ""
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "師走の翁",
-    "written": "师走の翁",
-    "note": "",
-    "rootNo": 56,
-    "isSub": false,
-    "user": "卡普斯基",
-    "rpid": 322411946864
-   },
-   {
-    "artist": "師走の翁",
-    "written": "師走の翁",
-    "note": "",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "101连击熊",
-    "rpid": 322689272944
    }
   ]
  },

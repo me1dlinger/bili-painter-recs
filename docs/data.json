@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 13:00:02",
    "lastFetchNew": 8,
-   "publishedAt": "2026-11-03 12:01:25",
+   "publishedAt": "2026-11-03 13:01:25",
    "delta": {
-    "comments": 8,
+    "comments": 0,
     "artists": 0,
-    "mentions": 4
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 325,
-   "artist_rec": 529,
-   "work_only": 13,
+   "chat": 324,
+   "artist_rec": 530,
+   "work_only": 14,
    "ask": 17,
-   "empty": 15
+   "empty": 14
   },
   "artistCount": 553,
-  "mentionCount": 978
+  "mentionCount": 979
  },
  "artists": [
   {
@@ -240,7 +240,9 @@
     "长名单其中一位；与「米奇王」同一人",
     "顺带提及（评论者自称不必推荐）",
     "应求推荐",
-    "得算不错的了"
+    "得算不错的了",
+    "神中神",
+    "咋没有说米奇王啊"
    ],
    "evidence": [
     {
@@ -375,17 +377,17 @@
      "rpid": 319049464289,
      "commenter": "汝乃傻十三",
      "isSub": true,
-     "written": "みちきんぐ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "米奇王",
+     "context": "",
+     "note": "神中神"
     },
     {
      "rpid": 319049452033,
      "commenter": "汝乃傻十三",
      "isSub": true,
-     "written": "みちきんぐ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "米奇王",
+     "context": "",
+     "note": "咋没有说米奇王啊"
     }
    ]
   },
@@ -2039,7 +2041,8 @@
     "都是神",
     "原文带@",
     "长名单其中一位",
-    "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万"
+    "局长（きょくちょ）第三代收藏集销量惨淡，这么多天才两三万",
+    "不是很戳我"
    ],
    "evidence": [
     {
@@ -2094,9 +2097,9 @@
      "rpid": 319049406369,
      "commenter": "汝乃傻十三",
      "isSub": true,
-     "written": "きょくちょ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "局长",
+     "context": "",
+     "note": "不是很戳我"
     }
    ]
   },
@@ -2857,7 +2860,8 @@
    "lowConfidence": false,
    "notes": [
     "喜欢其画风；楼中楼：画风确实涩，但剧情太雷",
-    "列入个人 goat 候选名单"
+    "列入个人 goat 候选名单",
+    "GOAT 还得是世徒，强烈认可"
    ],
    "evidence": [
     {
@@ -2888,9 +2892,9 @@
      "rpid": 322775407680,
      "commenter": "Touko_",
      "isSub": false,
-     "written": "世徒ゆうき",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "世徒",
+     "context": "",
+     "note": "GOAT 还得是世徒，强烈认可"
     }
    ]
   },
@@ -3684,8 +3688,8 @@
      "commenter": "汝乃傻十三",
      "isSub": true,
      "written": "karory",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "是神"
     }
    ]
   },
@@ -4099,6 +4103,45 @@
      "written": "佐藤空气",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "師走の翁",
+   "aliases": [
+    "师走の翁",
+    "师走之翁"
+   ],
+   "mentions": 3,
+   "users": 3,
+   "lowConfidence": false,
+   "notes": [
+    "剧情脑洞太无敌了"
+   ],
+   "evidence": [
+    {
+     "rpid": 322411946864,
+     "commenter": "卡普斯基",
+     "isSub": false,
+     "written": "师走の翁",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322689272944,
+     "commenter": "101连击熊",
+     "isSub": true,
+     "written": "師走の翁",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322780142240,
+     "commenter": "Gabriel_ovo",
+     "isSub": false,
+     "written": "师走之翁",
+     "context": "",
+     "note": "剧情脑洞太无敌了"
     }
    ]
   },
@@ -5658,34 +5701,6 @@
      "written": "川上六角",
      "context": "",
      "note": "不爱画表情，画风细致；偏爱妮娅、赫萝"
-    }
-   ]
-  },
-  {
-   "name": "師走の翁",
-   "aliases": [
-    "师走の翁"
-   ],
-   "mentions": 2,
-   "users": 2,
-   "lowConfidence": false,
-   "notes": [],
-   "evidence": [
-    {
-     "rpid": 322411946864,
-     "commenter": "卡普斯基",
-     "isSub": false,
-     "written": "师走の翁",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322689272944,
-     "commenter": "101连击熊",
-     "isSub": true,
-     "written": "師走の翁",
-     "context": "",
-     "note": ""
     }
    ]
   },
@@ -17881,8 +17896,18 @@
    "ctime": 1793678232,
    "firstSeen": "2026-11-03 12:00:02",
    "content": "师走之翁，剧情脑洞太无敌了",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "师走之翁",
+     "note": "剧情脑洞太无敌了",
+     "rootNo": 88,
+     "isSub": false,
+     "user": "Gabriel_ovo",
+     "rpid": 322780142240
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -20862,8 +20887,8 @@
    "artists": [
     {
      "artist": "世徒ゆうき",
-     "written": "世徒ゆうき",
-     "note": "自动匹配 · 待复核",
+     "written": "世徒",
+     "note": "GOAT 还得是世徒，强烈认可",
      "rootNo": 157,
      "isSub": false,
      "user": "Touko_",
@@ -22771,7 +22796,7 @@
    "ctime": 1793672623,
    "firstSeen": "2026-11-03 11:00:01",
    "content": "[汤圆]",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -36590,7 +36615,7 @@
    "ctime": 1793679213,
    "firstSeen": "2026-11-03 13:00:02",
    "content": "回复 @忆念緒 : 坏妹妹系列神中神[洛天依]",
-   "category": "chat",
+   "category": "work_only",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -36621,18 +36646,18 @@
    "category": "artist_rec",
    "artists": [
     {
-     "artist": "karory",
-     "written": "karory",
-     "note": "自动匹配 · 待复核",
+     "artist": "きょくちょ",
+     "written": "局长",
+     "note": "不是很戳我",
      "rootNo": 1,
      "isSub": true,
      "user": "汝乃傻十三",
      "rpid": 319049406369
     },
     {
-     "artist": "きょくちょ",
-     "written": "きょくちょ",
-     "note": "自动匹配 · 待复核",
+     "artist": "karory",
+     "written": "karory",
+     "note": "是神",
      "rootNo": 1,
      "isSub": true,
      "user": "汝乃傻十三",
@@ -36655,8 +36680,8 @@
    "artists": [
     {
      "artist": "みちきんぐ",
-     "written": "みちきんぐ",
-     "note": "自动匹配 · 待复核",
+     "written": "米奇王",
+     "note": "咋没有说米奇王啊",
      "rootNo": 1,
      "isSub": true,
      "user": "汝乃傻十三",
@@ -36679,8 +36704,8 @@
    "artists": [
     {
      "artist": "みちきんぐ",
-     "written": "みちきんぐ",
-     "note": "自动匹配 · 待复核",
+     "written": "米奇王",
+     "note": "神中神",
      "rootNo": 59,
      "isSub": true,
      "user": "汝乃傻十三",

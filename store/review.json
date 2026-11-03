@@ -1,36 +1,108 @@
 {
-  "generatedAt": "2026-11-03 12:02:00",
+  "generatedAt": "2026-11-03 13:03:00",
   "comments": {
-    "319040640001": {
-      "category": "empty",
-      "artists": [],
-      "works": [],
-      "reason": "纯表情评论，无实质内容",
-      "mentions": []
-    },
-    "319041101425": {
+    "322775407680": {
       "category": "artist_rec",
-      "artists": ["Croriin"],
+      "artists": ["世徒ゆうき"],
       "works": [],
-      "reason": "点名 croriin（Croriin），强烈推荐",
+      "reason": "GOAT 还得是世徒，点名世徒ゆうき",
       "mentions": [
         {
-          "name_as_written": "croriin",
-          "canonical_guess": "Croriin",
-          "note": "他是我的神，强烈推荐"
+          "name_as_written": "世徒",
+          "canonical_guess": "世徒ゆうき",
+          "note": "GOAT 还得是世徒，强烈认可"
         }
       ]
     },
-    "322772174960": {
+    "322780142240": {
       "category": "artist_rec",
-      "artists": ["kakao"],
+      "artists": ["師走の翁"],
       "works": [],
-      "reason": "点名 kakao 推荐画师",
+      "reason": "点名师走之翁（師走の翁 简体），评价剧情脑洞无敌",
       "mentions": [
         {
-          "name_as_written": "kakao",
-          "canonical_guess": "kakao",
-          "note": "推荐画师"
+          "name_as_written": "师走之翁",
+          "canonical_guess": "師走の翁",
+          "note": "剧情脑洞太无敌了"
+        }
+      ]
+    },
+    "319049464289": {
+      "category": "artist_rec",
+      "artists": ["みちきんぐ"],
+      "works": [],
+      "reason": "点名米奇王（みちきんぐ），评价神中神",
+      "mentions": [
+        {
+          "name_as_written": "米奇王",
+          "canonical_guess": "みちきんぐ",
+          "note": "神中神"
+        }
+      ]
+    },
+    "319050814961": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "聊怀旧服，未点名画师",
+      "mentions": []
+    },
+    "319049286641": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼互动调侃，未点名画师",
+      "mentions": []
+    },
+    "319049307249": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼评价作品太短纯爱无敌，未点名画师",
+      "mentions": []
+    },
+    "319049238257": {
+      "category": "work_only",
+      "artists": [],
+      "works": ["坏妹妹系列"],
+      "reason": "楼中楼提到作品坏妹妹系列，未点名画师",
+      "mentions": []
+    },
+    "319049334097": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼评价画技高超剧情nt，未点名画师",
+      "mentions": []
+    },
+    "319049406369": {
+      "category": "artist_rec",
+      "artists": ["きょくちょ", "karory"],
+      "works": [],
+      "reason": "点名局长（きょくちょ）与 karory，评价局长不戳我、karory 是神",
+      "mentions": [
+        {
+          "name_as_written": "局长",
+          "canonical_guess": "きょくちょ",
+          "note": "不是很戳我"
+        },
+        {
+          "name_as_written": "karory",
+          "canonical_guess": "karory",
+          "note": "是神"
+        }
+      ]
+    },
+    "319049452033": {
+      "category": "artist_rec",
+      "artists": ["みちきんぐ"],
+      "works": [],
+      "reason": "点名米奇王（みちきんぐ），疑问为什么没人说",
+      "mentions": [
+        {
+          "name_as_written": "米奇王",
+          "canonical_guess": "みちきんぐ",
+          "note": "咋没有说米奇王啊"
         }
       ]
     }
