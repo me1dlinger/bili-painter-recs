@@ -1,18 +1,26 @@
 {
-  "generatedAt": "2026-11-03 23:02:00",
+  "generatedAt": "2026-11-04 00:02:00",
   "comments": {
-    "319097207857": {
-      "category": "artist_rec",
-      "artists": ["如月みゆ"],
+    "322837919680": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "推荐画师楼里点名如月みゆ（新画师）",
-      "mentions": [
-        {
-          "name_as_written": "如月みゆ",
-          "canonical_guess": "如月みゆ",
-          "note": "推荐画师楼里点名，未附评价"
-        }
-      ]
+      "reason": "楼中楼讨论剧情公式化/NTR，未点名画师",
+      "mentions": []
+    },
+    "322837919664": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼讨论剧情公式化/NTR（重复内容），未点名画师",
+      "mentions": []
+    },
+    "322835577344": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼互动调侃绅士，未点名画师",
+      "mentions": []
     }
   }
 }
