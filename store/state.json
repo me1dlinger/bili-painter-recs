@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 927,
- "total": 930,
+ "claimed": 928,
+ "total": 931,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-04 03:00:02",
-  "newComments": 0,
-  "updated": 13,
-  "autoMentions": 0,
-  "total": 930
+  "at": "2026-11-04 04:00:01",
+  "newComments": 1,
+  "updated": 2,
+  "autoMentions": 1,
+  "total": 931
  },
  "published": {
-  "at": "2026-11-04 03:01:28",
-  "comments": 930,
+  "at": "2026-11-04 04:01:26",
+  "comments": 931,
   "artists": 557,
-  "mentions": 993,
+  "mentions": 994,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -94,6 +94,7 @@
    "豆六",
    "赤月屋",
    "銀曜ハル",
+   "南浜よりこ",
    "咲凛玖",
    "Chicke",
    "CunnyFunky",
@@ -170,7 +171,6 @@
    "ぐすたふ",
    "けれんめ",
    "ましゅ太郎",
-   "南浜よりこ",
    "月ノ輪ガモ",
    "翠野",
    "野良",
