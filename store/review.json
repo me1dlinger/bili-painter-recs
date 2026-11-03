@@ -1,32 +1,18 @@
 {
-  "generatedAt": "2026-11-03 17:02:00",
+  "generatedAt": "2026-11-03 18:02:00",
   "comments": {
-    "322799332000": {
+    "322803837248": {
       "category": "artist_rec",
-      "artists": ["胃之上奇嘉郎"],
+      "artists": ["三十郎"],
       "works": [],
-      "reason": "点名胃之上奇嘉郎，画里有怨念的画师",
+      "reason": "楼中楼讨论三十郎（さんじゅうろう 读音写法），评价剧情",
       "mentions": [
         {
-          "name_as_written": "胃之上奇嘉郎",
-          "canonical_guess": "胃之上奇嘉郎",
-          "note": "画里有怨念的来了"
+          "name_as_written": "さんじゅうろう",
+          "canonical_guess": "三十郎",
+          "note": "剧情不是特别喜欢，但快乐天热门老师"
         }
       ]
-    },
-    "322797673824": {
-      "category": "ask",
-      "artists": [],
-      "works": [],
-      "reason": "求更多推荐（太少了再给我找点）",
-      "mentions": []
-    },
-    "319063217329": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "讨论本子画师商业模式（实体/漫展/上岸），未点名画师",
-      "mentions": []
     }
   }
 }

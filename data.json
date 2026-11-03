@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 17:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 17:00:36",
+   "publishedAt": "2026-11-03 17:01:26",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,10 +29,10 @@
  },
  "stats": {
   "categories": {
-   "chat": 326,
+   "chat": 327,
    "artist_rec": 534,
    "work_only": 13,
-   "ask": 18,
+   "ask": 17,
    "empty": 14
   },
   "artistCount": 554,
@@ -1951,7 +1951,8 @@
   {
    "name": "三十郎",
    "aliases": [
-    "さんじゅうろ"
+    "さんじゅうろ",
+    "さんじゅうろう"
    ],
    "mentions": 8,
    "users": 7,
@@ -1962,7 +1963,8 @@
     "画功的细致方面绝对堪称顶配",
     "牛的，本本精品",
     "三十郎画的确实很美",
-    "点名推荐，未附评价"
+    "点名推荐，未附评价",
+    "剧情不是特别喜欢，但快乐天热门老师"
    ],
    "evidence": [
     {
@@ -2025,9 +2027,9 @@
      "rpid": 322803837248,
      "commenter": "萧萧暮贤",
      "isSub": true,
-     "written": "三十郎",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "さんじゅうろう",
+     "context": "",
+     "note": "剧情不是特别喜欢，但快乐天热门老师"
     }
    ]
   },
@@ -36870,7 +36872,7 @@
    "ctime": 1793690949,
    "firstSeen": "2026-11-03 16:00:02",
    "content": "太少了再给我找点",
-   "category": "ask",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "www我是我www"
@@ -36888,8 +36890,8 @@
    "artists": [
     {
      "artist": "三十郎",
-     "written": "三十郎",
-     "note": "自动匹配 · 待复核",
+     "written": "さんじゅうろう",
+     "note": "剧情不是特别喜欢，但快乐天热门老师",
      "rootNo": 4,
      "isSub": true,
      "user": "萧萧暮贤",
