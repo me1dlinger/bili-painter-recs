@@ -20522,6 +20522,36 @@
   ]
  },
  {
+  "name": "如月みゆ",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "夏莱的厨圣",
+    "isSub": true,
+    "written": "如月みゆ",
+    "context": "",
+    "note": "推荐画师楼里点名，未附评价"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "如月みゆ",
+    "written": "如月みゆ",
+    "note": "推荐画师楼里点名，未附评价",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "夏莱的厨圣",
+    "rpid": 319097207857,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "守月史贵",
   "aliases": [],
   "mentions": 1,

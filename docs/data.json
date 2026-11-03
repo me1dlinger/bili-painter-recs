@@ -17,26 +17,28 @@
   "update": {
    "lastFetchAt": "2026-11-03 22:00:05",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-03 22:00:50",
+   "publishedAt": "2026-11-03 22:01:31",
    "delta": {
-    "comments": 1,
-    "artists": 0,
-    "mentions": 0
+    "comments": 0,
+    "artists": 1,
+    "mentions": 1
    },
-   "newArtists": [],
+   "newArtists": [
+    "如月みゆ"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
    "chat": 335,
-   "artist_rec": 539,
+   "artist_rec": 540,
    "work_only": 13,
    "ask": 18,
-   "empty": 15
+   "empty": 14
   },
-  "artistCount": 554,
-  "mentionCount": 988
+  "artistCount": 555,
+  "mentionCount": 989
  },
  "artists": [
   {
@@ -12700,6 +12702,27 @@
      "written": "天野雨乃 （amano ameno）",
      "context": "",
      "note": "日文名 + 罗马音成对写法"
+    }
+   ]
+  },
+  {
+   "name": "如月みゆ",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "推荐画师楼里点名，未附评价"
+   ],
+   "evidence": [
+    {
+     "rpid": 319097207857,
+     "commenter": "夏莱的厨圣",
+     "isSub": true,
+     "written": "如月みゆ",
+     "context": "",
+     "note": "推荐画师楼里点名，未附评价"
     }
    ]
   },
@@ -38734,7 +38757,7 @@
    "ctime": 1793709532,
    "firstSeen": "2026-11-03 21:00:01",
    "content": "回复 @Ryen- :😂",
-   "category": "empty",
+   "category": "chat",
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
@@ -38748,8 +38771,19 @@
    "ctime": 1793712027,
    "firstSeen": "2026-11-03 22:00:05",
    "content": "如月みゆ",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "如月みゆ",
+     "written": "如月みゆ",
+     "note": "推荐画师楼里点名，未附评价",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "夏莱的厨圣",
+     "rpid": 319097207857,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   }
