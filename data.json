@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-03 19:00:02",
-  "claimedReplyCount": 916,
+  "fetchedAt": "2026-11-03 20:00:02",
+  "claimedReplyCount": 917,
   "rootCount": 238,
-  "subCount": 679,
-  "totalCount": 917,
+  "subCount": 680,
+  "totalCount": 918,
   "update": {
-   "lastFetchAt": "2026-11-03 19:00:02",
-   "lastFetchNew": 8,
-   "publishedAt": "2026-11-03 19:01:28",
+   "lastFetchAt": "2026-11-03 20:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-03 19:04:11",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 1
    },
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 334,
-   "artist_rec": 537,
+   "artist_rec": 538,
    "work_only": 13,
    "ask": 19,
    "empty": 14
   },
   "artistCount": 554,
-  "mentionCount": 987
+  "mentionCount": 988
  },
  "artists": [
   {
@@ -1191,6 +1191,104 @@
    ]
   },
   {
+   "name": "YD",
+   "aliases": [
+    "yd"
+   ],
+   "mentions": 10,
+   "users": 10,
+   "likes": 26,
+   "lowConfidence": false,
+   "notes": [
+    "goat（史上最佳）",
+    "你想说yd吧，其实orange maru是社团",
+    "Orangemaru严格来说是一个社团，我猜你想说YD",
+    "yd是吧，你小子"
+   ],
+   "evidence": [
+    {
+     "rpid": 318705574225,
+     "commenter": "翼创空流",
+     "isSub": false,
+     "written": "YD",
+     "context": "",
+     "note": "goat（史上最佳）"
+    },
+    {
+     "rpid": 318679537025,
+     "commenter": "Rhozxky",
+     "isSub": true,
+     "written": "YD",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322394293840,
+     "commenter": "秋巧灬",
+     "isSub": true,
+     "written": "YD",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318710919409,
+     "commenter": "旗默子",
+     "isSub": true,
+     "written": "YD",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318721251841,
+     "commenter": "畜禽银莎闪耀洛杉矶",
+     "isSub": true,
+     "written": "yd",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322497548112,
+     "commenter": "秋明之秋",
+     "isSub": true,
+     "written": "YD",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322518154240,
+     "commenter": "4rcadia",
+     "isSub": true,
+     "written": "yd",
+     "context": "",
+     "note": "你想说yd吧，其实orange maru是社团"
+    },
+    {
+     "rpid": 322526188384,
+     "commenter": "Tymoon",
+     "isSub": true,
+     "written": "YD",
+     "context": "",
+     "note": "Orangemaru严格来说是一个社团，我猜你想说YD"
+    },
+    {
+     "rpid": 322550829344,
+     "commenter": "查稽查稽查稽",
+     "isSub": true,
+     "written": "yd",
+     "context": "",
+     "note": "yd是吧，你小子"
+    },
+    {
+     "rpid": 322817902272,
+     "commenter": "Lc丶Angel",
+     "isSub": true,
+     "written": "YD",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "腐蝕",
    "aliases": [
     "腐蚀",
@@ -1288,96 +1386,6 @@
      "written": "腐蚀",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "YD",
-   "aliases": [
-    "yd"
-   ],
-   "mentions": 9,
-   "users": 9,
-   "likes": 25,
-   "lowConfidence": false,
-   "notes": [
-    "goat（史上最佳）",
-    "你想说yd吧，其实orange maru是社团",
-    "Orangemaru严格来说是一个社团，我猜你想说YD",
-    "yd是吧，你小子"
-   ],
-   "evidence": [
-    {
-     "rpid": 318705574225,
-     "commenter": "翼创空流",
-     "isSub": false,
-     "written": "YD",
-     "context": "",
-     "note": "goat（史上最佳）"
-    },
-    {
-     "rpid": 318679537025,
-     "commenter": "Rhozxky",
-     "isSub": true,
-     "written": "YD",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322394293840,
-     "commenter": "秋巧灬",
-     "isSub": true,
-     "written": "YD",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318710919409,
-     "commenter": "旗默子",
-     "isSub": true,
-     "written": "YD",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318721251841,
-     "commenter": "畜禽银莎闪耀洛杉矶",
-     "isSub": true,
-     "written": "yd",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322497548112,
-     "commenter": "秋明之秋",
-     "isSub": true,
-     "written": "YD",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322518154240,
-     "commenter": "4rcadia",
-     "isSub": true,
-     "written": "yd",
-     "context": "",
-     "note": "你想说yd吧，其实orange maru是社团"
-    },
-    {
-     "rpid": 322526188384,
-     "commenter": "Tymoon",
-     "isSub": true,
-     "written": "YD",
-     "context": "",
-     "note": "Orangemaru严格来说是一个社团，我猜你想说YD"
-    },
-    {
-     "rpid": 322550829344,
-     "commenter": "查稽查稽查稽",
-     "isSub": true,
-     "written": "yd",
-     "context": "",
-     "note": "yd是吧，你小子"
     }
    ]
   },
@@ -3164,7 +3172,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 314,
+   "likes": 316,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -15378,7 +15386,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 388,
+   "like": 391,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -24239,7 +24247,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 308,
+   "like": 310,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24253,7 +24261,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 308
+     "like": 310
     }
    ],
    "workInfo": null,
@@ -25050,7 +25058,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Rhozxky",
-   "like": 15,
+   "like": 16,
    "ctime": 1793370537,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "YD[闪耀色彩表情包_樋口円香]",
@@ -25064,7 +25072,7 @@
      "isSub": true,
      "user": "Rhozxky",
      "rpid": 318679537025,
-     "like": 15
+     "like": 16
     }
    ],
    "workInfo": null,
@@ -38690,6 +38698,31 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "不平等云雾"
+  },
+  {
+   "rpid": 322817902272,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "Lc丶Angel",
+   "like": 0,
+   "ctime": 1793704499,
+   "firstSeen": "2026-11-03 20:00:02",
+   "content": "回复 @Rhozxky :yd是神",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "YD",
+     "written": "YD",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "Lc丶Angel",
+     "rpid": 322817902272,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
   }
  ]
 }
