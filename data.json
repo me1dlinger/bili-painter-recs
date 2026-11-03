@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-03 11:00:01",
    "lastFetchNew": 3,
-   "publishedAt": "2026-11-03 10:01:24",
+   "publishedAt": "2026-11-03 11:01:23",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
-    "mentions": 2
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,11 +29,11 @@
  },
  "stats": {
   "categories": {
-   "chat": 320,
+   "chat": 319,
    "artist_rec": 525,
    "work_only": 13,
    "ask": 17,
-   "empty": 14
+   "empty": 15
   },
   "artistCount": 553,
   "mentionCount": 973
@@ -774,8 +774,8 @@
      "commenter": "十一月的肖邦h",
      "isSub": true,
      "written": "kakao",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "推荐画师"
     }
    ]
   },
@@ -1860,7 +1860,8 @@
     "专攻异世界本，剧情实用度两手抓",
     "长名单其中一位（名单中重复出现两次）",
     "长名单中重复出现的第二位 Croriin",
-    "原文拼写可能不准，存疑"
+    "原文拼写可能不准，存疑",
+    "他是我的神，强烈推荐"
    ],
    "evidence": [
     {
@@ -1923,9 +1924,9 @@
      "rpid": 319041101425,
      "commenter": "传奇机械师德尔马丁",
      "isSub": true,
-     "written": "Croriin",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "croriin",
+     "context": "",
+     "note": "他是我的神，强烈推荐"
     }
    ]
   },
@@ -22692,7 +22693,7 @@
    "ctime": 1793672623,
    "firstSeen": "2026-11-03 11:00:01",
    "content": "[汤圆]",
-   "category": "chat",
+   "category": "empty",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -36440,7 +36441,7 @@
     {
      "artist": "kakao",
      "written": "kakao",
-     "note": "自动匹配 · 待复核",
+     "note": "推荐画师",
      "rootNo": 1,
      "isSub": true,
      "user": "十一月的肖邦h",
@@ -36463,8 +36464,8 @@
    "artists": [
     {
      "artist": "Croriin",
-     "written": "Croriin",
-     "note": "自动匹配 · 待复核",
+     "written": "croriin",
+     "note": "他是我的神，强烈推荐",
      "rootNo": 29,
      "isSub": true,
      "user": "传奇机械师德尔马丁",

@@ -1,25 +1,38 @@
 {
-  "generatedAt": "2026-11-03 09:02:00",
+  "generatedAt": "2026-11-03 12:02:00",
   "comments": {
-    "322763269728": {
-      "category": "artist_rec",
-      "artists": ["武田弘光"],
-      "works": [],
-      "reason": "点名推荐画师武田弘光，未附评价",
-      "mentions": [
-        {
-          "name_as_written": "武田弘光",
-          "canonical_guess": "武田弘光",
-          "note": "点名推荐，未附评价"
-        }
-      ]
-    },
-    "319034668865": {
+    "319040640001": {
       "category": "empty",
       "artists": [],
       "works": [],
       "reason": "纯表情评论，无实质内容",
       "mentions": []
+    },
+    "319041101425": {
+      "category": "artist_rec",
+      "artists": ["Croriin"],
+      "works": [],
+      "reason": "点名 croriin（Croriin），强烈推荐",
+      "mentions": [
+        {
+          "name_as_written": "croriin",
+          "canonical_guess": "Croriin",
+          "note": "他是我的神，强烈推荐"
+        }
+      ]
+    },
+    "322772174960": {
+      "category": "artist_rec",
+      "artists": ["kakao"],
+      "works": [],
+      "reason": "点名 kakao 推荐画师",
+      "mentions": [
+        {
+          "name_as_written": "kakao",
+          "canonical_guess": "kakao",
+          "note": "推荐画师"
+        }
+      ]
     }
   }
 }

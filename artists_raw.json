@@ -1211,7 +1211,7 @@
     "isSub": true,
     "written": "kakao",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "推荐画师"
    }
   ],
   "_raw": [
@@ -1335,7 +1335,7 @@
    {
     "artist": "kakao",
     "written": "kakao",
-    "note": "自动匹配 · 待复核",
+    "note": "推荐画师",
     "rootNo": 1,
     "isSub": true,
     "user": "十一月的肖邦h",
@@ -3300,9 +3300,9 @@
    {
     "commenter": "传奇机械师德尔马丁",
     "isSub": true,
-    "written": "Croriin",
+    "written": "croriin",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "他是我的神，强烈推荐"
    }
   ],
   "_raw": [
@@ -3371,8 +3371,8 @@
    },
    {
     "artist": "Croriin",
-    "written": "Croriin",
-    "note": "自动匹配 · 待复核",
+    "written": "croriin",
+    "note": "他是我的神，强烈推荐",
     "rootNo": 29,
     "isSub": true,
     "user": "传奇机械师德尔马丁",
