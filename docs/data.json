@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-04 04:00:01",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-04 03:01:28",
+   "publishedAt": "2026-11-04 04:01:26",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,11 +29,11 @@
  },
  "stats": {
   "categories": {
-   "chat": 340,
+   "chat": 339,
    "artist_rec": 545,
    "work_only": 13,
    "ask": 19,
-   "empty": 14
+   "empty": 15
   },
   "artistCount": 557,
   "mentionCount": 994
@@ -4812,7 +4812,9 @@
    "users": 2,
    "likes": 52,
    "lowConfidence": false,
-   "notes": [],
+   "notes": [
+    "点名推荐，未附评价"
+   ],
    "evidence": [
     {
      "rpid": 322400556432,
@@ -4835,8 +4837,8 @@
      "commenter": "山本和音",
      "isSub": true,
      "written": "南浜よりこ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -39023,7 +39025,7 @@
    "ctime": 1793726078,
    "firstSeen": "2026-11-04 02:00:02",
    "content": "很短",
-   "category": "chat",
+   "category": "empty",
    "artists": [],
    "workInfo": null,
    "rootUser": "三块半儿"
@@ -39056,7 +39058,7 @@
     {
      "artist": "南浜よりこ",
      "written": "南浜よりこ",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "山本和音",

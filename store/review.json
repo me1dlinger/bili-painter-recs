@@ -1,37 +1,16 @@
 {
-  "generatedAt": "2026-11-04 03:02:00",
+  "generatedAt": "2026-11-04 05:02:00",
   "comments": {
-    "319119268177": {
-      "category": "ask",
-      "artists": [],
-      "works": [],
-      "reason": "求作者名（里届藤本树，忘了叫什么了），未点名画师",
-      "mentions": []
-    },
-    "319119817345": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼讨论画师画风（女性身材），未点名画师",
-      "mentions": []
-    },
-    "319118006817": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼评价很短，未点名画师",
-      "mentions": []
-    },
-    "319117347345": {
+    "322857042960": {
       "category": "artist_rec",
-      "artists": ["幾花にいろ"],
+      "artists": ["南浜よりこ"],
       "works": [],
-      "reason": "点名几花（幾花にいろ 简体写法，新画师），评价好像人间蒸发了",
+      "reason": "点名南浜よりこ，未附评价",
       "mentions": [
         {
-          "name_as_written": "几花",
-          "canonical_guess": "幾花にいろ",
-          "note": "不过好像人间蒸发了"
+          "name_as_written": "南浜よりこ",
+          "canonical_guess": "南浜よりこ",
+          "note": "点名推荐，未附评价"
         }
       ]
     }
