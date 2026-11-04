@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 940,
- "total": 943,
+ "claimed": 941,
+ "total": 944,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-04 14:00:01",
+  "at": "2026-11-04 15:00:02",
   "newComments": 1,
-  "updated": 13,
-  "autoMentions": 0,
-  "total": 943
+  "updated": 17,
+  "autoMentions": 1,
+  "total": 944
  },
  "published": {
-  "at": "2026-11-04 14:01:31",
-  "comments": 943,
+  "at": "2026-11-04 15:01:32",
+  "comments": 944,
   "artists": 557,
-  "mentions": 999,
+  "mentions": 1000,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -25,8 +25,8 @@
    "真白しらこ",
    "だにまる",
    "肉棒魔羅ノ進",
-   "YD",
    "腐蝕",
+   "YD",
    "mignon",
    "桃雲",
    "雲呑めお",
