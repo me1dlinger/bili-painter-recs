@@ -11,7 +11,7 @@
   ],
   "mentions": 20,
   "users": 18,
-  "likes": 308,
+  "likes": 310,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -215,7 +215,7 @@
     "isSub": false,
     "user": "暴食-波奇Q",
     "rpid": 322420769312,
-    "like": 150
+    "like": 151
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -265,7 +265,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -533,7 +533,7 @@
     "artist": "みちきんぐ",
     "written": "米奇王",
     "note": "",
-    "rootNo": 56,
+    "rootNo": 57,
     "isSub": false,
     "user": "Y2QAQ",
     "rpid": 318739839777,
@@ -663,7 +663,7 @@
     "artist": "みちきんぐ",
     "written": "米奇王",
     "note": "神中神",
-    "rootNo": 56,
+    "rootNo": 57,
     "isSub": true,
     "user": "汝乃傻十三",
     "rpid": 319049464289,
@@ -688,8 +688,8 @@
    "apl",
    "あるぷ老师"
   ],
-  "mentions": 15,
-  "users": 15,
+  "mentions": 16,
+  "users": 16,
   "likes": 174,
   "lowConfidence": false,
   "notes": [],
@@ -798,6 +798,13 @@
     "written": "あるぷ",
     "context": "",
     "note": "あるぷ：心中个人goat，第一本单行本即当月销冠，画风越来越成熟；utu：题材乱O和ntr多，但人体画得很好看、三点细节完爆某些画师如悠木"
+   },
+   {
+    "commenter": "写鸢",
+    "isSub": true,
+    "written": "あるぷ",
+    "context": "",
+    "note": "自动匹配 · 待复核"
    }
   ],
   "_raw": [
@@ -875,7 +882,7 @@
     "artist": "あるぷ",
     "written": "alp",
     "note": "部分不是纯爱，但画风太无敌了",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -949,6 +956,16 @@
     "isSub": false,
     "user": "黄叶Hasalei",
     "rpid": 322688394592,
+    "like": 0
+   },
+   {
+    "artist": "あるぷ",
+    "written": "あるぷ",
+    "note": "自动匹配 · 待复核",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "写鸢",
+    "rpid": 322907579824,
     "like": 0
    }
   ]
@@ -1100,7 +1117,7 @@
     "artist": "ホムンクルス",
     "written": "人造人",
     "note": "神中神",
-    "rootNo": 49,
+    "rootNo": 50,
     "isSub": false,
     "user": "妈呀妈个鸡",
     "rpid": 322410883184,
@@ -1110,7 +1127,7 @@
     "artist": "ホムンクルス",
     "written": "人造人老师",
     "note": "",
-    "rootNo": 49,
+    "rootNo": 50,
     "isSub": true,
     "user": "绮鬼泽梦",
     "rpid": 318700405729,
@@ -1130,7 +1147,7 @@
     "artist": "ホムンクルス",
     "written": "人造人",
     "note": "",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "Cyborg86",
     "rpid": 318722984977,
@@ -1393,7 +1410,7 @@
     "artist": "kakao",
     "written": "kakao",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -1607,7 +1624,7 @@
     "artist": "真白しらこ",
     "written": "真白",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -1617,7 +1634,7 @@
     "artist": "真白しらこ",
     "written": "真白老师",
     "note": "最喜欢真白老师的作品",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "白兰哲",
     "rpid": 322425631936,
@@ -1726,7 +1743,7 @@
   ],
   "mentions": 13,
   "users": 12,
-  "likes": 203,
+  "likes": 205,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1881,7 +1898,7 @@
     "isSub": false,
     "user": "Syberiumance",
     "rpid": 318700509649,
-    "like": 63
+    "like": 64
    },
    {
     "artist": "だにまる",
@@ -1911,7 +1928,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    },
    {
     "artist": "だにまる",
@@ -2849,7 +2866,7 @@
     "artist": "桃雲",
     "written": "桃云",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -3319,7 +3336,7 @@
     "artist": "木瀬樹",
     "written": "木濑树",
     "note": "没有代餐的goat，男主画太帅，基本功强",
-    "rootNo": 48,
+    "rootNo": 49,
     "isSub": false,
     "user": "捉才屋",
     "rpid": 318688176337,
@@ -3329,7 +3346,7 @@
     "artist": "木瀬樹",
     "written": "木濑树",
     "note": "",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "Cyborg86",
     "rpid": 318722984977,
@@ -3402,7 +3419,7 @@
   "aliases": [],
   "mentions": 8,
   "users": 8,
-  "likes": 28,
+  "likes": 29,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3468,17 +3485,17 @@
     "artist": "武田弘光",
     "written": "武田弘光",
     "note": "",
-    "rootNo": 32,
+    "rootNo": 28,
     "isSub": false,
     "user": "空凛似凉月",
     "rpid": 322462001472,
-    "like": 10
+    "like": 11
    },
    {
     "artist": "武田弘光",
     "written": "武田弘光",
     "note": "",
-    "rootNo": 56,
+    "rootNo": 57,
     "isSub": false,
     "user": "Y2QAQ",
     "rpid": 318739839777,
@@ -3551,7 +3568,7 @@
   "aliases": [],
   "mentions": 8,
   "users": 8,
-  "likes": 45,
+  "likes": 46,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3617,11 +3634,11 @@
     "artist": "青豆腐",
     "written": "青豆腐",
     "note": "",
-    "rootNo": 32,
+    "rootNo": 28,
     "isSub": false,
     "user": "空凛似凉月",
     "rpid": 322462001472,
-    "like": 10
+    "like": 11
    },
    {
     "artist": "青豆腐",
@@ -3769,7 +3786,7 @@
     "artist": "Croriin",
     "written": "Croriin",
     "note": "人外本，粉红漫画上刷到",
-    "rootNo": 31,
+    "rootNo": 32,
     "isSub": false,
     "user": "暹罗暹罗Toxy",
     "rpid": 318723073201,
@@ -3779,7 +3796,7 @@
     "artist": "Croriin",
     "written": "Croiin",
     "note": "人外之神",
-    "rootNo": 31,
+    "rootNo": 32,
     "isSub": true,
     "user": "郁金香监狱图书馆尘虵",
     "rpid": 322440594704,
@@ -3789,7 +3806,7 @@
     "artist": "Croriin",
     "written": "croriin",
     "note": "专攻异世界本，剧情实用度两手抓",
-    "rootNo": 52,
+    "rootNo": 53,
     "isSub": false,
     "user": "Lizrin",
     "rpid": 322421049248,
@@ -3839,7 +3856,7 @@
     "artist": "Croriin",
     "written": "croriin",
     "note": "他是我的神，强烈推荐",
-    "rootNo": 31,
+    "rootNo": 32,
     "isSub": true,
     "user": "传奇机械师德尔马丁",
     "rpid": 319041101425,
@@ -4494,7 +4511,7 @@
     "artist": "愛上陸",
     "written": "爱上陆",
     "note": "看成爱上陆了",
-    "rootNo": 28,
+    "rootNo": 29,
     "isSub": true,
     "user": "亲吻魔王与红茶",
     "rpid": 318996816881,
@@ -4896,7 +4913,7 @@
     "artist": "黒本君",
     "written": "黑本君",
     "note": "jc系列也不错",
-    "rootNo": 30,
+    "rootNo": 31,
     "isSub": true,
     "user": "爱草芥的八奈见",
     "rpid": 322442556464,
@@ -5087,7 +5104,7 @@
     "artist": "立花",
     "written": "立花",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -5312,7 +5329,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 114,
+  "likes": 115,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5354,7 +5371,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 106
+    "like": 107
    },
    {
     "artist": "eo58",
@@ -5443,7 +5460,7 @@
     "artist": "sage・ジョー",
     "written": "sage",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -5933,7 +5950,7 @@
     "artist": "毎日健康生活",
     "written": "每日健康生活",
     "note": "水里画师里的goat",
-    "rootNo": 30,
+    "rootNo": 31,
     "isSub": false,
     "user": "えっちゃん_Official",
     "rpid": 322419700624,
@@ -5943,7 +5960,7 @@
     "artist": "毎日健康生活",
     "written": "健康哥哥",
     "note": "",
-    "rootNo": 30,
+    "rootNo": 31,
     "isSub": true,
     "user": "Dorayakinana",
     "rpid": 318708690241,
@@ -6100,7 +6117,7 @@
     "artist": "無糖紅茶",
     "written": "無糖紅茶",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -6600,7 +6617,7 @@
     "artist": "煌野一人",
     "written": "煌野一人老师",
     "note": "",
-    "rootNo": 29,
+    "rootNo": 30,
     "isSub": false,
     "user": "Redの杰仔",
     "rpid": 318704343057,
@@ -6728,7 +6745,7 @@
   ],
   "mentions": 3,
   "users": 3,
-  "likes": 22,
+  "likes": 23,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6773,7 +6790,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    },
    {
     "artist": "92m",
@@ -7218,7 +7235,7 @@
     "artist": "rurudo",
     "written": "rurudo",
     "note": "",
-    "rootNo": 54,
+    "rootNo": 55,
     "isSub": false,
     "user": "Stage5-黑之魔王",
     "rpid": 318727969409,
@@ -8140,7 +8157,7 @@
     "artist": "朝凪",
     "written": "朝凪",
     "note": "",
-    "rootNo": 51,
+    "rootNo": 52,
     "isSub": false,
     "user": "伊路尘",
     "rpid": 322412533792,
@@ -9133,7 +9150,7 @@
     "artist": "homao",
     "written": "homao",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -9634,7 +9651,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 23,
+  "likes": 24,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9662,7 +9679,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    },
    {
     "artist": "じゃが山たらヲ",
@@ -10183,7 +10200,7 @@
     "artist": "七尾ゆきじ",
     "written": "七尾ゆきじ",
     "note": "我永远的goat",
-    "rootNo": 28,
+    "rootNo": 29,
     "isSub": true,
     "user": "itsamochi",
     "rpid": 322554843008,
@@ -10193,7 +10210,7 @@
     "artist": "七尾ゆきじ",
     "written": "七尾",
     "note": "只看过他的单行本",
-    "rootNo": 28,
+    "rootNo": 29,
     "isSub": true,
     "user": "树人德",
     "rpid": 322580124176,
@@ -10434,7 +10451,7 @@
     "artist": "变熊",
     "written": "变熊",
     "note": "",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "Cyborg86",
     "rpid": 318722984977,
@@ -10727,6 +10744,53 @@
   ]
  },
  {
+  "name": "春城秋介",
+  "aliases": [],
+  "mentions": 2,
+  "users": 2,
+  "likes": 2,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "アーサー魔法の派",
+    "isSub": false,
+    "written": "春城秋介",
+    "context": "",
+    "note": "投一票"
+   },
+   {
+    "commenter": "我事咸安",
+    "isSub": true,
+    "written": "春城秋介",
+    "context": "",
+    "note": "自动匹配 · 待复核"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "春城秋介",
+    "written": "春城秋介",
+    "note": "投一票",
+    "rootNo": 87,
+    "isSub": false,
+    "user": "アーサー魔法の派",
+    "rpid": 318739211425,
+    "like": 2
+   },
+   {
+    "artist": "春城秋介",
+    "written": "春城秋介",
+    "note": "自动匹配 · 待复核",
+    "rootNo": 87,
+    "isSub": true,
+    "user": "我事咸安",
+    "rpid": 319174413761,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "暗ノ吽",
   "aliases": [],
   "mentions": 2,
@@ -10812,7 +10876,7 @@
     "artist": "朝峰",
     "written": "朝峰",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -11598,7 +11662,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 113,
+  "likes": 114,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -11626,7 +11690,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 106
+    "like": 107
    },
    {
     "artist": "米山舞",
@@ -11718,7 +11782,7 @@
     "artist": "美矢火",
     "written": "美矢火",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -12391,7 +12455,7 @@
     "artist": "ぐすたふ",
     "written": "ぐすたふ",
     "note": "怜治和丽华",
-    "rootNo": 50,
+    "rootNo": 51,
     "isSub": false,
     "user": "氷室幻城",
     "rpid": 322412244128,
@@ -12512,7 +12576,7 @@
   ],
   "mentions": 2,
   "users": 1,
-  "likes": 28,
+  "likes": 29,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -12536,17 +12600,17 @@
     "artist": "月ノ輪ガモ",
     "written": "月轮老师",
     "note": "",
-    "rootNo": 18,
+    "rootNo": 17,
     "isSub": false,
     "user": "Master獨角",
     "rpid": 322427300160,
-    "like": 28
+    "like": 29
    },
    {
     "artist": "月ノ輪ガモ",
     "written": "月ノ輪ガモ",
     "note": "",
-    "rootNo": 18,
+    "rootNo": 17,
     "isSub": true,
     "user": "Master獨角",
     "rpid": 322484259584,
@@ -14320,7 +14384,7 @@
     "artist": "flugel",
     "written": "flugel",
     "note": "",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "Cyborg86",
     "rpid": 318722984977,
@@ -15372,7 +15436,7 @@
     "artist": "mstpjin",
     "written": "mstpjin",
     "note": "心中的goat",
-    "rootNo": 55,
+    "rootNo": 56,
     "isSub": false,
     "user": "情澜缘予甄潇醉",
     "rpid": 318733322129,
@@ -19207,7 +19271,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 21,
+  "likes": 22,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -19228,7 +19292,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    }
   ]
  },
@@ -19509,7 +19573,7 @@
   ],
   "mentions": 1,
   "users": 1,
-  "likes": 75,
+  "likes": 76,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -19530,7 +19594,7 @@
     "isSub": false,
     "user": "里芙",
     "rpid": 322421046848,
-    "like": 75
+    "like": 76
    }
   ]
  },
@@ -19678,7 +19742,7 @@
     "artist": "一弘",
     "written": "一弘",
     "note": "不确定是画师还是人名简称",
-    "rootNo": 32,
+    "rootNo": 28,
     "isSub": true,
     "user": "空凛似凉月",
     "rpid": 322462079648,
@@ -19980,7 +20044,7 @@
     "artist": "亞美寿真",
     "written": "亞美寿真",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -20132,7 +20196,7 @@
     "artist": "六角八十助",
     "written": "六角八十助",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -20419,7 +20483,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 21,
+  "likes": 22,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -20440,7 +20504,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 21
+    "like": 22
    }
   ]
  },
@@ -21451,36 +21515,6 @@
   ]
  },
  {
-  "name": "春城秋介",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "likes": 2,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "アーサー魔法の派",
-    "isSub": false,
-    "written": "春城秋介",
-    "context": "",
-    "note": "投一票"
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "春城秋介",
-    "written": "春城秋介",
-    "note": "投一票",
-    "rootNo": 87,
-    "isSub": false,
-    "user": "アーサー魔法の派",
-    "rpid": 318739211425,
-    "like": 2
-   }
-  ]
- },
- {
   "name": "有江りり",
   "aliases": [],
   "mentions": 1,
@@ -21656,7 +21690,7 @@
     "artist": "柚十扇",
     "written": "柚十扇",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -21746,7 +21780,7 @@
     "artist": "栗原",
     "written": "栗原",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -22063,7 +22097,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 106,
+  "likes": 107,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22084,7 +22118,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 106
+    "like": 107
    }
   ]
  },
@@ -22470,7 +22504,7 @@
     "artist": "潮騷",
     "written": "潮騷",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
@@ -23230,7 +23264,7 @@
     "artist": "羽原",
     "written": "羽原",
     "note": "",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": true,
     "user": "Cyborg86",
     "rpid": 318722984977,
@@ -23290,7 +23324,7 @@
     "artist": "花兄",
     "written": "花兄",
     "note": "顶级纯爱画师",
-    "rootNo": 53,
+    "rootNo": 54,
     "isSub": false,
     "user": "这个昵称到底能取多长",
     "rpid": 318708951937,
