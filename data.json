@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-04 09:00:02",
    "lastFetchNew": 3,
-   "publishedAt": "2026-11-04 08:01:27",
+   "publishedAt": "2026-11-04 09:01:27",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
-    "mentions": 2
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -4811,7 +4811,8 @@
    "likes": 2,
    "lowConfidence": false,
    "notes": [
-    "长名单其中一位"
+    "长名单其中一位",
+    "点名推荐，未附评价"
    ],
    "evidence": [
     {
@@ -4827,16 +4828,16 @@
      "commenter": "Duskswood",
      "isSub": true,
      "written": "じゅらい",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     },
     {
      "rpid": 319128770433,
      "commenter": "Duskswood",
      "isSub": true,
      "written": "じゅらい",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -39113,7 +39114,7 @@
     {
      "artist": "じゅらい",
      "written": "じゅらい",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 16,
      "isSub": true,
      "user": "Duskswood",
@@ -39138,7 +39139,7 @@
     {
      "artist": "じゅらい",
      "written": "じゅらい",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 16,
      "isSub": true,
      "user": "Duskswood",

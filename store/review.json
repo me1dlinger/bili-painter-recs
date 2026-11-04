@@ -1,18 +1,38 @@
 {
-  "generatedAt": "2026-11-04 05:02:00",
+  "generatedAt": "2026-11-04 10:02:00",
   "comments": {
-    "322857042960": {
+    "319128858033": {
       "category": "artist_rec",
-      "artists": ["南浜よりこ"],
+      "artists": ["じゅらい"],
       "works": [],
-      "reason": "点名南浜よりこ，未附评价",
+      "reason": "楼中楼点名じゅらい，未附评价",
       "mentions": [
         {
-          "name_as_written": "南浜よりこ",
-          "canonical_guess": "南浜よりこ",
+          "name_as_written": "じゅらい",
+          "canonical_guess": "じゅらい",
           "note": "点名推荐，未附评价"
         }
       ]
+    },
+    "319128770433": {
+      "category": "artist_rec",
+      "artists": ["じゅらい"],
+      "works": [],
+      "reason": "楼中楼点名じゅらい，未附评价",
+      "mentions": [
+        {
+          "name_as_written": "じゅらい",
+          "canonical_guess": "じゅらい",
+          "note": "点名推荐，未附评价"
+        }
+      ]
+    },
+    "322864305184": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "楼中楼互动你才是 goat，未点名画师",
+      "mentions": []
     }
   }
 }
