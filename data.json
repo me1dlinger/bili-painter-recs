@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 18:00:02",
-  "claimedReplyCount": 947,
-  "rootCount": 244,
-  "subCount": 708,
-  "totalCount": 952,
+  "fetchedAt": "2026-11-04 19:00:02",
+  "claimedReplyCount": 951,
+  "rootCount": 245,
+  "subCount": 711,
+  "totalCount": 956,
   "update": {
-   "lastFetchAt": "2026-11-04 18:00:02",
-   "lastFetchNew": 5,
-   "publishedAt": "2026-11-04 17:01:28",
+   "lastFetchAt": "2026-11-04 19:00:02",
+   "lastFetchNew": 4,
+   "publishedAt": "2026-11-04 18:01:31",
    "delta": {
-    "comments": 5,
+    "comments": 4,
     "artists": 0,
-    "mentions": 2
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 348,
-   "artist_rec": 557,
+   "chat": 351,
+   "artist_rec": 558,
    "work_only": 13,
    "ask": 19,
    "empty": 15
   },
   "artistCount": 557,
-  "mentionCount": 1006
+  "mentionCount": 1007
  },
  "artists": [
   {
@@ -2455,6 +2455,73 @@
    ]
   },
   {
+   "name": "ヘリを",
+   "aliases": [
+    "herio",
+    "へリお"
+   ],
+   "mentions": 6,
+   "users": 5,
+   "likes": 4,
+   "lowConfidence": false,
+   "notes": [
+    "个人很喜欢的一个",
+    "长名单其中一位",
+    "我个人很喜欢",
+    "画风无敌"
+   ],
+   "evidence": [
+    {
+     "rpid": 318700515281,
+     "commenter": "绮鬼泽梦",
+     "isSub": false,
+     "written": "ヘリを",
+     "context": "",
+     "note": "个人很喜欢的一个"
+    },
+    {
+     "rpid": 322620677488,
+     "commenter": "空想庭院",
+     "isSub": false,
+     "written": "ヘリを",
+     "context": "",
+     "note": "长名单其中一位"
+    },
+    {
+     "rpid": 318700499201,
+     "commenter": "绮鬼泽梦",
+     "isSub": true,
+     "written": "ヘリを",
+     "context": "",
+     "note": "我个人很喜欢"
+    },
+    {
+     "rpid": 322398835824,
+     "commenter": "黑色_幽默-_-",
+     "isSub": true,
+     "written": "へリお",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318710247697,
+     "commenter": "霜月雪瑚",
+     "isSub": true,
+     "written": "herio",
+     "context": "",
+     "note": "画风无敌"
+    },
+    {
+     "rpid": 322916140080,
+     "commenter": "末晓疯233",
+     "isSub": true,
+     "written": "ヘリを",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "夜な夜な",
    "aliases": [
     "夜な夜な老师",
@@ -2694,65 +2761,6 @@
      "written": "黒本君",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "ヘリを",
-   "aliases": [
-    "herio",
-    "へリお"
-   ],
-   "mentions": 5,
-   "users": 4,
-   "likes": 4,
-   "lowConfidence": false,
-   "notes": [
-    "个人很喜欢的一个",
-    "长名单其中一位",
-    "我个人很喜欢",
-    "画风无敌"
-   ],
-   "evidence": [
-    {
-     "rpid": 318700515281,
-     "commenter": "绮鬼泽梦",
-     "isSub": false,
-     "written": "ヘリを",
-     "context": "",
-     "note": "个人很喜欢的一个"
-    },
-    {
-     "rpid": 322620677488,
-     "commenter": "空想庭院",
-     "isSub": false,
-     "written": "ヘリを",
-     "context": "",
-     "note": "长名单其中一位"
-    },
-    {
-     "rpid": 318700499201,
-     "commenter": "绮鬼泽梦",
-     "isSub": true,
-     "written": "ヘリを",
-     "context": "",
-     "note": "我个人很喜欢"
-    },
-    {
-     "rpid": 322398835824,
-     "commenter": "黑色_幽默-_-",
-     "isSub": true,
-     "written": "へリお",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318710247697,
-     "commenter": "霜月雪瑚",
-     "isSub": true,
-     "written": "herio",
-     "context": "",
-     "note": "画风无敌"
     }
    ]
   },
@@ -15876,7 +15884,7 @@
    "rootNo": 10,
    "isSub": false,
    "user": "鸽书常",
-   "like": 63,
+   "like": 64,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -24357,6 +24365,20 @@
    "ctime": 1793769417,
    "firstSeen": "2026-11-04 14:00:01",
    "content": "观看地方：https://f.youbaoyun.cn/s/V4Y79zyf💫🌟✨",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322912510704,
+   "rootNo": 245,
+   "isSub": false,
+   "user": "皇C0题a江",
+   "like": 0,
+   "ctime": 1793786547,
+   "firstSeen": "2026-11-04 19:00:02",
+   "content": "https://f.youbaoyun.cn/s/V4Y79zyf 原视频🌟✨😊",
    "category": "chat",
    "artists": [],
    "workInfo": null,
@@ -39605,6 +39627,59 @@
    ],
    "workInfo": null,
    "rootUser": "アーサー魔法の派"
+  },
+  {
+   "rpid": 322916140080,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "末晓疯233",
+   "like": 0,
+   "ctime": 1793788680,
+   "firstSeen": "2026-11-04 19:00:02",
+   "content": "herio",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "ヘリを",
+     "written": "ヘリを",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "末晓疯233",
+     "rpid": 322916140080,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 322916286496,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "末晓疯233",
+   "like": 0,
+   "ctime": 1793788720,
+   "firstSeen": "2026-11-04 19:00:02",
+   "content": "野際我想你了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 322916365152,
+   "rootNo": 62,
+   "isSub": true,
+   "user": "末晓疯233",
+   "like": 0,
+   "ctime": 1793788787,
+   "firstSeen": "2026-11-04 19:00:02",
+   "content": "回复 @草莓NK :真人被虎杖堵泉水了啊",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "到此一游NIE"
   }
  ]
 }
