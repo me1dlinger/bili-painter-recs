@@ -1,121 +1,77 @@
 {
-  "generatedAt": "2026-11-04 20:11:00",
+  "generatedAt": "2026-11-05 00:11:00",
   "comments": {
-    "322908189408": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "确实不赖，感慨无画师名",
-      "mentions": []
-    },
-    "319170799169": {
+    "322929115952": {
       "category": "artist_rec",
-      "artists": ["なかにしゆうた"],
+      "artists": ["鳴子ハナハル"],
       "works": [],
-      "reason": "点名なかにしゆうた（新画师，假名写法）",
+      "reason": "点名鸣子花春（鳴子ハナハル 中文写法，新画师）",
       "mentions": [
         {
-          "name_as_written": "なかにしゆうた",
-          "canonical_guess": "なかにしゆうた",
-          "note": "点名画师，未附评价，不确定"
+          "name_as_written": "鸣子花春",
+          "canonical_guess": "鳴子ハナハル",
+          "note": "点名画师，未附评价（中文写法，不确定）"
         }
       ]
     },
-    "319174413761": {
-      "category": "artist_rec",
-      "artists": ["春城秋介"],
-      "works": [],
-      "reason": "点名春城秋介并评价老本人体画工",
-      "mentions": [
-        {
-          "name_as_written": "春城秋介",
-          "canonical_guess": "春城秋介",
-          "note": "老本的人体画工很不错，女角色丰满匀称"
-        }
-      ]
-    },
-    "319169481201": {
+    "322929331728": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "游戏王梗互动，未点名画师",
+      "reason": "评价画风神了，未点名画师",
       "mentions": []
     },
-    "322907579824": {
-      "category": "artist_rec",
-      "artists": ["あるぷ"],
-      "works": [],
-      "reason": "alp（あるぷ 罗马音简称），点名推荐",
-      "mentions": [
-        {
-          "name_as_written": "alp",
-          "canonical_guess": "あるぷ",
-          "note": "点名推荐（alp 罗马音简称）"
-        }
-      ]
-    },
-    "322912510704": {
+    "319190694193": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "分享外部观看链接（推广），未点名画师",
+      "reason": "楼中楼讨论岳母题材作品，未点名画师",
       "mentions": []
     },
-    "322916365152": {
-      "category": "chat",
+    "322932930320": {
+      "category": "ask",
       "artists": [],
       "works": [],
-      "reason": "咒术回战梗互动，未点名画师",
+      "reason": "求英雄（求车牌/作者名）",
       "mentions": []
     },
-    "322916140080": {
+    "322933084384": {
       "category": "artist_rec",
-      "artists": ["ヘリを"],
+      "artists": ["井口工"],
       "works": [],
-      "reason": "herio（ヘリを 罗马音），点名推荐",
+      "reason": "原文工口井口工，取画师名井口工（名单外新画师，不确定）",
       "mentions": [
         {
-          "name_as_written": "herio",
-          "canonical_guess": "ヘリを",
-          "note": "点名推荐（herio 罗马音）"
+          "name_as_written": "工口井口工",
+          "canonical_guess": "井口工",
+          "note": "原文为工口井口工，规范名取井口工，不确定"
         }
       ]
     },
-    "322916286496": {
-      "category": "artist_rec",
-      "artists": ["野際"],
-      "works": [],
-      "reason": "点名野際（新画师，名单外）",
-      "mentions": [
-        {
-          "name_as_written": "野際",
-          "canonical_guess": "野際",
-          "note": "野際我想你了，未附评价，不确定"
-        }
-      ]
-    },
-    "319181976257": {
-      "category": "chat",
+    "322942784672": {
+      "category": "ask",
       "artists": [],
       "works": [],
-      "reason": "评价画风好辨认，未点名画师",
+      "reason": "求画师名（AI 大车模仿的某位画师，忘记了）",
       "mentions": []
     },
-    "319182073457": {
+    "319205057457": {
+      "category": "work_only",
+      "artists": [],
+      "works": ["ただ恋しくて、会いたくて…"],
+      "reason": "推荐单行本作品ただ恋しくて、会いたくて…，未点名画师",
+      "mentions": []
+    },
+    "322947834544": {
       "category": "artist_rec",
-      "artists": ["織田non", "Linda"],
+      "artists": ["胃之上奇嘉郎"],
       "works": [],
-      "reason": "猜测画师（Linda？织田non？），织田non 在名单内，Linda 为名单外候选",
+      "reason": "点名胃之上奇嘉郎，评价最顶的一批本子画师",
       "mentions": [
         {
-          "name_as_written": "Linda",
-          "canonical_guess": "Linda",
-          "note": "猜测候选画师，不确定"
-        },
-        {
-          "name_as_written": "织田non",
-          "canonical_guess": "織田non",
-          "note": "猜测候选画师"
+          "name_as_written": "胃之上奇嘉郎",
+          "canonical_guess": "胃之上奇嘉郎",
+          "note": "在本子画师里面可以说是最顶的一批人之一了"
         }
       ]
     }

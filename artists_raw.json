@@ -5405,7 +5405,7 @@
     "isSub": true,
     "written": "胃之上奇嘉郎",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "在本子画师里面可以说是最顶的一批人之一了"
    }
   ],
   "_raw": [
@@ -5452,7 +5452,7 @@
    {
     "artist": "胃之上奇嘉郎",
     "written": "胃之上奇嘉郎",
-    "note": "自动匹配 · 待复核",
+    "note": "在本子画师里面可以说是最顶的一批人之一了",
     "rootNo": 37,
     "isSub": true,
     "user": "DERTF",
@@ -20134,6 +20134,38 @@
   ]
  },
  {
+  "name": "井口工",
+  "aliases": [
+   "工口井口工"
+  ],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "擦肩而过的石榴刺",
+    "isSub": true,
+    "written": "工口井口工",
+    "context": "",
+    "note": "原文为工口井口工，规范名取井口工，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "井口工",
+    "written": "工口井口工",
+    "note": "原文为工口井口工，规范名取井口工，不确定",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "擦肩而过的石榴刺",
+    "rpid": 322933084384,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "亞美寿真",
   "aliases": [],
   "mentions": 1,
@@ -24500,6 +24532,38 @@
     "user": "空想庭院",
     "rpid": 322620677488,
     "like": 2
+   }
+  ]
+ },
+ {
+  "name": "鳴子ハナハル",
+  "aliases": [
+   "鸣子花春"
+  ],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "新水新火",
+    "isSub": false,
+    "written": "鸣子花春",
+    "context": "",
+    "note": "点名画师，未附评价（中文写法，不确定）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "鳴子ハナハル",
+    "written": "鸣子花春",
+    "note": "点名画师，未附评价（中文写法，不确定）",
+    "rootNo": 247,
+    "isSub": false,
+    "user": "新水新火",
+    "rpid": 322929115952,
+    "like": 0
    }
   ]
  },
