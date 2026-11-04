@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-04 11:00:01",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-04 10:01:29",
+   "publishedAt": "2026-11-04 11:01:28",
    "delta": {
-    "comments": 1,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -2740,7 +2740,9 @@
    "likes": 6,
    "lowConfidence": false,
    "notes": [
-    "剧情脑洞太无敌了"
+    "剧情脑洞太无敌了",
+    "推荐你师走之翁，这剧情能绷住的都是神人了",
+    "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品"
    ],
    "evidence": [
     {
@@ -2771,17 +2773,17 @@
      "rpid": 322869245184,
      "commenter": "Gabriel_ovo",
      "isSub": true,
-     "written": "師走の翁",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "师走之翁",
+     "context": "",
+     "note": "推荐你师走之翁，这剧情能绷住的都是神人了"
     },
     {
      "rpid": 322869892512,
      "commenter": "Gabriel_ovo",
      "isSub": true,
      "written": "師走の翁",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品"
     }
    ]
   },
@@ -3231,7 +3233,8 @@
    "likes": 3,
    "lowConfidence": false,
    "notes": [
-    "给心心"
+    "给心心",
+    "点名推荐，未附评价"
    ],
    "evidence": [
     {
@@ -3262,9 +3265,9 @@
      "rpid": 322872337728,
      "commenter": "神秘抽奖哥",
      "isSub": true,
-     "written": "満開開花",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "满开开花",
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -39187,8 +39190,8 @@
    "artists": [
     {
      "artist": "師走の翁",
-     "written": "師走の翁",
-     "note": "自动匹配 · 待复核",
+     "written": "师走之翁",
+     "note": "推荐你师走之翁，这剧情能绷住的都是神人了",
      "rootNo": 21,
      "isSub": true,
      "user": "Gabriel_ovo",
@@ -39227,7 +39230,7 @@
     {
      "artist": "師走の翁",
      "written": "師走の翁",
-     "note": "自动匹配 · 待复核",
+     "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
      "rootNo": 69,
      "isSub": true,
      "user": "Gabriel_ovo",
@@ -39265,8 +39268,8 @@
    "artists": [
     {
      "artist": "満開開花",
-     "written": "満開開花",
-     "note": "自动匹配 · 待复核",
+     "written": "满开开花",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "神秘抽奖哥",

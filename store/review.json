@@ -1,38 +1,58 @@
 {
-  "generatedAt": "2026-11-04 10:02:00",
+  "generatedAt": "2026-11-04 11:11:00",
   "comments": {
-    "319128858033": {
+    "322869245184": {
       "category": "artist_rec",
-      "artists": ["じゅらい"],
+      "artists": ["師走の翁"],
       "works": [],
-      "reason": "楼中楼点名じゅらい，未附评价",
+      "reason": "推荐师走之翁，评价这剧情能绷住的都是神人",
       "mentions": [
         {
-          "name_as_written": "じゅらい",
-          "canonical_guess": "じゅらい",
-          "note": "点名推荐，未附评价"
+          "name_as_written": "师走之翁",
+          "canonical_guess": "師走の翁",
+          "note": "推荐你师走之翁，这剧情能绷住的都是神人了"
         }
       ]
     },
-    "319128770433": {
-      "category": "artist_rec",
-      "artists": ["じゅらい"],
-      "works": [],
-      "reason": "楼中楼点名じゅらい，未附评价",
-      "mentions": [
-        {
-          "name_as_written": "じゅらい",
-          "canonical_guess": "じゅらい",
-          "note": "点名推荐，未附评价"
-        }
-      ]
-    },
-    "322864305184": {
+    "319133640241": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "楼中楼互动你才是 goat，未点名画师",
+      "reason": "咋搜不到，未点名画师",
       "mentions": []
+    },
+    "322869892512": {
+      "category": "artist_rec",
+      "artists": ["師走の翁"],
+      "works": ["翁計畫"],
+      "reason": "回复推荐师走之翁，提到作品翁計畫（最有名的一部，搜 freeze）",
+      "mentions": [
+        {
+          "name_as_written": "師走の翁",
+          "canonical_guess": "師走の翁",
+          "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品"
+        }
+      ]
+    },
+    "322870506288": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "评价可爱加性感的画风极具个人特色，未点名画师",
+      "mentions": []
+    },
+    "322872337728": {
+      "category": "artist_rec",
+      "artists": ["満開開花"],
+      "works": [],
+      "reason": "满开开花（満開開花 简体写法），点名推荐",
+      "mentions": [
+        {
+          "name_as_written": "满开开花",
+          "canonical_guess": "満開開花",
+          "note": "点名推荐，未附评价"
+        }
+      ]
     }
   }
 }
