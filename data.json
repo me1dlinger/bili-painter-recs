@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 10:00:01",
-  "claimedReplyCount": 935,
+  "fetchedAt": "2026-11-04 11:00:01",
+  "claimedReplyCount": 936,
   "rootCount": 241,
-  "subCount": 697,
-  "totalCount": 938,
+  "subCount": 698,
+  "totalCount": 939,
   "update": {
-   "lastFetchAt": "2026-11-04 10:00:01",
-   "lastFetchNew": 4,
-   "publishedAt": "2026-11-04 10:00:17",
+   "lastFetchAt": "2026-11-04 11:00:01",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-04 10:01:29",
    "delta": {
-    "comments": 4,
+    "comments": 1,
     "artists": 0,
-    "mentions": 2
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 342,
-   "artist_rec": 549,
+   "artist_rec": 550,
    "work_only": 13,
    "ask": 19,
    "empty": 15
   },
   "artistCount": 557,
-  "mentionCount": 998
+  "mentionCount": 999
  },
  "artists": [
   {
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 300,
+   "likes": 301,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -2077,7 +2077,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 71,
+   "likes": 73,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -3222,6 +3222,53 @@
    ]
   },
   {
+   "name": "満開開花",
+   "aliases": [
+    "满开开花"
+   ],
+   "mentions": 4,
+   "users": 4,
+   "likes": 3,
+   "lowConfidence": false,
+   "notes": [
+    "给心心"
+   ],
+   "evidence": [
+    {
+     "rpid": 322444107296,
+     "commenter": "弹兔子",
+     "isSub": true,
+     "written": "满开开花",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318728625393,
+     "commenter": "小忆灵ovo",
+     "isSub": true,
+     "written": "满开开花",
+     "context": "",
+     "note": "给心心"
+    },
+    {
+     "rpid": 318792275425,
+     "commenter": "好小只蓝河",
+     "isSub": true,
+     "written": "満開開花",
+     "context": "",
+     "note": "神"
+    },
+    {
+     "rpid": 322872337728,
+     "commenter": "神秘抽奖哥",
+     "isSub": true,
+     "written": "満開開花",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "無糖紅茶",
    "aliases": [
     "无糖红茶",
@@ -3229,7 +3276,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 320,
+   "likes": 321,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -4620,45 +4667,6 @@
      "written": "清炭ハリケーン",
      "context": "",
      "note": "长名单其中一位；与「清碳」同一人"
-    }
-   ]
-  },
-  {
-   "name": "満開開花",
-   "aliases": [
-    "满开开花"
-   ],
-   "mentions": 3,
-   "users": 3,
-   "likes": 3,
-   "lowConfidence": false,
-   "notes": [
-    "给心心"
-   ],
-   "evidence": [
-    {
-     "rpid": 322444107296,
-     "commenter": "弹兔子",
-     "isSub": true,
-     "written": "满开开花",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318728625393,
-     "commenter": "小忆灵ovo",
-     "isSub": true,
-     "written": "满开开花",
-     "context": "",
-     "note": "给心心"
-    },
-    {
-     "rpid": 318792275425,
-     "commenter": "好小只蓝河",
-     "isSub": true,
-     "written": "満開開花",
-     "context": "",
-     "note": "神"
     }
    ]
   },
@@ -15530,7 +15538,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 146,
+   "like": 147,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -15544,7 +15552,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 146
+     "like": 147
     }
    ],
    "workInfo": null,
@@ -15748,7 +15756,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 62,
+   "like": 64,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15762,7 +15770,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 62
+     "like": 64
     }
    ],
    "workInfo": null,
@@ -15773,7 +15781,7 @@
    "rootNo": 9,
    "isSub": false,
    "user": "鸽书常",
-   "like": 61,
+   "like": 62,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -15837,7 +15845,7 @@
    "rootNo": 12,
    "isSub": false,
    "user": "三块半儿",
-   "like": 53,
+   "like": 54,
    "ctime": 1793382607,
    "firstSeen": "",
    "content": "传奇假小子",
@@ -24441,7 +24449,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 314,
+   "like": 315,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24455,7 +24463,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 314
+     "like": 315
     }
    ],
    "workInfo": null,
@@ -33494,7 +33502,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 36,
+   "like": 38,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -39243,6 +39251,31 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "Gabriel_ovo"
+  },
+  {
+   "rpid": 322872337728,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "神秘抽奖哥",
+   "like": 0,
+   "ctime": 1793758083,
+   "firstSeen": "2026-11-04 11:00:01",
+   "content": "满开开花",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "満開開花",
+     "written": "満開開花",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "神秘抽奖哥",
+     "rpid": 322872337728,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
   }
  ]
 }

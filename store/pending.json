@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-04 10:00:01",
- "count": 4,
+ "generatedAt": "2026-11-04 11:00:01",
+ "count": 5,
  "comments": [
   {
    "rpid": 322869245184,
@@ -41,6 +41,17 @@
    "isSub": true,
    "root": 322780142240,
    "autoMatched": []
+  },
+  {
+   "rpid": 322872337728,
+   "user": "神秘抽奖哥",
+   "content": "满开开花",
+   "like": 0,
+   "isSub": true,
+   "root": 322385918480,
+   "autoMatched": [
+    "満開開花"
+   ]
   }
  ]
 }
