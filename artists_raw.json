@@ -802,9 +802,9 @@
    {
     "commenter": "写鸢",
     "isSub": true,
-    "written": "あるぷ",
+    "written": "alp",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "点名推荐（alp 罗马音简称）"
    }
   ],
   "_raw": [
@@ -960,8 +960,8 @@
    },
    {
     "artist": "あるぷ",
-    "written": "あるぷ",
-    "note": "自动匹配 · 待复核",
+    "written": "alp",
+    "note": "点名推荐（alp 罗马音简称）",
     "rootNo": 1,
     "isSub": true,
     "user": "写鸢",
@@ -4569,9 +4569,9 @@
    {
     "commenter": "末晓疯233",
     "isSub": true,
-    "written": "ヘリを",
+    "written": "herio",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "点名推荐（herio 罗马音）"
    }
   ],
   "_raw": [
@@ -4627,8 +4627,8 @@
    },
    {
     "artist": "ヘリを",
-    "written": "ヘリを",
-    "note": "自动匹配 · 待复核",
+    "written": "herio",
+    "note": "点名推荐（herio 罗马音）",
     "rootNo": 1,
     "isSub": true,
     "user": "末晓疯233",
@@ -5001,9 +5001,9 @@
    {
     "commenter": "少抱怨多运动多努力",
     "isSub": true,
-    "written": "織田non",
+    "written": "织田non",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "猜测候选画师"
    }
   ],
   "_raw": [
@@ -5049,8 +5049,8 @@
    },
    {
     "artist": "織田non",
-    "written": "織田non",
-    "note": "自动匹配 · 待复核",
+    "written": "织田non",
+    "note": "猜测候选画师",
     "rootNo": 127,
     "isSub": true,
     "user": "少抱怨多运动多努力",
@@ -10798,7 +10798,7 @@
     "isSub": true,
     "written": "春城秋介",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "老本的人体画工很不错，女角色丰满匀称"
    }
   ],
   "_raw": [
@@ -10815,7 +10815,7 @@
    {
     "artist": "春城秋介",
     "written": "春城秋介",
-    "note": "自动匹配 · 待复核",
+    "note": "老本的人体画工很不错，女角色丰满匀称",
     "rootNo": 87,
     "isSub": true,
     "user": "我事咸安",
@@ -13523,6 +13523,36 @@
     "user": "荻秋秋秋邱",
     "rpid": 318765839857,
     "like": 2
+   }
+  ]
+ },
+ {
+  "name": "Linda",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "少抱怨多运动多努力",
+    "isSub": true,
+    "written": "Linda",
+    "context": "",
+    "note": "猜测候选画师，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "Linda",
+    "written": "Linda",
+    "note": "猜测候选画师，不确定",
+    "rootNo": 127,
+    "isSub": true,
+    "user": "少抱怨多运动多努力",
+    "rpid": 319182073457,
+    "like": 0
    }
   ]
  },
@@ -17907,6 +17937,36 @@
     "user": "kkneed主炮口径",
     "rpid": 322407099952,
     "like": 1
+   }
+  ]
+ },
+ {
+  "name": "なかにしゆうた",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "Buffilan",
+    "isSub": true,
+    "written": "なかにしゆうた",
+    "context": "",
+    "note": "点名画师，未附评价，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "なかにしゆうた",
+    "written": "なかにしゆうた",
+    "note": "点名画师，未附评价，不确定",
+    "rootNo": 164,
+    "isSub": true,
+    "user": "Buffilan",
+    "rpid": 319170799169,
+    "like": 0
    }
   ]
  },
@@ -23817,6 +23877,36 @@
     "user": "全部成为s",
     "rpid": 318732348401,
     "like": 3
+   }
+  ]
+ },
+ {
+  "name": "野際",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "末晓疯233",
+    "isSub": true,
+    "written": "野際",
+    "context": "",
+    "note": "野際我想你了，未附评价，不确定"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "野際",
+    "written": "野際",
+    "note": "野際我想你了，未附评价，不确定",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "末晓疯233",
+    "rpid": 322916286496,
+    "like": 0
    }
   ]
  },

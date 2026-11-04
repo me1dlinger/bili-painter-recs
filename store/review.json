@@ -1,89 +1,121 @@
 {
-  "generatedAt": "2026-11-04 16:11:00",
+  "generatedAt": "2026-11-04 20:11:00",
   "comments": {
-    "319146395057": {
+    "322908189408": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "玩笑互动（推荐缓解脱发的药），未点名画师",
+      "reason": "确实不赖，感慨无画师名",
       "mentions": []
     },
-    "319148445713": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "感慨逛评论区惬意，未点名画师",
-      "mentions": []
-    },
-    "322886390352": {
+    "319170799169": {
       "category": "artist_rec",
-      "artists": ["昼寝"],
+      "artists": ["なかにしゆうた"],
       "works": [],
-      "reason": "点名昼寢（昼寝 繁体异体写法），未附评价",
+      "reason": "点名なかにしゆうた（新画师，假名写法）",
       "mentions": [
         {
-          "name_as_written": "昼寢",
-          "canonical_guess": "昼寝",
-          "note": "点名推荐，未附评价"
+          "name_as_written": "なかにしゆうた",
+          "canonical_guess": "なかにしゆうた",
+          "note": "点名画师，未附评价，不确定"
         }
       ]
     },
-    "319152211537": {
+    "319174413761": {
+      "category": "artist_rec",
+      "artists": ["春城秋介"],
+      "works": [],
+      "reason": "点名春城秋介并评价老本人体画工",
+      "mentions": [
+        {
+          "name_as_written": "春城秋介",
+          "canonical_guess": "春城秋介",
+          "note": "老本的人体画工很不错，女角色丰满匀称"
+        }
+      ]
+    },
+    "319169481201": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "游戏王梗互动，未点名画师",
+      "mentions": []
+    },
+    "322907579824": {
+      "category": "artist_rec",
+      "artists": ["あるぷ"],
+      "works": [],
+      "reason": "alp（あるぷ 罗马音简称），点名推荐",
+      "mentions": [
+        {
+          "name_as_written": "alp",
+          "canonical_guess": "あるぷ",
+          "note": "点名推荐（alp 罗马音简称）"
+        }
+      ]
+    },
+    "322912510704": {
       "category": "chat",
       "artists": [],
       "works": [],
       "reason": "分享外部观看链接（推广），未点名画师",
       "mentions": []
     },
-    "322894521696": {
-      "category": "artist_rec",
-      "artists": ["腐蝕"],
+    "322916365152": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "点名腐蝕，未附评价",
+      "reason": "咒术回战梗互动，未点名画师",
+      "mentions": []
+    },
+    "322916140080": {
+      "category": "artist_rec",
+      "artists": ["ヘリを"],
+      "works": [],
+      "reason": "herio（ヘリを 罗马音），点名推荐",
       "mentions": [
         {
-          "name_as_written": "腐蝕",
-          "canonical_guess": "腐蝕",
-          "note": "点名推荐，未附评价"
+          "name_as_written": "herio",
+          "canonical_guess": "ヘリを",
+          "note": "点名推荐（herio 罗马音）"
         }
       ]
     },
-    "319162805505": {
+    "322916286496": {
       "category": "artist_rec",
-      "artists": ["緋月アキラ"],
+      "artists": ["野際"],
       "works": [],
-      "reason": "点名绯月（緋月アキラ 简体简称），评价没完全下海",
+      "reason": "点名野際（新画师，名单外）",
       "mentions": [
         {
-          "name_as_written": "绯月",
-          "canonical_guess": "緋月アキラ",
-          "note": "这位没完全下海，海边两脚淌浪水"
+          "name_as_written": "野際",
+          "canonical_guess": "野際",
+          "note": "野際我想你了，未附评价，不确定"
         }
       ]
     },
-    "319160807953": {
-      "category": "artist_rec",
-      "artists": ["立花"],
+    "319181976257": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "点名立花，未附评价",
-      "mentions": [
-        {
-          "name_as_written": "立花",
-          "canonical_guess": "立花",
-          "note": "点名推荐，未附评价"
-        }
-      ]
+      "reason": "评价画风好辨认，未点名画师",
+      "mentions": []
     },
-    "322901448864": {
+    "319182073457": {
       "category": "artist_rec",
-      "artists": ["石恵"],
+      "artists": ["織田non", "Linda"],
       "works": [],
-      "reason": "点名石惠（石恵 简体写法），评价我喜欢",
+      "reason": "猜测画师（Linda？织田non？），织田non 在名单内，Linda 为名单外候选",
       "mentions": [
         {
-          "name_as_written": "石惠",
-          "canonical_guess": "石恵",
-          "note": "我喜欢石惠"
+          "name_as_written": "Linda",
+          "canonical_guess": "Linda",
+          "note": "猜测候选画师，不确定"
+        },
+        {
+          "name_as_written": "织田non",
+          "canonical_guess": "織田non",
+          "note": "猜测候选画师"
         }
       ]
     }

@@ -17,26 +17,30 @@
   "update": {
    "lastFetchAt": "2026-11-04 20:00:02",
    "lastFetchNew": 2,
-   "publishedAt": "2026-11-04 19:01:29",
+   "publishedAt": "2026-11-04 20:01:29",
    "delta": {
-    "comments": 2,
-    "artists": 0,
-    "mentions": 1
+    "comments": 0,
+    "artists": 3,
+    "mentions": 3
    },
-   "newArtists": [],
+   "newArtists": [
+    "Linda",
+    "なかにしゆうた",
+    "野際"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 352,
-   "artist_rec": 559,
+   "chat": 350,
+   "artist_rec": 561,
    "work_only": 13,
    "ask": 19,
    "empty": 15
   },
-  "artistCount": 557,
-  "mentionCount": 1008
+  "artistCount": 560,
+  "mentionCount": 1011
  },
  "artists": [
   {
@@ -410,7 +414,8 @@
     "部分不是纯爱，但画风太无敌了",
     "珍藏的三位之一",
     "应求推荐",
-    "あるぷ：心中个人goat，第一本单行本即当月销冠，画风越来越成熟；utu：题材乱O和ntr多，但人体画得很好看、三点细节完爆某些画师如悠木"
+    "あるぷ：心中个人goat，第一本单行本即当月销冠，画风越来越成熟；utu：题材乱O和ntr多，但人体画得很好看、三点细节完爆某些画师如悠木",
+    "点名推荐（alp 罗马音简称）"
    ],
    "evidence": [
     {
@@ -537,9 +542,9 @@
      "rpid": 322907579824,
      "commenter": "写鸢",
      "isSub": true,
-     "written": "あるぷ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "alp",
+     "context": "",
+     "note": "点名推荐（alp 罗马音简称）"
     }
    ]
   },
@@ -2468,7 +2473,8 @@
     "个人很喜欢的一个",
     "长名单其中一位",
     "我个人很喜欢",
-    "画风无敌"
+    "画风无敌",
+    "点名推荐（herio 罗马音）"
    ],
    "evidence": [
     {
@@ -2515,9 +2521,9 @@
      "rpid": 322916140080,
      "commenter": "末晓疯233",
      "isSub": true,
-     "written": "ヘリを",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "herio",
+     "context": "",
+     "note": "点名推荐（herio 罗马音）"
     }
    ]
   },
@@ -2717,7 +2723,8 @@
    "likes": 62,
    "lowConfidence": false,
    "notes": [
-    "简繁两写法属同一位"
+    "简繁两写法属同一位",
+    "猜测候选画师"
    ],
    "evidence": [
     {
@@ -2756,9 +2763,9 @@
      "rpid": 319182073457,
      "commenter": "少抱怨多运动多努力",
      "isSub": true,
-     "written": "織田non",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "织田non",
+     "context": "",
+     "note": "猜测候选画师"
     }
    ]
   },
@@ -6204,7 +6211,8 @@
    "likes": 2,
    "lowConfidence": false,
    "notes": [
-    "投一票"
+    "投一票",
+    "老本的人体画工很不错，女角色丰满匀称"
    ],
    "evidence": [
     {
@@ -6220,8 +6228,8 @@
      "commenter": "我事咸安",
      "isSub": true,
      "written": "春城秋介",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "老本的人体画工很不错，女角色丰满匀称"
     }
    ]
   },
@@ -7944,6 +7952,27 @@
      "written": "LUXsumildo",
      "context": "",
      "note": "看的好看的本子画师几乎全进备忘录了"
+    }
+   ]
+  },
+  {
+   "name": "Linda",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "猜测候选画师，不确定"
+   ],
+   "evidence": [
+    {
+     "rpid": 319182073457,
+     "commenter": "少抱怨多运动多努力",
+     "isSub": true,
+     "written": "Linda",
+     "context": "",
+     "note": "猜测候选画师，不确定"
     }
    ]
   },
@@ -10888,6 +10917,27 @@
      "written": "どろずみ",
      "context": "",
      "note": "前段时间挺火的，看了心里暖暖的"
+    }
+   ]
+  },
+  {
+   "name": "なかにしゆうた",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "点名画师，未附评价，不确定"
+   ],
+   "evidence": [
+    {
+     "rpid": 319170799169,
+     "commenter": "Buffilan",
+     "isSub": true,
+     "written": "なかにしゆうた",
+     "context": "",
+     "note": "点名画师，未附评价，不确定"
     }
    ]
   },
@@ -14859,6 +14909,27 @@
      "written": "逢魔刻",
      "context": "",
      "note": "全彩东方熟女本"
+    }
+   ]
+  },
+  {
+   "name": "野際",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "野際我想你了，未附评价，不确定"
+   ],
+   "evidence": [
+    {
+     "rpid": 322916286496,
+     "commenter": "末晓疯233",
+     "isSub": true,
+     "written": "野際",
+     "context": "",
+     "note": "野際我想你了，未附评价，不确定"
     }
    ]
   },
@@ -39571,8 +39642,8 @@
    "artists": [
     {
      "artist": "あるぷ",
-     "written": "あるぷ",
-     "note": "自动匹配 · 待复核",
+     "written": "alp",
+     "note": "点名推荐（alp 罗马音简称）",
      "rootNo": 1,
      "isSub": true,
      "user": "写鸢",
@@ -39606,8 +39677,19 @@
    "ctime": 1793784012,
    "firstSeen": "2026-11-04 18:00:02",
    "content": "なかにしゆうた",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "なかにしゆうた",
+     "written": "なかにしゆうた",
+     "note": "点名画师，未附评价，不确定",
+     "rootNo": 164,
+     "isSub": true,
+     "user": "Buffilan",
+     "rpid": 319170799169,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "好姐妹千石抚子"
   },
@@ -39625,7 +39707,7 @@
     {
      "artist": "春城秋介",
      "written": "春城秋介",
-     "note": "自动匹配 · 待复核",
+     "note": "老本的人体画工很不错，女角色丰满匀称",
      "rootNo": 87,
      "isSub": true,
      "user": "我事咸安",
@@ -39649,8 +39731,8 @@
    "artists": [
     {
      "artist": "ヘリを",
-     "written": "ヘリを",
-     "note": "自动匹配 · 待复核",
+     "written": "herio",
+     "note": "点名推荐（herio 罗马音）",
      "rootNo": 1,
      "isSub": true,
      "user": "末晓疯233",
@@ -39670,8 +39752,19 @@
    "ctime": 1793788720,
    "firstSeen": "2026-11-04 19:00:02",
    "content": "野際我想你了",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "野際",
+     "written": "野際",
+     "note": "野際我想你了，未附评价，不确定",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "末晓疯233",
+     "rpid": 322916286496,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   },
@@ -39715,9 +39808,19 @@
    "category": "artist_rec",
    "artists": [
     {
+     "artist": "Linda",
+     "written": "Linda",
+     "note": "猜测候选画师，不确定",
+     "rootNo": 127,
+     "isSub": true,
+     "user": "少抱怨多运动多努力",
+     "rpid": 319182073457,
+     "like": 0
+    },
+    {
      "artist": "織田non",
-     "written": "織田non",
-     "note": "自动匹配 · 待复核",
+     "written": "织田non",
+     "note": "猜测候选画师",
      "rootNo": 127,
      "isSub": true,
      "user": "少抱怨多运动多努力",
