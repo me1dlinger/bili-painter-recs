@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 02:00:01",
+  "fetchedAt": "2026-11-05 03:00:02",
   "claimedReplyCount": 961,
   "rootCount": 248,
   "subCount": 718,
   "totalCount": 966,
   "update": {
-   "lastFetchAt": "2026-11-05 02:00:01",
+   "lastFetchAt": "2026-11-05 03:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 01:01:31",
+   "publishedAt": "2026-11-05 02:01:30",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 315,
+   "likes": 316,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 208,
+   "likes": 209,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -1686,7 +1686,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 79,
+   "likes": 80,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2599,7 +2599,7 @@
    ],
    "mentions": 5,
    "users": 5,
-   "likes": 27,
+   "likes": 28,
    "lowConfidence": false,
    "notes": [
     "内向友人",
@@ -3773,7 +3773,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 23,
+   "likes": 24,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -5529,7 +5529,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 25,
+   "likes": 26,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -11899,7 +11899,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 22,
+   "likes": 23,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12740,7 +12740,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 22,
+   "likes": 23,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15732,7 +15732,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 411,
+   "like": 412,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -15964,7 +15964,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 70,
+   "like": 71,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15978,7 +15978,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 70
+     "like": 71
     }
    ],
    "workInfo": null,
@@ -16236,7 +16236,7 @@
    "rootNo": 14,
    "isSub": false,
    "user": "不平等云雾",
-   "like": 41,
+   "like": 42,
    "ctime": 1793542679,
    "firstSeen": "2026-11-01 22:21:18",
    "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
@@ -16384,25 +16384,11 @@
    "rootUser": ""
   },
   {
-   "rpid": 322385344608,
+   "rpid": 322616341040,
    "rootNo": 21,
    "isSub": false,
-   "user": "夏夜下灬",
-   "like": 22,
-   "ctime": 1793366847,
-   "firstSeen": "",
-   "content": "个人觉得本子剧情＞画功 剧情好又戳 xp 只要画得能入眼就是上乘佳作 现在画得好剧情一坨的实在太多了 都不用点进去 看封面就知道该跳过了[doge]",
-   "category": "chat",
-   "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322616341040,
-   "rootNo": 22,
-   "isSub": false,
    "user": "狗卡世界第一",
-   "like": 22,
+   "like": 23,
    "ctime": 1793534081,
    "firstSeen": "",
    "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
@@ -16412,63 +16398,77 @@
      "artist": "鳥居ヨシツナ",
      "written": "鸟居ヨシツナ",
      "note": "",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     },
     {
      "artist": "フグタ家",
      "written": "フグタ家",
      "note": "",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     },
     {
      "artist": "じゃが山たらヲ",
      "written": "じゃが山たらヲ",
      "note": "",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     },
     {
      "artist": "だにまる",
      "written": "だにまる",
      "note": "视频里的",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     },
     {
      "artist": "咲良ゆき",
      "written": "咲良ゆき",
      "note": "",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     },
     {
      "artist": "92m",
      "written": "92m",
      "note": "",
-     "rootNo": 22,
+     "rootNo": 21,
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 22
+     "like": 23
     }
    ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322385344608,
+   "rootNo": 22,
+   "isSub": false,
+   "user": "夏夜下灬",
+   "like": 22,
+   "ctime": 1793366847,
+   "firstSeen": "",
+   "content": "个人觉得本子剧情＞画功 剧情好又戳 xp 只要画得能入眼就是上乘佳作 现在画得好剧情一坨的实在太多了 都不用点进去 看封面就知道该跳过了[doge]",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -17160,8 +17160,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318670706833,
+   "rpid": 318894600145,
    "rootNo": 35,
+   "isSub": false,
+   "user": "归虚_梦演",
+   "like": 8,
+   "ctime": 1793535244,
+   "firstSeen": "",
+   "content": "dojiro老师的这本，神中之神。很难想象这样情感丰富，青涩，纯真，感情丰富大胆，人物立体真实的作品会是本子[局长的教育手册静态表情包_好耶]",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "どじろー",
+     "written": "dojiro",
+     "note": "神中之神；情感丰富、青涩纯真、人物立体真实",
+     "rootNo": 35,
+     "isSub": false,
+     "user": "归虚_梦演",
+     "rpid": 318894600145,
+     "like": 8
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318670706833,
+   "rootNo": 36,
    "isSub": false,
    "user": "五十斤土块",
    "like": 7,
@@ -17174,35 +17199,10 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐",
      "note": "老作品，艾姬多娜地牢",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": false,
      "user": "五十斤土块",
      "rpid": 318670706833,
-     "like": 7
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318894600145,
-   "rootNo": 36,
-   "isSub": false,
-   "user": "归虚_梦演",
-   "like": 7,
-   "ctime": 1793535244,
-   "firstSeen": "",
-   "content": "dojiro老师的这本，神中之神。很难想象这样情感丰富，青涩，纯真，感情丰富大胆，人物立体真实的作品会是本子[局长的教育手册静态表情包_好耶]",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "どじろー",
-     "written": "dojiro",
-     "note": "神中之神；情感丰富、青涩纯真、人物立体真实",
-     "rootNo": 36,
-     "isSub": false,
-     "user": "归虚_梦演",
-     "rpid": 318894600145,
      "like": 7
     }
    ],
@@ -24569,7 +24569,7 @@
   },
   {
    "rpid": 322383869904,
-   "rootNo": 35,
+   "rootNo": 36,
    "isSub": true,
    "user": "誓词ぁ",
    "like": 1,
@@ -24703,7 +24703,7 @@
   },
   {
    "rpid": 318673196753,
-   "rootNo": 35,
+   "rootNo": 36,
    "isSub": true,
    "user": "酋长咱别玩了",
    "like": 0,
@@ -24716,7 +24716,7 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐老师",
      "note": "魔物娘确实好",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -24726,7 +24726,7 @@
      "artist": "messy",
      "written": "messy老师",
      "note": "画面细腻温润，扶她",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -33819,7 +33819,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 44,
+   "like": 45,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -39493,7 +39493,7 @@
   },
   {
    "rpid": 322869245184,
-   "rootNo": 21,
+   "rootNo": 22,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 0,
@@ -39506,7 +39506,7 @@
      "artist": "師走の翁",
      "written": "师走之翁",
      "note": "推荐你师走之翁，这剧情能绷住的都是神人了",
-     "rootNo": 21,
+     "rootNo": 22,
      "isSub": true,
      "user": "Gabriel_ovo",
      "rpid": 322869245184,
