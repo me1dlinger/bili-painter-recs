@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 11:00:01",
+  "fetchedAt": "2026-11-04 12:00:02",
   "claimedReplyCount": 936,
   "rootCount": 241,
   "subCount": 698,
   "totalCount": 939,
   "update": {
-   "lastFetchAt": "2026-11-04 11:00:01",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-04 11:01:28",
+   "lastFetchAt": "2026-11-04 12:00:02",
+   "lastFetchNew": 0,
+   "publishedAt": "2026-11-04 11:11:54",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 301,
+   "likes": 302,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -946,7 +946,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 196,
+   "likes": 197,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -3279,7 +3279,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 321,
+   "likes": 323,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -3709,7 +3709,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 19,
+   "likes": 20,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -5465,7 +5465,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 20,
+   "likes": 21,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -6448,7 +6448,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 23,
+   "likes": 24,
    "lowConfidence": false,
    "notes": [
     "可惜老师去世了",
@@ -11700,7 +11700,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 18,
+   "likes": 19,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -11908,7 +11908,7 @@
    ],
    "mentions": 1,
    "users": 1,
-   "likes": 73,
+   "likes": 74,
    "lowConfidence": false,
    "notes": [
     "肉感十足，细节讲究，杂食"
@@ -12518,7 +12518,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 18,
+   "likes": 19,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15734,7 +15734,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "里芙",
-   "like": 73,
+   "like": 74,
    "ctime": 1793402470,
    "firstSeen": "",
    "content": "可能不算goat但算我心目中最喜欢的之一，ラマンダ老师，肉感十足而且细节方面很讲究，都能看到鸡皮疙瘩。杂食，有纯爱有NTR有小孩大车",
@@ -15748,7 +15748,7 @@
      "isSub": false,
      "user": "里芙",
      "rpid": 322421046848,
-     "like": 73
+     "like": 74
     }
    ],
    "workInfo": null,
@@ -16197,7 +16197,7 @@
    "rootNo": 22,
    "isSub": false,
    "user": "狗卡世界第一",
-   "like": 18,
+   "like": 19,
    "ctime": 1793534081,
    "firstSeen": "",
    "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
@@ -16211,7 +16211,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     },
     {
      "artist": "フグタ家",
@@ -16221,7 +16221,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     },
     {
      "artist": "じゃが山たらヲ",
@@ -16231,7 +16231,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     },
     {
      "artist": "だにまる",
@@ -16241,7 +16241,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     },
     {
      "artist": "咲良ゆき",
@@ -16251,7 +16251,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     },
     {
      "artist": "92m",
@@ -16261,7 +16261,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 18
+     "like": 19
     }
    ],
    "workInfo": null,
@@ -24452,7 +24452,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 315,
+   "like": 317,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24466,7 +24466,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 315
+     "like": 317
     }
    ],
    "workInfo": null,
@@ -24932,7 +24932,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "于虛无中永存",
-   "like": 21,
+   "like": 22,
    "ctime": 1793369688,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "焦茶，我认为的goat，可惜老师逝世了",
@@ -24946,7 +24946,7 @@
      "isSub": true,
      "user": "于虛无中永存",
      "rpid": 318677891233,
-     "like": 21
+     "like": 22
     }
    ],
    "workInfo": null,
