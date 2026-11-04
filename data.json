@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-04 16:00:02",
    "lastFetchNew": 3,
-   "publishedAt": "2026-11-04 15:01:32",
+   "publishedAt": "2026-11-04 16:01:29",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 3
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 347,
-   "artist_rec": 552,
+   "chat": 345,
+   "artist_rec": 555,
    "work_only": 13,
    "ask": 19,
-   "empty": 16
+   "empty": 15
   },
   "artistCount": 557,
-  "mentionCount": 1001
+  "mentionCount": 1004
  },
  "artists": [
   {
@@ -1206,7 +1206,8 @@
     "毋庸置疑，假门",
     "这位纯假小子的",
     "看的好看的本子画师几乎全进备忘录了",
-    "上岸了"
+    "上岸了",
+    "点名推荐，未附评价"
    ],
    "evidence": [
     {
@@ -1294,8 +1295,8 @@
      "commenter": "圆子菌KTS3",
      "isSub": true,
      "written": "腐蝕",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -1665,6 +1666,96 @@
      "written": "云吞",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "昼寝",
+   "aliases": [
+    "昼寢",
+    "晝寢"
+   ],
+   "mentions": 9,
+   "users": 8,
+   "likes": 76,
+   "lowConfidence": false,
+   "notes": [
+    "画功goat",
+    "看的好看的本子画师几乎全进备忘录了",
+    "点名推荐，未附评价"
+   ],
+   "evidence": [
+    {
+     "rpid": 318738474049,
+     "commenter": "゚゙゚゙゚帕琪",
+     "isSub": false,
+     "written": "晝寢",
+     "context": "",
+     "note": "画功goat"
+    },
+    {
+     "rpid": 318765839857,
+     "commenter": "荻秋秋秋邱",
+     "isSub": false,
+     "written": "昼寝",
+     "context": "",
+     "note": "看的好看的本子画师几乎全进备忘录了"
+    },
+    {
+     "rpid": 322402830800,
+     "commenter": "Mr_crayonC",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322405387344,
+     "commenter": "讪笑狼",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322406798560,
+     "commenter": "一只知道朝菌的晦朔",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318760980209,
+     "commenter": "等待不笑猫",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322708702320,
+     "commenter": "Ofloxacin___999",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322708680640,
+     "commenter": "Ofloxacin___999",
+     "isSub": true,
+     "written": "昼寝",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322886390352,
+     "commenter": "DASO_Unofficial",
+     "isSub": true,
+     "written": "昼寢",
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -2075,86 +2166,6 @@
      "written": "さんじゅうろう",
      "context": "",
      "note": "剧情不是特别喜欢，但快乐天热门老师"
-    }
-   ]
-  },
-  {
-   "name": "昼寝",
-   "aliases": [
-    "晝寢"
-   ],
-   "mentions": 8,
-   "users": 7,
-   "likes": 76,
-   "lowConfidence": false,
-   "notes": [
-    "画功goat",
-    "看的好看的本子画师几乎全进备忘录了"
-   ],
-   "evidence": [
-    {
-     "rpid": 318738474049,
-     "commenter": "゚゙゚゙゚帕琪",
-     "isSub": false,
-     "written": "晝寢",
-     "context": "",
-     "note": "画功goat"
-    },
-    {
-     "rpid": 318765839857,
-     "commenter": "荻秋秋秋邱",
-     "isSub": false,
-     "written": "昼寝",
-     "context": "",
-     "note": "看的好看的本子画师几乎全进备忘录了"
-    },
-    {
-     "rpid": 322402830800,
-     "commenter": "Mr_crayonC",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322405387344,
-     "commenter": "讪笑狼",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322406798560,
-     "commenter": "一只知道朝菌的晦朔",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318760980209,
-     "commenter": "等待不笑猫",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322708702320,
-     "commenter": "Ofloxacin___999",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322708680640,
-     "commenter": "Ofloxacin___999",
-     "isSub": true,
-     "written": "昼寝",
-     "context": "",
-     "note": ""
     }
    ]
   },
@@ -2747,7 +2758,8 @@
    "likes": 4,
    "lowConfidence": false,
    "notes": [
-    "顶级纯爱画师"
+    "顶级纯爱画师",
+    "点名推荐，未附评价"
    ],
    "evidence": [
     {
@@ -2787,8 +2799,8 @@
      "commenter": "AShadovv",
      "isSub": true,
      "written": "立花",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -6610,6 +6622,38 @@
    ]
   },
   {
+   "name": "石恵",
+   "aliases": [
+    "石惠"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "likes": 3,
+   "lowConfidence": false,
+   "notes": [
+    "依旧全彩，有大也有小",
+    "我喜欢石惠"
+   ],
+   "evidence": [
+    {
+     "rpid": 318732348401,
+     "commenter": "全部成为s",
+     "isSub": false,
+     "written": "石恵",
+     "context": "",
+     "note": "依旧全彩，有大也有小"
+    },
+    {
+     "rpid": 322901448864,
+     "commenter": "滑稽_-滑稽",
+     "isSub": true,
+     "written": "石惠",
+     "context": "",
+     "note": "我喜欢石惠"
+    }
+   ]
+  },
+  {
    "name": "石村",
    "aliases": [
     "石村屋"
@@ -6692,6 +6736,37 @@
      "written": "米山舞",
      "context": "",
      "note": "色彩和光影让人眼前一亮"
+    }
+   ]
+  },
+  {
+   "name": "緋月アキラ",
+   "aliases": [
+    "绯月"
+   ],
+   "mentions": 2,
+   "users": 2,
+   "likes": 5,
+   "lowConfidence": false,
+   "notes": [
+    "这位没完全下海，海边两脚淌浪水"
+   ],
+   "evidence": [
+    {
+     "rpid": 318682485745,
+     "commenter": "蓮生_三十二",
+     "isSub": true,
+     "written": "緋月アキラ",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 319162805505,
+     "commenter": "卡卡目",
+     "isSub": true,
+     "written": "绯月",
+     "context": "",
+     "note": "这位没完全下海，海边两脚淌浪水"
     }
    ]
   },
@@ -14207,27 +14282,6 @@
    ]
   },
   {
-   "name": "石恵",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 3,
-   "lowConfidence": false,
-   "notes": [
-    "依旧全彩，有大也有小"
-   ],
-   "evidence": [
-    {
-     "rpid": 318732348401,
-     "commenter": "全部成为s",
-     "isSub": false,
-     "written": "石恵",
-     "context": "",
-     "note": "依旧全彩，有大也有小"
-    }
-   ]
-  },
-  {
    "name": "砂漠",
    "aliases": [],
    "mentions": 1,
@@ -14367,25 +14421,6 @@
      "commenter": "⑨Z",
      "isSub": true,
      "written": "纸鱼丸",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
-   "name": "緋月アキラ",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 5,
-   "lowConfidence": false,
-   "notes": [],
-   "evidence": [
-    {
-     "rpid": 318682485745,
-     "commenter": "蓮生_三十二",
-     "isSub": true,
-     "written": "緋月アキラ",
      "context": "",
      "note": ""
     }
@@ -39347,8 +39382,19 @@
    "ctime": 1793767686,
    "firstSeen": "2026-11-04 13:00:02",
    "content": "昼寢",
-   "category": "empty",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "昼寝",
+     "written": "昼寢",
+     "note": "点名推荐，未附评价",
+     "rootNo": 125,
+     "isSub": true,
+     "user": "DASO_Unofficial",
+     "rpid": 322886390352,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "Falcons-AY"
   },
@@ -39366,7 +39412,7 @@
     {
      "artist": "腐蝕",
      "written": "腐蝕",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "圆子菌KTS3",
@@ -39391,7 +39437,7 @@
     {
      "artist": "立花",
      "written": "立花",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "AShadovv",
@@ -39411,8 +39457,19 @@
    "ctime": 1793777899,
    "firstSeen": "2026-11-04 16:00:02",
    "content": "绯月，这位没完全下海，海边两脚淌浪水",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "緋月アキラ",
+     "written": "绯月",
+     "note": "这位没完全下海，海边两脚淌浪水",
+     "rootNo": 125,
+     "isSub": true,
+     "user": "卡卡目",
+     "rpid": 319162805505,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "Falcons-AY"
   },
@@ -39425,8 +39482,19 @@
    "ctime": 1793778989,
    "firstSeen": "2026-11-04 16:00:02",
    "content": "我喜欢石惠",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "石恵",
+     "written": "石惠",
+     "note": "我喜欢石惠",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "滑稽_-滑稽",
+     "rpid": 322901448864,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   }

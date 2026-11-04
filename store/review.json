@@ -1,56 +1,89 @@
 {
-  "generatedAt": "2026-11-04 11:11:00",
+  "generatedAt": "2026-11-04 16:11:00",
   "comments": {
-    "322869245184": {
-      "category": "artist_rec",
-      "artists": ["師走の翁"],
-      "works": [],
-      "reason": "推荐师走之翁，评价这剧情能绷住的都是神人",
-      "mentions": [
-        {
-          "name_as_written": "师走之翁",
-          "canonical_guess": "師走の翁",
-          "note": "推荐你师走之翁，这剧情能绷住的都是神人了"
-        }
-      ]
-    },
-    "319133640241": {
+    "319146395057": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "咋搜不到，未点名画师",
+      "reason": "玩笑互动（推荐缓解脱发的药），未点名画师",
       "mentions": []
     },
-    "322869892512": {
-      "category": "artist_rec",
-      "artists": ["師走の翁"],
-      "works": ["翁計畫"],
-      "reason": "回复推荐师走之翁，提到作品翁計畫（最有名的一部，搜 freeze）",
-      "mentions": [
-        {
-          "name_as_written": "師走の翁",
-          "canonical_guess": "師走の翁",
-          "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品"
-        }
-      ]
-    },
-    "322870506288": {
+    "319148445713": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "评价可爱加性感的画风极具个人特色，未点名画师",
+      "reason": "感慨逛评论区惬意，未点名画师",
       "mentions": []
     },
-    "322872337728": {
+    "322886390352": {
       "category": "artist_rec",
-      "artists": ["満開開花"],
+      "artists": ["昼寝"],
       "works": [],
-      "reason": "满开开花（満開開花 简体写法），点名推荐",
+      "reason": "点名昼寢（昼寝 繁体异体写法），未附评价",
       "mentions": [
         {
-          "name_as_written": "满开开花",
-          "canonical_guess": "満開開花",
+          "name_as_written": "昼寢",
+          "canonical_guess": "昼寝",
           "note": "点名推荐，未附评价"
+        }
+      ]
+    },
+    "319152211537": {
+      "category": "chat",
+      "artists": [],
+      "works": [],
+      "reason": "分享外部观看链接（推广），未点名画师",
+      "mentions": []
+    },
+    "322894521696": {
+      "category": "artist_rec",
+      "artists": ["腐蝕"],
+      "works": [],
+      "reason": "点名腐蝕，未附评价",
+      "mentions": [
+        {
+          "name_as_written": "腐蝕",
+          "canonical_guess": "腐蝕",
+          "note": "点名推荐，未附评价"
+        }
+      ]
+    },
+    "319162805505": {
+      "category": "artist_rec",
+      "artists": ["緋月アキラ"],
+      "works": [],
+      "reason": "点名绯月（緋月アキラ 简体简称），评价没完全下海",
+      "mentions": [
+        {
+          "name_as_written": "绯月",
+          "canonical_guess": "緋月アキラ",
+          "note": "这位没完全下海，海边两脚淌浪水"
+        }
+      ]
+    },
+    "319160807953": {
+      "category": "artist_rec",
+      "artists": ["立花"],
+      "works": [],
+      "reason": "点名立花，未附评价",
+      "mentions": [
+        {
+          "name_as_written": "立花",
+          "canonical_guess": "立花",
+          "note": "点名推荐，未附评价"
+        }
+      ]
+    },
+    "322901448864": {
+      "category": "artist_rec",
+      "artists": ["石恵"],
+      "works": [],
+      "reason": "点名石惠（石恵 简体写法），评价我喜欢",
+      "mentions": [
+        {
+          "name_as_written": "石惠",
+          "canonical_guess": "石恵",
+          "note": "我喜欢石惠"
         }
       ]
     }
