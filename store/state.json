@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 928,
- "total": 931,
+ "claimed": 931,
+ "total": 934,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-04 08:00:02",
-  "newComments": 0,
-  "updated": 1,
-  "autoMentions": 0,
-  "total": 931
+  "at": "2026-11-04 09:00:02",
+  "newComments": 3,
+  "updated": 10,
+  "autoMentions": 2,
+  "total": 934
  },
  "published": {
-  "at": "2026-11-04 08:01:27",
-  "comments": 931,
+  "at": "2026-11-04 09:01:27",
+  "comments": 934,
   "artists": 557,
-  "mentions": 994,
+  "mentions": 996,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -94,6 +94,7 @@
    "豆六",
    "赤月屋",
    "銀曜ハル",
+   "じゅらい",
    "南浜よりこ",
    "咲凛玖",
    "Chicke",
@@ -337,7 +338,6 @@
    "ことらっく",
    "こむぎ@小麦_こむぎ",
    "しぷおる",
-   "じゅらい",
    "すこやかグミ",
    "すみやお",
    "せゆーら",
