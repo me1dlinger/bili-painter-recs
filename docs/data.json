@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 23:00:02",
-  "claimedReplyCount": 960,
+  "fetchedAt": "2026-11-05 00:00:02",
+  "claimedReplyCount": 961,
   "rootCount": 248,
-  "subCount": 717,
-  "totalCount": 965,
+  "subCount": 718,
+  "totalCount": 966,
   "update": {
-   "lastFetchAt": "2026-11-04 23:00:02",
-   "lastFetchNew": 2,
-   "publishedAt": "2026-11-04 22:01:31",
+   "lastFetchAt": "2026-11-05 00:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-04 23:01:33",
    "delta": {
-    "comments": 2,
+    "comments": 1,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 355,
-   "artist_rec": 561,
+   "artist_rec": 562,
    "work_only": 13,
    "ask": 21,
    "empty": 15
   },
   "artistCount": 560,
-  "mentionCount": 1011
+  "mentionCount": 1012
  },
  "artists": [
   {
@@ -2938,6 +2938,63 @@
    ]
   },
   {
+   "name": "胃之上奇嘉郎",
+   "aliases": [
+    "胃之上奇朗"
+   ],
+   "mentions": 5,
+   "users": 3,
+   "likes": 7,
+   "lowConfidence": false,
+   "notes": [
+    "很久不画了，领先业界十年",
+    "画里有怨念的来了",
+    "著名的侍奉委员那本"
+   ],
+   "evidence": [
+    {
+     "rpid": 318862554113,
+     "commenter": "XDY想画whatcanisay",
+     "isSub": true,
+     "written": "胃之上奇嘉郎",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318936308001,
+     "commenter": "横行跋涉天蓝怪",
+     "isSub": true,
+     "written": "胃之上奇朗",
+     "context": "",
+     "note": "很久不画了，领先业界十年"
+    },
+    {
+     "rpid": 322799332000,
+     "commenter": "DERTF",
+     "isSub": false,
+     "written": "胃之上奇嘉郎",
+     "context": "",
+     "note": "画里有怨念的来了"
+    },
+    {
+     "rpid": 322809270672,
+     "commenter": "DERTF",
+     "isSub": true,
+     "written": "胃之上奇嘉郎",
+     "context": "",
+     "note": "著名的侍奉委员那本"
+    },
+    {
+     "rpid": 322947834544,
+     "commenter": "DERTF",
+     "isSub": true,
+     "written": "胃之上奇嘉郎",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "as109",
    "aliases": [],
    "mentions": 4,
@@ -3429,7 +3486,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 329,
+   "likes": 330,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -3705,55 +3762,6 @@
      "written": "煌野一人",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "胃之上奇嘉郎",
-   "aliases": [
-    "胃之上奇朗"
-   ],
-   "mentions": 4,
-   "users": 3,
-   "likes": 7,
-   "lowConfidence": false,
-   "notes": [
-    "很久不画了，领先业界十年",
-    "画里有怨念的来了",
-    "著名的侍奉委员那本"
-   ],
-   "evidence": [
-    {
-     "rpid": 318862554113,
-     "commenter": "XDY想画whatcanisay",
-     "isSub": true,
-     "written": "胃之上奇嘉郎",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318936308001,
-     "commenter": "横行跋涉天蓝怪",
-     "isSub": true,
-     "written": "胃之上奇朗",
-     "context": "",
-     "note": "很久不画了，领先业界十年"
-    },
-    {
-     "rpid": 322799332000,
-     "commenter": "DERTF",
-     "isSub": false,
-     "written": "胃之上奇嘉郎",
-     "context": "",
-     "note": "画里有怨念的来了"
-    },
-    {
-     "rpid": 322809270672,
-     "commenter": "DERTF",
-     "isSub": true,
-     "written": "胃之上奇嘉郎",
-     "context": "",
-     "note": "著名的侍奉委员那本"
     }
    ]
   },
@@ -24700,7 +24708,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 323,
+   "like": 324,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -24714,7 +24722,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 323
+     "like": 324
     }
    ],
    "workInfo": null,
@@ -39924,6 +39932,31 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "アーサー魔法の派"
+  },
+  {
+   "rpid": 322947834544,
+   "rootNo": 37,
+   "isSub": true,
+   "user": "DERTF",
+   "like": 0,
+   "ctime": 1793807098,
+   "firstSeen": "2026-11-05 00:00:02",
+   "content": "回复 @zoezzzi :胃之上奇嘉郎在本子画师里面可以说是最顶的一批人之一了。",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "胃之上奇嘉郎",
+     "written": "胃之上奇嘉郎",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 37,
+     "isSub": true,
+     "user": "DERTF",
+     "rpid": 322947834544,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "DERTF"
   }
  ]
 }

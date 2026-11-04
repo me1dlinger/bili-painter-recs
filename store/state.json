@@ -1,21 +1,21 @@
 {
  "lastRun": "2026-11-02 10:00:07",
- "claimed": 960,
- "total": 965,
+ "claimed": 961,
+ "total": 966,
  "newComments": 0,
  "autoMentions": 0,
  "lastFetch": {
-  "at": "2026-11-04 23:00:02",
-  "newComments": 2,
-  "updated": 3,
-  "autoMentions": 0,
-  "total": 965
+  "at": "2026-11-05 00:00:02",
+  "newComments": 1,
+  "updated": 2,
+  "autoMentions": 1,
+  "total": 966
  },
  "published": {
-  "at": "2026-11-04 23:01:33",
-  "comments": 965,
+  "at": "2026-11-05 00:01:32",
+  "comments": 966,
   "artists": 560,
-  "mentions": 1011,
+  "mentions": 1012,
   "artistNames": [
    "鳥居ヨシツナ",
    "みちきんぐ",
@@ -48,6 +48,7 @@
    "黒本君",
    "立花",
    "師走の翁",
+   "胃之上奇嘉郎",
    "as109",
    "eo58",
    "sage・ジョー",
@@ -64,7 +65,6 @@
    "越山弱衰",
    "にの子",
    "煌野一人",
-   "胃之上奇嘉郎",
    "92m",
    "Fan",
    "Jin",
