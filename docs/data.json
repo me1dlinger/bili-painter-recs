@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 15:00:02",
-  "claimedReplyCount": 941,
+  "fetchedAt": "2026-11-04 16:00:02",
+  "claimedReplyCount": 942,
   "rootCount": 244,
-  "subCount": 700,
-  "totalCount": 944,
+  "subCount": 703,
+  "totalCount": 947,
   "update": {
-   "lastFetchAt": "2026-11-04 15:00:02",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-04 14:01:31",
+   "lastFetchAt": "2026-11-04 16:00:02",
+   "lastFetchNew": 3,
+   "publishedAt": "2026-11-04 15:01:32",
    "delta": {
-    "comments": 1,
+    "comments": 3,
     "artists": 0,
     "mentions": 1
    },
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 345,
-   "artist_rec": 551,
+   "chat": 347,
+   "artist_rec": 552,
    "work_only": 13,
    "ask": 19,
    "empty": 16
   },
   "artistCount": 557,
-  "mentionCount": 1000
+  "mentionCount": 1001
  },
  "artists": [
   {
@@ -234,7 +234,7 @@
    ],
    "mentions": 18,
    "users": 17,
-   "likes": 80,
+   "likes": 81,
    "lowConfidence": false,
    "notes": [
     "看的好看的本子画师几乎全进备忘录了",
@@ -675,7 +675,7 @@
    ],
    "mentions": 14,
    "users": 13,
-   "likes": 73,
+   "likes": 74,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -810,7 +810,7 @@
    ],
    "mentions": 14,
    "users": 13,
-   "likes": 198,
+   "likes": 199,
    "lowConfidence": false,
    "notes": [
     "第一个修女那篇，纯爱",
@@ -946,7 +946,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 202,
+   "likes": 203,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -2085,7 +2085,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 74,
+   "likes": 76,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2313,7 +2313,7 @@
    ],
    "mentions": 6,
    "users": 6,
-   "likes": 62,
+   "likes": 63,
    "lowConfidence": false,
    "notes": [
     "佐田泪子那几篇",
@@ -2628,7 +2628,7 @@
    ],
    "mentions": 5,
    "users": 5,
-   "likes": 60,
+   "likes": 61,
    "lowConfidence": false,
    "notes": [
     "jc系列太棒了，可惜没后续",
@@ -2734,6 +2734,61 @@
      "written": "herio",
      "context": "",
      "note": "画风无敌"
+    }
+   ]
+  },
+  {
+   "name": "立花",
+   "aliases": [
+    "立花ォミナ"
+   ],
+   "mentions": 5,
+   "users": 4,
+   "likes": 4,
+   "lowConfidence": false,
+   "notes": [
+    "顶级纯爱画师"
+   ],
+   "evidence": [
+    {
+     "rpid": 322440603664,
+     "commenter": "ktv1025",
+     "isSub": true,
+     "written": "立花",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318708951937,
+     "commenter": "这个昵称到底能取多长",
+     "isSub": false,
+     "written": "立花",
+     "context": "",
+     "note": "顶级纯爱画师"
+    },
+    {
+     "rpid": 322409457936,
+     "commenter": "ktv1025",
+     "isSub": true,
+     "written": "立花",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318809897201,
+     "commenter": "3价势阱",
+     "isSub": true,
+     "written": "立花ォミナ",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 319160807953,
+     "commenter": "AShadovv",
+     "isSub": true,
+     "written": "立花",
+     "context": "自动匹配 · 待复核",
+     "note": ""
     }
    ]
   },
@@ -2847,7 +2902,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 113,
+   "likes": 114,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -2895,7 +2950,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 57,
+   "likes": 58,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -3336,7 +3391,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 54,
+   "likes": 55,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -3609,53 +3664,6 @@
      "commenter": "Redの杰仔",
      "isSub": true,
      "written": "煌野一人",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
-   "name": "立花",
-   "aliases": [
-    "立花ォミナ"
-   ],
-   "mentions": 4,
-   "users": 3,
-   "likes": 4,
-   "lowConfidence": false,
-   "notes": [
-    "顶级纯爱画师"
-   ],
-   "evidence": [
-    {
-     "rpid": 322440603664,
-     "commenter": "ktv1025",
-     "isSub": true,
-     "written": "立花",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318708951937,
-     "commenter": "这个昵称到底能取多长",
-     "isSub": false,
-     "written": "立花",
-     "context": "",
-     "note": "顶级纯爱画师"
-    },
-    {
-     "rpid": 322409457936,
-     "commenter": "ktv1025",
-     "isSub": true,
-     "written": "立花",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318809897201,
-     "commenter": "3价势阱",
-     "isSub": true,
-     "written": "立花ォミナ",
      "context": "",
      "note": ""
     }
@@ -4066,7 +4074,7 @@
    "aliases": [],
    "mentions": 3,
    "users": 3,
-   "likes": 50,
+   "likes": 51,
    "lowConfidence": false,
    "notes": [
     "表情超美味"
@@ -4883,7 +4891,7 @@
    ],
    "mentions": 3,
    "users": 2,
-   "likes": 52,
+   "likes": 53,
    "lowConfidence": false,
    "notes": [
     "点名推荐，未附评价"
@@ -5295,7 +5303,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 52,
+   "likes": 53,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -6305,7 +6313,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 51,
+   "likes": 52,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -6662,7 +6670,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 112,
+   "likes": 113,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -8357,7 +8365,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 50,
+   "likes": 51,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -13626,7 +13634,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 105,
+   "likes": 106,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -13845,7 +13853,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 50,
+   "likes": 51,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -14407,7 +14415,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 50,
+   "likes": 51,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15697,7 +15705,7 @@
    "rootNo": 6,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 105,
+   "like": 106,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -15711,7 +15719,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 105
+     "like": 106
     },
     {
      "artist": "eo58",
@@ -15721,7 +15729,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 105
+     "like": 106
     },
     {
      "artist": "毛谁",
@@ -15731,7 +15739,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 105
+     "like": 106
     }
    ],
    "workInfo": null,
@@ -15767,7 +15775,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 65,
+   "like": 67,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15781,7 +15789,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 65
+     "like": 67
     }
    ],
    "workInfo": null,
@@ -15831,7 +15839,7 @@
    "rootNo": 11,
    "isSub": false,
    "user": "三块半儿",
-   "like": 55,
+   "like": 56,
    "ctime": 1793382607,
    "firstSeen": "",
    "content": "传奇假小子",
@@ -15874,7 +15882,7 @@
    "rootNo": 13,
    "isSub": false,
    "user": "白露未已",
-   "like": 50,
+   "like": 51,
    "ctime": 1793375063,
    "firstSeen": "",
    "content": "40010、kakao、sage・ジョー、ぬんぬ、南浜よりこ、だにまる、湊ゆう、あやかわりく、真白しらこ、笑笑餃子、米奇王、emily、美影、黑本君、毛玉牛乳",
@@ -15888,7 +15896,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "kakao",
@@ -15898,7 +15906,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "sage・ジョー",
@@ -15908,7 +15916,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "ぬんぬ",
@@ -15918,7 +15926,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "南浜よりこ",
@@ -15928,7 +15936,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "だにまる",
@@ -15938,7 +15946,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "湊ゆう",
@@ -15948,7 +15956,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "あやかわりく",
@@ -15958,7 +15966,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "真白しらこ",
@@ -15968,7 +15976,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "笑笑餃子",
@@ -15978,7 +15986,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "みちきんぐ",
@@ -15988,7 +15996,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "emily",
@@ -15998,7 +16006,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "美影",
@@ -16008,7 +16016,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "黒本君",
@@ -16018,7 +16026,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     },
     {
      "artist": "毛玉牛乳",
@@ -16028,7 +16036,7 @@
      "isSub": false,
      "user": "白露未已",
      "rpid": 322400556432,
-     "like": 50
+     "like": 51
     }
    ],
    "workInfo": null,
@@ -33555,7 +33563,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 40,
+   "like": 42,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -34035,7 +34043,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 24,
+   "like": 25,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -39366,6 +39374,59 @@
      "like": 1
     }
    ],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319160807953,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "AShadovv",
+   "like": 0,
+   "ctime": 1793776295,
+   "firstSeen": "2026-11-04 16:00:02",
+   "content": "立花",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "立花",
+     "written": "立花",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "AShadovv",
+     "rpid": 319160807953,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319162805505,
+   "rootNo": 125,
+   "isSub": true,
+   "user": "卡卡目",
+   "like": 0,
+   "ctime": 1793777899,
+   "firstSeen": "2026-11-04 16:00:02",
+   "content": "绯月，这位没完全下海，海边两脚淌浪水",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Falcons-AY"
+  },
+  {
+   "rpid": 322901448864,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "滑稽_-滑稽",
+   "like": 0,
+   "ctime": 1793778989,
+   "firstSeen": "2026-11-04 16:00:02",
+   "content": "我喜欢石惠",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
   }

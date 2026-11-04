@@ -367,7 +367,7 @@
   ],
   "mentions": 18,
   "users": 17,
-  "likes": 80,
+  "likes": 81,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -527,7 +527,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "みちきんぐ",
@@ -1215,7 +1215,7 @@
   ],
   "mentions": 14,
   "users": 13,
-  "likes": 73,
+  "likes": 74,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1377,7 +1377,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "kakao",
@@ -1469,7 +1469,7 @@
   ],
   "mentions": 14,
   "users": 13,
-  "likes": 198,
+  "likes": 199,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1601,7 +1601,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "真白しらこ",
@@ -1726,7 +1726,7 @@
   ],
   "mentions": 13,
   "users": 12,
-  "likes": 202,
+  "likes": 203,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1891,7 +1891,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "だにまる",
@@ -3837,7 +3837,7 @@
   ],
   "mentions": 8,
   "users": 7,
-  "likes": 74,
+  "likes": 76,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3907,7 +3907,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 65
+    "like": 67
    },
    {
     "artist": "昼寝",
@@ -4257,7 +4257,7 @@
   ],
   "mentions": 6,
   "users": 6,
-  "likes": 62,
+  "likes": 63,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -4323,7 +4323,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "40010試作型",
@@ -4813,7 +4813,7 @@
   ],
   "mentions": 5,
   "users": 5,
-  "likes": 60,
+  "likes": 61,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -4862,7 +4862,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "黒本君",
@@ -5003,6 +5003,106 @@
     "isSub": true,
     "user": "霜月雪瑚",
     "rpid": 318710247697,
+    "like": 0
+   }
+  ]
+ },
+ {
+  "name": "立花",
+  "aliases": [
+   "立花ォミナ"
+  ],
+  "mentions": 5,
+  "users": 4,
+  "likes": 4,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "ktv1025",
+    "isSub": true,
+    "written": "立花",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "这个昵称到底能取多长",
+    "isSub": false,
+    "written": "立花",
+    "context": "",
+    "note": "顶级纯爱画师"
+   },
+   {
+    "commenter": "ktv1025",
+    "isSub": true,
+    "written": "立花",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "3价势阱",
+    "isSub": true,
+    "written": "立花ォミナ",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "AShadovv",
+    "isSub": true,
+    "written": "立花",
+    "context": "",
+    "note": "自动匹配 · 待复核"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "立花",
+    "written": "立花",
+    "note": "",
+    "rootNo": 19,
+    "isSub": true,
+    "user": "ktv1025",
+    "rpid": 322440603664,
+    "like": 0
+   },
+   {
+    "artist": "立花",
+    "written": "立花",
+    "note": "顶级纯爱画师",
+    "rootNo": 53,
+    "isSub": false,
+    "user": "这个昵称到底能取多长",
+    "rpid": 318708951937,
+    "like": 4
+   },
+   {
+    "artist": "立花",
+    "written": "立花",
+    "note": "",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "ktv1025",
+    "rpid": 322409457936,
+    "like": 0
+   },
+   {
+    "artist": "立花",
+    "written": "立花ォミナ",
+    "note": "",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "3价势阱",
+    "rpid": 318809897201,
+    "like": 0
+   },
+   {
+    "artist": "立花",
+    "written": "立花",
+    "note": "自动匹配 · 待复核",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "AShadovv",
+    "rpid": 319160807953,
     "like": 0
    }
   ]
@@ -5194,7 +5294,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 113,
+  "likes": 114,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5236,7 +5336,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 105
+    "like": 106
    },
    {
     "artist": "eo58",
@@ -5277,7 +5377,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 57,
+  "likes": 58,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5319,7 +5419,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "sage・ジョー",
@@ -6027,7 +6127,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 54,
+  "likes": 55,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6069,7 +6169,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "笑笑餃子",
@@ -6517,89 +6617,6 @@
     "user": "Redの杰仔",
     "rpid": 318704201457,
     "like": 1
-   }
-  ]
- },
- {
-  "name": "立花",
-  "aliases": [
-   "立花ォミナ"
-  ],
-  "mentions": 4,
-  "users": 3,
-  "likes": 4,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "ktv1025",
-    "isSub": true,
-    "written": "立花",
-    "context": "",
-    "note": ""
-   },
-   {
-    "commenter": "这个昵称到底能取多长",
-    "isSub": false,
-    "written": "立花",
-    "context": "",
-    "note": "顶级纯爱画师"
-   },
-   {
-    "commenter": "ktv1025",
-    "isSub": true,
-    "written": "立花",
-    "context": "",
-    "note": ""
-   },
-   {
-    "commenter": "3价势阱",
-    "isSub": true,
-    "written": "立花ォミナ",
-    "context": "",
-    "note": ""
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "立花",
-    "written": "立花",
-    "note": "",
-    "rootNo": 19,
-    "isSub": true,
-    "user": "ktv1025",
-    "rpid": 322440603664,
-    "like": 0
-   },
-   {
-    "artist": "立花",
-    "written": "立花",
-    "note": "顶级纯爱画师",
-    "rootNo": 53,
-    "isSub": false,
-    "user": "这个昵称到底能取多长",
-    "rpid": 318708951937,
-    "like": 4
-   },
-   {
-    "artist": "立花",
-    "written": "立花",
-    "note": "",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "ktv1025",
-    "rpid": 322409457936,
-    "like": 0
-   },
-   {
-    "artist": "立花",
-    "written": "立花ォミナ",
-    "note": "",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "3价势阱",
-    "rpid": 318809897201,
-    "like": 0
    }
   ]
  },
@@ -7282,7 +7299,7 @@
   "aliases": [],
   "mentions": 3,
   "users": 3,
-  "likes": 50,
+  "likes": 51,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -7317,7 +7334,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "ぬんぬ",
@@ -8653,7 +8670,7 @@
   ],
   "mentions": 3,
   "users": 2,
-  "likes": 52,
+  "likes": 53,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -8688,7 +8705,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "南浜よりこ",
@@ -9311,7 +9328,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 52,
+  "likes": 53,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9339,7 +9356,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "あやかわりく",
@@ -10935,7 +10952,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 51,
+  "likes": 52,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -10963,7 +10980,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    },
    {
     "artist": "毛玉牛乳",
@@ -11514,7 +11531,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 112,
+  "likes": 113,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -11542,7 +11559,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 105
+    "like": 106
    },
    {
     "artist": "米山舞",
@@ -14110,7 +14127,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 50,
+  "likes": 51,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -14131,7 +14148,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    }
   ]
  },
@@ -21930,7 +21947,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 105,
+  "likes": 106,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -21951,7 +21968,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 105
+    "like": 106
    }
   ]
  },
@@ -22260,7 +22277,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 50,
+  "likes": 51,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22281,7 +22298,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    }
   ]
  },
@@ -23110,7 +23127,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 50,
+  "likes": 51,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -23131,7 +23148,7 @@
     "isSub": false,
     "user": "白露未已",
     "rpid": 322400556432,
-    "like": 50
+    "like": 51
    }
   ]
  },
