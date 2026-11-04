@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 09:00:02",
-  "claimedReplyCount": 931,
+  "fetchedAt": "2026-11-04 10:00:01",
+  "claimedReplyCount": 935,
   "rootCount": 241,
-  "subCount": 693,
-  "totalCount": 934,
+  "subCount": 697,
+  "totalCount": 938,
   "update": {
-   "lastFetchAt": "2026-11-04 09:00:02",
-   "lastFetchNew": 3,
-   "publishedAt": "2026-11-04 09:01:27",
+   "lastFetchAt": "2026-11-04 10:00:01",
+   "lastFetchNew": 4,
+   "publishedAt": "2026-11-04 10:00:17",
    "delta": {
-    "comments": 0,
+    "comments": 4,
     "artists": 0,
-    "mentions": 0
+    "mentions": 2
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 340,
-   "artist_rec": 547,
+   "chat": 342,
+   "artist_rec": 549,
    "work_only": 13,
    "ask": 19,
    "empty": 15
   },
   "artistCount": 557,
-  "mentionCount": 996
+  "mentionCount": 998
  },
  "artists": [
   {
@@ -1906,7 +1906,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 45,
+   "likes": 46,
    "lowConfidence": false,
    "notes": [
     "人外本，粉红漫画上刷到",
@@ -2077,7 +2077,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 69,
+   "likes": 71,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2730,6 +2730,62 @@
    ]
   },
   {
+   "name": "師走の翁",
+   "aliases": [
+    "师走の翁",
+    "师走之翁"
+   ],
+   "mentions": 5,
+   "users": 3,
+   "likes": 6,
+   "lowConfidence": false,
+   "notes": [
+    "剧情脑洞太无敌了"
+   ],
+   "evidence": [
+    {
+     "rpid": 322411946864,
+     "commenter": "卡普斯基",
+     "isSub": false,
+     "written": "师走の翁",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322689272944,
+     "commenter": "101连击熊",
+     "isSub": true,
+     "written": "師走の翁",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322780142240,
+     "commenter": "Gabriel_ovo",
+     "isSub": false,
+     "written": "师走之翁",
+     "context": "",
+     "note": "剧情脑洞太无敌了"
+    },
+    {
+     "rpid": 322869245184,
+     "commenter": "Gabriel_ovo",
+     "isSub": true,
+     "written": "師走の翁",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    },
+    {
+     "rpid": 322869892512,
+     "commenter": "Gabriel_ovo",
+     "isSub": true,
+     "written": "師走の翁",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "as109",
    "aliases": [],
    "mentions": 4,
@@ -3270,7 +3326,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 60,
+   "likes": 61,
    "lowConfidence": false,
    "notes": [
     "简繁两写法属同一位"
@@ -4294,46 +4350,6 @@
      "written": "佐藤空气",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "師走の翁",
-   "aliases": [
-    "师走の翁",
-    "师走之翁"
-   ],
-   "mentions": 3,
-   "users": 3,
-   "likes": 6,
-   "lowConfidence": false,
-   "notes": [
-    "剧情脑洞太无敌了"
-   ],
-   "evidence": [
-    {
-     "rpid": 322411946864,
-     "commenter": "卡普斯基",
-     "isSub": false,
-     "written": "师走の翁",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322689272944,
-     "commenter": "101连击熊",
-     "isSub": true,
-     "written": "師走の翁",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322780142240,
-     "commenter": "Gabriel_ovo",
-     "isSub": false,
-     "written": "师走之翁",
-     "context": "",
-     "note": "剧情脑洞太无敌了"
     }
    ]
   },
@@ -6925,7 +6941,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 2,
+   "likes": 3,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15500,7 +15516,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 398,
+   "like": 399,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -15728,8 +15744,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 322517525712,
+   "rpid": 318738474049,
    "rootNo": 8,
+   "isSub": false,
+   "user": "゚゙゚゙゚帕琪",
+   "like": 62,
+   "ctime": 1793425629,
+   "firstSeen": "",
+   "content": "晝寢，画功goat",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "昼寝",
+     "written": "晝寢",
+     "note": "画功goat",
+     "rootNo": 8,
+     "isSub": false,
+     "user": "゚゙゚゙゚帕琪",
+     "rpid": 318738474049,
+     "like": 62
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322517525712,
+   "rootNo": 9,
    "isSub": false,
    "user": "鸽书常",
    "like": 61,
@@ -15743,7 +15784,7 @@
   },
   {
    "rpid": 318700509649,
-   "rootNo": 9,
+   "rootNo": 10,
    "isSub": false,
    "user": "Syberiumance",
    "like": 60,
@@ -15756,35 +15797,10 @@
      "artist": "だにまる",
      "written": "だにまる",
      "note": "半年多没更新，被喊出来",
-     "rootNo": 9,
+     "rootNo": 10,
      "isSub": false,
      "user": "Syberiumance",
      "rpid": 318700509649,
-     "like": 60
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318738474049,
-   "rootNo": 10,
-   "isSub": false,
-   "user": "゚゙゚゙゚帕琪",
-   "like": 60,
-   "ctime": 1793425629,
-   "firstSeen": "",
-   "content": "晝寢，画功goat",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "昼寝",
-     "written": "晝寢",
-     "note": "画功goat",
-     "rootNo": 10,
-     "isSub": false,
-     "user": "゚゙゚゙゚帕琪",
-     "rpid": 318738474049,
      "like": 60
     }
    ],
@@ -24668,7 +24684,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "神奇知识在哪里",
-   "like": 47,
+   "like": 48,
    "ctime": 1793368835,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "織田non[doge]",
@@ -24682,7 +24698,7 @@
      "isSub": true,
      "user": "神奇知识在哪里",
      "rpid": 318676224945,
-     "like": 47
+     "like": 48
     }
    ],
    "workInfo": null,
@@ -25158,7 +25174,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "我姐名字叫辣条",
-   "like": 23,
+   "like": 24,
    "ctime": 1793370444,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "Croriin懂我意思？[汤圆]",
@@ -25172,7 +25188,7 @@
      "isSub": true,
      "user": "我姐名字叫辣条",
      "rpid": 318679262001,
-     "like": 23
+     "like": 24
     }
    ],
    "workInfo": null,
@@ -25433,7 +25449,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "好奇今天吃什么",
-   "like": 2,
+   "like": 3,
    "ctime": 1793370906,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "鬼月",
@@ -25447,7 +25463,7 @@
      "isSub": true,
      "user": "好奇今天吃什么",
      "rpid": 322393001760,
-     "like": 2
+     "like": 3
     }
    ],
    "workInfo": null,
@@ -29169,7 +29185,7 @@
    "rootNo": 12,
    "isSub": true,
    "user": "゙河城荷取",
-   "like": 15,
+   "like": 16,
    "ctime": 1793389893,
    "firstSeen": "",
    "content": "下面那个脸不是籽岷吗",
@@ -33475,10 +33491,10 @@
   },
   {
    "rpid": 318738690849,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 35,
+   "like": 36,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -33548,7 +33564,7 @@
   },
   {
    "rpid": 322457008352,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "咕囖咕囖",
    "like": 3,
@@ -33682,7 +33698,7 @@
   },
   {
    "rpid": 322461323472,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "XXUlsk",
    "like": 16,
@@ -33955,10 +33971,10 @@
   },
   {
    "rpid": 322465536112,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 22,
+   "like": 23,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -35585,7 +35601,7 @@
   },
   {
    "rpid": 322527557584,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "不要叫我动漫宅",
    "like": 1,
@@ -36365,7 +36381,7 @@
   },
   {
    "rpid": 318848677649,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "violetaaaaaaaaa",
    "like": 1,
@@ -36379,7 +36395,7 @@
   },
   {
    "rpid": 318851323329,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "霉霉子Official",
    "like": 0,
@@ -36751,7 +36767,7 @@
   },
   {
    "rpid": 318862909281,
-   "rootNo": 9,
+   "rootNo": 10,
    "isSub": true,
    "user": "元素worlds",
    "like": 0,
@@ -38200,7 +38216,7 @@
   },
   {
    "rpid": 322708659088,
-   "rootNo": 10,
+   "rootNo": 8,
    "isSub": true,
    "user": "莽苟",
    "like": 1,
@@ -38409,7 +38425,7 @@
   },
   {
    "rpid": 319034668865,
-   "rootNo": 8,
+   "rootNo": 9,
    "isSub": true,
    "user": "花公Elys1aa",
    "like": 0,
@@ -39149,6 +39165,84 @@
    ],
    "workInfo": null,
    "rootUser": "Duskswood"
+  },
+  {
+   "rpid": 322869245184,
+   "rootNo": 21,
+   "isSub": true,
+   "user": "Gabriel_ovo",
+   "like": 0,
+   "ctime": 1793755620,
+   "firstSeen": "2026-11-04 10:00:01",
+   "content": "推荐你师走之翁，这剧情能绷住的都是神人了",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "師走の翁",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 21,
+     "isSub": true,
+     "user": "Gabriel_ovo",
+     "rpid": 322869245184,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "夏夜下灬"
+  },
+  {
+   "rpid": 319133640241,
+   "rootNo": 69,
+   "isSub": true,
+   "user": "拈剑挽雪",
+   "like": 0,
+   "ctime": 1793755994,
+   "firstSeen": "2026-11-04 10:00:01",
+   "content": "咋搜不到",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Gabriel_ovo"
+  },
+  {
+   "rpid": 322869892512,
+   "rootNo": 69,
+   "isSub": true,
+   "user": "Gabriel_ovo",
+   "like": 0,
+   "ctime": 1793756140,
+   "firstSeen": "2026-11-04 10:00:01",
+   "content": "回复 @拈剑挽雪 :師走の翁，翁計畫，好像有很多翻译，你自己找吧，实在不行搜freeze，最有名的一部作品",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "師走の翁",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 69,
+     "isSub": true,
+     "user": "Gabriel_ovo",
+     "rpid": 322869892512,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "Gabriel_ovo"
+  },
+  {
+   "rpid": 322870506288,
+   "rootNo": 69,
+   "isSub": true,
+   "user": "Gabriel_ovo",
+   "like": 0,
+   "ctime": 1793756720,
+   "firstSeen": "2026-11-04 10:00:01",
+   "content": "回复 @燕子我可不能么有你啊 :我特别喜欢这种可爱加性感的画风，极具个人特色，现在好多本子都是流水线画风",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Gabriel_ovo"
   }
  ]
 }
