@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-04 22:00:02",
-  "claimedReplyCount": 958,
-  "rootCount": 247,
-  "subCount": 716,
-  "totalCount": 963,
+  "fetchedAt": "2026-11-04 23:00:02",
+  "claimedReplyCount": 960,
+  "rootCount": 248,
+  "subCount": 717,
+  "totalCount": 965,
   "update": {
-   "lastFetchAt": "2026-11-04 22:00:02",
+   "lastFetchAt": "2026-11-04 23:00:02",
    "lastFetchNew": 2,
-   "publishedAt": "2026-11-04 21:01:31",
+   "publishedAt": "2026-11-04 22:01:31",
    "delta": {
     "comments": 2,
     "artists": 0,
@@ -29,10 +29,10 @@
  },
  "stats": {
   "categories": {
-   "chat": 354,
+   "chat": 355,
    "artist_rec": 561,
    "work_only": 13,
-   "ask": 20,
+   "ask": 21,
    "empty": 15
   },
   "artistCount": 560,
@@ -16206,7 +16206,7 @@
    "rootNo": 15,
    "isSub": false,
    "user": "不平等云雾",
-   "like": 38,
+   "like": 39,
    "ctime": 1793542679,
    "firstSeen": "2026-11-01 22:21:18",
    "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
@@ -24483,6 +24483,20 @@
    "firstSeen": "2026-11-04 21:00:01",
    "content": "鸣子花春",
    "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322942784672,
+   "rootNo": 248,
+   "isSub": false,
+   "user": "Esson丶Z",
+   "like": 0,
+   "ctime": 1793804084,
+   "firstSeen": "2026-11-04 23:00:02",
+   "content": "之前看到很多AI大车很好看，评论区有人说了是模仿的某位画师，我忘记是谁了，有没有好心人知道的。",
+   "category": "ask",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -33739,7 +33753,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 43,
+   "like": 44,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -39896,6 +39910,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319205057457,
+   "rootNo": 87,
+   "isSub": true,
+   "user": "我事咸安",
+   "like": 0,
+   "ctime": 1793804360,
+   "firstSeen": "2026-11-04 23:00:02",
+   "content": "回复 @アーサー魔法の派 :岳母的那本我感觉不太行，我个人还是推荐一几年上线的单行本，比如“ただ恋しくて、会いたくて…”，这本也算是我熟女xp的启蒙[笑哭]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "アーサー魔法の派"
   }
  ]
 }
