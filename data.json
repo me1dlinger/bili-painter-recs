@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 15:00:01",
+  "fetchedAt": "2026-11-05 16:00:03",
   "claimedReplyCount": 966,
   "rootCount": 252,
   "subCount": 728,
   "totalCount": 980,
   "update": {
-   "lastFetchAt": "2026-11-05 15:00:01",
-   "lastFetchNew": 2,
-   "publishedAt": "2026-11-05 14:01:31",
+   "lastFetchAt": "2026-11-05 16:00:03",
+   "lastFetchNew": 0,
+   "publishedAt": "2026-11-05 15:01:30",
    "delta": {
-    "comments": 2,
+    "comments": 0,
     "artists": 0,
-    "mentions": 1
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -1772,7 +1772,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 86,
+   "likes": 87,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -15979,7 +15979,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 77,
+   "like": 78,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15993,7 +15993,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 77
+     "like": 78
     }
    ],
    "workInfo": null,
