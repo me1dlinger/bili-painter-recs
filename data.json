@@ -9,32 +9,27 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 20:00:02",
-  "claimedReplyCount": 974,
+  "fetchedAt": "2026-11-05 21:00:02",
+  "claimedReplyCount": 975,
   "rootCount": 253,
-  "subCount": 735,
-  "totalCount": 988,
+  "subCount": 736,
+  "totalCount": 989,
   "update": {
-   "lastFetchAt": "2026-11-05 20:00:02",
+   "lastFetchAt": "2026-11-05 21:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-05 20:01:33",
+   "publishedAt": "2026-11-05 20:11:22",
    "delta": {
-    "comments": 0,
-    "artists": 4,
-    "mentions": 8
+    "comments": 1,
+    "artists": 0,
+    "mentions": 0
    },
-   "newArtists": [
-    "ちゃえ",
-    "あせするふぁむ系",
-    "暁創圏",
-    "ナビエ遥か2T"
-   ],
+   "newArtists": [],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 365,
+   "chat": 366,
    "artist_rec": 573,
    "work_only": 13,
    "ask": 21,
@@ -16029,7 +16024,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 422,
+   "like": 424,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -34768,7 +34763,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 32,
+   "like": 33,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -40848,6 +40843,20 @@
      "like": 0
     }
    ],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319286777921,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "圣都の七海",
+   "like": 0,
+   "ctime": 1793881474,
+   "firstSeen": "2026-11-05 21:00:02",
+   "content": "望月老师",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
   }
