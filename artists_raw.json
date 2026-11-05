@@ -8823,6 +8823,72 @@
   ]
  },
  {
+  "name": "meme50",
+  "aliases": [
+   "メメ50"
+  ],
+  "mentions": 3,
+  "users": 2,
+  "likes": 3,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "片桐奈奈濑1",
+    "isSub": true,
+    "written": "meme50",
+    "context": "",
+    "note": ""
+   },
+   {
+    "commenter": "Monsterkid50",
+    "isSub": false,
+    "written": "メメ50",
+    "context": "",
+    "note": "有懂得吗，这位是我看画工和风格最扎实的"
+   },
+   {
+    "commenter": "Monsterkid50",
+    "isSub": true,
+    "written": "メメ50",
+    "context": "",
+    "note": "点名推荐（重复发出）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "meme50",
+    "written": "meme50",
+    "note": "",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "片桐奈奈濑1",
+    "rpid": 322401908592,
+    "like": 3
+   },
+   {
+    "artist": "meme50",
+    "written": "メメ50",
+    "note": "有懂得吗，这位是我看画工和风格最扎实的",
+    "rootNo": 255,
+    "isSub": false,
+    "user": "Monsterkid50",
+    "rpid": 319318226353,
+    "like": 0
+   },
+   {
+    "artist": "meme50",
+    "written": "メメ50",
+    "note": "点名推荐（重复发出）",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "Monsterkid50",
+    "rpid": 319318261985,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "じゅらい",
   "aliases": [],
   "mentions": 3,
@@ -15639,36 +15705,6 @@
     "user": "防氧化的人",
     "rpid": 318704495265,
     "like": 1
-   }
-  ]
- },
- {
-  "name": "meme50",
-  "aliases": [],
-  "mentions": 1,
-  "users": 1,
-  "likes": 3,
-  "lowConfidence": false,
-  "notes": [],
-  "evidence": [
-   {
-    "commenter": "片桐奈奈濑1",
-    "isSub": true,
-    "written": "meme50",
-    "context": "",
-    "note": ""
-   }
-  ],
-  "_raw": [
-   {
-    "artist": "meme50",
-    "written": "meme50",
-    "note": "",
-    "rootNo": 1,
-    "isSub": true,
-    "user": "片桐奈奈濑1",
-    "rpid": 322401908592,
-    "like": 3
    }
   ]
  },

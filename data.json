@@ -17,11 +17,11 @@
   "update": {
    "lastFetchAt": "2026-11-06 04:00:02",
    "lastFetchNew": 2,
-   "publishedAt": "2026-11-06 03:01:33",
+   "publishedAt": "2026-11-06 04:01:32",
    "delta": {
-    "comments": 2,
+    "comments": 0,
     "artists": 0,
-    "mentions": 0
+    "mentions": 2
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 369,
-   "artist_rec": 575,
+   "chat": 367,
+   "artist_rec": 577,
    "work_only": 13,
    "ask": 21,
    "empty": 16
   },
   "artistCount": 574,
-  "mentionCount": 1040
+  "mentionCount": 1042
  },
  "artists": [
   {
@@ -4965,6 +4965,46 @@
    ]
   },
   {
+   "name": "meme50",
+   "aliases": [
+    "メメ50"
+   ],
+   "mentions": 3,
+   "users": 2,
+   "likes": 3,
+   "lowConfidence": false,
+   "notes": [
+    "有懂得吗，这位是我看画工和风格最扎实的",
+    "点名推荐（重复发出）"
+   ],
+   "evidence": [
+    {
+     "rpid": 322401908592,
+     "commenter": "片桐奈奈濑1",
+     "isSub": true,
+     "written": "meme50",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 319318226353,
+     "commenter": "Monsterkid50",
+     "isSub": false,
+     "written": "メメ50",
+     "context": "",
+     "note": "有懂得吗，这位是我看画工和风格最扎实的"
+    },
+    {
+     "rpid": 319318261985,
+     "commenter": "Monsterkid50",
+     "isSub": true,
+     "written": "メメ50",
+     "context": "",
+     "note": "点名推荐（重复发出）"
+    }
+   ]
+  },
+  {
    "name": "じゅらい",
    "aliases": [],
    "mentions": 3,
@@ -9321,25 +9361,6 @@
      "commenter": "防氧化的人",
      "isSub": false,
      "written": "mashu",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
-   "name": "meme50",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 3,
-   "lowConfidence": false,
-   "notes": [],
-   "evidence": [
-    {
-     "rpid": 322401908592,
-     "commenter": "片桐奈奈濑1",
-     "isSub": true,
-     "written": "meme50",
      "context": "",
      "note": ""
     }
@@ -25179,8 +25200,19 @@
    "ctime": 1793906283,
    "firstSeen": "2026-11-06 04:00:02",
    "content": "メメ50，有懂得吗，这位是我看画工和风格最扎实的",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "meme50",
+     "written": "メメ50",
+     "note": "有懂得吗，这位是我看画工和风格最扎实的",
+     "rootNo": 255,
+     "isSub": false,
+     "user": "Monsterkid50",
+     "rpid": 319318226353,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -41061,8 +41093,19 @@
    "ctime": 1793906213,
    "firstSeen": "2026-11-06 04:00:02",
    "content": "メメ50",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "meme50",
+     "written": "メメ50",
+     "note": "点名推荐（重复发出）",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "Monsterkid50",
+     "rpid": 319318261985,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   }
