@@ -3102,7 +3102,7 @@
   ],
   "mentions": 9,
   "users": 8,
-  "likes": 81,
+  "likes": 82,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3179,7 +3179,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 72
+    "like": 73
    },
    {
     "artist": "昼寝",
@@ -5547,7 +5547,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 119,
+  "likes": 120,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5589,7 +5589,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 111
+    "like": 112
    },
    {
     "artist": "eo58",
@@ -6297,7 +6297,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 332,
+  "likes": 334,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6359,7 +6359,7 @@
     "isSub": true,
     "user": "Kirisaki_キ",
     "rpid": 318674430225,
-    "like": 325
+    "like": 327
    },
    {
     "artist": "無糖紅茶",
@@ -11713,7 +11713,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 118,
+  "likes": 119,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -11741,7 +11741,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 111
+    "like": 112
    },
    {
     "artist": "米山舞",
@@ -22240,7 +22240,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 111,
+  "likes": 112,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22261,7 +22261,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 111
+    "like": 112
    }
   ]
  },
