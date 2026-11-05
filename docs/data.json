@@ -17,26 +17,32 @@
   "update": {
    "lastFetchAt": "2026-11-05 16:00:03",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 15:01:30",
+   "publishedAt": "2026-11-05 16:01:32",
    "delta": {
     "comments": 0,
-    "artists": 0,
-    "mentions": 0
+    "artists": 5,
+    "mentions": 5
    },
-   "newArtists": [],
+   "newArtists": [
+    "ie",
+    "信じろ",
+    "坂井",
+    "朝比奈吉利",
+    "谷口大介"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 364,
-   "artist_rec": 567,
+   "chat": 362,
+   "artist_rec": 568,
    "work_only": 13,
-   "ask": 21,
+   "ask": 22,
    "empty": 15
   },
-  "artistCount": 562,
-  "mentionCount": 1019
+  "artistCount": 567,
+  "mentionCount": 1024
  },
  "artists": [
   {
@@ -1666,8 +1672,8 @@
      "commenter": "Wojak208",
      "isSub": true,
      "written": "武田弘光",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -2476,7 +2482,8 @@
    "notes": [
     "jc系列太棒了，可惜没后续",
     "jc系列也不错",
-    "别名(黒本君)"
+    "别名(黒本君)",
+    "列举推荐（牛头人偏好）"
    ],
    "evidence": [
     {
@@ -2524,8 +2531,8 @@
      "commenter": "觅渡的裤子",
      "isSub": false,
      "written": "黒本君",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "列举推荐（牛头人偏好）"
     }
    ]
   },
@@ -3211,7 +3218,8 @@
    "lowConfidence": false,
    "notes": [
     "画风清爽张力拉满",
-    "主打一个大"
+    "主打一个大",
+    "列举推荐"
    ],
    "evidence": [
     {
@@ -3243,8 +3251,8 @@
      "commenter": "觅渡的裤子",
      "isSub": false,
      "written": "アヘ丸",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "列举推荐"
     }
    ]
   },
@@ -4963,7 +4971,10 @@
    "users": 2,
    "likes": 0,
    "lowConfidence": false,
-   "notes": [],
+   "notes": [
+    "列举推荐",
+    "再补两个之一"
+   ],
    "evidence": [
     {
      "rpid": 318737497777,
@@ -4978,16 +4989,16 @@
      "commenter": "觅渡的裤子",
      "isSub": false,
      "written": "エノキドォ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "列举推荐"
     },
     {
      "rpid": 322988345888,
      "commenter": "觅渡的裤子",
      "isSub": true,
      "written": "エノキドォ",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "context": "",
+     "note": "再补两个之一"
     }
    ]
   },
@@ -8738,6 +8749,27 @@
      "written": "hyouuma",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "ie",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "列举推荐，名单外且极短，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "ie",
+     "context": "",
+     "note": "列举推荐，名单外且极短，未核实"
     }
    ]
   },
@@ -12557,6 +12589,27 @@
    ]
   },
   {
+   "name": "信じろ",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "列举推荐，名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "信じろ",
+     "context": "",
+     "note": "列举推荐，名单外，未核实"
+    }
+   ]
+  },
+  {
    "name": "儒宅",
    "aliases": [],
    "mentions": 1,
@@ -12814,6 +12867,27 @@
      "written": "唄飛鳥（Bai Asuka）",
      "context": "",
      "note": "日文名 + 罗马音成对写法"
+    }
+   ]
+  },
+  {
+   "name": "坂井",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "再补两个之一，名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 322988345888,
+     "commenter": "觅渡的裤子",
+     "isSub": true,
+     "written": "坂井",
+     "context": "",
+     "note": "再补两个之一，名单外，未核实"
     }
    ]
   },
@@ -13529,6 +13603,27 @@
      "written": "有鱼",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "朝比奈吉利",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "点名推荐，名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 319254550977,
+     "commenter": "雨霜bug",
+     "isSub": true,
+     "written": "朝比奈吉利",
+     "context": "",
+     "note": "点名推荐，名单外，未核实"
     }
    ]
   },
@@ -14876,6 +14971,27 @@
      "written": "西沢みずき",
      "context": "",
      "note": ""
+    }
+   ]
+  },
+  {
+   "name": "谷口大介",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "列举推荐，名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "谷口大介",
+     "context": "",
+     "note": "列举推荐，名单外，未核实"
     }
    ]
   },
@@ -24630,7 +24746,7 @@
    "ctime": 1793852401,
    "firstSeen": "2026-11-05 13:00:02",
    "content": "up你封面是哪个作品的，放在哪里我搜图都搜不出来[笑哭]",
-   "category": "chat",
+   "category": "ask",
    "artists": [],
    "workInfo": null,
    "rootUser": ""
@@ -24647,9 +24763,9 @@
    "category": "artist_rec",
    "artists": [
     {
-     "artist": "エノキドォ",
-     "written": "エノキドォ",
-     "note": "自动匹配 · 待复核",
+     "artist": "黒本君",
+     "written": "黒本君",
+     "note": "列举推荐（牛头人偏好）",
      "rootNo": 251,
      "isSub": false,
      "user": "觅渡的裤子",
@@ -24657,9 +24773,29 @@
      "like": 0
     },
     {
-     "artist": "黒本君",
-     "written": "黒本君",
-     "note": "自动匹配 · 待复核",
+     "artist": "信じろ",
+     "written": "信じろ",
+     "note": "列举推荐，名单外，未核实",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    },
+    {
+     "artist": "ie",
+     "written": "ie",
+     "note": "列举推荐，名单外且极短，未核实",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    },
+    {
+     "artist": "エノキドォ",
+     "written": "エノキドォ",
+     "note": "列举推荐",
      "rootNo": 251,
      "isSub": false,
      "user": "觅渡的裤子",
@@ -24669,7 +24805,17 @@
     {
      "artist": "アヘ丸",
      "written": "アヘ丸",
-     "note": "自动匹配 · 待复核",
+     "note": "列举推荐",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    },
+    {
+     "artist": "谷口大介",
+     "written": "谷口大介",
+     "note": "列举推荐，名单外，未核实",
      "rootNo": 251,
      "isSub": false,
      "user": "觅渡的裤子",
@@ -40238,7 +40384,17 @@
     {
      "artist": "エノキドォ",
      "written": "エノキドォ",
-     "note": "自动匹配 · 待复核",
+     "note": "再补两个之一",
+     "rootNo": 20,
+     "isSub": true,
+     "user": "觅渡的裤子",
+     "rpid": 322988345888,
+     "like": 0
+    },
+    {
+     "artist": "坂井",
+     "written": "坂井",
+     "note": "再补两个之一，名单外，未核实",
      "rootNo": 20,
      "isSub": true,
      "user": "觅渡的裤子",
@@ -40291,7 +40447,7 @@
     {
      "artist": "武田弘光",
      "written": "武田弘光",
-     "note": "自动匹配 · 待复核",
+     "note": "点名推荐，未附评价",
      "rootNo": 1,
      "isSub": true,
      "user": "Wojak208",
@@ -40311,8 +40467,19 @@
    "ctime": 1793859172,
    "firstSeen": "2026-11-05 15:00:01",
    "content": "朝比奈吉利",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "朝比奈吉利",
+     "written": "朝比奈吉利",
+     "note": "点名推荐，名单外，未核实",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "雨霜bug",
+     "rpid": 319254550977,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   }

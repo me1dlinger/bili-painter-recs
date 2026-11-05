@@ -1,33 +1,143 @@
 {
-  "generatedAt": "2026-11-05 12:10:00",
-  "comments": {
-    "319228209137": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "吐槽评论被举报，未点名画师",
-      "mentions": []
+ "generatedAt": "2026-11-05 16:10:00",
+ "comments": {
+  "322987657360": {
+   "category": "artist_rec",
+   "artists": [
+    "黒本君",
+    "信じろ",
+    "ie",
+    "エノキドォ",
+    "アヘ丸",
+    "谷口大介"
+   ],
+   "works": [],
+   "reason": "一级评论列举偏好的画师名单（含 NTR 偏好说明）",
+   "mentions": [
+    {
+     "name_as_written": "黒本君",
+     "canonical_guess": "黒本君",
+     "note": "列举推荐（牛头人偏好）"
     },
-    "322968071616": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼互动玩梗，未点名画师",
-      "mentions": []
+    {
+     "name_as_written": "信じろ",
+     "canonical_guess": "信じろ",
+     "note": "列举推荐，名单外，未核实"
     },
-    "319227463153": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "评价某画师画风变化（越画越壮），未点名画师名",
-      "mentions": []
+    {
+     "name_as_written": "ie",
+     "canonical_guess": "ie",
+     "note": "列举推荐，名单外且极短，未核实"
     },
-    "319235134577": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼互动（重口区），未点名画师",
-      "mentions": []
+    {
+     "name_as_written": "エノキドォ",
+     "canonical_guess": "エノキドォ",
+     "note": "列举推荐"
+    },
+    {
+     "name_as_written": "アヘ丸",
+     "canonical_guess": "アヘ丸",
+     "note": "列举推荐"
+    },
+    {
+     "name_as_written": "谷口大介",
+     "canonical_guess": "谷口大介",
+     "note": "列举推荐，名单外，未核实"
     }
+   ]
+  },
+  "319244639937": {
+   "category": "ask",
+   "artists": [],
+   "works": [],
+   "reason": "问封面出自哪个作品（搜图搜不到）",
+   "mentions": []
+  },
+  "319248278257": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "长篇观点讨论（画师是否热爱画本子比画技更重要），未点名画师",
+   "mentions": []
+  },
+  "322988345888": {
+   "category": "artist_rec",
+   "artists": [
+    "エノキドォ",
+    "坂井"
+   ],
+   "works": [],
+   "reason": "楼中楼再补两个画师：エノキドォ、坂井",
+   "mentions": [
+    {
+     "name_as_written": "エノキドォ",
+     "canonical_guess": "エノキドォ",
+     "note": "再补两个之一"
+    },
+    {
+     "name_as_written": "坂井",
+     "canonical_guess": "坂井",
+     "note": "再补两个之一，名单外，未核实"
+    }
+   ]
+  },
+  "319248383169": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "楼中楼感慨画风变化大，未点名画师",
+   "mentions": []
+  },
+  "319243683265": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "老资历，未点名画师",
+   "mentions": []
+  },
+  "319244615841": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "讨论盗版传播，未点名画师",
+   "mentions": []
+  },
+  "319250407713": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "提到晓创圈，未点名画师",
+   "mentions": []
+  },
+  "322995538240": {
+   "category": "artist_rec",
+   "artists": [
+    "武田弘光"
+   ],
+   "works": [],
+   "reason": "点名武田弘光",
+   "mentions": [
+    {
+     "name_as_written": "武田弘光",
+     "canonical_guess": "武田弘光",
+     "note": "点名推荐，未附评价"
+    }
+   ]
+  },
+  "319254550977": {
+   "category": "artist_rec",
+   "artists": [
+    "朝比奈吉利"
+   ],
+   "works": [],
+   "reason": "点名朝比奈吉利（名单外新画师）",
+   "mentions": [
+    {
+     "name_as_written": "朝比奈吉利",
+     "canonical_guess": "朝比奈吉利",
+     "note": "点名推荐，名单外，未核实"
+    }
+   ]
   }
+ }
 }
