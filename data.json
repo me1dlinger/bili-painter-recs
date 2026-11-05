@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 21:00:02",
-  "claimedReplyCount": 975,
-  "rootCount": 253,
-  "subCount": 736,
-  "totalCount": 989,
+  "fetchedAt": "2026-11-05 22:00:02",
+  "claimedReplyCount": 977,
+  "rootCount": 254,
+  "subCount": 737,
+  "totalCount": 991,
   "update": {
-   "lastFetchAt": "2026-11-05 21:00:02",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-05 20:11:22",
+   "lastFetchAt": "2026-11-05 22:00:02",
+   "lastFetchNew": 2,
+   "publishedAt": "2026-11-05 21:01:33",
    "delta": {
-    "comments": 1,
+    "comments": 2,
     "artists": 0,
-    "mentions": 0
+    "mentions": 2
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 366,
-   "artist_rec": 573,
+   "chat": 367,
+   "artist_rec": 574,
    "work_only": 13,
    "ask": 21,
    "empty": 16
   },
   "artistCount": 571,
-  "mentionCount": 1035
+  "mentionCount": 1037
  },
  "artists": [
   {
@@ -1207,7 +1207,7 @@
    ],
    "mentions": 12,
    "users": 11,
-   "likes": 55,
+   "likes": 56,
    "lowConfidence": false,
    "notes": [
     "把假小子加進XP裡的大師",
@@ -1413,6 +1413,107 @@
      "written": "yd",
      "context": "",
      "note": "yd是神"
+    }
+   ]
+  },
+  {
+   "name": "雲呑めお",
+   "aliases": [
+    "云吞",
+    "云呑めお",
+    "雲吞"
+   ],
+   "mentions": 10,
+   "users": 10,
+   "likes": 178,
+   "lowConfidence": false,
+   "notes": [
+    "顶中顶",
+    "见雲呑めお知品味",
+    "看的好看的本子画师几乎全进备忘录了",
+    "长名单其中一位",
+    "无敌的"
+   ],
+   "evidence": [
+    {
+     "rpid": 322435701824,
+     "commenter": "萧萧暮贤",
+     "isSub": false,
+     "written": "雲呑めお",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322439035888,
+     "commenter": "阁下何不扶摇上九天？",
+     "isSub": true,
+     "written": "雲吞",
+     "context": "",
+     "note": "顶中顶"
+    },
+    {
+     "rpid": 322507431264,
+     "commenter": "平步青云10",
+     "isSub": true,
+     "written": "雲呑めお",
+     "context": "",
+     "note": "见雲呑めお知品味"
+    },
+    {
+     "rpid": 318765839857,
+     "commenter": "荻秋秋秋邱",
+     "isSub": false,
+     "written": "雲呑めお",
+     "context": "",
+     "note": "看的好看的本子画师几乎全进备忘录了"
+    },
+    {
+     "rpid": 322620677488,
+     "commenter": "空想庭院",
+     "isSub": false,
+     "written": "雲呑めお",
+     "context": "",
+     "note": "长名单其中一位"
+    },
+    {
+     "rpid": 318908143905,
+     "commenter": "心心相惜的彼岸花",
+     "isSub": true,
+     "written": "雲呑めお",
+     "context": "",
+     "note": "无敌的"
+    },
+    {
+     "rpid": 318678129985,
+     "commenter": "King-gooDBye",
+     "isSub": true,
+     "written": "云呑めお",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318686877601,
+     "commenter": "银星有青箭",
+     "isSub": true,
+     "written": "云吞",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322408585072,
+     "commenter": "海星星Seathestars",
+     "isSub": true,
+     "written": "云吞",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 319292102017,
+     "commenter": "自然立法者",
+     "isSub": false,
+     "written": "雲呑めお",
+     "context": "自动匹配 · 待复核",
+     "note": ""
     }
    ]
   },
@@ -1774,94 +1875,95 @@
    ]
   },
   {
-   "name": "雲呑めお",
+   "name": "Croriin",
    "aliases": [
-    "云吞",
-    "云呑めお",
-    "雲吞"
+    "Croiin",
+    "croriin"
    ],
    "mentions": 9,
-   "users": 9,
-   "likes": 178,
+   "users": 8,
+   "likes": 53,
    "lowConfidence": false,
    "notes": [
-    "顶中顶",
-    "见雲呑めお知品味",
-    "看的好看的本子画师几乎全进备忘录了",
-    "长名单其中一位",
-    "无敌的"
+    "人外本，粉红漫画上刷到",
+    "人外之神",
+    "专攻异世界本，剧情实用度两手抓",
+    "长名单其中一位（名单中重复出现两次）",
+    "长名单中重复出现的第二位 Croriin",
+    "原文拼写可能不准，存疑",
+    "他是我的神，强烈推荐"
    ],
    "evidence": [
     {
-     "rpid": 322435701824,
-     "commenter": "萧萧暮贤",
+     "rpid": 318723073201,
+     "commenter": "暹罗暹罗Toxy",
      "isSub": false,
-     "written": "雲呑めお",
+     "written": "Croriin",
      "context": "",
-     "note": ""
+     "note": "人外本，粉红漫画上刷到"
     },
     {
-     "rpid": 322439035888,
-     "commenter": "阁下何不扶摇上九天？",
+     "rpid": 322440594704,
+     "commenter": "郁金香监狱图书馆尘虵",
      "isSub": true,
-     "written": "雲吞",
+     "written": "Croiin",
      "context": "",
-     "note": "顶中顶"
+     "note": "人外之神"
     },
     {
-     "rpid": 322507431264,
-     "commenter": "平步青云10",
-     "isSub": true,
-     "written": "雲呑めお",
-     "context": "",
-     "note": "见雲呑めお知品味"
-    },
-    {
-     "rpid": 318765839857,
-     "commenter": "荻秋秋秋邱",
+     "rpid": 322421049248,
+     "commenter": "Lizrin",
      "isSub": false,
-     "written": "雲呑めお",
+     "written": "croriin",
      "context": "",
-     "note": "看的好看的本子画师几乎全进备忘录了"
+     "note": "专攻异世界本，剧情实用度两手抓"
     },
     {
      "rpid": 322620677488,
      "commenter": "空想庭院",
      "isSub": false,
-     "written": "雲呑めお",
+     "written": "Croriin",
      "context": "",
-     "note": "长名单其中一位"
+     "note": "长名单其中一位（名单中重复出现两次）"
     },
     {
-     "rpid": 318908143905,
-     "commenter": "心心相惜的彼岸花",
-     "isSub": true,
-     "written": "雲呑めお",
+     "rpid": 322620677488,
+     "commenter": "空想庭院",
+     "isSub": false,
+     "written": "Croriin",
      "context": "",
-     "note": "无敌的"
+     "note": "长名单中重复出现的第二位 Croriin"
     },
     {
-     "rpid": 318678129985,
-     "commenter": "King-gooDBye",
+     "rpid": 322522499280,
+     "commenter": "魔劍士莉奈",
+     "isSub": false,
+     "written": "croriin",
+     "context": "",
+     "note": "原文拼写可能不准，存疑"
+    },
+    {
+     "rpid": 318679262001,
+     "commenter": "我姐名字叫辣条",
      "isSub": true,
-     "written": "云呑めお",
+     "written": "Croriin",
      "context": "",
      "note": ""
     },
     {
-     "rpid": 318686877601,
-     "commenter": "银星有青箭",
+     "rpid": 319041101425,
+     "commenter": "传奇机械师德尔马丁",
      "isSub": true,
-     "written": "云吞",
+     "written": "croriin",
      "context": "",
-     "note": ""
+     "note": "他是我的神，强烈推荐"
     },
     {
-     "rpid": 322408585072,
-     "commenter": "海星星Seathestars",
-     "isSub": true,
-     "written": "云吞",
-     "context": "",
+     "rpid": 319292102017,
+     "commenter": "自然立法者",
+     "isSub": false,
+     "written": "Croriin",
+     "context": "自动匹配 · 待复核",
      "note": ""
     }
    ]
@@ -1874,7 +1976,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 89,
+   "likes": 90,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -1963,7 +2065,7 @@
    ],
    "mentions": 8,
    "users": 8,
-   "likes": 11,
+   "likes": 12,
    "lowConfidence": false,
    "notes": [
     "没有代餐的goat，男主画太帅，基本功强",
@@ -2036,92 +2138,6 @@
      "written": "木濑树",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "Croriin",
-   "aliases": [
-    "Croiin",
-    "croriin"
-   ],
-   "mentions": 8,
-   "users": 7,
-   "likes": 52,
-   "lowConfidence": false,
-   "notes": [
-    "人外本，粉红漫画上刷到",
-    "人外之神",
-    "专攻异世界本，剧情实用度两手抓",
-    "长名单其中一位（名单中重复出现两次）",
-    "长名单中重复出现的第二位 Croriin",
-    "原文拼写可能不准，存疑",
-    "他是我的神，强烈推荐"
-   ],
-   "evidence": [
-    {
-     "rpid": 318723073201,
-     "commenter": "暹罗暹罗Toxy",
-     "isSub": false,
-     "written": "Croriin",
-     "context": "",
-     "note": "人外本，粉红漫画上刷到"
-    },
-    {
-     "rpid": 322440594704,
-     "commenter": "郁金香监狱图书馆尘虵",
-     "isSub": true,
-     "written": "Croiin",
-     "context": "",
-     "note": "人外之神"
-    },
-    {
-     "rpid": 322421049248,
-     "commenter": "Lizrin",
-     "isSub": false,
-     "written": "croriin",
-     "context": "",
-     "note": "专攻异世界本，剧情实用度两手抓"
-    },
-    {
-     "rpid": 322620677488,
-     "commenter": "空想庭院",
-     "isSub": false,
-     "written": "Croriin",
-     "context": "",
-     "note": "长名单其中一位（名单中重复出现两次）"
-    },
-    {
-     "rpid": 322620677488,
-     "commenter": "空想庭院",
-     "isSub": false,
-     "written": "Croriin",
-     "context": "",
-     "note": "长名单中重复出现的第二位 Croriin"
-    },
-    {
-     "rpid": 322522499280,
-     "commenter": "魔劍士莉奈",
-     "isSub": false,
-     "written": "croriin",
-     "context": "",
-     "note": "原文拼写可能不准，存疑"
-    },
-    {
-     "rpid": 318679262001,
-     "commenter": "我姐名字叫辣条",
-     "isSub": true,
-     "written": "Croriin",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 319041101425,
-     "commenter": "传奇机械师德尔马丁",
-     "isSub": true,
-     "written": "croriin",
-     "context": "",
-     "note": "他是我的神，强烈推荐"
     }
    ]
   },
@@ -3576,7 +3592,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 335,
+   "likes": 337,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -16024,7 +16040,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 424,
+   "like": 426,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -16231,7 +16247,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 80,
+   "like": 81,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16245,7 +16261,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 80
+     "like": 81
     }
    ],
    "workInfo": null,
@@ -16542,7 +16558,7 @@
    "rootNo": 15,
    "isSub": false,
    "user": "半步超大杯諾小弟",
-   "like": 40,
+   "like": 41,
    "ctime": 1793381898,
    "firstSeen": "",
    "content": "要說goat那當然是肉捧魔羅\n硬生生把假小子加進我XP裡的大師[汤圆]",
@@ -16556,7 +16572,7 @@
      "isSub": false,
      "user": "半步超大杯諾小弟",
      "rpid": 322410339760,
-     "like": 40
+     "like": 41
     }
    ],
    "workInfo": null,
@@ -16869,8 +16885,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318848290545,
+   "rpid": 318723073201,
    "rootNo": 26,
+   "isSub": false,
+   "user": "暹罗暹罗Toxy",
+   "like": 13,
+   "ctime": 1793416883,
+   "firstSeen": "",
+   "content": "有一说一，最近在粉色漫画上面刷到的一个画师叫Croriin，作为一个从来对人外不感兴趣的人我被ta的人外本彻底征服了（但是也只仅限于爱看ta的",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "Croriin",
+     "written": "Croriin",
+     "note": "人外本，粉红漫画上刷到",
+     "rootNo": 26,
+     "isSub": false,
+     "user": "暹罗暹罗Toxy",
+     "rpid": 318723073201,
+     "like": 13
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318848290545,
+   "rootNo": 27,
    "isSub": false,
    "user": "violetaaaaaaaaa",
    "like": 13,
@@ -16883,36 +16924,11 @@
      "artist": "えいとまん",
      "written": "えいとまん",
      "note": "画风很喜欢",
-     "rootNo": 26,
+     "rootNo": 27,
      "isSub": false,
      "user": "violetaaaaaaaaa",
      "rpid": 318848290545,
      "like": 13
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318723073201,
-   "rootNo": 27,
-   "isSub": false,
-   "user": "暹罗暹罗Toxy",
-   "like": 12,
-   "ctime": 1793416883,
-   "firstSeen": "",
-   "content": "有一说一，最近在粉色漫画上面刷到的一个画师叫Croriin，作为一个从来对人外不感兴趣的人我被ta的人外本彻底征服了（但是也只仅限于爱看ta的",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "Croriin",
-     "written": "Croriin",
-     "note": "人外本，粉红漫画上刷到",
-     "rootNo": 27,
-     "isSub": false,
-     "user": "暹罗暹罗Toxy",
-     "rpid": 318723073201,
-     "like": 12
     }
    ],
    "workInfo": null,
@@ -17655,8 +17671,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 322402114160,
+   "rpid": 318688176337,
    "rootNo": 44,
+   "isSub": false,
+   "user": "捉才屋",
+   "like": 5,
+   "ctime": 1793375492,
+   "firstSeen": "",
+   "content": "本子画师只推荐木濑树了😎没有代餐的goat",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "木瀬樹",
+     "written": "木濑树",
+     "note": "没有代餐的goat，男主画太帅，基本功强",
+     "rootNo": 44,
+     "isSub": false,
+     "user": "捉才屋",
+     "rpid": 318688176337,
+     "like": 5
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322402114160,
+   "rootNo": 45,
    "isSub": false,
    "user": "等我会画画你就知错了",
    "like": 5,
@@ -17669,7 +17710,7 @@
      "artist": "どじろー",
      "written": "どじろー",
      "note": "画风好冲，去年画了本神作",
-     "rootNo": 44,
+     "rootNo": 45,
      "isSub": false,
      "user": "等我会画画你就知错了",
      "rpid": 322402114160,
@@ -17681,7 +17722,7 @@
   },
   {
    "rpid": 318694962913,
-   "rootNo": 45,
+   "rootNo": 46,
    "isSub": false,
    "user": "T0级黑贝洛内流量大王",
    "like": 5,
@@ -17694,7 +17735,7 @@
      "artist": "八宝備仁",
      "written": "八宝备仁",
      "note": "似乎没画过本子",
-     "rootNo": 45,
+     "rootNo": 46,
      "isSub": false,
      "user": "T0级黑贝洛内流量大王",
      "rpid": 318694962913,
@@ -17706,7 +17747,7 @@
   },
   {
    "rpid": 322413717056,
-   "rootNo": 46,
+   "rootNo": 47,
    "isSub": false,
    "user": "五百喝酒手",
    "like": 5,
@@ -17719,7 +17760,7 @@
      "artist": "織田non",
      "written": "织田non",
      "note": "",
-     "rootNo": 46,
+     "rootNo": 47,
      "isSub": false,
      "user": "五百喝酒手",
      "rpid": 322413717056,
@@ -17731,7 +17772,7 @@
   },
   {
    "rpid": 318708951937,
-   "rootNo": 47,
+   "rootNo": 48,
    "isSub": false,
    "user": "这个昵称到底能取多长",
    "like": 5,
@@ -17744,7 +17785,7 @@
      "artist": "homao",
      "written": "homao",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17754,7 +17795,7 @@
      "artist": "栗原",
      "written": "栗原",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17764,7 +17805,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17774,7 +17815,7 @@
      "artist": "kakao",
      "written": "kakao",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17784,7 +17825,7 @@
      "artist": "柚十扇",
      "written": "柚十扇",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17794,7 +17835,7 @@
      "artist": "潮騷",
      "written": "潮騷",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17804,7 +17845,7 @@
      "artist": "亞美寿真",
      "written": "亞美寿真",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17814,7 +17855,7 @@
      "artist": "六角八十助",
      "written": "六角八十助",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17824,7 +17865,7 @@
      "artist": "花兄",
      "written": "花兄",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17834,7 +17875,7 @@
      "artist": "無糖紅茶",
      "written": "無糖紅茶",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17844,7 +17885,7 @@
      "artist": "sage・ジョー",
      "written": "sage",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17854,7 +17895,7 @@
      "artist": "真白しらこ",
      "written": "真白",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17864,7 +17905,7 @@
      "artist": "朝峰",
      "written": "朝峰",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17874,7 +17915,7 @@
      "artist": "美矢火",
      "written": "美矢火",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17884,7 +17925,7 @@
      "artist": "立花",
      "written": "立花",
      "note": "顶级纯爱画师",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17894,7 +17935,7 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "部分不是纯爱，但画风太无敌了",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": false,
      "user": "这个昵称到底能取多长",
      "rpid": 318708951937,
@@ -17906,7 +17947,7 @@
   },
   {
    "rpid": 318733322129,
-   "rootNo": 48,
+   "rootNo": 49,
    "isSub": false,
    "user": "情澜缘予甄潇醉",
    "like": 5,
@@ -17919,7 +17960,7 @@
      "artist": "mstpjin",
      "written": "mstpjin",
      "note": "心中的goat",
-     "rootNo": 48,
+     "rootNo": 49,
      "isSub": false,
      "user": "情澜缘予甄潇醉",
      "rpid": 318733322129,
@@ -17931,7 +17972,7 @@
   },
   {
    "rpid": 318767686705,
-   "rootNo": 49,
+   "rootNo": 50,
    "isSub": false,
    "user": "又拿永远骗我",
    "like": 5,
@@ -17945,7 +17986,7 @@
   },
   {
    "rpid": 318784886369,
-   "rootNo": 50,
+   "rootNo": 51,
    "isSub": false,
    "user": "魔女の部屋",
    "like": 5,
@@ -17959,7 +18000,7 @@
   },
   {
    "rpid": 322390424352,
-   "rootNo": 51,
+   "rootNo": 52,
    "isSub": false,
    "user": "minerva_glass",
    "like": 4,
@@ -17968,31 +18009,6 @@
    "content": "织田non",
    "category": "chat",
    "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318688176337,
-   "rootNo": 52,
-   "isSub": false,
-   "user": "捉才屋",
-   "like": 4,
-   "ctime": 1793375492,
-   "firstSeen": "",
-   "content": "本子画师只推荐木濑树了😎没有代餐的goat",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "木瀬樹",
-     "written": "木濑树",
-     "note": "没有代餐的goat，男主画太帅，基本功强",
-     "rootNo": 52,
-     "isSub": false,
-     "user": "捉才屋",
-     "rpid": 318688176337,
-     "like": 4
-    }
-   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -25032,6 +25048,41 @@
    "rootUser": ""
   },
   {
+   "rpid": 319292102017,
+   "rootNo": 254,
+   "isSub": false,
+   "user": "自然立法者",
+   "like": 0,
+   "ctime": 1793884620,
+   "firstSeen": "2026-11-05 22:00:02",
+   "content": "有几个画师我还挺喜欢的，一个是东扇，水影灯牌优酸乳供应商。还有一个是云吞芽央，公路片纯爱真的很棒有人懂吗？再有一个是croriin，好多啥子主角一看一个不吱声",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "Croriin",
+     "written": "Croriin",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 254,
+     "isSub": false,
+     "user": "自然立法者",
+     "rpid": 319292102017,
+     "like": 0
+    },
+    {
+     "artist": "雲呑めお",
+     "written": "雲呑めお",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 254,
+     "isSub": false,
+     "user": "自然立法者",
+     "rpid": 319292102017,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
    "rootNo": 38,
    "isSub": true,
@@ -25230,7 +25281,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 327,
+   "like": 329,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -25244,7 +25295,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 327
+     "like": 329
     }
    ],
    "workInfo": null,
@@ -28273,7 +28324,7 @@
   },
   {
    "rpid": 322403138688,
-   "rootNo": 52,
+   "rootNo": 44,
    "isSub": true,
    "user": "咲一咲菌",
    "like": 0,
@@ -29345,7 +29396,7 @@
   },
   {
    "rpid": 318697066849,
-   "rootNo": 45,
+   "rootNo": 46,
    "isSub": true,
    "user": "凌波罗袜",
    "like": 0,
@@ -29548,7 +29599,7 @@
   },
   {
    "rpid": 318698992209,
-   "rootNo": 45,
+   "rootNo": 46,
    "isSub": true,
    "user": "桐离璃",
    "like": 0,
@@ -31321,7 +31372,7 @@
   },
   {
    "rpid": 322425631936,
-   "rootNo": 47,
+   "rootNo": 48,
    "isSub": true,
    "user": "白兰哲",
    "like": 0,
@@ -31334,7 +31385,7 @@
      "artist": "真白しらこ",
      "written": "真白老师",
      "note": "最喜欢真白老师的作品",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "白兰哲",
      "rpid": 322425631936,
@@ -31388,7 +31439,7 @@
    "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
-   "like": 0,
+   "like": 1,
    "ctime": 1793407870,
    "firstSeen": "",
    "content": "上岸了已经",
@@ -31649,7 +31700,7 @@
    "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
-   "like": 1,
+   "like": 2,
    "ctime": 1793408939,
    "firstSeen": "",
    "content": "回复 @Redの杰仔 :对，就是前几天在x官宣的",
@@ -33189,7 +33240,7 @@
   },
   {
    "rpid": 318722984977,
-   "rootNo": 47,
+   "rootNo": 48,
    "isSub": true,
    "user": "Cyborg86",
    "like": 0,
@@ -33202,7 +33253,7 @@
      "artist": "flugel",
      "written": "flugel",
      "note": "",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977,
@@ -33212,7 +33263,7 @@
      "artist": "羽原",
      "written": "羽原",
      "note": "",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977,
@@ -33222,7 +33273,7 @@
      "artist": "木瀬樹",
      "written": "木濑树",
      "note": "",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977,
@@ -33232,7 +33283,7 @@
      "artist": "变熊",
      "written": "变熊",
      "note": "",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977,
@@ -33242,7 +33293,7 @@
      "artist": "ホムンクルス",
      "written": "人造人",
      "note": "",
-     "rootNo": 47,
+     "rootNo": 48,
      "isSub": true,
      "user": "Cyborg86",
      "rpid": 318722984977,
@@ -33293,7 +33344,7 @@
   },
   {
    "rpid": 318723168065,
-   "rootNo": 27,
+   "rootNo": 26,
    "isSub": true,
    "user": "暹罗暹罗Toxy",
    "like": 0,
@@ -33449,7 +33500,7 @@
   },
   {
    "rpid": 322440594704,
-   "rootNo": 27,
+   "rootNo": 26,
    "isSub": true,
    "user": "郁金香监狱图书馆尘虵",
    "like": 4,
@@ -33462,7 +33513,7 @@
      "artist": "Croriin",
      "written": "Croiin",
      "note": "人外之神",
-     "rootNo": 27,
+     "rootNo": 26,
      "isSub": true,
      "user": "郁金香监狱图书馆尘虵",
      "rpid": 322440594704,
@@ -34367,10 +34418,10 @@
   },
   {
    "rpid": 322458122656,
-   "rootNo": 52,
+   "rootNo": 44,
    "isSub": true,
    "user": "水下声呐",
-   "like": 0,
+   "like": 1,
    "ctime": 1793427252,
    "firstSeen": "",
    "content": "基本功是我见过n多画师了最强的一档了，人体结构起伏可以教科书来临摹，如此强的基本功还在水里游的且看且珍惜指不定哪天就上岸了[藏狐]",
@@ -35311,7 +35362,7 @@
   },
   {
    "rpid": 318767880417,
-   "rootNo": 49,
+   "rootNo": 50,
    "isSub": true,
    "user": "又拿永远骗我",
    "like": 0,
@@ -35647,7 +35698,7 @@
   },
   {
    "rpid": 318788597969,
-   "rootNo": 27,
+   "rootNo": 26,
    "isSub": true,
    "user": "荻秋秋秋邱",
    "like": 0,
@@ -36098,7 +36149,7 @@
   },
   {
    "rpid": 318801555169,
-   "rootNo": 49,
+   "rootNo": 50,
    "isSub": true,
    "user": "-情自阑珊-",
    "like": 0,
@@ -36111,7 +36162,7 @@
      "artist": "AE",
      "written": "AE",
      "note": "名单里没有AE",
-     "rootNo": 49,
+     "rootNo": 50,
      "isSub": true,
      "user": "-情自阑珊-",
      "rpid": 318801555169,
@@ -37173,7 +37224,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "violetaaaaaaaaa",
-   "like": 3,
+   "like": 4,
    "ctime": 1793508414,
    "firstSeen": "",
    "content": "这个真是本子界三浦，最尊重女性之人[大笑]",
@@ -37517,7 +37568,7 @@
   },
   {
    "rpid": 322585148064,
-   "rootNo": 26,
+   "rootNo": 27,
    "isSub": true,
    "user": "星夜asuka",
    "like": 1,
@@ -38520,7 +38571,7 @@
   },
   {
    "rpid": 318928856225,
-   "rootNo": 48,
+   "rootNo": 49,
    "isSub": true,
    "user": "Pan小窝",
    "like": 0,
@@ -38743,7 +38794,7 @@
   },
   {
    "rpid": 322676682592,
-   "rootNo": 27,
+   "rootNo": 26,
    "isSub": true,
    "user": "ssbn大",
    "like": 0,
@@ -38824,7 +38875,7 @@
   },
   {
    "rpid": 318954412449,
-   "rootNo": 48,
+   "rootNo": 49,
    "isSub": true,
    "user": "情澜缘予甄潇醉",
    "like": 0,
@@ -38902,7 +38953,7 @@
   },
   {
    "rpid": 322688014144,
-   "rootNo": 45,
+   "rootNo": 46,
    "isSub": true,
    "user": "黄叶Hasalei",
    "like": 0,
@@ -39253,7 +39304,7 @@
   },
   {
    "rpid": 319041101425,
-   "rootNo": 27,
+   "rootNo": 26,
    "isSub": true,
    "user": "传奇机械师德尔马丁",
    "like": 0,
@@ -39266,7 +39317,7 @@
      "artist": "Croriin",
      "written": "croriin",
      "note": "他是我的神，强烈推荐",
-     "rootNo": 27,
+     "rootNo": 26,
      "isSub": true,
      "user": "传奇机械师德尔马丁",
      "rpid": 319041101425,
@@ -40859,6 +40910,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319292429585,
+   "rootNo": 26,
+   "isSub": true,
+   "user": "自然立法者",
+   "like": 0,
+   "ctime": 1793884811,
+   "firstSeen": "2026-11-05 22:00:02",
+   "content": "真神！",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "暹罗暹罗Toxy"
   }
  ]
 }
