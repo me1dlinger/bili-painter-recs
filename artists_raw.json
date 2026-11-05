@@ -11,7 +11,7 @@
   ],
   "mentions": 20,
   "users": 18,
-  "likes": 325,
+  "likes": 327,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -215,7 +215,7 @@
     "isSub": false,
     "user": "暴食-波奇Q",
     "rpid": 322420769312,
-    "like": 159
+    "like": 160
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -265,7 +265,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -1743,7 +1743,7 @@
   ],
   "mentions": 13,
   "users": 12,
-  "likes": 214,
+  "likes": 215,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1928,7 +1928,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    },
    {
     "artist": "だにまる",
@@ -6997,7 +6997,7 @@
   ],
   "mentions": 3,
   "users": 3,
-  "likes": 27,
+  "likes": 28,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -7042,7 +7042,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    },
    {
     "artist": "92m",
@@ -8500,7 +8500,7 @@
   ],
   "mentions": 3,
   "users": 3,
-  "likes": 10,
+  "likes": 11,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -8545,7 +8545,7 @@
     "isSub": true,
     "user": "凸守早猫",
     "rpid": 318822736945,
-    "like": 2
+    "like": 3
    },
    {
     "artist": "清炭ハリケーン",
@@ -9967,7 +9967,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 29,
+  "likes": 30,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9995,7 +9995,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    },
    {
     "artist": "じゃが山たらヲ",
@@ -12986,7 +12986,7 @@
   ],
   "mentions": 2,
   "users": 1,
-  "likes": 29,
+  "likes": 30,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -13014,7 +13014,7 @@
     "isSub": false,
     "user": "Master獨角",
     "rpid": 322427300160,
-    "like": 29
+    "like": 30
    },
    {
     "artist": "月ノ輪ガモ",
@@ -19771,7 +19771,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 26,
+  "likes": 27,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -19792,7 +19792,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    }
   ]
  },
@@ -21075,7 +21075,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 26,
+  "likes": 27,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -21096,7 +21096,7 @@
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 26
+    "like": 27
    }
   ]
  },

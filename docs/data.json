@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 01:00:02",
+  "fetchedAt": "2026-11-06 02:00:02",
   "claimedReplyCount": 978,
   "rootCount": 254,
   "subCount": 738,
   "totalCount": 992,
   "update": {
-   "lastFetchAt": "2026-11-06 01:00:02",
+   "lastFetchAt": "2026-11-06 02:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 00:11:07",
+   "publishedAt": "2026-11-06 01:01:32",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 325,
+   "likes": 327,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 214,
+   "likes": 215,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -3881,7 +3881,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 27,
+   "likes": 28,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -4773,7 +4773,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 10,
+   "likes": 11,
    "lowConfidence": false,
    "notes": [
     "村田级画风对比中被提名，但差距还很远",
@@ -5675,7 +5675,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 29,
+   "likes": 30,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -7550,7 +7550,7 @@
    ],
    "mentions": 2,
    "users": 1,
-   "likes": 29,
+   "likes": 30,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12126,7 +12126,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 26,
+   "likes": 27,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -13009,7 +13009,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 26,
+   "likes": 27,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -16108,7 +16108,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 430,
+   "like": 431,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -16122,7 +16122,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 159,
+   "like": 160,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -16136,7 +16136,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 159
+     "like": 160
     }
    ],
    "workInfo": null,
@@ -16671,7 +16671,7 @@
    "rootNo": 17,
    "isSub": false,
    "user": "Master獨角",
-   "like": 29,
+   "like": 30,
    "ctime": 1793409008,
    "firstSeen": "",
    "content": "月轮老师也不错",
@@ -16685,7 +16685,7 @@
      "isSub": false,
      "user": "Master獨角",
      "rpid": 322427300160,
-     "like": 29
+     "like": 30
     }
    ],
    "workInfo": null,
@@ -16714,7 +16714,7 @@
    "rootNo": 19,
    "isSub": false,
    "user": "狗卡世界第一",
-   "like": 26,
+   "like": 27,
    "ctime": 1793534081,
    "firstSeen": "",
    "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
@@ -16728,7 +16728,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     },
     {
      "artist": "フグタ家",
@@ -16738,7 +16738,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     },
     {
      "artist": "じゃが山たらヲ",
@@ -16748,7 +16748,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     },
     {
      "artist": "だにまる",
@@ -16758,7 +16758,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     },
     {
      "artist": "咲良ゆき",
@@ -16768,7 +16768,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     },
     {
      "artist": "92m",
@@ -16778,7 +16778,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 26
+     "like": 27
     }
    ],
    "workInfo": null,
@@ -33121,7 +33121,7 @@
    "rootNo": 129,
    "isSub": true,
    "user": "蕉兵必back",
-   "like": 24,
+   "like": 25,
    "ctime": 1793415903,
    "firstSeen": "",
    "content": "真有村田的水平谁还画本子啊，早就去接商稿了",
@@ -36929,7 +36929,7 @@
    "rootNo": 129,
    "isSub": true,
    "user": "凸守早猫",
-   "like": 2,
+   "like": 3,
    "ctime": 1793492169,
    "firstSeen": "",
    "content": "这不就点名清碳，不过只是画风像，画工比不上",
@@ -36943,7 +36943,7 @@
      "isSub": true,
      "user": "凸守早猫",
      "rpid": 318822736945,
-     "like": 2
+     "like": 3
     }
    ],
    "workInfo": null,
