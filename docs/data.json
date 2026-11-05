@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 02:00:02",
+  "fetchedAt": "2026-11-06 03:00:02",
   "claimedReplyCount": 978,
   "rootCount": 254,
   "subCount": 738,
   "totalCount": 992,
   "update": {
-   "lastFetchAt": "2026-11-06 02:00:02",
+   "lastFetchAt": "2026-11-06 03:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 01:01:32",
+   "publishedAt": "2026-11-06 02:01:33",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 327,
+   "likes": 328,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -1979,7 +1979,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 92,
+   "likes": 93,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -7550,7 +7550,7 @@
    ],
    "mentions": 2,
    "users": 1,
-   "likes": 30,
+   "likes": 31,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -16122,7 +16122,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 160,
+   "like": 161,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -16136,7 +16136,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 160
+     "like": 161
     }
    ],
    "workInfo": null,
@@ -16315,7 +16315,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 83,
+   "like": 84,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16329,7 +16329,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 83
+     "like": 84
     }
    ],
    "workInfo": null,
@@ -16647,8 +16647,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318770146641,
+   "rpid": 322427300160,
    "rootNo": 16,
+   "isSub": false,
+   "user": "Master獨角",
+   "like": 31,
+   "ctime": 1793409008,
+   "firstSeen": "",
+   "content": "月轮老师也不错",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "月ノ輪ガモ",
+     "written": "月轮老师",
+     "note": "",
+     "rootNo": 16,
+     "isSub": false,
+     "user": "Master獨角",
+     "rpid": 322427300160,
+     "like": 31
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318770146641,
+   "rootNo": 17,
    "isSub": false,
    "user": "Duskswood",
    "like": 31,
@@ -16664,31 +16689,6 @@
     "resolved_by_reply": null,
     "desc": "报作品名「漫天堂」，未给画师"
    },
-   "rootUser": ""
-  },
-  {
-   "rpid": 322427300160,
-   "rootNo": 17,
-   "isSub": false,
-   "user": "Master獨角",
-   "like": 30,
-   "ctime": 1793409008,
-   "firstSeen": "",
-   "content": "月轮老师也不错",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "月ノ輪ガモ",
-     "written": "月轮老师",
-     "note": "",
-     "rootNo": 17,
-     "isSub": false,
-     "user": "Master獨角",
-     "rpid": 322427300160,
-     "like": 30
-    }
-   ],
-   "workInfo": null,
    "rootUser": ""
   },
   {
@@ -17003,8 +17003,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 322403233360,
+   "rpid": 322528104656,
    "rootNo": 28,
+   "isSub": false,
+   "user": "itsamochi",
+   "like": 12,
+   "ctime": 1793467077,
+   "firstSeen": "",
+   "content": "我永远的goat[脱单doge][脱单doge]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322403233360,
+   "rootNo": 29,
    "isSub": false,
    "user": "咲一咲菌",
    "like": 11,
@@ -17018,7 +17032,7 @@
   },
   {
    "rpid": 318704343057,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": false,
    "user": "Redの杰仔",
    "like": 11,
@@ -17031,7 +17045,7 @@
      "artist": "煌野一人",
      "written": "煌野一人老师",
      "note": "",
-     "rootNo": 29,
+     "rootNo": 30,
      "isSub": false,
      "user": "Redの杰仔",
      "rpid": 318704343057,
@@ -17043,7 +17057,7 @@
   },
   {
    "rpid": 322462001472,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": false,
    "user": "空凛似凉月",
    "like": 11,
@@ -17056,7 +17070,7 @@
      "artist": "武田弘光",
      "written": "武田弘光",
      "note": "",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": false,
      "user": "空凛似凉月",
      "rpid": 322462001472,
@@ -17066,27 +17080,13 @@
      "artist": "青豆腐",
      "written": "青豆腐",
      "note": "",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": false,
      "user": "空凛似凉月",
      "rpid": 322462001472,
      "like": 11
     }
    ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322528104656,
-   "rootNo": 31,
-   "isSub": false,
-   "user": "itsamochi",
-   "like": 11,
-   "ctime": 1793467077,
-   "firstSeen": "",
-   "content": "我永远的goat[脱单doge][脱单doge]",
-   "category": "chat",
-   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -28559,7 +28559,7 @@
   },
   {
    "rpid": 322404030608,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "糖丸立香",
    "like": 2,
@@ -28598,7 +28598,7 @@
   },
   {
    "rpid": 322404297136,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "咲一咲菌",
    "like": 1,
@@ -28611,7 +28611,7 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "",
-     "rootNo": 28,
+     "rootNo": 29,
      "isSub": true,
      "user": "咲一咲菌",
      "rpid": 322404297136,
@@ -30577,7 +30577,7 @@
   },
   {
    "rpid": 322419610576,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "susha",
    "like": 0,
@@ -30878,7 +30878,7 @@
   },
   {
    "rpid": 322421835696,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "惘尘丶",
    "like": 0,
@@ -31524,7 +31524,7 @@
   },
   {
    "rpid": 318710229953,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "维生素c不行",
    "like": 1,
@@ -31588,7 +31588,7 @@
   },
   {
    "rpid": 318710765265,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "Redの杰仔",
    "like": 0,
@@ -31785,7 +31785,7 @@
   },
   {
    "rpid": 318711704401,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "维生素c不行",
    "like": 2,
@@ -31955,7 +31955,7 @@
   },
   {
    "rpid": 322428160656,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "我永遠喜欢冬马和纱",
    "like": 0,
@@ -32133,7 +32133,7 @@
   },
   {
    "rpid": 318716109713,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "Ryul-",
    "like": 0,
@@ -32567,7 +32567,7 @@
   },
   {
    "rpid": 318719111521,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "神奇的malatang",
    "like": 1,
@@ -33160,7 +33160,7 @@
   },
   {
    "rpid": 318722041041,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "蕾姆拉姆の夫",
    "like": 1,
@@ -33174,7 +33174,7 @@
   },
   {
    "rpid": 318722132945,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "Cyborg86",
    "like": 1,
@@ -34422,7 +34422,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 50,
+   "like": 51,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -34495,7 +34495,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "咕囖咕囖",
-   "like": 6,
+   "like": 7,
    "ctime": 1793426568,
    "firstSeen": "",
    "content": "最有力气的画",
@@ -34629,7 +34629,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "XXUlsk",
-   "like": 18,
+   "like": 19,
    "ctime": 1793429306,
    "firstSeen": "",
    "content": "这踏马是本子？",
@@ -34665,7 +34665,7 @@
   },
   {
    "rpid": 318744810097,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "CJJ长手猪",
    "like": 0,
@@ -34679,7 +34679,7 @@
   },
   {
    "rpid": 322462079648,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "空凛似凉月",
    "like": 0,
@@ -34692,7 +34692,7 @@
      "artist": "一弘",
      "written": "一弘",
      "note": "不确定是画师还是人名简称",
-     "rootNo": 30,
+     "rootNo": 31,
      "isSub": true,
      "user": "空凛似凉月",
      "rpid": 322462079648,
@@ -34902,7 +34902,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 35,
+   "like": 36,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -35375,7 +35375,7 @@
   },
   {
    "rpid": 322484259584,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "Master獨角",
    "like": 0,
@@ -35388,7 +35388,7 @@
      "artist": "月ノ輪ガモ",
      "written": "月ノ輪ガモ",
      "note": "",
-     "rootNo": 17,
+     "rootNo": 16,
      "isSub": true,
      "user": "Master獨角",
      "rpid": 322484259584,
@@ -35489,7 +35489,7 @@
   },
   {
    "rpid": 318770345857,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "Duskswood",
    "like": 0,
@@ -36809,7 +36809,7 @@
   },
   {
    "rpid": 322535498608,
-   "rootNo": 29,
+   "rootNo": 30,
    "isSub": true,
    "user": "半步超大杯諾小弟",
    "like": 1,
@@ -36823,7 +36823,7 @@
   },
   {
    "rpid": 318815981073,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "冰倒霉蛋少年QAQ",
    "like": 0,
@@ -37079,7 +37079,7 @@
   },
   {
    "rpid": 322551327008,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "Kadra",
    "like": 1,
@@ -37167,7 +37167,7 @@
   },
   {
    "rpid": 322554843008,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "itsamochi",
    "like": 2,
@@ -37180,7 +37180,7 @@
      "artist": "七尾ゆきじ",
      "written": "七尾ゆきじ",
      "note": "我永远的goat",
-     "rootNo": 31,
+     "rootNo": 28,
      "isSub": true,
      "user": "itsamochi",
      "rpid": 322554843008,
@@ -37192,7 +37192,7 @@
   },
   {
    "rpid": 322554928064,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "Kadra",
    "like": 0,
@@ -37206,7 +37206,7 @@
   },
   {
    "rpid": 318834898737,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "讲歇后语的caulis",
    "like": 0,
@@ -37312,7 +37312,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "violetaaaaaaaaa",
-   "like": 4,
+   "like": 5,
    "ctime": 1793508414,
    "firstSeen": "",
    "content": "这个真是本子界三浦，最尊重女性之人[大笑]",
@@ -37436,7 +37436,7 @@
   },
   {
    "rpid": 322577942224,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "GODS1NDz",
    "like": 2,
@@ -37450,7 +37450,7 @@
   },
   {
    "rpid": 318855576017,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "Duskswood",
    "like": 0,
@@ -37489,7 +37489,7 @@
   },
   {
    "rpid": 318856043505,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "Duskswood",
    "like": 0,
@@ -37528,7 +37528,7 @@
   },
   {
    "rpid": 322580124176,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "树人德",
    "like": 0,
@@ -37541,7 +37541,7 @@
      "artist": "七尾ゆきじ",
      "written": "七尾",
      "note": "只看过他的单行本",
-     "rootNo": 31,
+     "rootNo": 28,
      "isSub": true,
      "user": "树人德",
      "rpid": 322580124176,
@@ -38779,7 +38779,7 @@
   },
   {
    "rpid": 322664257312,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "itsamochi",
    "like": 0,
@@ -39208,7 +39208,7 @@
   },
   {
    "rpid": 318996816881,
-   "rootNo": 31,
+   "rootNo": 28,
    "isSub": true,
    "user": "亲吻魔王与红茶",
    "like": 0,
@@ -39221,7 +39221,7 @@
      "artist": "愛上陸",
      "written": "爱上陆",
      "note": "看成爱上陆了",
-     "rootNo": 31,
+     "rootNo": 28,
      "isSub": true,
      "user": "亲吻魔王与红茶",
      "rpid": 318996816881,
@@ -39739,7 +39739,7 @@
   },
   {
    "rpid": 319079840433,
-   "rootNo": 17,
+   "rootNo": 16,
    "isSub": true,
    "user": "哈根达斯巴达克斯",
    "like": 0,
@@ -39767,7 +39767,7 @@
   },
   {
    "rpid": 322814235616,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "我才是吴迪ovo",
    "like": 0,
@@ -40046,7 +40046,7 @@
   },
   {
    "rpid": 319128858033,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "Duskswood",
    "like": 0,
@@ -40059,7 +40059,7 @@
      "artist": "じゅらい",
      "written": "じゅらい",
      "note": "点名推荐，未附评价",
-     "rootNo": 16,
+     "rootNo": 17,
      "isSub": true,
      "user": "Duskswood",
      "rpid": 319128858033,
@@ -40071,7 +40071,7 @@
   },
   {
    "rpid": 319128770433,
-   "rootNo": 16,
+   "rootNo": 17,
    "isSub": true,
    "user": "Duskswood",
    "like": 0,
@@ -40084,7 +40084,7 @@
      "artist": "じゅらい",
      "written": "じゅらい",
      "note": "点名推荐，未附评价",
-     "rootNo": 16,
+     "rootNo": 17,
      "isSub": true,
      "user": "Duskswood",
      "rpid": 319128770433,
@@ -40363,7 +40363,7 @@
   },
   {
    "rpid": 322908189408,
-   "rootNo": 30,
+   "rootNo": 31,
    "isSub": true,
    "user": "FFF团第2021团员",
    "like": 0,
