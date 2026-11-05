@@ -13,6 +13,12 @@ PY=$(python3 -c "import json;print(json.load(open('store/local.json'))['python']
 export HOME=/vol1/@appshare/fn-deepseek-harness
 {
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') 开始 ====="
+  # 冻结检查：评论数达上限并完整发布过之后，本项目停止更新（见 store/FROZEN、TASK.md）
+  if [ -f store/FROZEN ]; then
+    echo "已冻结（store/FROZEN 存在），跳过本轮；重启方法见 TASK.md"
+    echo "===== $(date '+%Y-%m-%d %H:%M:%S') 跳过（已冻结） ====="
+    exit 0
+  fi
   # 防并发：上一轮还没跑完就跳过本轮（fetch 全量抓可能耗时数分钟）
   LOCK=store/update.lock
   if [ -f "$LOCK" ] && kill -0 "$(cat "$LOCK")" 2>/dev/null; then
@@ -26,5 +32,28 @@ export HOME=/vol1/@appshare/fn-deepseek-harness
   sh scripts/ai_review.sh                 # 2. 新评论交给 AI 做语义判断（标记，不阻塞）
   "$PY" scripts/build.py                  # 3. 重建 data.json / md / csv
   sh scripts/publish.sh                   # 4. 推到 GitHub，Pages 自动刷新
+  # ---------- 5. 收尾：评论抓满 1000 且复核队列已清空 → 冻结项目 ----------
+  # 冻结 = 写 store/FROZEN（后续轮次直接跳过）+ 移除本 crontab 任务。
+  # 会话侧的定时复核提醒也会做同样的收尾（双保险）。
+  CAP=1000
+  TOTAL=$("$PY" -c "import json;print(json.load(open('data.json',encoding='utf-8'))['meta']['totalCount'])")
+  PEND=$("$PY" -c "import json;print(json.load(open('store/pending.json',encoding='utf-8')).get('count',0))" 2>/dev/null || echo 0)
+  if [ "$TOTAL" -ge "$CAP" ] && [ "$PEND" -eq 0 ]; then
+    "$PY" - <<'PYEOF'
+import json, datetime
+total = json.load(open("data.json", encoding="utf-8"))["meta"]["totalCount"]
+json.dump({
+    "frozenAt": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+    "totalComments": total,
+    "cap": 1000,
+    "reason": "评论数已达上限且复核队列已清空，抓取/发布任务停止",
+    "restart": "重启步骤见 TASK.md（重新加 crontab + 重建会话定时复核）",
+}, open("store/FROZEN", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+print(f"已冻结：评论 {total} 条（上限 1000），复核队列为空")
+PYEOF
+    # 只删含 cron_update.sh 的那一行，保留机器上其它 cron
+    crontab -l 2>/dev/null | grep -v 'cron_update.sh' | crontab - 2>/dev/null || true
+    echo "本任务已从 crontab 移除；网页停在当前快照，不再更新"
+  fi
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') 完成 ====="
 } >> store/update.log 2>&1

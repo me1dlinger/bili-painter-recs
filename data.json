@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 08:00:02",
-  "claimedReplyCount": 952,
-  "rootCount": 248,
-  "subCount": 718,
-  "totalCount": 966,
+  "fetchedAt": "2026-11-05 09:00:02",
+  "claimedReplyCount": 955,
+  "rootCount": 249,
+  "subCount": 720,
+  "totalCount": 969,
   "update": {
-   "lastFetchAt": "2026-11-05 08:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 07:01:29",
+   "lastFetchAt": "2026-11-05 09:00:02",
+   "lastFetchNew": 3,
+   "publishedAt": "2026-11-05 08:01:30",
    "delta": {
-    "comments": 0,
+    "comments": 3,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 352,
+   "chat": 355,
    "artist_rec": 564,
    "work_only": 14,
    "ask": 21,
@@ -1686,7 +1686,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 82,
+   "likes": 83,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2014,7 +2014,7 @@
    ],
    "mentions": 8,
    "users": 7,
-   "likes": 50,
+   "likes": 51,
    "lowConfidence": false,
    "notes": [
     "人外本，粉红漫画上刷到",
@@ -2944,7 +2944,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 7,
+   "likes": 8,
    "lowConfidence": false,
    "notes": [
     "很久不画了，领先业界十年",
@@ -15964,7 +15964,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 73,
+   "like": 74,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15978,7 +15978,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 73
+     "like": 74
     }
    ],
    "workInfo": null,
@@ -16602,8 +16602,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 322403233360,
+   "rpid": 318723073201,
    "rootNo": 27,
+   "isSub": false,
+   "user": "暹罗暹罗Toxy",
+   "like": 12,
+   "ctime": 1793416883,
+   "firstSeen": "",
+   "content": "有一说一，最近在粉色漫画上面刷到的一个画师叫Croriin，作为一个从来对人外不感兴趣的人我被ta的人外本彻底征服了（但是也只仅限于爱看ta的",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "Croriin",
+     "written": "Croriin",
+     "note": "人外本，粉红漫画上刷到",
+     "rootNo": 27,
+     "isSub": false,
+     "user": "暹罗暹罗Toxy",
+     "rpid": 318723073201,
+     "like": 12
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322403233360,
+   "rootNo": 28,
    "isSub": false,
    "user": "咲一咲菌",
    "like": 11,
@@ -16617,7 +16642,7 @@
   },
   {
    "rpid": 318704343057,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": false,
    "user": "Redの杰仔",
    "like": 11,
@@ -16630,35 +16655,10 @@
      "artist": "煌野一人",
      "written": "煌野一人老师",
      "note": "",
-     "rootNo": 28,
+     "rootNo": 29,
      "isSub": false,
      "user": "Redの杰仔",
      "rpid": 318704343057,
-     "like": 11
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318723073201,
-   "rootNo": 29,
-   "isSub": false,
-   "user": "暹罗暹罗Toxy",
-   "like": 11,
-   "ctime": 1793416883,
-   "firstSeen": "",
-   "content": "有一说一，最近在粉色漫画上面刷到的一个画师叫Croriin，作为一个从来对人外不感兴趣的人我被ta的人外本彻底征服了（但是也只仅限于爱看ta的",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "Croriin",
-     "written": "Croriin",
-     "note": "人外本，粉红漫画上刷到",
-     "rootNo": 29,
-     "isSub": false,
-     "user": "暹罗暹罗Toxy",
-     "rpid": 318723073201,
      "like": 11
     }
    ],
@@ -17185,8 +17185,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318670706833,
+   "rpid": 322799332000,
    "rootNo": 36,
+   "isSub": false,
+   "user": "DERTF",
+   "like": 8,
+   "ctime": 1793692257,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "画里有怨念的来了：胃之上奇嘉郎",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "胃之上奇嘉郎",
+     "written": "胃之上奇嘉郎",
+     "note": "画里有怨念的来了",
+     "rootNo": 36,
+     "isSub": false,
+     "user": "DERTF",
+     "rpid": 322799332000,
+     "like": 8
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318670706833,
+   "rootNo": 37,
    "isSub": false,
    "user": "五十斤土块",
    "like": 7,
@@ -17199,35 +17224,10 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐",
      "note": "老作品，艾姬多娜地牢",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "五十斤土块",
      "rpid": 318670706833,
-     "like": 7
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322799332000,
-   "rootNo": 37,
-   "isSub": false,
-   "user": "DERTF",
-   "like": 7,
-   "ctime": 1793692257,
-   "firstSeen": "2026-11-03 16:00:02",
-   "content": "画里有怨念的来了：胃之上奇嘉郎",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "胃之上奇嘉郎",
-     "written": "胃之上奇嘉郎",
-     "note": "画里有怨念的来了",
-     "rootNo": 37,
-     "isSub": false,
-     "user": "DERTF",
-     "rpid": 322799332000,
      "like": 7
     }
    ],
@@ -24568,8 +24568,22 @@
    "rootUser": ""
   },
   {
+   "rpid": 319228209137,
+   "rootNo": 249,
+   "isSub": false,
+   "user": "Duskswood",
+   "like": 0,
+   "ctime": 1793838395,
+   "firstSeen": "2026-11-05 09:00:02",
+   "content": "666我评论被人举报了神了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
    "rpid": 322383869904,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "誓词ぁ",
    "like": 1,
@@ -24703,7 +24717,7 @@
   },
   {
    "rpid": 318673196753,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "酋长咱别玩了",
    "like": 0,
@@ -24716,7 +24730,7 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐老师",
      "note": "魔物娘确实好",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -24726,7 +24740,7 @@
      "artist": "messy",
      "written": "messy老师",
      "note": "画面细腻温润，扶她",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -27956,7 +27970,7 @@
   },
   {
    "rpid": 322404030608,
-   "rootNo": 27,
+   "rootNo": 28,
    "isSub": true,
    "user": "糖丸立香",
    "like": 2,
@@ -27995,7 +28009,7 @@
   },
   {
    "rpid": 322404297136,
-   "rootNo": 27,
+   "rootNo": 28,
    "isSub": true,
    "user": "咲一咲菌",
    "like": 1,
@@ -28008,7 +28022,7 @@
      "artist": "あるぷ",
      "written": "alp",
      "note": "",
-     "rootNo": 27,
+     "rootNo": 28,
      "isSub": true,
      "user": "咲一咲菌",
      "rpid": 322404297136,
@@ -29510,7 +29524,7 @@
    "rootNo": 11,
    "isSub": true,
    "user": "゙河城荷取",
-   "like": 19,
+   "like": 20,
    "ctime": 1793389893,
    "firstSeen": "",
    "content": "下面那个脸不是籽岷吗",
@@ -29974,7 +29988,7 @@
   },
   {
    "rpid": 322419610576,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "susha",
    "like": 0,
@@ -30275,7 +30289,7 @@
   },
   {
    "rpid": 322421835696,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "惘尘丶",
    "like": 0,
@@ -30921,7 +30935,7 @@
   },
   {
    "rpid": 318710229953,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
    "like": 0,
@@ -30985,7 +30999,7 @@
   },
   {
    "rpid": 318710765265,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "Redの杰仔",
    "like": 0,
@@ -31182,7 +31196,7 @@
   },
   {
    "rpid": 318711704401,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "维生素c不行",
    "like": 1,
@@ -31964,7 +31978,7 @@
   },
   {
    "rpid": 318719111521,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "神奇的malatang",
    "like": 1,
@@ -32557,7 +32571,7 @@
   },
   {
    "rpid": 318722041041,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "蕾姆拉姆の夫",
    "like": 1,
@@ -32829,7 +32843,7 @@
   },
   {
    "rpid": 318723168065,
-   "rootNo": 29,
+   "rootNo": 27,
    "isSub": true,
    "user": "暹罗暹罗Toxy",
    "like": 0,
@@ -32985,7 +32999,7 @@
   },
   {
    "rpid": 322440594704,
-   "rootNo": 29,
+   "rootNo": 27,
    "isSub": true,
    "user": "郁金香监狱图书馆尘虵",
    "like": 4,
@@ -32998,7 +33012,7 @@
      "artist": "Croriin",
      "written": "Croiin",
      "note": "人外之神",
-     "rootNo": 29,
+     "rootNo": 27,
      "isSub": true,
      "user": "郁金香监狱图书馆尘虵",
      "rpid": 322440594704,
@@ -35183,7 +35197,7 @@
   },
   {
    "rpid": 318788597969,
-   "rootNo": 29,
+   "rootNo": 27,
    "isSub": true,
    "user": "荻秋秋秋邱",
    "like": 0,
@@ -36206,7 +36220,7 @@
   },
   {
    "rpid": 322535498608,
-   "rootNo": 28,
+   "rootNo": 29,
    "isSub": true,
    "user": "半步超大杯諾小弟",
    "like": 1,
@@ -38279,7 +38293,7 @@
   },
   {
    "rpid": 322676682592,
-   "rootNo": 29,
+   "rootNo": 27,
    "isSub": true,
    "user": "ssbn大",
    "like": 0,
@@ -38789,7 +38803,7 @@
   },
   {
    "rpid": 319041101425,
-   "rootNo": 29,
+   "rootNo": 27,
    "isSub": true,
    "user": "传奇机械师德尔马丁",
    "like": 0,
@@ -38802,7 +38816,7 @@
      "artist": "Croriin",
      "written": "croriin",
      "note": "他是我的神，强烈推荐",
-     "rootNo": 29,
+     "rootNo": 27,
      "isSub": true,
      "user": "传奇机械师德尔马丁",
      "rpid": 319041101425,
@@ -39072,7 +39086,7 @@
   },
   {
    "rpid": 322807839984,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "忆彡殇",
    "like": 0,
@@ -39111,7 +39125,7 @@
   },
   {
    "rpid": 322809270672,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -39124,7 +39138,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "著名的侍奉委员那本",
-     "rootNo": 37,
+     "rootNo": 36,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322809270672,
@@ -39951,7 +39965,7 @@
   },
   {
    "rpid": 322929331728,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "zoezzzi",
    "like": 0,
@@ -40004,7 +40018,7 @@
   },
   {
    "rpid": 322947834544,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -40017,7 +40031,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "在本子画师里面可以说是最顶的一批人之一了",
-     "rootNo": 37,
+     "rootNo": 36,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322947834544,
@@ -40026,6 +40040,34 @@
    ],
    "workInfo": null,
    "rootUser": "DERTF"
+  },
+  {
+   "rpid": 319227463153,
+   "rootNo": 19,
+   "isSub": true,
+   "user": "AlexiLaiho",
+   "like": 0,
+   "ctime": 1793837449,
+   "firstSeen": "2026-11-05 09:00:02",
+   "content": "越画越壮，有点无感了，以前画凛本的时期我是真喜欢",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Parzival-__-"
+  },
+  {
+   "rpid": 322968071616,
+   "rootNo": 8,
+   "isSub": true,
+   "user": "沁_史克爾",
+   "like": 0,
+   "ctime": 1793837758,
+   "firstSeen": "2026-11-05 09:00:02",
+   "content": "回复 @霉霉子Official :真被乾死了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "゚゙゚゙゚帕琪"
   }
  ]
 }

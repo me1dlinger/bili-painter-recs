@@ -38,6 +38,10 @@ from bilibili_api import Credential, Api  # noqa: E402
 
 BVID = "BV15cxq6tEFW"
 QUIET = "--quiet" in sys.argv
+# 评论总数硬上限：抓满 CAP 条即冻结该项目（多余的丢弃、不入库）。
+# 目的：让网页「抓取评论 N 条」最终精确停在 CAP，不多不少。
+# 冻结动作（写 store/FROZEN + 移除 crontab）由 cron_update.sh / 会话侧执行。
+CAP = 1000
 NOW = time.strftime("%Y-%m-%d %H:%M:%S")
 
 
@@ -204,6 +208,17 @@ async def main():
             if old.get("content") != c["content"]:
                 old["content"] = c["content"]
     store = dict(sorted(store.items(), key=lambda kv: kv[1].get("ctime", 0)))
+    # ---------- 评论总数硬上限：超过 CAP 的部分丢弃、不入库 ----------
+    # 保留按 ctime 升序的前 CAP 条（历史优先），本轮多出来的新评论直接不收录，
+    # 同时把它们从 new_ids 里剔除，避免自动匹配 / 待复核队列引用不存在的评论。
+    dropped = set()
+    if len(store) > CAP:
+        keep_keys = list(store.keys())[:CAP]
+        keep_set = set(keep_keys)
+        dropped = {k for k in store if k not in keep_set}
+        store = {k: store[k] for k in keep_keys}
+        new_ids = [k for k in new_ids if k not in dropped]
+        log(f"已达上限 {CAP} 条：本轮多出的 {len(dropped)} 条评论不入库")
     db["comments"] = store
     db["updatedAt"] = NOW
     db["claimedReplyCount"] = claimed
@@ -252,12 +267,12 @@ async def main():
             "like": c["like"], "isSub": c["isSub"], "root": c.get("root", 0),
             "autoMatched": auto_match(c["content"], pats),
         })
-    pending = old_pending + fresh
+    pending = [x for x in (old_pending + fresh) if str(x["rpid"]) not in dropped]
     json.dump({"generatedAt": NOW, "count": len(pending), "comments": pending},
               open(ppath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     log(f"新增 {len(new_ids)} 条评论，更新 {updated} 条，自动匹配新增提及 {added} 条")
-    log(f"评论库合计 {len(store)} 条")
+    log(f"评论库合计 {len(store)} 条{'（已满上限 ' + str(CAP) + '，多余不入库）' if len(store) >= CAP else ''}")
     # 注意：只更新「上次抓取」这一块，published（上次发布快照）由 publish.sh 维护
     sp = os.path.join(STORE, "state.json")
     st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
