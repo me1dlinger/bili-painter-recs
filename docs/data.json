@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 13:00:02",
-  "claimedReplyCount": 963,
+  "fetchedAt": "2026-11-05 14:00:01",
+  "claimedReplyCount": 964,
   "rootCount": 252,
-  "subCount": 725,
-  "totalCount": 977,
+  "subCount": 726,
+  "totalCount": 978,
   "update": {
-   "lastFetchAt": "2026-11-05 13:00:02",
-   "lastFetchNew": 7,
-   "publishedAt": "2026-11-05 12:10:44",
+   "lastFetchAt": "2026-11-05 14:00:01",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-05 13:01:32",
    "delta": {
-    "comments": 7,
+    "comments": 1,
     "artists": 0,
-    "mentions": 4
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 362,
+   "chat": 363,
    "artist_rec": 566,
    "work_only": 13,
    "ask": 21,
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 211,
+   "likes": 212,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -1686,7 +1686,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 85,
+   "likes": 86,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2895,7 +2895,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 10,
+   "likes": 11,
    "lowConfidence": false,
    "notes": [
     "剧情脑洞太无敌了",
@@ -3055,7 +3055,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 121,
+   "likes": 122,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -6831,7 +6831,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 120,
+   "likes": 121,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -13851,7 +13851,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 113,
+   "likes": 114,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -15926,7 +15926,7 @@
    "rootNo": 6,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 113,
+   "like": 114,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -15940,7 +15940,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 113
+     "like": 114
     },
     {
      "artist": "eo58",
@@ -15950,7 +15950,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 113
+     "like": 114
     },
     {
      "artist": "毛谁",
@@ -15960,7 +15960,32 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 113
+     "like": 114
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318738474049,
+   "rootNo": 7,
+   "isSub": false,
+   "user": "゚゙゚゙゚帕琪",
+   "like": 77,
+   "ctime": 1793425629,
+   "firstSeen": "",
+   "content": "晝寢，画功goat",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "昼寝",
+     "written": "晝寢",
+     "note": "画功goat",
+     "rootNo": 7,
+     "isSub": false,
+     "user": "゚゙゚゙゚帕琪",
+     "rpid": 318738474049,
+     "like": 77
     }
    ],
    "workInfo": null,
@@ -15968,7 +15993,7 @@
   },
   {
    "rpid": 322421046848,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": false,
    "user": "里芙",
    "like": 76,
@@ -15981,35 +16006,10 @@
      "artist": "ラマンダ",
      "written": "ラマンダ老师",
      "note": "肉感十足，细节讲究，杂食",
-     "rootNo": 7,
+     "rootNo": 8,
      "isSub": false,
      "user": "里芙",
      "rpid": 322421046848,
-     "like": 76
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318738474049,
-   "rootNo": 8,
-   "isSub": false,
-   "user": "゚゙゚゙゚帕琪",
-   "like": 76,
-   "ctime": 1793425629,
-   "firstSeen": "",
-   "content": "晝寢，画功goat",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "昼寝",
-     "written": "晝寢",
-     "note": "画功goat",
-     "rootNo": 8,
-     "isSub": false,
-     "user": "゚゙゚゙゚帕琪",
-     "rpid": 318738474049,
      "like": 76
     }
    ],
@@ -16021,7 +16021,7 @@
    "rootNo": 9,
    "isSub": false,
    "user": "Syberiumance",
-   "like": 67,
+   "like": 68,
    "ctime": 1793387480,
    "firstSeen": "",
    "content": "牛哥一嗓子把だにまる 半年多没更新的小号喊出来了",
@@ -16035,7 +16035,7 @@
      "isSub": false,
      "user": "Syberiumance",
      "rpid": 318700509649,
-     "like": 67
+     "like": 68
     }
    ],
    "workInfo": null,
@@ -17267,8 +17267,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318681891249,
+   "rpid": 322780142240,
    "rootNo": 38,
+   "isSub": false,
+   "user": "Gabriel_ovo",
+   "like": 7,
+   "ctime": 1793678232,
+   "firstSeen": "2026-11-03 12:00:02",
+   "content": "师走之翁，剧情脑洞太无敌了",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "师走之翁",
+     "note": "剧情脑洞太无敌了",
+     "rootNo": 38,
+     "isSub": false,
+     "user": "Gabriel_ovo",
+     "rpid": 322780142240,
+     "like": 7
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318681891249,
+   "rootNo": 39,
    "isSub": false,
    "user": "背手比耶",
    "like": 6,
@@ -17281,7 +17306,7 @@
      "artist": "銀曜ハル",
      "written": "银曜ハル",
      "note": "从小看到大",
-     "rootNo": 38,
+     "rootNo": 39,
      "isSub": false,
      "user": "背手比耶",
      "rpid": 318681891249,
@@ -17293,7 +17318,7 @@
   },
   {
    "rpid": 318698605105,
-   "rootNo": 39,
+   "rootNo": 40,
    "isSub": false,
    "user": "灬Shiro",
    "like": 6,
@@ -17306,7 +17331,7 @@
      "artist": "ホムンクルス",
      "written": "ホムンクルス",
      "note": "纯爱的神，眼神刻画深刻",
-     "rootNo": 39,
+     "rootNo": 40,
      "isSub": false,
      "user": "灬Shiro",
      "rpid": 318698605105,
@@ -17318,7 +17343,7 @@
   },
   {
    "rpid": 318709104193,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": false,
    "user": "仰望·半月",
    "like": 6,
@@ -17332,7 +17357,7 @@
   },
   {
    "rpid": 322457671904,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": false,
    "user": "--邱--",
    "like": 6,
@@ -17341,31 +17366,6 @@
    "content": "这评论区不赖[汤圆]",
    "category": "chat",
    "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322780142240,
-   "rootNo": 42,
-   "isSub": false,
-   "user": "Gabriel_ovo",
-   "like": 6,
-   "ctime": 1793678232,
-   "firstSeen": "2026-11-03 12:00:02",
-   "content": "师走之翁，剧情脑洞太无敌了",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "師走の翁",
-     "written": "师走之翁",
-     "note": "剧情脑洞太无敌了",
-     "rootNo": 42,
-     "isSub": false,
-     "user": "Gabriel_ovo",
-     "rpid": 322780142240,
-     "like": 6
-    }
-   ],
    "workInfo": null,
    "rootUser": ""
   },
@@ -29281,7 +29281,7 @@
   },
   {
    "rpid": 322414288544,
-   "rootNo": 39,
+   "rootNo": 40,
    "isSub": true,
    "user": "mopangou",
    "like": 0,
@@ -29294,7 +29294,7 @@
      "artist": "ホムンクルス",
      "written": "人造人老师",
      "note": "",
-     "rootNo": 39,
+     "rootNo": 40,
      "isSub": true,
      "user": "mopangou",
      "rpid": 322414288544,
@@ -29629,7 +29629,7 @@
    "rootNo": 11,
    "isSub": true,
    "user": "゙河城荷取",
-   "like": 20,
+   "like": 22,
    "ctime": 1793389893,
    "firstSeen": "",
    "content": "下面那个脸不是籽岷吗",
@@ -29842,7 +29842,7 @@
   },
   {
    "rpid": 318703103521,
-   "rootNo": 39,
+   "rootNo": 40,
    "isSub": true,
    "user": "ShorePeeker",
    "like": 0,
@@ -30288,7 +30288,7 @@
   },
   {
    "rpid": 318705907169,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": true,
    "user": "蜷缩RicoA",
    "like": 3,
@@ -30302,7 +30302,7 @@
   },
   {
    "rpid": 322421396784,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": true,
    "user": "嗝errr-",
    "like": 1,
@@ -31432,7 +31432,7 @@
   },
   {
    "rpid": 318712427617,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "直接写出解",
    "like": 0,
@@ -31445,7 +31445,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "画的确实夸张",
-     "rootNo": 40,
+     "rootNo": 41,
      "isSub": true,
      "user": "直接写出解",
      "rpid": 318712427617,
@@ -32097,7 +32097,7 @@
   },
   {
    "rpid": 318719270225,
-   "rootNo": 39,
+   "rootNo": 40,
    "isSub": true,
    "user": "神奇的malatang",
    "like": 0,
@@ -33635,7 +33635,7 @@
   },
   {
    "rpid": 318731651841,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "踉踉_跄",
    "like": 0,
@@ -33691,7 +33691,7 @@
   },
   {
    "rpid": 318733394465,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": true,
    "user": "新生の光",
    "like": 0,
@@ -33935,7 +33935,7 @@
   },
   {
    "rpid": 318738690849,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
    "like": 48,
@@ -34008,7 +34008,7 @@
   },
   {
    "rpid": 322457008352,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "咕囖咕囖",
    "like": 6,
@@ -34142,7 +34142,7 @@
   },
   {
    "rpid": 322461323472,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "XXUlsk",
    "like": 18,
@@ -34415,7 +34415,7 @@
   },
   {
    "rpid": 322465536112,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "是Zach哒",
    "like": 32,
@@ -34468,7 +34468,7 @@
   },
   {
    "rpid": 318751492993,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "多事春秋",
    "like": 1,
@@ -34574,7 +34574,7 @@
   },
   {
    "rpid": 322473083888,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "喂不饱的白狐",
    "like": 2,
@@ -34705,7 +34705,7 @@
   },
   {
    "rpid": 318758824513,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": true,
    "user": "夏萤入冬",
    "like": 0,
@@ -34835,7 +34835,7 @@
   },
   {
    "rpid": 322481158496,
-   "rootNo": 7,
+   "rootNo": 8,
    "isSub": true,
    "user": "MOMIJISAMA_",
    "like": 0,
@@ -36045,7 +36045,7 @@
   },
   {
    "rpid": 322527557584,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "不要叫我动漫宅",
    "like": 1,
@@ -36634,7 +36634,7 @@
   },
   {
    "rpid": 322554083648,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "尾刃账",
    "like": 0,
@@ -36825,7 +36825,7 @@
   },
   {
    "rpid": 318848677649,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "violetaaaaaaaaa",
    "like": 2,
@@ -36839,7 +36839,7 @@
   },
   {
    "rpid": 318851323329,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "霉霉子Official",
    "like": 0,
@@ -37824,7 +37824,7 @@
   },
   {
    "rpid": 318894394161,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "英梨梨errr",
    "like": 0,
@@ -38465,7 +38465,7 @@
   },
   {
    "rpid": 322681013360,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "吉隆坡气象学家",
    "like": 0,
@@ -38660,7 +38660,7 @@
   },
   {
    "rpid": 322708659088,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "莽苟",
    "like": 1,
@@ -39509,7 +39509,7 @@
   },
   {
    "rpid": 319119817345,
-   "rootNo": 42,
+   "rootNo": 38,
    "isSub": true,
    "user": "燕子我可不能么有你啊",
    "like": 1,
@@ -39637,7 +39637,7 @@
   },
   {
    "rpid": 319133640241,
-   "rootNo": 42,
+   "rootNo": 38,
    "isSub": true,
    "user": "拈剑挽雪",
    "like": 0,
@@ -39651,7 +39651,7 @@
   },
   {
    "rpid": 322869892512,
-   "rootNo": 42,
+   "rootNo": 38,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -39664,7 +39664,7 @@
      "artist": "師走の翁",
      "written": "師走の翁",
      "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
-     "rootNo": 42,
+     "rootNo": 38,
      "isSub": true,
      "user": "Gabriel_ovo",
      "rpid": 322869892512,
@@ -39676,7 +39676,7 @@
   },
   {
    "rpid": 322870506288,
-   "rootNo": 42,
+   "rootNo": 38,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40007,7 +40007,7 @@
   },
   {
    "rpid": 319181976257,
-   "rootNo": 42,
+   "rootNo": 38,
    "isSub": true,
    "user": "少抱怨多运动多努力",
    "like": 0,
@@ -40162,7 +40162,7 @@
   },
   {
    "rpid": 322968071616,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "沁_史克爾",
    "like": 0,
@@ -40176,7 +40176,7 @@
   },
   {
    "rpid": 319235134577,
-   "rootNo": 8,
+   "rootNo": 7,
    "isSub": true,
    "user": "霉霉子Official",
    "like": 0,
@@ -40254,6 +40254,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "アーサー魔法の派"
+  },
+  {
+   "rpid": 319250407713,
+   "rootNo": 23,
+   "isSub": true,
+   "user": "北辰辰北辰北辰",
+   "like": 0,
+   "ctime": 1793855923,
+   "firstSeen": "2026-11-05 14:00:01",
+   "content": "回复 @冬空实 :晓创圈[微笑]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "Toonsandwitch"
   }
  ]
 }
