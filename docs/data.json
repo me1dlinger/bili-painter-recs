@@ -9,25 +9,21 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 00:00:02",
+  "fetchedAt": "2026-11-06 01:00:02",
   "claimedReplyCount": 978,
   "rootCount": 254,
   "subCount": 738,
   "totalCount": 992,
   "update": {
-   "lastFetchAt": "2026-11-06 00:00:02",
+   "lastFetchAt": "2026-11-06 01:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 00:01:32",
+   "publishedAt": "2026-11-06 00:11:07",
    "delta": {
     "comments": 0,
-    "artists": 3,
-    "mentions": 3
+    "artists": 0,
+    "mentions": 0
    },
-   "newArtists": [
-    "东扇",
-    "望月",
-    "水影灯牌优酸乳供应商"
-   ],
+   "newArtists": [],
    "newWorks": []
   }
  },
@@ -1983,7 +1979,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 91,
+   "likes": 92,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2722,7 +2718,7 @@
    ],
    "mentions": 5,
    "users": 5,
-   "likes": 29,
+   "likes": 30,
    "lowConfidence": false,
    "notes": [
     "内向友人",
@@ -16112,7 +16108,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 428,
+   "like": 430,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -16319,7 +16315,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 82,
+   "like": 83,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16333,7 +16329,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 82
+     "like": 83
     }
    ],
    "workInfo": null,
@@ -17495,8 +17491,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318708680129,
+   "rpid": 318894600145,
    "rootNo": 34,
+   "isSub": false,
+   "user": "归虚_梦演",
+   "like": 9,
+   "ctime": 1793535244,
+   "firstSeen": "",
+   "content": "dojiro老师的这本，神中之神。很难想象这样情感丰富，青涩，纯真，感情丰富大胆，人物立体真实的作品会是本子[局长的教育手册静态表情包_好耶]",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "どじろー",
+     "written": "dojiro",
+     "note": "神中之神；情感丰富、青涩纯真、人物立体真实",
+     "rootNo": 34,
+     "isSub": false,
+     "user": "归虚_梦演",
+     "rpid": 318894600145,
+     "like": 9
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318708680129,
+   "rootNo": 35,
    "isSub": false,
    "user": "海绵宝宝霸王丝儿",
    "like": 8,
@@ -17509,7 +17530,7 @@
      "artist": "腐蝕",
      "written": "腐蚀",
      "note": "",
-     "rootNo": 34,
+     "rootNo": 35,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17519,7 +17540,7 @@
      "artist": "肉棒魔羅ノ進",
      "written": "肉○魔罗",
      "note": "原文用○遮挡",
-     "rootNo": 34,
+     "rootNo": 35,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17529,35 +17550,10 @@
      "artist": "織田non",
      "written": "织田non",
      "note": "",
-     "rootNo": 34,
+     "rootNo": 35,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
-     "like": 8
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318894600145,
-   "rootNo": 35,
-   "isSub": false,
-   "user": "归虚_梦演",
-   "like": 8,
-   "ctime": 1793535244,
-   "firstSeen": "",
-   "content": "dojiro老师的这本，神中之神。很难想象这样情感丰富，青涩，纯真，感情丰富大胆，人物立体真实的作品会是本子[局长的教育手册静态表情包_好耶]",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "どじろー",
-     "written": "dojiro",
-     "note": "神中之神；情感丰富、青涩纯真、人物立体真实",
-     "rootNo": 35,
-     "isSub": false,
-     "user": "归虚_梦演",
-     "rpid": 318894600145,
      "like": 8
     }
    ],
@@ -34426,7 +34422,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 49,
+   "like": 50,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -34906,7 +34902,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 34,
+   "like": 35,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -34942,7 +34938,7 @@
   },
   {
    "rpid": 322466615200,
-   "rootNo": 34,
+   "rootNo": 35,
    "isSub": true,
    "user": "是二个人",
    "like": 0,
@@ -35599,7 +35595,7 @@
   },
   {
    "rpid": 318773910017,
-   "rootNo": 34,
+   "rootNo": 35,
    "isSub": true,
    "user": "海绵宝宝霸王丝儿",
    "like": 0,
@@ -35612,7 +35608,7 @@
      "artist": "まめおじたん",
      "written": "mameojitan",
      "note": "旷世巨作：Knospenmädchen",
-     "rootNo": 34,
+     "rootNo": 35,
      "isSub": true,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318773910017,
