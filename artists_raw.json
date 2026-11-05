@@ -11,7 +11,7 @@
   ],
   "mentions": 20,
   "users": 18,
-  "likes": 318,
+  "likes": 319,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -261,11 +261,11 @@
     "artist": "鳥居ヨシツナ",
     "written": "鸟居ヨシツナ",
     "note": "",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -1743,7 +1743,7 @@
   ],
   "mentions": 13,
   "users": 12,
-  "likes": 209,
+  "likes": 210,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1924,11 +1924,11 @@
     "artist": "だにまる",
     "written": "だにまる",
     "note": "视频里的",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    },
    {
     "artist": "だにまる",
@@ -6796,7 +6796,7 @@
   ],
   "mentions": 3,
   "users": 3,
-  "likes": 24,
+  "likes": 25,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6837,11 +6837,11 @@
     "artist": "92m",
     "written": "92m",
     "note": "",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    },
    {
     "artist": "92m",
@@ -9702,7 +9702,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 26,
+  "likes": 27,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9726,11 +9726,11 @@
     "artist": "じゃが山たらヲ",
     "written": "じゃが山たらヲ",
     "note": "",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    },
    {
     "artist": "じゃが山たらヲ",
@@ -12365,7 +12365,7 @@
     "artist": "黒青郎君",
     "written": "黒青郎君",
     "note": "百华庄、永世流转系列，国风本子巅峰",
-    "rootNo": 20,
+    "rootNo": 21,
     "isSub": false,
     "user": "我永远喜欢東山奈央",
     "rpid": 322419990320,
@@ -12375,7 +12375,7 @@
     "artist": "黒青郎君",
     "written": "黑青郎君",
     "note": "永远娘系列",
-    "rootNo": 20,
+    "rootNo": 21,
     "isSub": true,
     "user": "暴食-波奇Q",
     "rpid": 322436157120,
@@ -12815,7 +12815,7 @@
     "artist": "360 (コナ)",
     "written": "360 (コナ)",
     "note": "原文为社团+作者写法，是否画师不确定",
-    "rootNo": 20,
+    "rootNo": 21,
     "isSub": true,
     "user": "゚牧野神奈",
     "rpid": 322593988000,
@@ -19382,7 +19382,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 23,
+  "likes": 24,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -19399,11 +19399,11 @@
     "artist": "フグタ家",
     "written": "フグタ家",
     "note": "",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    }
   ]
  },
@@ -20626,7 +20626,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 23,
+  "likes": 24,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -20643,11 +20643,11 @@
     "artist": "咲良ゆき",
     "written": "咲良ゆき",
     "note": "",
-    "rootNo": 21,
+    "rootNo": 20,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 23
+    "like": 24
    }
   ]
  },

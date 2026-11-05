@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 09:00:02",
+  "fetchedAt": "2026-11-05 10:00:03",
   "claimedReplyCount": 955,
   "rootCount": 249,
   "subCount": 720,
   "totalCount": 969,
   "update": {
-   "lastFetchAt": "2026-11-05 09:00:02",
-   "lastFetchNew": 3,
-   "publishedAt": "2026-11-05 08:01:30",
+   "lastFetchAt": "2026-11-05 10:00:03",
+   "lastFetchNew": 0,
+   "publishedAt": "2026-11-05 09:01:30",
    "delta": {
-    "comments": 3,
+    "comments": 0,
     "artists": 0,
     "mentions": 0
    },
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 318,
+   "likes": 319,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 209,
+   "likes": 210,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -3773,7 +3773,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 24,
+   "likes": 25,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -5529,7 +5529,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 26,
+   "likes": 27,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -11899,7 +11899,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 23,
+   "likes": 24,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12740,7 +12740,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 23,
+   "likes": 24,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -16359,8 +16359,83 @@
    "rootUser": ""
   },
   {
-   "rpid": 322419990320,
+   "rpid": 322616341040,
    "rootNo": 20,
+   "isSub": false,
+   "user": "狗卡世界第一",
+   "like": 24,
+   "ctime": 1793534081,
+   "firstSeen": "",
+   "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "鳥居ヨシツナ",
+     "written": "鸟居ヨシツナ",
+     "note": "",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    },
+    {
+     "artist": "フグタ家",
+     "written": "フグタ家",
+     "note": "",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    },
+    {
+     "artist": "じゃが山たらヲ",
+     "written": "じゃが山たらヲ",
+     "note": "",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    },
+    {
+     "artist": "だにまる",
+     "written": "だにまる",
+     "note": "视频里的",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    },
+    {
+     "artist": "咲良ゆき",
+     "written": "咲良ゆき",
+     "note": "",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    },
+    {
+     "artist": "92m",
+     "written": "92m",
+     "note": "",
+     "rootNo": 20,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 24
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322419990320,
+   "rootNo": 21,
    "isSub": false,
    "user": "我永远喜欢東山奈央",
    "like": 23,
@@ -16373,85 +16448,10 @@
      "artist": "黒青郎君",
      "written": "黒青郎君",
      "note": "百华庄、永世流转系列，国风本子巅峰",
-     "rootNo": 20,
+     "rootNo": 21,
      "isSub": false,
      "user": "我永远喜欢東山奈央",
      "rpid": 322419990320,
-     "like": 23
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322616341040,
-   "rootNo": 21,
-   "isSub": false,
-   "user": "狗卡世界第一",
-   "like": 23,
-   "ctime": 1793534081,
-   "firstSeen": "",
-   "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "鳥居ヨシツナ",
-     "written": "鸟居ヨシツナ",
-     "note": "",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 23
-    },
-    {
-     "artist": "フグタ家",
-     "written": "フグタ家",
-     "note": "",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 23
-    },
-    {
-     "artist": "じゃが山たらヲ",
-     "written": "じゃが山たらヲ",
-     "note": "",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 23
-    },
-    {
-     "artist": "だにまる",
-     "written": "だにまる",
-     "note": "视频里的",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 23
-    },
-    {
-     "artist": "咲良ゆき",
-     "written": "咲良ゆき",
-     "note": "",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 23
-    },
-    {
-     "artist": "92m",
-     "written": "92m",
-     "note": "",
-     "rootNo": 21,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
      "like": 23
     }
    ],
@@ -31013,7 +31013,7 @@
   },
   {
    "rpid": 322426148336,
-   "rootNo": 20,
+   "rootNo": 21,
    "isSub": true,
    "user": "变成光守护橙汁啤酒",
    "like": 1,
@@ -32196,7 +32196,7 @@
   },
   {
    "rpid": 322436157120,
-   "rootNo": 20,
+   "rootNo": 21,
    "isSub": true,
    "user": "暴食-波奇Q",
    "like": 2,
@@ -32209,7 +32209,7 @@
      "artist": "黒青郎君",
      "written": "黑青郎君",
      "note": "永远娘系列",
-     "rootNo": 20,
+     "rootNo": 21,
      "isSub": true,
      "user": "暴食-波奇Q",
      "rpid": 322436157120,
@@ -37226,7 +37226,7 @@
   },
   {
    "rpid": 322593988000,
-   "rootNo": 20,
+   "rootNo": 21,
    "isSub": true,
    "user": "゚牧野神奈",
    "like": 0,
@@ -37239,7 +37239,7 @@
      "artist": "360 (コナ)",
      "written": "360 (コナ)",
      "note": "原文为社团+作者写法，是否画师不确定",
-     "rootNo": 20,
+     "rootNo": 21,
      "isSub": true,
      "user": "゚牧野神奈",
      "rpid": 322593988000,
