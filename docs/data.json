@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 19:00:02",
-  "claimedReplyCount": 973,
+  "fetchedAt": "2026-11-05 20:00:02",
+  "claimedReplyCount": 974,
   "rootCount": 253,
-  "subCount": 734,
-  "totalCount": 987,
+  "subCount": 735,
+  "totalCount": 988,
   "update": {
-   "lastFetchAt": "2026-11-05 19:00:02",
+   "lastFetchAt": "2026-11-05 20:00:02",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-05 18:01:32",
+   "publishedAt": "2026-11-05 19:01:33",
    "delta": {
     "comments": 1,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -30,13 +30,13 @@
  "stats": {
   "categories": {
    "chat": 366,
-   "artist_rec": 570,
+   "artist_rec": 571,
    "work_only": 13,
    "ask": 22,
    "empty": 16
   },
   "artistCount": 567,
-  "mentionCount": 1026
+  "mentionCount": 1027
  },
  "artists": [
   {
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 323,
+   "likes": 324,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 213,
+   "likes": 214,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -1070,6 +1070,124 @@
      "isSub": true,
      "written": "丹莫拉",
      "context": "",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "name": "腐蝕",
+   "aliases": [
+    "腐蚀",
+    "腐蚀老师"
+   ],
+   "mentions": 12,
+   "users": 12,
+   "likes": 16,
+   "lowConfidence": false,
+   "notes": [
+    "假小子",
+    "好像上岸了",
+    "毋庸置疑，假门",
+    "这位纯假小子的",
+    "看的好看的本子画师几乎全进备忘录了",
+    "上岸了",
+    "点名推荐，未附评价"
+   ],
+   "evidence": [
+    {
+     "rpid": 322479024144,
+     "commenter": "萧萧暮贤",
+     "isSub": true,
+     "written": "腐蚀",
+     "context": "",
+     "note": "假小子"
+    },
+    {
+     "rpid": 318718009825,
+     "commenter": "貳仟2000",
+     "isSub": true,
+     "written": "腐蚀",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318755990369,
+     "commenter": "丁丁又又真真",
+     "isSub": true,
+     "written": "腐蚀老师",
+     "context": "",
+     "note": "好像上岸了"
+    },
+    {
+     "rpid": 318708680129,
+     "commenter": "海绵宝宝霸王丝儿",
+     "isSub": false,
+     "written": "腐蚀",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322436088656,
+     "commenter": "哈基生物蝗",
+     "isSub": false,
+     "written": "腐蚀",
+     "context": "",
+     "note": "毋庸置疑，假门"
+    },
+    {
+     "rpid": 318704333777,
+     "commenter": "DangerOfPerson",
+     "isSub": false,
+     "written": "腐蚀",
+     "context": "",
+     "note": "这位纯假小子的"
+    },
+    {
+     "rpid": 322398034032,
+     "commenter": "布拉缇娜",
+     "isSub": false,
+     "written": "腐蚀",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318765839857,
+     "commenter": "荻秋秋秋邱",
+     "isSub": false,
+     "written": "腐蝕",
+     "context": "",
+     "note": "看的好看的本子画师几乎全进备忘录了"
+    },
+    {
+     "rpid": 318700284129,
+     "commenter": "正直肥宅",
+     "isSub": true,
+     "written": "腐蚀",
+     "context": "",
+     "note": "上岸了"
+    },
+    {
+     "rpid": 322423651024,
+     "commenter": "悠然自得随和-",
+     "isSub": true,
+     "written": "腐蚀",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322894521696,
+     "commenter": "圆子菌KTS3",
+     "isSub": true,
+     "written": "腐蝕",
+     "context": "",
+     "note": "点名推荐，未附评价"
+    },
+    {
+     "rpid": 323026402992,
+     "commenter": "蓝晴轩逸",
+     "isSub": true,
+     "written": "腐蝕",
+     "context": "自动匹配 · 待复核",
      "note": ""
     }
    ]
@@ -1196,116 +1314,6 @@
      "written": "roubang魔罗进",
      "context": "",
      "note": "拼音+简体写法点名"
-    }
-   ]
-  },
-  {
-   "name": "腐蝕",
-   "aliases": [
-    "腐蚀",
-    "腐蚀老师"
-   ],
-   "mentions": 11,
-   "users": 11,
-   "likes": 16,
-   "lowConfidence": false,
-   "notes": [
-    "假小子",
-    "好像上岸了",
-    "毋庸置疑，假门",
-    "这位纯假小子的",
-    "看的好看的本子画师几乎全进备忘录了",
-    "上岸了",
-    "点名推荐，未附评价"
-   ],
-   "evidence": [
-    {
-     "rpid": 322479024144,
-     "commenter": "萧萧暮贤",
-     "isSub": true,
-     "written": "腐蚀",
-     "context": "",
-     "note": "假小子"
-    },
-    {
-     "rpid": 318718009825,
-     "commenter": "貳仟2000",
-     "isSub": true,
-     "written": "腐蚀",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318755990369,
-     "commenter": "丁丁又又真真",
-     "isSub": true,
-     "written": "腐蚀老师",
-     "context": "",
-     "note": "好像上岸了"
-    },
-    {
-     "rpid": 318708680129,
-     "commenter": "海绵宝宝霸王丝儿",
-     "isSub": false,
-     "written": "腐蚀",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322436088656,
-     "commenter": "哈基生物蝗",
-     "isSub": false,
-     "written": "腐蚀",
-     "context": "",
-     "note": "毋庸置疑，假门"
-    },
-    {
-     "rpid": 318704333777,
-     "commenter": "DangerOfPerson",
-     "isSub": false,
-     "written": "腐蚀",
-     "context": "",
-     "note": "这位纯假小子的"
-    },
-    {
-     "rpid": 322398034032,
-     "commenter": "布拉缇娜",
-     "isSub": false,
-     "written": "腐蚀",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318765839857,
-     "commenter": "荻秋秋秋邱",
-     "isSub": false,
-     "written": "腐蝕",
-     "context": "",
-     "note": "看的好看的本子画师几乎全进备忘录了"
-    },
-    {
-     "rpid": 318700284129,
-     "commenter": "正直肥宅",
-     "isSub": true,
-     "written": "腐蚀",
-     "context": "",
-     "note": "上岸了"
-    },
-    {
-     "rpid": 322423651024,
-     "commenter": "悠然自得随和-",
-     "isSub": true,
-     "written": "腐蚀",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322894521696,
-     "commenter": "圆子菌KTS3",
-     "isSub": true,
-     "written": "腐蝕",
-     "context": "",
-     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -2920,7 +2928,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 11,
+   "likes": 12,
    "lowConfidence": false,
    "notes": [
     "剧情脑洞太无敌了",
@@ -3853,7 +3861,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 26,
+   "likes": 27,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -5609,7 +5617,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 28,
+   "likes": 29,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -6860,7 +6868,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 122,
+   "likes": 123,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -11981,7 +11989,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 25,
+   "likes": 26,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12843,7 +12851,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 25,
+   "likes": 26,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -16180,7 +16188,7 @@
    "rootNo": 10,
    "isSub": false,
    "user": "鸽书常",
-   "like": 65,
+   "like": 66,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -16402,7 +16410,7 @@
    "rootNo": 14,
    "isSub": false,
    "user": "不平等云雾",
-   "like": 43,
+   "like": 44,
    "ctime": 1793542679,
    "firstSeen": "2026-11-01 22:21:18",
    "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
@@ -16504,7 +16512,7 @@
    "rootNo": 19,
    "isSub": false,
    "user": "狗卡世界第一",
-   "like": 25,
+   "like": 26,
    "ctime": 1793534081,
    "firstSeen": "",
    "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
@@ -16518,7 +16526,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     },
     {
      "artist": "フグタ家",
@@ -16528,7 +16536,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     },
     {
      "artist": "じゃが山たらヲ",
@@ -16538,7 +16546,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     },
     {
      "artist": "だにまる",
@@ -16548,7 +16556,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     },
     {
      "artist": "咲良ゆき",
@@ -16558,7 +16566,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     },
     {
      "artist": "92m",
@@ -16568,7 +16576,7 @@
      "isSub": false,
      "user": "狗卡世界第一",
      "rpid": 322616341040,
-     "like": 25
+     "like": 26
     }
    ],
    "workInfo": null,
@@ -17351,8 +17359,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 322799332000,
+   "rpid": 322780142240,
    "rootNo": 36,
+   "isSub": false,
+   "user": "Gabriel_ovo",
+   "like": 8,
+   "ctime": 1793678232,
+   "firstSeen": "2026-11-03 12:00:02",
+   "content": "师走之翁，剧情脑洞太无敌了",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "师走之翁",
+     "note": "剧情脑洞太无敌了",
+     "rootNo": 36,
+     "isSub": false,
+     "user": "Gabriel_ovo",
+     "rpid": 322780142240,
+     "like": 8
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322799332000,
+   "rootNo": 37,
    "isSub": false,
    "user": "DERTF",
    "like": 8,
@@ -17365,7 +17398,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "画里有怨念的来了",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "DERTF",
      "rpid": 322799332000,
@@ -17377,7 +17410,7 @@
   },
   {
    "rpid": 318670706833,
-   "rootNo": 37,
+   "rootNo": 38,
    "isSub": false,
    "user": "五十斤土块",
    "like": 7,
@@ -17390,35 +17423,10 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐",
      "note": "老作品，艾姬多娜地牢",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": false,
      "user": "五十斤土块",
      "rpid": 318670706833,
-     "like": 7
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322780142240,
-   "rootNo": 38,
-   "isSub": false,
-   "user": "Gabriel_ovo",
-   "like": 7,
-   "ctime": 1793678232,
-   "firstSeen": "2026-11-03 12:00:02",
-   "content": "师走之翁，剧情脑洞太无敌了",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "師走の翁",
-     "written": "师走之翁",
-     "note": "剧情脑洞太无敌了",
-     "rootNo": 38,
-     "isSub": false,
-     "user": "Gabriel_ovo",
-     "rpid": 322780142240,
      "like": 7
     }
    ],
@@ -24877,7 +24885,7 @@
   },
   {
    "rpid": 322383869904,
-   "rootNo": 37,
+   "rootNo": 38,
    "isSub": true,
    "user": "誓词ぁ",
    "like": 1,
@@ -25011,7 +25019,7 @@
   },
   {
    "rpid": 318673196753,
-   "rootNo": 37,
+   "rootNo": 38,
    "isSub": true,
    "user": "酋长咱别玩了",
    "like": 0,
@@ -25024,7 +25032,7 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐老师",
      "note": "魔物娘确实好",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -25034,7 +25042,7 @@
      "artist": "messy",
      "written": "messy老师",
      "note": "画面细腻温润，扶她",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -25452,7 +25460,7 @@
    "rootNo": 5,
    "isSub": true,
    "user": "O白鸥o",
-   "like": 7,
+   "like": 8,
    "ctime": 1793369440,
    "firstSeen": "",
    "content": "米山舞的色彩和光影确实永远让人眼前一亮啊[汤圆]",
@@ -25466,7 +25474,7 @@
      "isSub": true,
      "user": "O白鸥o",
      "rpid": 318677534721,
-     "like": 7
+     "like": 8
     }
    ],
    "workInfo": null,
@@ -25910,7 +25918,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "五十斤土块",
-   "like": 7,
+   "like": 8,
    "ctime": 1793370563,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "我真得置顶这个评论了[doge_金箍]",
@@ -32025,7 +32033,7 @@
    "rootNo": 62,
    "isSub": true,
    "user": "如此易碎的日常",
-   "like": 1,
+   "like": 2,
    "ctime": 1793413368,
    "firstSeen": "",
    "content": "岁数大了",
@@ -34451,7 +34459,7 @@
    "rootNo": 62,
    "isSub": true,
    "user": "沐辰Ofiice",
-   "like": 3,
+   "like": 4,
    "ctime": 1793430659,
    "firstSeen": "",
    "content": "要换着来，二次元三次元，图像的视频的，还有游戏类的，视频可以看日本的欧美的（不喜欢看真人欧美就看二次元欧美3D）",
@@ -38311,7 +38319,7 @@
    "rootNo": 62,
    "isSub": true,
    "user": "滑稽吊吊",
-   "like": 0,
+   "like": 1,
    "ctime": 1793554954,
    "firstSeen": "2026-11-02 06:25:09",
    "content": "你不懂荤素搭配这一块",
@@ -38501,7 +38509,7 @@
    "rootNo": 62,
    "isSub": true,
    "user": "机械の泪",
-   "like": 0,
+   "like": 1,
    "ctime": 1793587209,
    "firstSeen": "2026-11-02 22:00:02",
    "content": "去看点三次元拉低阈值，再回来看你会发现本子怎么这么好看",
@@ -39380,7 +39388,7 @@
   },
   {
    "rpid": 322807839984,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "忆彡殇",
    "like": 0,
@@ -39419,7 +39427,7 @@
   },
   {
    "rpid": 322809270672,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -39432,7 +39440,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "著名的侍奉委员那本",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322809270672,
@@ -39698,7 +39706,7 @@
   },
   {
    "rpid": 319119817345,
-   "rootNo": 38,
+   "rootNo": 36,
    "isSub": true,
    "user": "燕子我可不能么有你啊",
    "like": 1,
@@ -39826,7 +39834,7 @@
   },
   {
    "rpid": 319133640241,
-   "rootNo": 38,
+   "rootNo": 36,
    "isSub": true,
    "user": "拈剑挽雪",
    "like": 0,
@@ -39840,7 +39848,7 @@
   },
   {
    "rpid": 322869892512,
-   "rootNo": 38,
+   "rootNo": 36,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -39853,7 +39861,7 @@
      "artist": "師走の翁",
      "written": "師走の翁",
      "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
-     "rootNo": 38,
+     "rootNo": 36,
      "isSub": true,
      "user": "Gabriel_ovo",
      "rpid": 322869892512,
@@ -39865,7 +39873,7 @@
   },
   {
    "rpid": 322870506288,
-   "rootNo": 38,
+   "rootNo": 36,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40196,7 +40204,7 @@
   },
   {
    "rpid": 319181976257,
-   "rootNo": 38,
+   "rootNo": 36,
    "isSub": true,
    "user": "少抱怨多运动多努力",
    "like": 0,
@@ -40259,7 +40267,7 @@
   },
   {
    "rpid": 322929331728,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "zoezzzi",
    "like": 0,
@@ -40312,7 +40320,7 @@
   },
   {
    "rpid": 322947834544,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -40325,7 +40333,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "在本子画师里面可以说是最顶的一批人之一了",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322947834544,
@@ -40610,6 +40618,31 @@
    "content": "ナビエ遥か2T，现在有点微妙但是前几年画的夯爆了。",
    "category": "chat",
    "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 323026402992,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "蓝晴轩逸",
+   "like": 0,
+   "ctime": 1793879712,
+   "firstSeen": "2026-11-05 20:00:02",
+   "content": "腐蚀",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "腐蝕",
+     "written": "腐蝕",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "蓝晴轩逸",
+     "rpid": 323026402992,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   }
