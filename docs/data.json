@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 03:00:02",
-  "claimedReplyCount": 978,
-  "rootCount": 254,
-  "subCount": 738,
-  "totalCount": 992,
+  "fetchedAt": "2026-11-06 04:00:02",
+  "claimedReplyCount": 980,
+  "rootCount": 255,
+  "subCount": 739,
+  "totalCount": 994,
   "update": {
-   "lastFetchAt": "2026-11-06 03:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 02:01:33",
+   "lastFetchAt": "2026-11-06 04:00:02",
+   "lastFetchNew": 2,
+   "publishedAt": "2026-11-06 03:01:33",
    "delta": {
-    "comments": 0,
+    "comments": 2,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 367,
+   "chat": 369,
    "artist_rec": 575,
    "work_only": 13,
    "ask": 21,
@@ -1979,7 +1979,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 93,
+   "likes": 94,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -16315,7 +16315,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 84,
+   "like": 85,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16329,7 +16329,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 84
+     "like": 85
     }
    ],
    "workInfo": null,
@@ -25167,6 +25167,20 @@
      "like": 0
     }
    ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 319318226353,
+   "rootNo": 255,
+   "isSub": false,
+   "user": "Monsterkid50",
+   "like": 0,
+   "ctime": 1793906283,
+   "firstSeen": "2026-11-06 04:00:02",
+   "content": "メメ50，有懂得吗，这位是我看画工和风格最扎实的",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
@@ -37312,7 +37326,7 @@
    "rootNo": 7,
    "isSub": true,
    "user": "violetaaaaaaaaa",
-   "like": 5,
+   "like": 6,
    "ctime": 1793508414,
    "firstSeen": "",
    "content": "这个真是本子界三浦，最尊重女性之人[大笑]",
@@ -41037,6 +41051,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "不平等云雾"
+  },
+  {
+   "rpid": 319318261985,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "Monsterkid50",
+   "like": 0,
+   "ctime": 1793906213,
+   "firstSeen": "2026-11-06 04:00:02",
+   "content": "メメ50",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
   }
  ]
 }
