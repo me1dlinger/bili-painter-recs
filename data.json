@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 17:00:02",
-  "claimedReplyCount": 970,
+  "fetchedAt": "2026-11-05 18:00:01",
+  "claimedReplyCount": 972,
   "rootCount": 253,
-  "subCount": 731,
-  "totalCount": 984,
+  "subCount": 733,
+  "totalCount": 986,
   "update": {
-   "lastFetchAt": "2026-11-05 17:00:02",
-   "lastFetchNew": 4,
-   "publishedAt": "2026-11-05 16:14:40",
+   "lastFetchAt": "2026-11-05 18:00:01",
+   "lastFetchNew": 2,
+   "publishedAt": "2026-11-05 17:01:32",
    "delta": {
-    "comments": 4,
+    "comments": 2,
     "artists": 0,
-    "mentions": 2
+    "mentions": 0
    },
    "newArtists": [],
    "newWorks": []
@@ -29,11 +29,11 @@
  },
  "stats": {
   "categories": {
-   "chat": 364,
+   "chat": 365,
    "artist_rec": 570,
    "work_only": 13,
    "ask": 22,
-   "empty": 15
+   "empty": 16
   },
   "artistCount": 567,
   "mentionCount": 1026
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 321,
+   "likes": 323,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 212,
+   "likes": 213,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -1865,7 +1865,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 88,
+   "likes": 89,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -3853,7 +3853,7 @@
    ],
    "mentions": 3,
    "users": 3,
-   "likes": 25,
+   "likes": 26,
    "lowConfidence": false,
    "notes": [
     "很喜欢",
@@ -5609,7 +5609,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 27,
+   "likes": 28,
    "lowConfidence": false,
    "notes": [
     "长名单其中一位"
@@ -11981,7 +11981,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 24,
+   "likes": 25,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12843,7 +12843,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 24,
+   "likes": 25,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15912,7 +15912,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 157,
+   "like": 158,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -15926,7 +15926,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 157
+     "like": 158
     }
    ],
    "workInfo": null,
@@ -16105,7 +16105,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 79,
+   "like": 80,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16119,7 +16119,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 79
+     "like": 80
     }
    ],
    "workInfo": null,
@@ -16180,7 +16180,7 @@
    "rootNo": 10,
    "isSub": false,
    "user": "鸽书常",
-   "like": 64,
+   "like": 65,
    "ctime": 1793460297,
    "firstSeen": "",
    "content": "我真得收藏这个视频了",
@@ -16500,8 +16500,83 @@
    "rootUser": ""
   },
   {
-   "rpid": 322387191376,
+   "rpid": 322616341040,
    "rootNo": 19,
+   "isSub": false,
+   "user": "狗卡世界第一",
+   "like": 25,
+   "ctime": 1793534081,
+   "firstSeen": "",
+   "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "鳥居ヨシツナ",
+     "written": "鸟居ヨシツナ",
+     "note": "",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    },
+    {
+     "artist": "フグタ家",
+     "written": "フグタ家",
+     "note": "",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    },
+    {
+     "artist": "じゃが山たらヲ",
+     "written": "じゃが山たらヲ",
+     "note": "",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    },
+    {
+     "artist": "だにまる",
+     "written": "だにまる",
+     "note": "视频里的",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    },
+    {
+     "artist": "咲良ゆき",
+     "written": "咲良ゆき",
+     "note": "",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    },
+    {
+     "artist": "92m",
+     "written": "92m",
+     "note": "",
+     "rootNo": 19,
+     "isSub": false,
+     "user": "狗卡世界第一",
+     "rpid": 322616341040,
+     "like": 25
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322387191376,
+   "rootNo": 20,
    "isSub": false,
    "user": "Parzival-__-",
    "like": 24,
@@ -16514,85 +16589,10 @@
      "artist": "あるぷ",
      "written": "あるぷ",
      "note": "神中神",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": false,
      "user": "Parzival-__-",
      "rpid": 322387191376,
-     "like": 24
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322616341040,
-   "rootNo": 20,
-   "isSub": false,
-   "user": "狗卡世界第一",
-   "like": 24,
-   "ctime": 1793534081,
-   "firstSeen": "",
-   "content": "鸟居ヨシツナ\nフグタ家\nじゃが山たらヲ\nだにまる（视频里的）\n咲良ゆき\n92m",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "鳥居ヨシツナ",
-     "written": "鸟居ヨシツナ",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 24
-    },
-    {
-     "artist": "フグタ家",
-     "written": "フグタ家",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 24
-    },
-    {
-     "artist": "じゃが山たらヲ",
-     "written": "じゃが山たらヲ",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 24
-    },
-    {
-     "artist": "だにまる",
-     "written": "だにまる",
-     "note": "视频里的",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 24
-    },
-    {
-     "artist": "咲良ゆき",
-     "written": "咲良ゆき",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
-     "like": 24
-    },
-    {
-     "artist": "92m",
-     "written": "92m",
-     "note": "",
-     "rootNo": 20,
-     "isSub": false,
-     "user": "狗卡世界第一",
-     "rpid": 322616341040,
      "like": 24
     }
    ],
@@ -25921,7 +25921,7 @@
   },
   {
    "rpid": 318679498833,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "Rhozxky",
    "like": 1,
@@ -26659,7 +26659,7 @@
   },
   {
    "rpid": 318682850705,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "花斯特卷卷",
    "like": 0,
@@ -26672,7 +26672,7 @@
      "artist": "三芳",
      "written": "三芳",
      "note": "神中神",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "花斯特卷卷",
      "rpid": 318682850705,
@@ -27316,7 +27316,7 @@
   },
   {
    "rpid": 322398041136,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "关于我不知叫啥那件事",
    "like": 0,
@@ -28961,7 +28961,7 @@
   },
   {
    "rpid": 318695984657,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "头疼菌",
    "like": 2,
@@ -33318,7 +33318,7 @@
   },
   {
    "rpid": 322440603664,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "ktv1025",
    "like": 0,
@@ -33331,7 +33331,7 @@
      "artist": "あるぷ",
      "written": "apl",
      "note": "无敌了",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664,
@@ -33341,7 +33341,7 @@
      "artist": "立花",
      "written": "立花",
      "note": "",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664,
@@ -33351,7 +33351,7 @@
      "artist": "赤月屋",
      "written": "赤月",
      "note": "",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664,
@@ -33361,7 +33361,7 @@
      "artist": "kakao",
      "written": "kakao",
      "note": "",
-     "rootNo": 19,
+     "rootNo": 20,
      "isSub": true,
      "user": "ktv1025",
      "rpid": 322440603664,
@@ -38027,7 +38027,7 @@
   },
   {
    "rpid": 318896229905,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "归虚_梦演",
    "like": 0,
@@ -38760,7 +38760,7 @@
   },
   {
    "rpid": 322688062448,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "黄叶Hasalei",
    "like": 0,
@@ -39019,7 +39019,7 @@
   },
   {
    "rpid": 319022515473,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "夜雨书剑僧鬼狐",
    "like": 0,
@@ -40337,7 +40337,7 @@
   },
   {
    "rpid": 319227463153,
-   "rootNo": 19,
+   "rootNo": 20,
    "isSub": true,
    "user": "AlexiLaiho",
    "like": 0,
@@ -40407,7 +40407,7 @@
   },
   {
    "rpid": 322988345888,
-   "rootNo": 20,
+   "rootNo": 19,
    "isSub": true,
    "user": "觅渡的裤子",
    "like": 0,
@@ -40420,7 +40420,7 @@
      "artist": "エノキドォ",
      "written": "エノキドォ",
      "note": "再补两个之一",
-     "rootNo": 20,
+     "rootNo": 19,
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
@@ -40430,7 +40430,7 @@
      "artist": "坂井",
      "written": "坂井",
      "note": "再补两个之一，名单外，未核实",
-     "rootNo": 20,
+     "rootNo": 19,
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
@@ -40523,7 +40523,7 @@
    "rootNo": 250,
    "isSub": true,
    "user": "五十斤土块",
-   "like": 0,
+   "like": 1,
    "ctime": 1793866189,
    "firstSeen": "2026-11-05 17:00:02",
    "content": "这是牛哥说的画师B站动态发的[牛年]",
@@ -40570,6 +40570,34 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319268945217,
+   "rootNo": 94,
+   "isSub": true,
+   "user": "量子催眠",
+   "like": 0,
+   "ctime": 1793870727,
+   "firstSeen": "2026-11-05 18:00:01",
+   "content": "1454717",
+   "category": "empty",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "沈阳大果汁"
+  },
+  {
+   "rpid": 319270216465,
+   "rootNo": 250,
+   "isSub": true,
+   "user": "桜之庭園",
+   "like": 0,
+   "ctime": 1793871521,
+   "firstSeen": "2026-11-05 18:00:01",
+   "content": "回复 @五十斤土块 :谢谢[OK]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "桜之庭園"
   }
  ]
 }

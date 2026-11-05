@@ -11,7 +11,7 @@
   ],
   "mentions": 20,
   "users": 18,
-  "likes": 321,
+  "likes": 323,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -215,7 +215,7 @@
     "isSub": false,
     "user": "暴食-波奇Q",
     "rpid": 322420769312,
-    "like": 157
+    "like": 158
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -261,11 +261,11 @@
     "artist": "鳥居ヨシツナ",
     "written": "鸟居ヨシツナ",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -852,7 +852,7 @@
     "artist": "あるぷ",
     "written": "あるぷ",
     "note": "神中神",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": false,
     "user": "Parzival-__-",
     "rpid": 322387191376,
@@ -862,7 +862,7 @@
     "artist": "あるぷ",
     "written": "apl",
     "note": "无敌了",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664,
@@ -1400,7 +1400,7 @@
     "artist": "kakao",
     "written": "kakao",
     "note": "",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664,
@@ -1743,7 +1743,7 @@
   ],
   "mentions": 13,
   "users": 12,
-  "likes": 212,
+  "likes": 213,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -1924,11 +1924,11 @@
     "artist": "だにまる",
     "written": "だにまる",
     "note": "视频里的",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    },
    {
     "artist": "だにまる",
@@ -3451,7 +3451,7 @@
   ],
   "mentions": 9,
   "users": 8,
-  "likes": 88,
+  "likes": 89,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3528,7 +3528,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 79
+    "like": 80
    },
    {
     "artist": "昼寝",
@@ -5280,7 +5280,7 @@
     "artist": "立花",
     "written": "立花",
     "note": "",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664,
@@ -6945,7 +6945,7 @@
   ],
   "mentions": 3,
   "users": 3,
-  "likes": 25,
+  "likes": 26,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6986,11 +6986,11 @@
     "artist": "92m",
     "written": "92m",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    },
    {
     "artist": "92m",
@@ -8675,7 +8675,7 @@
     "artist": "赤月屋",
     "written": "赤月",
     "note": "",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "ktv1025",
     "rpid": 322440603664,
@@ -8890,7 +8890,7 @@
     "artist": "エノキドォ",
     "written": "エノキドォ",
     "note": "再补两个之一",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": true,
     "user": "觅渡的裤子",
     "rpid": 322988345888,
@@ -9851,7 +9851,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 27,
+  "likes": 28,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9875,11 +9875,11 @@
     "artist": "じゃが山たらヲ",
     "written": "じゃが山たらヲ",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    },
    {
     "artist": "じゃが山たらヲ",
@@ -19531,7 +19531,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 24,
+  "likes": 25,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -19548,11 +19548,11 @@
     "artist": "フグタ家",
     "written": "フグタ家",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    }
   ]
  },
@@ -20124,7 +20124,7 @@
     "artist": "三芳",
     "written": "三芳",
     "note": "神中神",
-    "rootNo": 19,
+    "rootNo": 20,
     "isSub": true,
     "user": "花斯特卷卷",
     "rpid": 318682850705,
@@ -20805,7 +20805,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 24,
+  "likes": 25,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -20822,11 +20822,11 @@
     "artist": "咲良ゆき",
     "written": "咲良ゆき",
     "note": "",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": false,
     "user": "狗卡世界第一",
     "rpid": 322616341040,
-    "like": 24
+    "like": 25
    }
   ]
  },
@@ -20884,7 +20884,7 @@
     "artist": "坂井",
     "written": "坂井",
     "note": "再补两个之一，名单外，未核实",
-    "rootNo": 20,
+    "rootNo": 19,
     "isSub": true,
     "user": "觅渡的裤子",
     "rpid": 322988345888,
