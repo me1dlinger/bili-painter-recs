@@ -1,79 +1,33 @@
 {
-  "generatedAt": "2026-11-05 00:11:00",
+  "generatedAt": "2026-11-05 12:10:00",
   "comments": {
-    "322929115952": {
-      "category": "artist_rec",
-      "artists": ["鳴子ハナハル"],
-      "works": [],
-      "reason": "点名鸣子花春（鳴子ハナハル 中文写法，新画师）",
-      "mentions": [
-        {
-          "name_as_written": "鸣子花春",
-          "canonical_guess": "鳴子ハナハル",
-          "note": "点名画师，未附评价（中文写法，不确定）"
-        }
-      ]
-    },
-    "322929331728": {
+    "319228209137": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "评价画风神了，未点名画师",
+      "reason": "吐槽评论被举报，未点名画师",
       "mentions": []
     },
-    "319190694193": {
+    "322968071616": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "楼中楼讨论岳母题材作品，未点名画师",
+      "reason": "楼中楼互动玩梗，未点名画师",
       "mentions": []
     },
-    "322932930320": {
-      "category": "ask",
+    "319227463153": {
+      "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "求英雄（求车牌/作者名）",
+      "reason": "评价某画师画风变化（越画越壮），未点名画师名",
       "mentions": []
     },
-    "322933084384": {
-      "category": "artist_rec",
-      "artists": ["井口工"],
-      "works": [],
-      "reason": "原文工口井口工，取画师名井口工（名单外新画师，不确定）",
-      "mentions": [
-        {
-          "name_as_written": "工口井口工",
-          "canonical_guess": "井口工",
-          "note": "原文为工口井口工，规范名取井口工，不确定"
-        }
-      ]
-    },
-    "322942784672": {
-      "category": "ask",
+    "319235134577": {
+      "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "求画师名（AI 大车模仿的某位画师，忘记了）",
+      "reason": "楼中楼互动（重口区），未点名画师",
       "mentions": []
-    },
-    "319205057457": {
-      "category": "work_only",
-      "artists": [],
-      "works": ["ただ恋しくて、会いたくて…"],
-      "reason": "推荐单行本作品ただ恋しくて、会いたくて…，未点名画师",
-      "mentions": []
-    },
-    "322947834544": {
-      "category": "artist_rec",
-      "artists": ["胃之上奇嘉郎"],
-      "works": [],
-      "reason": "点名胃之上奇嘉郎，评价最顶的一批本子画师",
-      "mentions": [
-        {
-          "name_as_written": "胃之上奇嘉郎",
-          "canonical_guess": "胃之上奇嘉郎",
-          "note": "在本子画师里面可以说是最顶的一批人之一了"
-        }
-      ]
     }
   }
 }
