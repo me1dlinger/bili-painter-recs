@@ -51,9 +51,8 @@ json.dump({
 }, open("store/FROZEN", "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 print(f"已冻结：评论 {total} 条（上限 1000），复核队列为空")
 PYEOF
-    # 只删含 cron_update.sh 的那一行，保留机器上其它 cron
-    crontab -l 2>/dev/null | grep -v 'cron_update.sh' | crontab - 2>/dev/null || true
-    echo "本任务已从 crontab 移除；网页停在当前快照，不再更新"
+    echo "已写冻结标记 store/FROZEN：后续轮次将直接跳过，网页停在当前快照。"
+    echo "（crontab 任务与会话定时复核的移除，由人工/会话侧确认后执行，见 TASK.md）"
   fi
   echo "===== $(date '+%Y-%m-%d %H:%M:%S') 完成 ====="
 } >> store/update.log 2>&1

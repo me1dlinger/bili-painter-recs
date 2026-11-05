@@ -224,9 +224,28 @@ async def main():
     db["claimedReplyCount"] = claimed
     json.dump(db, open(path, "w", encoding="utf-8"), ensure_ascii=False)
 
+    # 若本轮因上限裁掉了评论，同步清理 config.workOnly 里指向它们的条目（避免悬空记录）
+    if dropped:
+        cpath = os.path.join(STORE, "config.json")
+        if os.path.exists(cpath):
+            cfg = json.load(open(cpath, encoding="utf-8"))
+            wo = cfg.get("workOnly") or {}
+            stale = [k for k in wo if str(k) in dropped]
+            if stale:
+                for k in stale:
+                    wo.pop(k)
+                json.dump(cfg, open(cpath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+                log(f"同步清理 {len(stale)} 条指向被裁评论的 workOnly 记录")
+
     # ---------- 新评论自动匹配画师名 ----------
     mpath = os.path.join(STORE, "mentions.json")
     md = json.load(open(mpath, encoding="utf-8"))
+    # 若本轮因上限裁掉了评论，同步剔除指向它们的提及，避免「悬空提及」（build 会算成未匹配）
+    if dropped:
+        before = len(md["mentions"])
+        md["mentions"] = [m for m in md["mentions"] if str(m.get("rpid")) not in dropped]
+        if before != len(md["mentions"]):
+            log(f"同步剔除 {before - len(md['mentions'])} 条指向被裁评论的提及")
     existing = {(str(m.get("rpid")), m.get("name_as_written")) for m in md["mentions"]}
     apath = os.path.join(ROOT, "artists_raw.json")
     artists = json.load(open(apath, encoding="utf-8")) if os.path.exists(apath) else []

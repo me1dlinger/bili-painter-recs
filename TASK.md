@@ -43,7 +43,7 @@ crontab -l                                 # 确认写入
 2. `sh scripts/ai_review.sh` —— 只做「有新评论待复核」的标记，**不阻塞**（真正的复核由任务 B 完成）
 3. `python scripts/build.py` —— 重建 `data.json` / `artists_raw.json` / `画师推荐榜.md` / `.csv`
 4. `sh scripts/publish.sh` —— 拷进 `docs/` 并 `git push`（**带 3 次自动重试**，网络抖动不会断更）
-5. 收尾：评论满 1000 且复核队列为空 → 写 `store/FROZEN` 并自动把自己的 crontab 行删掉
+5. 收尾：评论满 1000 且复核队列为空 → 写 `store/FROZEN`，后续轮次自动跳过（见第 5 节）
 
 ### 任务 B：AI 结构化复核（会话内定时提醒）
 
@@ -134,10 +134,20 @@ bili-painter-report/
   多出来的新评论**直接不入库**（并从 `new_ids` / `pending` 里剔除，避免产生对不存在评论的提及）。
 - **不少**：评论库是「只增不减」的合并策略（已存在的评论只更新点赞数/内容），所以数字会稳稳涨到 1000。
 - **冻结条件**：`data.json` 的 `meta.totalCount >= 1000` **且** `store/pending.json` 的 `count == 0`
-  （即最后一批评论也已经过 AI 复核，分类准确），此时：
-  - `cron_update.sh` 写 `store/FROZEN` 并把自己从 crontab 移除；
-  - 会话侧的复核提醒也会检查同一条件并删掉那条提醒（双保险）。
-- 冻结后：网页保持最后一版快照不再更新，`cron_update.sh` 若被误触发会因 `store/FROZEN` 直接跳过。
+  （即最后一批评论也已经过 AI 复核，分类准确），此时 `cron_update.sh` 会写 `store/FROZEN`，
+  之后每一轮都直接跳过（不再抓取、不再发布），网页停在最后一版快照。
+- **收尾清理**（可选的最后一步）：确认 `store/FROZEN` 已生成后，可以移除定时任务本身，让机器彻底安静：
+
+  ```sh
+  # 1) 移除 crontab 任务（只删这一行，保留其它 cron）
+  crontab -l | grep -v 'cron_update.sh' | crontab -
+  crontab -l      # 确认已移除
+
+  # 2) 会话侧的 AI 复核提醒：在会话里删掉那条「B站画师评论复核」cron 提醒
+  ```
+
+  > 脚本**不会**自己删 crontab（避免误删机器上其它任务），所以这一步由人确认后执行。
+  > 不删也没关系：`store/FROZEN` 会让任务空转跳过，不会改动任何数据。
 
 ### 想解冻 / 继续跑
 
