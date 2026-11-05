@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 12:00:02",
-  "claimedReplyCount": 956,
-  "rootCount": 249,
-  "subCount": 721,
-  "totalCount": 970,
+  "fetchedAt": "2026-11-05 13:00:02",
+  "claimedReplyCount": 963,
+  "rootCount": 252,
+  "subCount": 725,
+  "totalCount": 977,
   "update": {
-   "lastFetchAt": "2026-11-05 12:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 12:01:31",
+   "lastFetchAt": "2026-11-05 13:00:02",
+   "lastFetchNew": 7,
+   "publishedAt": "2026-11-05 12:10:44",
    "delta": {
-    "comments": 0,
+    "comments": 7,
     "artists": 0,
-    "mentions": 0
+    "mentions": 4
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 357,
-   "artist_rec": 564,
+   "chat": 362,
+   "artist_rec": 566,
    "work_only": 13,
    "ask": 21,
    "empty": 15
   },
   "artistCount": 562,
-  "mentionCount": 1014
+  "mentionCount": 1018
  },
  "artists": [
   {
@@ -955,7 +955,7 @@
    ],
    "mentions": 13,
    "users": 12,
-   "likes": 210,
+   "likes": 211,
    "lowConfidence": false,
    "notes": [
     "老牌顶级画师",
@@ -1686,7 +1686,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 84,
+   "likes": 85,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2456,6 +2456,72 @@
    ]
   },
   {
+   "name": "黒本君",
+   "aliases": [
+    "みくろぺえじ",
+    "黑本君"
+   ],
+   "mentions": 6,
+   "users": 6,
+   "likes": 61,
+   "lowConfidence": false,
+   "notes": [
+    "jc系列太棒了，可惜没后续",
+    "jc系列也不错",
+    "别名(黒本君)"
+   ],
+   "evidence": [
+    {
+     "rpid": 322400556432,
+     "commenter": "白露未已",
+     "isSub": false,
+     "written": "黑本君",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322552290960,
+     "commenter": "格林_道格拉斯先生",
+     "isSub": true,
+     "written": "黑本君",
+     "context": "",
+     "note": "jc系列太棒了，可惜没后续"
+    },
+    {
+     "rpid": 322442556464,
+     "commenter": "爱草芥的八奈见",
+     "isSub": true,
+     "written": "黑本君",
+     "context": "",
+     "note": "jc系列也不错"
+    },
+    {
+     "rpid": 322395195440,
+     "commenter": "変身はダメ_死刑",
+     "isSub": false,
+     "written": "みくろぺえじ",
+     "context": "",
+     "note": "别名(黒本君)"
+    },
+    {
+     "rpid": 322415071776,
+     "commenter": "1manayA",
+     "isSub": true,
+     "written": "黒本君",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "黒本君",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "ヘリを",
    "aliases": [
     "herio",
@@ -2766,64 +2832,6 @@
    ]
   },
   {
-   "name": "黒本君",
-   "aliases": [
-    "みくろぺえじ",
-    "黑本君"
-   ],
-   "mentions": 5,
-   "users": 5,
-   "likes": 61,
-   "lowConfidence": false,
-   "notes": [
-    "jc系列太棒了，可惜没后续",
-    "jc系列也不错",
-    "别名(黒本君)"
-   ],
-   "evidence": [
-    {
-     "rpid": 322400556432,
-     "commenter": "白露未已",
-     "isSub": false,
-     "written": "黑本君",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322552290960,
-     "commenter": "格林_道格拉斯先生",
-     "isSub": true,
-     "written": "黑本君",
-     "context": "",
-     "note": "jc系列太棒了，可惜没后续"
-    },
-    {
-     "rpid": 322442556464,
-     "commenter": "爱草芥的八奈见",
-     "isSub": true,
-     "written": "黑本君",
-     "context": "",
-     "note": "jc系列也不错"
-    },
-    {
-     "rpid": 322395195440,
-     "commenter": "変身はダメ_死刑",
-     "isSub": false,
-     "written": "みくろぺえじ",
-     "context": "",
-     "note": "别名(黒本君)"
-    },
-    {
-     "rpid": 322415071776,
-     "commenter": "1manayA",
-     "isSub": true,
-     "written": "黒本君",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
    "name": "立花",
    "aliases": [
     "立花ォミナ"
@@ -3047,7 +3055,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 120,
+   "likes": 121,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -3183,6 +3191,52 @@
      "written": "またのんき",
      "context": "",
      "note": "小体型看またのんき（按体型偏好推荐其作品）"
+    }
+   ]
+  },
+  {
+   "name": "アヘ丸",
+   "aliases": [],
+   "mentions": 4,
+   "users": 4,
+   "likes": 12,
+   "lowConfidence": false,
+   "notes": [
+    "画风清爽张力拉满",
+    "主打一个大"
+   ],
+   "evidence": [
+    {
+     "rpid": 318683391153,
+     "commenter": "Ga1y_がり",
+     "isSub": true,
+     "written": "アヘ丸",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322506370368,
+     "commenter": "瑶光如影",
+     "isSub": true,
+     "written": "アヘ丸",
+     "context": "",
+     "note": "画风清爽张力拉满"
+    },
+    {
+     "rpid": 322669115872,
+     "commenter": "利伐沙班达比加群",
+     "isSub": false,
+     "written": "アヘ丸",
+     "context": "",
+     "note": "主打一个大"
+    },
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "アヘ丸",
+     "context": "自动匹配 · 待复核",
+     "note": ""
     }
    ]
   },
@@ -4159,7 +4213,7 @@
    "aliases": [],
    "mentions": 3,
    "users": 3,
-   "likes": 16,
+   "likes": 17,
    "lowConfidence": false,
    "notes": [
     "真劲（楼下称触手goat）",
@@ -4228,44 +4282,6 @@
      "written": "ましゅー",
      "context": "",
      "note": "女武神与战场系列"
-    }
-   ]
-  },
-  {
-   "name": "アヘ丸",
-   "aliases": [],
-   "mentions": 3,
-   "users": 3,
-   "likes": 12,
-   "lowConfidence": false,
-   "notes": [
-    "画风清爽张力拉满",
-    "主打一个大"
-   ],
-   "evidence": [
-    {
-     "rpid": 318683391153,
-     "commenter": "Ga1y_がり",
-     "isSub": true,
-     "written": "アヘ丸",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322506370368,
-     "commenter": "瑶光如影",
-     "isSub": true,
-     "written": "アヘ丸",
-     "context": "",
-     "note": "画风清爽张力拉满"
-    },
-    {
-     "rpid": 322669115872,
-     "commenter": "利伐沙班达比加群",
-     "isSub": false,
-     "written": "アヘ丸",
-     "context": "",
-     "note": "主打一个大"
     }
    ]
   },
@@ -4929,6 +4945,41 @@
      "written": "じゅらい",
      "context": "",
      "note": "点名推荐，未附评价"
+    }
+   ]
+  },
+  {
+   "name": "エノキドォ",
+   "aliases": [],
+   "mentions": 3,
+   "users": 2,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [],
+   "evidence": [
+    {
+     "rpid": 318737497777,
+     "commenter": "洛霞于芜湖起飞",
+     "isSub": true,
+     "written": "エノキドォ",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322987657360,
+     "commenter": "觅渡的裤子",
+     "isSub": false,
+     "written": "エノキドォ",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    },
+    {
+     "rpid": 322988345888,
+     "commenter": "觅渡的裤子",
+     "isSub": true,
+     "written": "エノキドォ",
+     "context": "自动匹配 · 待复核",
+     "note": ""
     }
    ]
   },
@@ -6780,7 +6831,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 119,
+   "likes": 120,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -11504,25 +11555,6 @@
    ]
   },
   {
-   "name": "エノキドォ",
-   "aliases": [],
-   "mentions": 1,
-   "users": 1,
-   "likes": 0,
-   "lowConfidence": false,
-   "notes": [],
-   "evidence": [
-    {
-     "rpid": 318737497777,
-     "commenter": "洛霞于芜湖起飞",
-     "isSub": true,
-     "written": "エノキドォ",
-     "context": "",
-     "note": ""
-    }
-   ]
-  },
-  {
    "name": "オジョウ",
    "aliases": [],
    "mentions": 1,
@@ -13819,7 +13851,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 112,
+   "likes": 113,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -15894,7 +15926,7 @@
    "rootNo": 6,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 112,
+   "like": 113,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -15908,7 +15940,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 112
+     "like": 113
     },
     {
      "artist": "eo58",
@@ -15918,7 +15950,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 112
+     "like": 113
     },
     {
      "artist": "毛谁",
@@ -15928,7 +15960,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 112
+     "like": 113
     }
    ],
    "workInfo": null,
@@ -15964,7 +15996,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 75,
+   "like": 76,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15978,7 +16010,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 75
+     "like": 76
     }
    ],
    "workInfo": null,
@@ -15989,7 +16021,7 @@
    "rootNo": 9,
    "isSub": false,
    "user": "Syberiumance",
-   "like": 66,
+   "like": 67,
    "ctime": 1793387480,
    "firstSeen": "",
    "content": "牛哥一嗓子把だにまる 半年多没更新的小号喊出来了",
@@ -16003,7 +16035,7 @@
      "isSub": false,
      "user": "Syberiumance",
      "rpid": 318700509649,
-     "like": 66
+     "like": 67
     }
    ],
    "workInfo": null,
@@ -16556,7 +16588,7 @@
    "rootNo": 25,
    "isSub": false,
    "user": "劍崎刀火",
-   "like": 13,
+   "like": 14,
    "ctime": 1793412305,
    "firstSeen": "",
    "content": "はるこん这个真劲啊",
@@ -16570,7 +16602,7 @@
      "isSub": false,
      "user": "劍崎刀火",
      "rpid": 318716246753,
-     "like": 13
+     "like": 14
     }
    ],
    "workInfo": null,
@@ -24576,6 +24608,79 @@
    "ctime": 1793838395,
    "firstSeen": "2026-11-05 09:00:02",
    "content": "666我评论被人举报了神了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 319244639937,
+   "rootNo": 250,
+   "isSub": false,
+   "user": "桜之庭園",
+   "like": 0,
+   "ctime": 1793852401,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "up你封面是哪个作品的，放在哪里我搜图都搜不出来[笑哭]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322987657360,
+   "rootNo": 251,
+   "isSub": false,
+   "user": "觅渡的裤子",
+   "like": 0,
+   "ctime": 1793853315,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "个人口味多样化，其中牛头人偏多一些[doge]\n黒本君，信じろ，ie，エノキドォ，アヘ丸，谷口大介",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "エノキドォ",
+     "written": "エノキドォ",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    },
+    {
+     "artist": "黒本君",
+     "written": "黒本君",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    },
+    {
+     "artist": "アヘ丸",
+     "written": "アヘ丸",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 251,
+     "isSub": false,
+     "user": "觅渡的裤子",
+     "rpid": 322987657360,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 319248278257,
+   "rootNo": 252,
+   "isSub": false,
+   "user": "denniedog",
+   "like": 0,
+   "ctime": 1793854554,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "完全不赞同，在我的评价体系里，画师是否热爱画本子，想告诉读者自己的xp到底有何魅力，这和画技一样重要，有时候可能更重要。\n不少画师画技好，却只把画本子当作上岸前被迫谋生的跳板，赚钱的手段，画出来的东西同质化的厉害，即便再精美也用不出来。",
    "category": "chat",
    "artists": [],
    "workInfo": null,
@@ -40082,6 +40187,73 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "゚゙゚゙゚帕琪"
+  },
+  {
+   "rpid": 319243683265,
+   "rootNo": 24,
+   "isSub": true,
+   "user": "桜之庭園",
+   "like": 0,
+   "ctime": 1793851704,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "老资历",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "苜蓿蓝妈妈"
+  },
+  {
+   "rpid": 319244615841,
+   "rootNo": 200,
+   "isSub": true,
+   "user": "denniedog",
+   "like": 0,
+   "ctime": 1793852357,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "人家靠本土的，在日本那边传播盗版甚至违法",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "domier7"
+  },
+  {
+   "rpid": 322988345888,
+   "rootNo": 20,
+   "isSub": true,
+   "user": "觅渡的裤子",
+   "like": 0,
+   "ctime": 1793853647,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "你我简直就是兄弟啊(\n再补两个エノキドォ，坂井",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "エノキドォ",
+     "written": "エノキドォ",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 20,
+     "isSub": true,
+     "user": "觅渡的裤子",
+     "rpid": 322988345888,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "狗卡世界第一"
+  },
+  {
+   "rpid": 319248383169,
+   "rootNo": 88,
+   "isSub": true,
+   "user": "アーサー魔法の派",
+   "like": 0,
+   "ctime": 1793854636,
+   "firstSeen": "2026-11-05 13:00:02",
+   "content": "回复 @我事咸安 :看了下，画风变化好大[笑哭]",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "アーサー魔法の派"
   }
  ]
 }
