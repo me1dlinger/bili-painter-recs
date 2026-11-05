@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 10:00:03",
-  "claimedReplyCount": 955,
+  "fetchedAt": "2026-11-05 11:00:02",
+  "claimedReplyCount": 956,
   "rootCount": 249,
-  "subCount": 720,
-  "totalCount": 969,
+  "subCount": 721,
+  "totalCount": 970,
   "update": {
-   "lastFetchAt": "2026-11-05 10:00:03",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 09:01:30",
+   "lastFetchAt": "2026-11-05 11:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-05 10:01:33",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 355,
+   "chat": 356,
    "artist_rec": 564,
    "work_only": 14,
    "ask": 21,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 319,
+   "likes": 320,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -402,7 +402,7 @@
    ],
    "mentions": 16,
    "users": 16,
-   "likes": 174,
+   "likes": 175,
    "lowConfidence": false,
    "notes": [
     "神中神",
@@ -819,7 +819,7 @@
    ],
    "mentions": 14,
    "users": 13,
-   "likes": 200,
+   "likes": 201,
    "lowConfidence": false,
    "notes": [
     "第一个修女那篇，纯爱",
@@ -1503,7 +1503,7 @@
    ],
    "mentions": 9,
    "users": 9,
-   "likes": 133,
+   "likes": 134,
    "lowConfidence": false,
    "notes": [
     "画风剧情氛围涩度四头抓",
@@ -1594,7 +1594,7 @@
    ],
    "mentions": 9,
    "users": 9,
-   "likes": 177,
+   "likes": 178,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -1686,7 +1686,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 83,
+   "likes": 84,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -2260,7 +2260,7 @@
    "aliases": [],
    "mentions": 7,
    "users": 7,
-   "likes": 32,
+   "likes": 33,
    "lowConfidence": false,
    "notes": [
     "看的好看的本子画师几乎全进备忘录了",
@@ -10297,7 +10297,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 121,
+   "likes": 122,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -11466,7 +11466,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 121,
+   "likes": 122,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -15732,7 +15732,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 417,
+   "like": 418,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -15789,7 +15789,7 @@
    "rootNo": 4,
    "isSub": false,
    "user": "萧萧暮贤",
-   "like": 121,
+   "like": 122,
    "ctime": 1793414710,
    "firstSeen": "",
    "content": "我的品味怎么样[汤圆][汤圆][汤圆]\n鳥居ヨシツナ\n桃雲\nおなぱん\nアシオミマサト\n雲呑めお\nあるぷ",
@@ -15803,7 +15803,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "桃雲",
@@ -15813,7 +15813,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "おなぱん",
@@ -15823,7 +15823,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "アシオミマサト",
@@ -15833,7 +15833,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "雲呑めお",
@@ -15843,7 +15843,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "あるぷ",
@@ -15853,7 +15853,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     },
     {
      "artist": "真白しらこ",
@@ -15863,7 +15863,7 @@
      "isSub": false,
      "user": "萧萧暮贤",
      "rpid": 322435701824,
-     "like": 121
+     "like": 122
     }
    ],
    "workInfo": null,
@@ -15964,7 +15964,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 74,
+   "like": 75,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -15978,7 +15978,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 74
+     "like": 75
     }
    ],
    "workInfo": null,
@@ -25424,7 +25424,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "忆念緒",
-   "like": 21,
+   "like": 22,
    "ctime": 1793370308,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "田屋沼屋",
@@ -25438,7 +25438,7 @@
      "isSub": true,
      "user": "忆念緒",
      "rpid": 318679020785,
-     "like": 21
+     "like": 22
     }
    ],
    "workInfo": null,
@@ -33833,7 +33833,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "十五岁童言无忌美少女",
-   "like": 47,
+   "like": 48,
    "ctime": 1793425732,
    "firstSeen": "",
    "content": "最自由的本子画师",
@@ -34313,7 +34313,7 @@
    "rootNo": 8,
    "isSub": true,
    "user": "是Zach哒",
-   "like": 28,
+   "like": 30,
    "ctime": 1793431975,
    "firstSeen": "",
    "content": "力气到底用在什么地方了",
@@ -40064,6 +40064,20 @@
    "ctime": 1793837758,
    "firstSeen": "2026-11-05 09:00:02",
    "content": "回复 @霉霉子Official :真被乾死了",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "゚゙゚゙゚帕琪"
+  },
+  {
+   "rpid": 319235134577,
+   "rootNo": 8,
+   "isSub": true,
+   "user": "霉霉子Official",
+   "like": 0,
+   "ctime": 1793845169,
+   "firstSeen": "2026-11-05 11:00:02",
+   "content": "回复 @沁_史克爾 :重口区啊？",
    "category": "chat",
    "artists": [],
    "workInfo": null,
