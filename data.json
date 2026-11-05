@@ -17,26 +17,30 @@
   "update": {
    "lastFetchAt": "2026-11-06 00:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-05 23:01:34",
+   "publishedAt": "2026-11-06 00:01:32",
    "delta": {
     "comments": 0,
-    "artists": 0,
-    "mentions": 0
+    "artists": 3,
+    "mentions": 3
    },
-   "newArtists": [],
+   "newArtists": [
+    "东扇",
+    "望月",
+    "水影灯牌优酸乳供应商"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 368,
-   "artist_rec": 574,
+   "chat": 367,
+   "artist_rec": 575,
    "work_only": 13,
    "ask": 21,
    "empty": 16
   },
-  "artistCount": 571,
-  "mentionCount": 1037
+  "artistCount": 574,
+  "mentionCount": 1040
  },
  "artists": [
   {
@@ -1420,6 +1424,7 @@
    "name": "雲呑めお",
    "aliases": [
     "云吞",
+    "云吞芽央",
     "云呑めお",
     "雲吞"
    ],
@@ -1432,7 +1437,8 @@
     "见雲呑めお知品味",
     "看的好看的本子画师几乎全进备忘录了",
     "长名单其中一位",
-    "无敌的"
+    "无敌的",
+    "公路片纯爱真的很棒（云吞芽央为雲呑めお 中文写法）"
    ],
    "evidence": [
     {
@@ -1511,9 +1517,9 @@
      "rpid": 319292102017,
      "commenter": "自然立法者",
      "isSub": false,
-     "written": "雲呑めお",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "云吞芽央",
+     "context": "",
+     "note": "公路片纯爱真的很棒（云吞芽央为雲呑めお 中文写法）"
     }
    ]
   },
@@ -1891,7 +1897,8 @@
     "长名单其中一位（名单中重复出现两次）",
     "长名单中重复出现的第二位 Croriin",
     "原文拼写可能不准，存疑",
-    "他是我的神，强烈推荐"
+    "他是我的神，强烈推荐",
+    "好多啥子主角一看一个不吱声"
    ],
    "evidence": [
     {
@@ -1962,9 +1969,9 @@
      "rpid": 319292102017,
      "commenter": "自然立法者",
      "isSub": false,
-     "written": "Croriin",
-     "context": "自动匹配 · 待复核",
-     "note": ""
+     "written": "croriin",
+     "context": "",
+     "note": "好多啥子主角一看一个不吱声"
     }
    ]
   },
@@ -12573,6 +12580,27 @@
    ]
   },
   {
+   "name": "东扇",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "列举推荐，名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 319292102017,
+     "commenter": "自然立法者",
+     "isSub": false,
+     "written": "东扇",
+     "context": "",
+     "note": "列举推荐，名单外，未核实"
+    }
+   ]
+  },
+  {
    "name": "丸和太郎",
    "aliases": [],
    "mentions": 1,
@@ -13759,6 +13787,29 @@
    ]
   },
   {
+   "name": "望月",
+   "aliases": [
+    "望月老师"
+   ],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "点名推荐（敬称已去），名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 319286777921,
+     "commenter": "圣都の七海",
+     "isSub": true,
+     "written": "望月老师",
+     "context": "",
+     "note": "点名推荐（敬称已去），名单外，未核实"
+    }
+   ]
+  },
+  {
    "name": "朝比奈吉利",
    "aliases": [],
    "mentions": 1,
@@ -14119,6 +14170,27 @@
      "written": "毛谁",
      "context": "",
      "note": "过于勤奋，b站活跃，画风好模仿"
+    }
+   ]
+  },
+  {
+   "name": "水影灯牌优酸乳供应商",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "列举推荐（昵称式写法），名单外，未核实"
+   ],
+   "evidence": [
+    {
+     "rpid": 319292102017,
+     "commenter": "自然立法者",
+     "isSub": false,
+     "written": "水影灯牌优酸乳供应商",
+     "context": "",
+     "note": "列举推荐（昵称式写法），名单外，未核实"
     }
    ]
   },
@@ -25059,9 +25131,19 @@
    "category": "artist_rec",
    "artists": [
     {
-     "artist": "Croriin",
-     "written": "Croriin",
-     "note": "自动匹配 · 待复核",
+     "artist": "东扇",
+     "written": "东扇",
+     "note": "列举推荐，名单外，未核实",
+     "rootNo": 254,
+     "isSub": false,
+     "user": "自然立法者",
+     "rpid": 319292102017,
+     "like": 0
+    },
+    {
+     "artist": "水影灯牌优酸乳供应商",
+     "written": "水影灯牌优酸乳供应商",
+     "note": "列举推荐（昵称式写法），名单外，未核实",
      "rootNo": 254,
      "isSub": false,
      "user": "自然立法者",
@@ -25070,8 +25152,18 @@
     },
     {
      "artist": "雲呑めお",
-     "written": "雲呑めお",
-     "note": "自动匹配 · 待复核",
+     "written": "云吞芽央",
+     "note": "公路片纯爱真的很棒（云吞芽央为雲呑めお 中文写法）",
+     "rootNo": 254,
+     "isSub": false,
+     "user": "自然立法者",
+     "rpid": 319292102017,
+     "like": 0
+    },
+    {
+     "artist": "Croriin",
+     "written": "croriin",
+     "note": "好多啥子主角一看一个不吱声",
      "rootNo": 254,
      "isSub": false,
      "user": "自然立法者",
@@ -40906,8 +40998,19 @@
    "ctime": 1793881474,
    "firstSeen": "2026-11-05 21:00:02",
    "content": "望月老师",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "望月",
+     "written": "望月老师",
+     "note": "点名推荐（敬称已去），名单外，未核实",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "圣都の七海",
+     "rpid": 319286777921,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": "99Commun"
   },

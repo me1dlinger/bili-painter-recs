@@ -2608,6 +2608,7 @@
   "name": "雲呑めお",
   "aliases": [
    "云吞",
+   "云吞芽央",
    "云呑めお",
    "雲吞"
   ],
@@ -2683,9 +2684,9 @@
    {
     "commenter": "自然立法者",
     "isSub": false,
-    "written": "雲呑めお",
+    "written": "云吞芽央",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "公路片纯爱真的很棒（云吞芽央为雲呑めお 中文写法）"
    }
   ],
   "_raw": [
@@ -2781,8 +2782,8 @@
    },
    {
     "artist": "雲呑めお",
-    "written": "雲呑めお",
-    "note": "自动匹配 · 待复核",
+    "written": "云吞芽央",
+    "note": "公路片纯爱真的很棒（云吞芽央为雲呑めお 中文写法）",
     "rootNo": 254,
     "isSub": false,
     "user": "自然立法者",
@@ -3548,9 +3549,9 @@
    {
     "commenter": "自然立法者",
     "isSub": false,
-    "written": "Croriin",
+    "written": "croriin",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "好多啥子主角一看一个不吱声"
    }
   ],
   "_raw": [
@@ -3636,8 +3637,8 @@
    },
    {
     "artist": "Croriin",
-    "written": "Croriin",
-    "note": "自动匹配 · 待复核",
+    "written": "croriin",
+    "note": "好多啥子主角一看一个不吱声",
     "rootNo": 254,
     "isSub": false,
     "user": "自然立法者",
@@ -20432,6 +20433,36 @@
   ]
  },
  {
+  "name": "东扇",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "自然立法者",
+    "isSub": false,
+    "written": "东扇",
+    "context": "",
+    "note": "列举推荐，名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "东扇",
+    "written": "东扇",
+    "note": "列举推荐，名单外，未核实",
+    "rootNo": 254,
+    "isSub": false,
+    "user": "自然立法者",
+    "rpid": 319292102017,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "丸和太郎",
   "aliases": [],
   "mentions": 1,
@@ -22198,6 +22229,38 @@
   ]
  },
  {
+  "name": "望月",
+  "aliases": [
+   "望月老师"
+  ],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "圣都の七海",
+    "isSub": true,
+    "written": "望月老师",
+    "context": "",
+    "note": "点名推荐（敬称已去），名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "望月",
+    "written": "望月老师",
+    "note": "点名推荐（敬称已去），名单外，未核实",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "圣都の七海",
+    "rpid": 319286777921,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "朝比奈吉利",
   "aliases": [],
   "mentions": 1,
@@ -22740,6 +22803,36 @@
     "user": "木冬鏡",
     "rpid": 318672255777,
     "like": 115
+   }
+  ]
+ },
+ {
+  "name": "水影灯牌优酸乳供应商",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "自然立法者",
+    "isSub": false,
+    "written": "水影灯牌优酸乳供应商",
+    "context": "",
+    "note": "列举推荐（昵称式写法），名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "水影灯牌优酸乳供应商",
+    "written": "水影灯牌优酸乳供应商",
+    "note": "列举推荐（昵称式写法），名单外，未核实",
+    "rootNo": 254,
+    "isSub": false,
+    "user": "自然立法者",
+    "rpid": 319292102017,
+    "like": 0
    }
   ]
  },
