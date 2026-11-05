@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 06:00:01",
+  "fetchedAt": "2026-11-06 07:00:01",
   "claimedReplyCount": 980,
   "rootCount": 255,
   "subCount": 739,
   "totalCount": 994,
   "update": {
-   "lastFetchAt": "2026-11-06 06:00:01",
+   "lastFetchAt": "2026-11-06 07:00:01",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 05:01:32",
+   "publishedAt": "2026-11-06 06:01:31",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -3005,7 +3005,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 8,
+   "likes": 9,
    "lowConfidence": false,
    "notes": [
     "很久不画了，领先业界十年",
@@ -17537,8 +17537,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318708680129,
+   "rpid": 322799332000,
    "rootNo": 35,
+   "isSub": false,
+   "user": "DERTF",
+   "like": 9,
+   "ctime": 1793692257,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "画里有怨念的来了：胃之上奇嘉郎",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "胃之上奇嘉郎",
+     "written": "胃之上奇嘉郎",
+     "note": "画里有怨念的来了",
+     "rootNo": 35,
+     "isSub": false,
+     "user": "DERTF",
+     "rpid": 322799332000,
+     "like": 9
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318708680129,
+   "rootNo": 36,
    "isSub": false,
    "user": "海绵宝宝霸王丝儿",
    "like": 8,
@@ -17551,7 +17576,7 @@
      "artist": "腐蝕",
      "written": "腐蚀",
      "note": "",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17561,7 +17586,7 @@
      "artist": "肉棒魔羅ノ進",
      "written": "肉○魔罗",
      "note": "原文用○遮挡",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17571,7 +17596,7 @@
      "artist": "織田non",
      "written": "织田non",
      "note": "",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17583,7 +17608,7 @@
   },
   {
    "rpid": 322780142240,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": false,
    "user": "Gabriel_ovo",
    "like": 8,
@@ -17596,35 +17621,10 @@
      "artist": "師走の翁",
      "written": "师走之翁",
      "note": "剧情脑洞太无敌了",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "Gabriel_ovo",
      "rpid": 322780142240,
-     "like": 8
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322799332000,
-   "rootNo": 37,
-   "isSub": false,
-   "user": "DERTF",
-   "like": 8,
-   "ctime": 1793692257,
-   "firstSeen": "2026-11-03 16:00:02",
-   "content": "画里有怨念的来了：胃之上奇嘉郎",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "胃之上奇嘉郎",
-     "written": "胃之上奇嘉郎",
-     "note": "画里有怨念的来了",
-     "rootNo": 37,
-     "isSub": false,
-     "user": "DERTF",
-     "rpid": 322799332000,
      "like": 8
     }
    ],
@@ -34984,7 +34984,7 @@
   },
   {
    "rpid": 322466615200,
-   "rootNo": 35,
+   "rootNo": 36,
    "isSub": true,
    "user": "是二个人",
    "like": 0,
@@ -35641,7 +35641,7 @@
   },
   {
    "rpid": 318773910017,
-   "rootNo": 35,
+   "rootNo": 36,
    "isSub": true,
    "user": "海绵宝宝霸王丝儿",
    "like": 0,
@@ -35654,7 +35654,7 @@
      "artist": "まめおじたん",
      "written": "mameojitan",
      "note": "旷世巨作：Knospenmädchen",
-     "rootNo": 35,
+     "rootNo": 36,
      "isSub": true,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318773910017,
@@ -39721,7 +39721,7 @@
   },
   {
    "rpid": 322807839984,
-   "rootNo": 37,
+   "rootNo": 35,
    "isSub": true,
    "user": "忆彡殇",
    "like": 0,
@@ -39760,7 +39760,7 @@
   },
   {
    "rpid": 322809270672,
-   "rootNo": 37,
+   "rootNo": 35,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -39773,7 +39773,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "著名的侍奉委员那本",
-     "rootNo": 37,
+     "rootNo": 35,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322809270672,
@@ -40039,7 +40039,7 @@
   },
   {
    "rpid": 319119817345,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "燕子我可不能么有你啊",
    "like": 1,
@@ -40167,7 +40167,7 @@
   },
   {
    "rpid": 319133640241,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "拈剑挽雪",
    "like": 0,
@@ -40181,7 +40181,7 @@
   },
   {
    "rpid": 322869892512,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40194,7 +40194,7 @@
      "artist": "師走の翁",
      "written": "師走の翁",
      "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "Gabriel_ovo",
      "rpid": 322869892512,
@@ -40206,7 +40206,7 @@
   },
   {
    "rpid": 322870506288,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40537,7 +40537,7 @@
   },
   {
    "rpid": 319181976257,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "少抱怨多运动多努力",
    "like": 0,
@@ -40600,7 +40600,7 @@
   },
   {
    "rpid": 322929331728,
-   "rootNo": 37,
+   "rootNo": 35,
    "isSub": true,
    "user": "zoezzzi",
    "like": 0,
@@ -40653,7 +40653,7 @@
   },
   {
    "rpid": 322947834544,
-   "rootNo": 37,
+   "rootNo": 35,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -40666,7 +40666,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "在本子画师里面可以说是最顶的一批人之一了",
-     "rootNo": 37,
+     "rootNo": 35,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322947834544,
