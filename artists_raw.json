@@ -11,7 +11,7 @@
   ],
   "mentions": 20,
   "users": 18,
-  "likes": 324,
+  "likes": 325,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -215,7 +215,7 @@
     "isSub": false,
     "user": "暴食-波奇Q",
     "rpid": 322420769312,
-    "like": 158
+    "like": 159
    },
    {
     "artist": "鳥居ヨシツナ",
@@ -3654,7 +3654,7 @@
   ],
   "mentions": 9,
   "users": 8,
-  "likes": 90,
+  "likes": 91,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3731,7 +3731,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 81
+    "like": 82
    },
    {
     "artist": "昼寝",
@@ -6497,7 +6497,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 338,
+  "likes": 339,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6559,7 +6559,7 @@
     "isSub": true,
     "user": "Kirisaki_キ",
     "rpid": 318674430225,
-    "like": 330
+    "like": 331
    },
    {
     "artist": "無糖紅茶",
@@ -15496,7 +15496,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 1,
+  "likes": 2,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -15517,7 +15517,7 @@
     "isSub": true,
     "user": "SANSJOJO",
     "rpid": 318718097169,
-    "like": 1
+    "like": 2
    }
   ]
  },
