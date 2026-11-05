@@ -2064,9 +2064,9 @@
    {
     "commenter": "蓝晴轩逸",
     "isSub": true,
-    "written": "腐蝕",
+    "written": "腐蚀",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "点名推荐，未附评价"
    }
   ],
   "_raw": [
@@ -2182,8 +2182,8 @@
    },
    {
     "artist": "腐蝕",
-    "written": "腐蝕",
-    "note": "自动匹配 · 待复核",
+    "written": "腐蚀",
+    "note": "点名推荐，未附评价",
     "rootNo": 1,
     "isSub": true,
     "user": "蓝晴轩逸",
@@ -2674,14 +2674,14 @@
     "isSub": false,
     "written": "青豆腐",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "列举推荐"
    },
    {
     "commenter": "北辰辰北辰北辰",
     "isSub": true,
     "written": "青豆腐",
     "context": "",
-    "note": "自动匹配 · 待复核"
+    "note": "列举推荐"
    }
   ],
   "_raw": [
@@ -2768,7 +2768,7 @@
    {
     "artist": "青豆腐",
     "written": "青豆腐",
-    "note": "自动匹配 · 待复核",
+    "note": "列举推荐",
     "rootNo": 253,
     "isSub": false,
     "user": "北辰辰北辰北辰",
@@ -2778,7 +2778,7 @@
    {
     "artist": "青豆腐",
     "written": "青豆腐",
-    "note": "自动匹配 · 待复核",
+    "note": "列举推荐",
     "rootNo": 23,
     "isSub": true,
     "user": "北辰辰北辰北辰",
@@ -9049,6 +9049,70 @@
   ]
  },
  {
+  "name": "ちゃえ",
+  "aliases": [],
+  "mentions": 3,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": false,
+    "written": "ちゃえ",
+    "context": "",
+    "note": "列举推荐，名单外，未核实"
+   },
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": true,
+    "written": "ちゃえ",
+    "context": "",
+    "note": "列举推荐，名单外，未核实"
+   },
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": true,
+    "written": "ちゃえ",
+    "context": "",
+    "note": "点名推荐，名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "ちゃえ",
+    "written": "ちゃえ",
+    "note": "列举推荐，名单外，未核实",
+    "rootNo": 253,
+    "isSub": false,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263375473,
+    "like": 0
+   },
+   {
+    "artist": "ちゃえ",
+    "written": "ちゃえ",
+    "note": "列举推荐，名单外，未核实",
+    "rootNo": 23,
+    "isSub": true,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263468769,
+    "like": 0
+   },
+   {
+    "artist": "ちゃえ",
+    "written": "ちゃえ",
+    "note": "点名推荐，名单外，未核实",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263601793,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "Chicke",
   "aliases": [
    "chicke iii"
@@ -12644,6 +12708,53 @@
   ]
  },
  {
+  "name": "あせするふぁむ系",
+  "aliases": [],
+  "mentions": 2,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": false,
+    "written": "あせするふぁむ系",
+    "context": "",
+    "note": "列举推荐（系列/社团写法），名单外，未核实"
+   },
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": true,
+    "written": "あせするふぁむ系",
+    "context": "",
+    "note": "列举推荐（系列/社团写法），名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "あせするふぁむ系",
+    "written": "あせするふぁむ系",
+    "note": "列举推荐（系列/社团写法），名单外，未核实",
+    "rootNo": 253,
+    "isSub": false,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263375473,
+    "like": 0
+   },
+   {
+    "artist": "あせするふぁむ系",
+    "written": "あせするふぁむ系",
+    "note": "列举推荐（系列/社团写法），名单外，未核实",
+    "rootNo": 23,
+    "isSub": true,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263468769,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "ぐすたふ",
   "aliases": [],
   "mentions": 2,
@@ -12783,6 +12894,53 @@
     "user": "溪远_LusienZ",
     "rpid": 318793202097,
     "like": 1
+   }
+  ]
+ },
+ {
+  "name": "暁創圏",
+  "aliases": [],
+  "mentions": 2,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": false,
+    "written": "暁創圏",
+    "context": "",
+    "note": "列举推荐（疑社团名），名单外，未核实"
+   },
+   {
+    "commenter": "北辰辰北辰北辰",
+    "isSub": true,
+    "written": "暁創圏",
+    "context": "",
+    "note": "列举推荐（疑社团名），名单外，未核实"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "暁創圏",
+    "written": "暁創圏",
+    "note": "列举推荐（疑社团名），名单外，未核实",
+    "rootNo": 253,
+    "isSub": false,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263375473,
+    "like": 0
+   },
+   {
+    "artist": "暁創圏",
+    "written": "暁創圏",
+    "note": "列举推荐（疑社团名），名单外，未核实",
+    "rootNo": 23,
+    "isSub": true,
+    "user": "北辰辰北辰北辰",
+    "rpid": 319263468769,
+    "like": 0
    }
   ]
  },
@@ -19450,6 +19608,36 @@
     "user": "--_-_-_-_--_--",
     "rpid": 322417556528,
     "like": 1
+   }
+  ]
+ },
+ {
+  "name": "ナビエ遥か2T",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "LK靘",
+    "isSub": true,
+    "written": "ナビエ遥か2T",
+    "context": "",
+    "note": "现在有点微妙但是前几年画的夯爆了"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "ナビエ遥か2T",
+    "written": "ナビエ遥か2T",
+    "note": "现在有点微妙但是前几年画的夯爆了",
+    "rootNo": 1,
+    "isSub": true,
+    "user": "LK靘",
+    "rpid": 319278166417,
+    "like": 0
    }
   ]
  },

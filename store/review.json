@@ -1,141 +1,135 @@
 {
- "generatedAt": "2026-11-05 16:10:00",
+ "generatedAt": "2026-11-05 20:10:00",
  "comments": {
-  "322987657360": {
+  "319263375473": {
    "category": "artist_rec",
    "artists": [
-    "黒本君",
-    "信じろ",
-    "ie",
-    "エノキドォ",
-    "アヘ丸",
-    "谷口大介"
+    "青豆腐",
+    "ちゃえ",
+    "あせするふぁむ系",
+    "暁創圏"
    ],
    "works": [],
-   "reason": "一级评论列举偏好的画师名单（含 NTR 偏好说明）",
+   "reason": "一级评论列举偏好画师/社团",
    "mentions": [
     {
-     "name_as_written": "黒本君",
-     "canonical_guess": "黒本君",
-     "note": "列举推荐（牛头人偏好）"
-    },
-    {
-     "name_as_written": "信じろ",
-     "canonical_guess": "信じろ",
-     "note": "列举推荐，名单外，未核实"
-    },
-    {
-     "name_as_written": "ie",
-     "canonical_guess": "ie",
-     "note": "列举推荐，名单外且极短，未核实"
-    },
-    {
-     "name_as_written": "エノキドォ",
-     "canonical_guess": "エノキドォ",
+     "name_as_written": "青豆腐",
+     "canonical_guess": "青豆腐",
      "note": "列举推荐"
     },
     {
-     "name_as_written": "アヘ丸",
-     "canonical_guess": "アヘ丸",
+     "name_as_written": "ちゃえ",
+     "canonical_guess": "ちゃえ",
+     "note": "列举推荐，名单外，未核实"
+    },
+    {
+     "name_as_written": "あせするふぁむ系",
+     "canonical_guess": "あせするふぁむ系",
+     "note": "列举推荐（系列/社团写法），名单外，未核实"
+    },
+    {
+     "name_as_written": "暁創圏",
+     "canonical_guess": "暁創圏",
+     "note": "列举推荐（疑社团名），名单外，未核实"
+    }
+   ]
+  },
+  "319263468769": {
+   "category": "artist_rec",
+   "artists": [
+    "青豆腐",
+    "ちゃえ",
+    "あせするふぁむ系",
+    "暁創圏"
+   ],
+   "works": [],
+   "reason": "同一用户楼中楼重复列举同样名单",
+   "mentions": [
+    {
+     "name_as_written": "青豆腐",
+     "canonical_guess": "青豆腐",
      "note": "列举推荐"
     },
     {
-     "name_as_written": "谷口大介",
-     "canonical_guess": "谷口大介",
+     "name_as_written": "ちゃえ",
+     "canonical_guess": "ちゃえ",
      "note": "列举推荐，名单外，未核实"
-    }
-   ]
-  },
-  "319244639937": {
-   "category": "ask",
-   "artists": [],
-   "works": [],
-   "reason": "问封面出自哪个作品（搜图搜不到）",
-   "mentions": []
-  },
-  "319248278257": {
-   "category": "chat",
-   "artists": [],
-   "works": [],
-   "reason": "长篇观点讨论（画师是否热爱画本子比画技更重要），未点名画师",
-   "mentions": []
-  },
-  "322988345888": {
-   "category": "artist_rec",
-   "artists": [
-    "エノキドォ",
-    "坂井"
-   ],
-   "works": [],
-   "reason": "楼中楼再补两个画师：エノキドォ、坂井",
-   "mentions": [
-    {
-     "name_as_written": "エノキドォ",
-     "canonical_guess": "エノキドォ",
-     "note": "再补两个之一"
     },
     {
-     "name_as_written": "坂井",
-     "canonical_guess": "坂井",
-     "note": "再补两个之一，名单外，未核实"
+     "name_as_written": "あせするふぁむ系",
+     "canonical_guess": "あせするふぁむ系",
+     "note": "列举推荐（系列/社团写法），名单外，未核实"
+    },
+    {
+     "name_as_written": "暁創圏",
+     "canonical_guess": "暁創圏",
+     "note": "列举推荐（疑社团名），名单外，未核实"
     }
    ]
   },
-  "319248383169": {
+  "319262933713": {
    "category": "chat",
    "artists": [],
    "works": [],
-   "reason": "楼中楼感慨画风变化大，未点名画师",
+   "reason": "说明画师名单的来源（B站动态），未点名画师",
    "mentions": []
   },
-  "319243683265": {
-   "category": "chat",
-   "artists": [],
-   "works": [],
-   "reason": "老资历，未点名画师",
-   "mentions": []
-  },
-  "319244615841": {
-   "category": "chat",
-   "artists": [],
-   "works": [],
-   "reason": "讨论盗版传播，未点名画师",
-   "mentions": []
-  },
-  "319250407713": {
-   "category": "chat",
-   "artists": [],
-   "works": [],
-   "reason": "提到晓创圈，未点名画师",
-   "mentions": []
-  },
-  "322995538240": {
+  "319263601793": {
    "category": "artist_rec",
    "artists": [
-    "武田弘光"
+    "ちゃえ"
    ],
    "works": [],
-   "reason": "点名武田弘光",
+   "reason": "单点名ちゃえ（名单外新画师）",
    "mentions": [
     {
-     "name_as_written": "武田弘光",
-     "canonical_guess": "武田弘光",
-     "note": "点名推荐，未附评价"
-    }
-   ]
-  },
-  "319254550977": {
-   "category": "artist_rec",
-   "artists": [
-    "朝比奈吉利"
-   ],
-   "works": [],
-   "reason": "点名朝比奈吉利（名单外新画师）",
-   "mentions": [
-    {
-     "name_as_written": "朝比奈吉利",
-     "canonical_guess": "朝比奈吉利",
+     "name_as_written": "ちゃえ",
+     "canonical_guess": "ちゃえ",
      "note": "点名推荐，名单外，未核实"
+    }
+   ]
+  },
+  "319268945217": {
+   "category": "empty",
+   "artists": [],
+   "works": [],
+   "reason": "纯数字（疑为作品/作者ID），无实质文字内容",
+   "mentions": []
+  },
+  "319270216465": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "致谢互动，未点名画师",
+   "mentions": []
+  },
+  "319278166417": {
+   "category": "artist_rec",
+   "artists": [
+    "ナビエ遥か2T"
+   ],
+   "works": [],
+   "reason": "点名ナビエ遥か2T并评价（前几年画得很强，现在有点微妙）",
+   "mentions": [
+    {
+     "name_as_written": "ナビエ遥か2T",
+     "canonical_guess": "ナビエ遥か2T",
+     "note": "现在有点微妙但是前几年画的夯爆了"
+    }
+   ]
+  },
+  "323026402992": {
+   "category": "artist_rec",
+   "artists": [
+    "腐蝕"
+   ],
+   "works": [],
+   "reason": "点名腐蚀（腐蝕 简体写法）",
+   "mentions": [
+    {
+     "name_as_written": "腐蚀",
+     "canonical_guess": "腐蝕",
+     "note": "点名推荐，未附评价"
     }
    ]
   }
