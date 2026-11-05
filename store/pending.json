@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-05 14:00:01",
- "count": 8,
+ "generatedAt": "2026-11-05 15:00:01",
+ "count": 10,
  "comments": [
   {
    "rpid": 322987657360,
@@ -78,6 +78,26 @@
    "like": 0,
    "isSub": true,
    "root": 322563404928,
+   "autoMatched": []
+  },
+  {
+   "rpid": 322995538240,
+   "user": "Wojak208",
+   "content": "武田弘光",
+   "like": 0,
+   "isSub": true,
+   "root": 322385918480,
+   "autoMatched": [
+    "武田弘光"
+   ]
+  },
+  {
+   "rpid": 319254550977,
+   "user": "雨霜bug",
+   "content": "朝比奈吉利",
+   "like": 0,
+   "isSub": true,
+   "root": 322385918480,
    "autoMatched": []
   }
  ]

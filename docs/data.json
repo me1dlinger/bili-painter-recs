@@ -9,19 +9,19 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-05 14:00:01",
-  "claimedReplyCount": 964,
+  "fetchedAt": "2026-11-05 15:00:01",
+  "claimedReplyCount": 966,
   "rootCount": 252,
-  "subCount": 726,
-  "totalCount": 978,
+  "subCount": 728,
+  "totalCount": 980,
   "update": {
-   "lastFetchAt": "2026-11-05 14:00:01",
-   "lastFetchNew": 1,
-   "publishedAt": "2026-11-05 13:01:32",
+   "lastFetchAt": "2026-11-05 15:00:01",
+   "lastFetchNew": 2,
+   "publishedAt": "2026-11-05 14:01:31",
    "delta": {
-    "comments": 1,
+    "comments": 2,
     "artists": 0,
-    "mentions": 0
+    "mentions": 1
    },
    "newArtists": [],
    "newWorks": []
@@ -29,14 +29,14 @@
  },
  "stats": {
   "categories": {
-   "chat": 363,
-   "artist_rec": 566,
+   "chat": 364,
+   "artist_rec": 567,
    "work_only": 13,
    "ask": 21,
    "empty": 15
   },
   "artistCount": 562,
-  "mentionCount": 1018
+  "mentionCount": 1019
  },
  "artists": [
   {
@@ -1586,6 +1586,92 @@
    ]
   },
   {
+   "name": "武田弘光",
+   "aliases": [],
+   "mentions": 9,
+   "users": 9,
+   "likes": 29,
+   "lowConfidence": false,
+   "notes": [
+    "我只看武田弘光",
+    "点名推荐，未附评价"
+   ],
+   "evidence": [
+    {
+     "rpid": 322462001472,
+     "commenter": "空凛似凉月",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318739839777,
+     "commenter": "Y2QAQ",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322420689408,
+     "commenter": "往人",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318707218257,
+     "commenter": "奶淇琳都很亚撒西捏",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318683391153,
+     "commenter": "Ga1y_がり",
+     "isSub": true,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 318988010289,
+     "commenter": "终焉暴君_狂少",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": ""
+    },
+    {
+     "rpid": 322700507520,
+     "commenter": "忧郁干脆man",
+     "isSub": false,
+     "written": "武田弘光",
+     "context": "",
+     "note": "我只看武田弘光"
+    },
+    {
+     "rpid": 322763269728,
+     "commenter": "Z4D1镝",
+     "isSub": true,
+     "written": "武田弘光",
+     "context": "",
+     "note": "点名推荐，未附评价"
+    },
+    {
+     "rpid": 322995538240,
+     "commenter": "Wojak208",
+     "isSub": true,
+     "written": "武田弘光",
+     "context": "自动匹配 · 待复核",
+     "note": ""
+    }
+   ]
+  },
+  {
    "name": "雲呑めお",
    "aliases": [
     "云吞",
@@ -1848,84 +1934,6 @@
      "written": "木濑树",
      "context": "",
      "note": ""
-    }
-   ]
-  },
-  {
-   "name": "武田弘光",
-   "aliases": [],
-   "mentions": 8,
-   "users": 8,
-   "likes": 29,
-   "lowConfidence": false,
-   "notes": [
-    "我只看武田弘光",
-    "点名推荐，未附评价"
-   ],
-   "evidence": [
-    {
-     "rpid": 322462001472,
-     "commenter": "空凛似凉月",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318739839777,
-     "commenter": "Y2QAQ",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322420689408,
-     "commenter": "往人",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318707218257,
-     "commenter": "奶淇琳都很亚撒西捏",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318683391153,
-     "commenter": "Ga1y_がり",
-     "isSub": true,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 318988010289,
-     "commenter": "终焉暴君_狂少",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": ""
-    },
-    {
-     "rpid": 322700507520,
-     "commenter": "忧郁干脆man",
-     "isSub": false,
-     "written": "武田弘光",
-     "context": "",
-     "note": "我只看武田弘光"
-    },
-    {
-     "rpid": 322763269728,
-     "commenter": "Z4D1镝",
-     "isSub": true,
-     "written": "武田弘光",
-     "context": "",
-     "note": "点名推荐，未附评价"
     }
    ]
   },
@@ -3055,7 +3063,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 122,
+   "likes": 123,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -6831,7 +6839,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 121,
+   "likes": 122,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -13851,7 +13859,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 114,
+   "likes": 115,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -15902,8 +15910,53 @@
    "rootUser": ""
   },
   {
-   "rpid": 318671333681,
+   "rpid": 318672255777,
    "rootNo": 5,
+   "isSub": false,
+   "user": "木冬鏡",
+   "like": 115,
+   "ctime": 1793366509,
+   "firstSeen": "",
+   "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "米山舞",
+     "written": "米山舞",
+     "note": "心目中的最古goat，史上最强",
+     "rootNo": 5,
+     "isSub": false,
+     "user": "木冬鏡",
+     "rpid": 318672255777,
+     "like": 115
+    },
+    {
+     "artist": "eo58",
+     "written": "eo58",
+     "note": "基本功扎实，现代最强",
+     "rootNo": 5,
+     "isSub": false,
+     "user": "木冬鏡",
+     "rpid": 318672255777,
+     "like": 115
+    },
+    {
+     "artist": "毛谁",
+     "written": "毛谁",
+     "note": "过于勤奋，b站活跃，画风好模仿",
+     "rootNo": 5,
+     "isSub": false,
+     "user": "木冬鏡",
+     "rpid": 318672255777,
+     "like": 115
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318671333681,
+   "rootNo": 6,
    "isSub": false,
    "user": "成木辛公",
    "like": 114,
@@ -15919,51 +15972,6 @@
     "resolved_by_reply": "夜な夜な",
     "desc": "配图推荐，楼中楼补出 夜な夜な"
    },
-   "rootUser": ""
-  },
-  {
-   "rpid": 318672255777,
-   "rootNo": 6,
-   "isSub": false,
-   "user": "木冬鏡",
-   "like": 114,
-   "ctime": 1793366509,
-   "firstSeen": "",
-   "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "米山舞",
-     "written": "米山舞",
-     "note": "心目中的最古goat，史上最强",
-     "rootNo": 6,
-     "isSub": false,
-     "user": "木冬鏡",
-     "rpid": 318672255777,
-     "like": 114
-    },
-    {
-     "artist": "eo58",
-     "written": "eo58",
-     "note": "基本功扎实，现代最强",
-     "rootNo": 6,
-     "isSub": false,
-     "user": "木冬鏡",
-     "rpid": 318672255777,
-     "like": 114
-    },
-    {
-     "artist": "毛谁",
-     "written": "毛谁",
-     "note": "过于勤奋，b站活跃，画风好模仿",
-     "rootNo": 6,
-     "isSub": false,
-     "user": "木冬鏡",
-     "rpid": 318672255777,
-     "like": 114
-    }
-   ],
-   "workInfo": null,
    "rootUser": ""
   },
   {
@@ -25086,7 +25094,7 @@
   },
   {
    "rpid": 318675453041,
-   "rootNo": 6,
+   "rootNo": 5,
    "isSub": true,
    "user": "大洋白告",
    "like": 2,
@@ -25260,7 +25268,7 @@
   },
   {
    "rpid": 318677534721,
-   "rootNo": 6,
+   "rootNo": 5,
    "isSub": true,
    "user": "O白鸥o",
    "like": 7,
@@ -25273,7 +25281,7 @@
      "artist": "米山舞",
      "written": "米山舞",
      "note": "色彩和光影让人眼前一亮",
-     "rootNo": 6,
+     "rootNo": 5,
      "isSub": true,
      "user": "O白鸥o",
      "rpid": 318677534721,
@@ -25334,7 +25342,7 @@
   },
   {
    "rpid": 318677700257,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "坟中蜧",
    "like": 10,
@@ -25746,7 +25754,7 @@
   },
   {
    "rpid": 318679518081,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "次元ljcくん",
    "like": 54,
@@ -25759,7 +25767,7 @@
      "artist": "夜な夜な",
      "written": "夜老师",
      "note": "车里紫砂本、兄妹世界末日本全是精品",
-     "rootNo": 5,
+     "rootNo": 6,
      "isSub": true,
      "user": "次元ljcくん",
      "rpid": 318679518081,
@@ -25915,7 +25923,7 @@
   },
   {
    "rpid": 318680131905,
-   "rootNo": 6,
+   "rootNo": 5,
    "isSub": true,
    "user": "猫神kami",
    "like": 6,
@@ -25928,7 +25936,7 @@
      "artist": "eo58",
      "written": "eo58",
      "note": "",
-     "rootNo": 6,
+     "rootNo": 5,
      "isSub": true,
      "user": "猫神kami",
      "rpid": 318680131905,
@@ -26049,7 +26057,7 @@
   },
   {
    "rpid": 318680752049,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "忧郁的魔导士",
    "like": 2,
@@ -26113,7 +26121,7 @@
   },
   {
    "rpid": 322393801504,
-   "rootNo": 6,
+   "rootNo": 5,
    "isSub": true,
    "user": "一拳打出蓝莓果酱",
    "like": 2,
@@ -26126,7 +26134,7 @@
      "artist": "eo58",
      "written": "eo58",
      "note": "做过地下城主美",
-     "rootNo": 6,
+     "rootNo": 5,
      "isSub": true,
      "user": "一拳打出蓝莓果酱",
      "rpid": 322393801504,
@@ -26138,7 +26146,7 @@
   },
   {
    "rpid": 318680847617,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "jeff502214558",
    "like": 12,
@@ -26151,7 +26159,7 @@
      "artist": "夜な夜な",
      "written": "夜な夜な",
      "note": "",
-     "rootNo": 5,
+     "rootNo": 6,
      "isSub": true,
      "user": "jeff502214558",
      "rpid": 318680847617,
@@ -27085,7 +27093,7 @@
   },
   {
    "rpid": 318684439041,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "爍黎",
    "like": 8,
@@ -27166,7 +27174,7 @@
   },
   {
    "rpid": 318685284497,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "尊尼获嘉Official",
    "like": 6,
@@ -27179,7 +27187,7 @@
      "artist": "夜な夜な",
      "written": "夜な夜な老师",
      "note": "有剧情的作品、纯搞耍的作品都很好看也很好用",
-     "rootNo": 5,
+     "rootNo": 6,
      "isSub": true,
      "user": "尊尼获嘉Official",
      "rpid": 318685284497,
@@ -27226,7 +27234,7 @@
   },
   {
    "rpid": 318685455025,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "鷹仓杏铃铃",
    "like": 4,
@@ -27956,7 +27964,7 @@
   },
   {
    "rpid": 322403377296,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "AAA专业义体牢彩叶",
    "like": 0,
@@ -29665,7 +29673,7 @@
   },
   {
    "rpid": 322416005584,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "返贫专业户",
    "like": 0,
@@ -30809,7 +30817,7 @@
   },
   {
    "rpid": 322423841888,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "producerY",
    "like": 1,
@@ -31911,7 +31919,7 @@
   },
   {
    "rpid": 322434058048,
-   "rootNo": 6,
+   "rootNo": 5,
    "isSub": true,
    "user": "ManatoX",
    "like": 0,
@@ -32449,7 +32457,7 @@
   },
   {
    "rpid": 318720886497,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "鬼上身的男人",
    "like": 2,
@@ -34821,7 +34829,7 @@
   },
   {
    "rpid": 322480993552,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "MOMIJISAMA_",
    "like": 1,
@@ -35239,7 +35247,7 @@
   },
   {
    "rpid": 318785171569,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "古茗地心",
    "like": 0,
@@ -35253,7 +35261,7 @@
   },
   {
    "rpid": 318785448129,
-   "rootNo": 5,
+   "rootNo": 6,
    "isSub": true,
    "user": "古茗地心",
    "like": 0,
@@ -40268,6 +40276,45 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "Toonsandwitch"
+  },
+  {
+   "rpid": 322995538240,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "Wojak208",
+   "like": 0,
+   "ctime": 1793858555,
+   "firstSeen": "2026-11-05 15:00:01",
+   "content": "武田弘光",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "武田弘光",
+     "written": "武田弘光",
+     "note": "自动匹配 · 待复核",
+     "rootNo": 1,
+     "isSub": true,
+     "user": "Wojak208",
+     "rpid": 322995538240,
+     "like": 0
+    }
+   ],
+   "workInfo": null,
+   "rootUser": "99Commun"
+  },
+  {
+   "rpid": 319254550977,
+   "rootNo": 1,
+   "isSub": true,
+   "user": "雨霜bug",
+   "like": 0,
+   "ctime": 1793859172,
+   "firstSeen": "2026-11-05 15:00:01",
+   "content": "朝比奈吉利",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "99Commun"
   }
  ]
 }
