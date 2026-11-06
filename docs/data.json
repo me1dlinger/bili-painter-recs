@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 15:00:01",
+  "fetchedAt": "2026-11-06 16:00:02",
   "claimedReplyCount": 982,
   "rootCount": 256,
   "subCount": 740,
   "totalCount": 996,
   "update": {
-   "lastFetchAt": "2026-11-06 15:00:01",
+   "lastFetchAt": "2026-11-06 16:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 14:01:33",
+   "publishedAt": "2026-11-06 15:01:32",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -2948,7 +2948,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 12,
+   "likes": 13,
    "lowConfidence": false,
    "notes": [
     "剧情脑洞太无敌了",
@@ -3108,7 +3108,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 125,
+   "likes": 126,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -3595,7 +3595,7 @@
    ],
    "mentions": 4,
    "users": 4,
-   "likes": 340,
+   "likes": 341,
    "lowConfidence": false,
    "notes": [
     "顶级纯爱画师",
@@ -6966,7 +6966,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 124,
+   "likes": 126,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -14174,7 +14174,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 116,
+   "likes": 117,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -16129,7 +16129,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 435,
+   "like": 436,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -16271,7 +16271,7 @@
    "rootNo": 5,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 116,
+   "like": 117,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -16285,7 +16285,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 116
+     "like": 117
     },
     {
      "artist": "eo58",
@@ -16295,7 +16295,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 116
+     "like": 117
     },
     {
      "artist": "毛谁",
@@ -16305,7 +16305,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 116
+     "like": 117
     }
    ],
    "workInfo": null,
@@ -17562,8 +17562,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318708680129,
+   "rpid": 322780142240,
    "rootNo": 36,
+   "isSub": false,
+   "user": "Gabriel_ovo",
+   "like": 9,
+   "ctime": 1793678232,
+   "firstSeen": "2026-11-03 12:00:02",
+   "content": "师走之翁，剧情脑洞太无敌了",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "師走の翁",
+     "written": "师走之翁",
+     "note": "剧情脑洞太无敌了",
+     "rootNo": 36,
+     "isSub": false,
+     "user": "Gabriel_ovo",
+     "rpid": 322780142240,
+     "like": 9
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318708680129,
+   "rootNo": 37,
    "isSub": false,
    "user": "海绵宝宝霸王丝儿",
    "like": 8,
@@ -17576,7 +17601,7 @@
      "artist": "腐蝕",
      "written": "腐蚀",
      "note": "",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17586,7 +17611,7 @@
      "artist": "肉棒魔羅ノ進",
      "written": "肉○魔罗",
      "note": "原文用○遮挡",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17596,35 +17621,10 @@
      "artist": "織田non",
      "written": "织田non",
      "note": "",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
-     "like": 8
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322780142240,
-   "rootNo": 37,
-   "isSub": false,
-   "user": "Gabriel_ovo",
-   "like": 8,
-   "ctime": 1793678232,
-   "firstSeen": "2026-11-03 12:00:02",
-   "content": "师走之翁，剧情脑洞太无敌了",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "師走の翁",
-     "written": "师走之翁",
-     "note": "剧情脑洞太无敌了",
-     "rootNo": 37,
-     "isSub": false,
-     "user": "Gabriel_ovo",
-     "rpid": 322780142240,
      "like": 8
     }
    ],
@@ -25429,7 +25429,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "Kirisaki_キ",
-   "like": 332,
+   "like": 333,
    "ctime": 1793367740,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "無糖红茶[汤圆]",
@@ -25443,7 +25443,7 @@
      "isSub": true,
      "user": "Kirisaki_キ",
      "rpid": 318674430225,
-     "like": 332
+     "like": 333
     }
    ],
    "workInfo": null,
@@ -25633,7 +25633,7 @@
    "rootNo": 5,
    "isSub": true,
    "user": "大洋白告",
-   "like": 2,
+   "like": 3,
    "ctime": 1793368351,
    "firstSeen": "",
    "content": "哥们有品[汤圆]",
@@ -25807,7 +25807,7 @@
    "rootNo": 5,
    "isSub": true,
    "user": "O白鸥o",
-   "like": 8,
+   "like": 9,
    "ctime": 1793369440,
    "firstSeen": "",
    "content": "米山舞的色彩和光影确实永远让人眼前一亮啊[汤圆]",
@@ -25821,7 +25821,7 @@
      "isSub": true,
      "user": "O白鸥o",
      "rpid": 318677534721,
-     "like": 8
+     "like": 9
     }
    ],
    "workInfo": null,
@@ -29903,7 +29903,7 @@
    "rootNo": 13,
    "isSub": true,
    "user": "魔人凯尔希",
-   "like": 1,
+   "like": 2,
    "ctime": 1793387094,
    "firstSeen": "",
    "content": "40010起手就该电了⚡⚡⚡",
@@ -34998,7 +34998,7 @@
   },
   {
    "rpid": 322466615200,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "是二个人",
    "like": 0,
@@ -35655,7 +35655,7 @@
   },
   {
    "rpid": 318773910017,
-   "rootNo": 36,
+   "rootNo": 37,
    "isSub": true,
    "user": "海绵宝宝霸王丝儿",
    "like": 0,
@@ -35668,7 +35668,7 @@
      "artist": "まめおじたん",
      "written": "mameojitan",
      "note": "旷世巨作：Knospenmädchen",
-     "rootNo": 36,
+     "rootNo": 37,
      "isSub": true,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318773910017,
@@ -40053,7 +40053,7 @@
   },
   {
    "rpid": 319119817345,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "燕子我可不能么有你啊",
    "like": 1,
@@ -40181,7 +40181,7 @@
   },
   {
    "rpid": 319133640241,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "拈剑挽雪",
    "like": 0,
@@ -40195,7 +40195,7 @@
   },
   {
    "rpid": 322869892512,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40208,7 +40208,7 @@
      "artist": "師走の翁",
      "written": "師走の翁",
      "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
-     "rootNo": 37,
+     "rootNo": 36,
      "isSub": true,
      "user": "Gabriel_ovo",
      "rpid": 322869892512,
@@ -40220,7 +40220,7 @@
   },
   {
    "rpid": 322870506288,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "Gabriel_ovo",
    "like": 1,
@@ -40551,7 +40551,7 @@
   },
   {
    "rpid": 319181976257,
-   "rootNo": 37,
+   "rootNo": 36,
    "isSub": true,
    "user": "少抱怨多运动多努力",
    "like": 0,

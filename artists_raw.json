@@ -2104,7 +2104,7 @@
     "artist": "腐蝕",
     "written": "腐蚀",
     "note": "",
-    "rootNo": 36,
+    "rootNo": 37,
     "isSub": false,
     "user": "海绵宝宝霸王丝儿",
     "rpid": 318708680129,
@@ -2321,7 +2321,7 @@
     "artist": "肉棒魔羅ノ進",
     "written": "肉○魔罗",
     "note": "原文用○遮挡",
-    "rootNo": 36,
+    "rootNo": 37,
     "isSub": false,
     "user": "海绵宝宝霸王丝儿",
     "rpid": 318708680129,
@@ -5232,7 +5232,7 @@
     "artist": "織田non",
     "written": "织田non",
     "note": "",
-    "rootNo": 36,
+    "rootNo": 37,
     "isSub": false,
     "user": "海绵宝宝霸王丝儿",
     "rpid": 318708680129,
@@ -5388,7 +5388,7 @@
   ],
   "mentions": 5,
   "users": 3,
-  "likes": 12,
+  "likes": 13,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5453,11 +5453,11 @@
     "artist": "師走の翁",
     "written": "师走之翁",
     "note": "剧情脑洞太无敌了",
-    "rootNo": 37,
+    "rootNo": 36,
     "isSub": false,
     "user": "Gabriel_ovo",
     "rpid": 322780142240,
-    "like": 8
+    "like": 9
    },
    {
     "artist": "師走の翁",
@@ -5473,7 +5473,7 @@
     "artist": "師走の翁",
     "written": "師走の翁",
     "note": "翁計畫，好像有很多翻译，你自己找吧，实在不行搜 freeze，最有名的一部作品",
-    "rootNo": 37,
+    "rootNo": 36,
     "isSub": true,
     "user": "Gabriel_ovo",
     "rpid": 322869892512,
@@ -5667,7 +5667,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 125,
+  "likes": 126,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5709,7 +5709,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 116
+    "like": 117
    },
    {
     "artist": "eo58",
@@ -6498,7 +6498,7 @@
   ],
   "mentions": 4,
   "users": 4,
-  "likes": 340,
+  "likes": 341,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -6560,7 +6560,7 @@
     "isSub": true,
     "user": "Kirisaki_キ",
     "rpid": 318674430225,
-    "like": 332
+    "like": 333
    },
    {
     "artist": "無糖紅茶",
@@ -10439,7 +10439,7 @@
     "artist": "まめおじたん",
     "written": "mameojitan",
     "note": "旷世巨作：Knospenmädchen",
-    "rootNo": 36,
+    "rootNo": 37,
     "isSub": true,
     "user": "海绵宝宝霸王丝儿",
     "rpid": 318773910017,
@@ -12044,7 +12044,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 124,
+  "likes": 126,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -12072,7 +12072,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 116
+    "like": 117
    },
    {
     "artist": "米山舞",
@@ -12082,7 +12082,7 @@
     "isSub": true,
     "user": "O白鸥o",
     "rpid": 318677534721,
-    "like": 8
+    "like": 9
    }
   ]
  },
@@ -22817,7 +22817,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 116,
+  "likes": 117,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22838,7 +22838,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 116
+    "like": 117
    }
   ]
  },
