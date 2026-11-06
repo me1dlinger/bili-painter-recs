@@ -1,31 +1,11 @@
 {
-  "generatedAt": "2026-11-06 22:48:00",
+  "generatedAt": "2026-11-07 00:10:00",
   "comments": {
-    "323077015968": {
+    "323150294368": {
       "category": "chat",
       "artists": [],
       "works": [],
-      "reason": "楼中楼解释用语（夸饰说法），未点名画师",
-      "mentions": []
-    },
-    "319337834689": {
-      "category": "artist_rec",
-      "artists": ["大仲"],
-      "works": [],
-      "reason": "点名大仲（名单外新画师），评价最对胃口但更新慢",
-      "mentions": [
-        {
-          "name_as_written": "大仲",
-          "canonical_guess": "大仲",
-          "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）"
-        }
-      ]
-    },
-    "323140153008": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "无敌了这个，感慨未点名画师",
+      "reason": "楼中楼调侃某画师失联（未点名画师名）",
       "mentions": []
     }
   }
