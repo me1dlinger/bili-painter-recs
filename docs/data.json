@@ -9,15 +9,15 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-07 01:00:02",
+  "fetchedAt": "2026-11-07 02:00:01",
   "claimedReplyCount": 984,
   "rootCount": 256,
   "subCount": 742,
   "totalCount": 998,
   "update": {
-   "lastFetchAt": "2026-11-07 01:00:02",
+   "lastFetchAt": "2026-11-07 02:00:01",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-07 00:10:19",
+   "publishedAt": "2026-11-07 01:01:33",
    "delta": {
     "comments": 0,
     "artists": 0,
@@ -51,7 +51,7 @@
    ],
    "mentions": 20,
    "users": 18,
-   "likes": 330,
+   "likes": 331,
    "lowConfidence": false,
    "notes": [
     "顶中顶",
@@ -5047,7 +5047,7 @@
    "aliases": [],
    "mentions": 3,
    "users": 2,
-   "likes": 1,
+   "likes": 2,
    "lowConfidence": false,
    "notes": [
     "列举推荐",
@@ -7180,7 +7180,7 @@
    ],
    "mentions": 2,
    "users": 2,
-   "likes": 7,
+   "likes": 8,
    "lowConfidence": false,
    "notes": [
     "老作品，艾姬多娜地牢",
@@ -7590,7 +7590,7 @@
    ],
    "mentions": 2,
    "users": 1,
-   "likes": 31,
+   "likes": 32,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -12355,7 +12355,7 @@
    ],
    "mentions": 1,
    "users": 1,
-   "likes": 76,
+   "likes": 77,
    "lowConfidence": false,
    "notes": [
     "肉感十足，细节讲究，杂食"
@@ -13072,7 +13072,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 1,
+   "likes": 2,
    "lowConfidence": false,
    "notes": [
     "再补两个之一，名单外，未核实"
@@ -16164,7 +16164,7 @@
    "rootNo": 2,
    "isSub": false,
    "user": "暴食-波奇Q",
-   "like": 163,
+   "like": 164,
    "ctime": 1793402068,
    "firstSeen": "",
    "content": "鳥居ヨシツナ 尤其是那本少年啊，抱紧我吧。个人感觉非常有感觉",
@@ -16178,7 +16178,7 @@
      "isSub": false,
      "user": "暴食-波奇Q",
      "rpid": 322420769312,
-     "like": 163
+     "like": 164
     }
    ],
    "workInfo": null,
@@ -16382,7 +16382,7 @@
    "rootNo": 8,
    "isSub": false,
    "user": "里芙",
-   "like": 76,
+   "like": 77,
    "ctime": 1793402470,
    "firstSeen": "",
    "content": "可能不算goat但算我心目中最喜欢的之一，ラマンダ老师，肉感十足而且细节方面很讲究，都能看到鸡皮疙瘩。杂食，有纯爱有NTR有小孩大车",
@@ -16396,7 +16396,7 @@
      "isSub": false,
      "user": "里芙",
      "rpid": 322421046848,
-     "like": 76
+     "like": 77
     }
    ],
    "workInfo": null,
@@ -16693,7 +16693,7 @@
    "rootNo": 16,
    "isSub": false,
    "user": "Master獨角",
-   "like": 31,
+   "like": 32,
    "ctime": 1793409008,
    "firstSeen": "",
    "content": "月轮老师也不错",
@@ -16707,7 +16707,7 @@
      "isSub": false,
      "user": "Master獨角",
      "rpid": 322427300160,
-     "like": 31
+     "like": 32
     }
    ],
    "workInfo": null,
@@ -17608,8 +17608,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 318708680129,
+   "rpid": 318670706833,
    "rootNo": 37,
+   "isSub": false,
+   "user": "五十斤土块",
+   "like": 8,
+   "ctime": 1793365762,
+   "firstSeen": "",
+   "content": "up主先来，雾咲白狐我的goat（虽然是老作品，但艾姬多娜地牢太牛逼了）",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "霧咲白狐",
+     "written": "雾咲白狐",
+     "note": "老作品，艾姬多娜地牢",
+     "rootNo": 37,
+     "isSub": false,
+     "user": "五十斤土块",
+     "rpid": 318670706833,
+     "like": 8
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 318708680129,
+   "rootNo": 38,
    "isSub": false,
    "user": "海绵宝宝霸王丝儿",
    "like": 8,
@@ -17622,7 +17647,7 @@
      "artist": "腐蝕",
      "written": "腐蚀",
      "note": "",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17632,7 +17657,7 @@
      "artist": "肉棒魔羅ノ進",
      "written": "肉○魔罗",
      "note": "原文用○遮挡",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17642,7 +17667,7 @@
      "artist": "織田non",
      "written": "织田non",
      "note": "",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": false,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318708680129,
@@ -17653,33 +17678,22 @@
    "rootUser": ""
   },
   {
-   "rpid": 318670706833,
-   "rootNo": 38,
+   "rpid": 318784886369,
+   "rootNo": 39,
    "isSub": false,
-   "user": "五十斤土块",
+   "user": "魔女の部屋",
    "like": 7,
-   "ctime": 1793365762,
+   "ctime": 1793452737,
    "firstSeen": "",
-   "content": "up主先来，雾咲白狐我的goat（虽然是老作品，但艾姬多娜地牢太牛逼了）",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "霧咲白狐",
-     "written": "雾咲白狐",
-     "note": "老作品，艾姬多娜地牢",
-     "rootNo": 38,
-     "isSub": false,
-     "user": "五十斤土块",
-     "rpid": 318670706833,
-     "like": 7
-    }
-   ],
+   "content": "好变态的日文标题（不知为何网页默认是日文）",
+   "category": "chat",
+   "artists": [],
    "workInfo": null,
    "rootUser": ""
   },
   {
    "rpid": 318681891249,
-   "rootNo": 39,
+   "rootNo": 40,
    "isSub": false,
    "user": "背手比耶",
    "like": 6,
@@ -17692,7 +17706,7 @@
      "artist": "銀曜ハル",
      "written": "银曜ハル",
      "note": "从小看到大",
-     "rootNo": 39,
+     "rootNo": 40,
      "isSub": false,
      "user": "背手比耶",
      "rpid": 318681891249,
@@ -17704,7 +17718,7 @@
   },
   {
    "rpid": 318698605105,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": false,
    "user": "灬Shiro",
    "like": 6,
@@ -17717,7 +17731,7 @@
      "artist": "ホムンクルス",
      "written": "ホムンクルス",
      "note": "纯爱的神，眼神刻画深刻",
-     "rootNo": 40,
+     "rootNo": 41,
      "isSub": false,
      "user": "灬Shiro",
      "rpid": 318698605105,
@@ -17729,7 +17743,7 @@
   },
   {
    "rpid": 318709104193,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": false,
    "user": "仰望·半月",
    "like": 6,
@@ -17743,27 +17757,13 @@
   },
   {
    "rpid": 322457671904,
-   "rootNo": 42,
+   "rootNo": 43,
    "isSub": false,
    "user": "--邱--",
    "like": 6,
    "ctime": 1793427029,
    "firstSeen": "",
    "content": "这评论区不赖[汤圆]",
-   "category": "chat",
-   "artists": [],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 318784886369,
-   "rootNo": 43,
-   "isSub": false,
-   "user": "魔女の部屋",
-   "like": 6,
-   "ctime": 1793452737,
-   "firstSeen": "",
-   "content": "好变态的日文标题（不知为何网页默认是日文）",
    "category": "chat",
    "artists": [],
    "workInfo": null,
@@ -25264,7 +25264,7 @@
   },
   {
    "rpid": 322383869904,
-   "rootNo": 38,
+   "rootNo": 37,
    "isSub": true,
    "user": "誓词ぁ",
    "like": 1,
@@ -25398,7 +25398,7 @@
   },
   {
    "rpid": 318673196753,
-   "rootNo": 38,
+   "rootNo": 37,
    "isSub": true,
    "user": "酋长咱别玩了",
    "like": 0,
@@ -25411,7 +25411,7 @@
      "artist": "霧咲白狐",
      "written": "雾咲白狐老师",
      "note": "魔物娘确实好",
-     "rootNo": 38,
+     "rootNo": 37,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -25421,7 +25421,7 @@
      "artist": "messy",
      "written": "messy老师",
      "note": "画面细腻温润，扶她",
-     "rootNo": 38,
+     "rootNo": 37,
      "isSub": true,
      "user": "酋长咱别玩了",
      "rpid": 318673196753,
@@ -29857,7 +29857,7 @@
   },
   {
    "rpid": 322414288544,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "mopangou",
    "like": 0,
@@ -29870,7 +29870,7 @@
      "artist": "ホムンクルス",
      "written": "人造人老师",
      "note": "",
-     "rootNo": 40,
+     "rootNo": 41,
      "isSub": true,
      "user": "mopangou",
      "rpid": 322414288544,
@@ -30418,7 +30418,7 @@
   },
   {
    "rpid": 318703103521,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "ShorePeeker",
    "like": 0,
@@ -32008,7 +32008,7 @@
   },
   {
    "rpid": 318712427617,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "直接写出解",
    "like": 0,
@@ -32021,7 +32021,7 @@
      "artist": "桃雲",
      "written": "桃云",
      "note": "画的确实夸张",
-     "rootNo": 41,
+     "rootNo": 42,
      "isSub": true,
      "user": "直接写出解",
      "rpid": 318712427617,
@@ -32673,7 +32673,7 @@
   },
   {
    "rpid": 318719270225,
-   "rootNo": 40,
+   "rootNo": 41,
    "isSub": true,
    "user": "神奇的malatang",
    "like": 0,
@@ -34211,7 +34211,7 @@
   },
   {
    "rpid": 318731651841,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "踉踉_跄",
    "like": 0,
@@ -35030,7 +35030,7 @@
   },
   {
    "rpid": 322466615200,
-   "rootNo": 37,
+   "rootNo": 38,
    "isSub": true,
    "user": "是二个人",
    "like": 0,
@@ -35044,7 +35044,7 @@
   },
   {
    "rpid": 318751492993,
-   "rootNo": 42,
+   "rootNo": 43,
    "isSub": true,
    "user": "多事春秋",
    "like": 1,
@@ -35150,7 +35150,7 @@
   },
   {
    "rpid": 322473083888,
-   "rootNo": 42,
+   "rootNo": 43,
    "isSub": true,
    "user": "喂不饱的白狐",
    "like": 2,
@@ -35687,7 +35687,7 @@
   },
   {
    "rpid": 318773910017,
-   "rootNo": 37,
+   "rootNo": 38,
    "isSub": true,
    "user": "海绵宝宝霸王丝儿",
    "like": 0,
@@ -35700,7 +35700,7 @@
      "artist": "まめおじたん",
      "written": "mameojitan",
      "note": "旷世巨作：Knospenmädchen",
-     "rootNo": 37,
+     "rootNo": 38,
      "isSub": true,
      "user": "海绵宝宝霸王丝儿",
      "rpid": 318773910017,
@@ -37210,7 +37210,7 @@
   },
   {
    "rpid": 322554083648,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "尾刃账",
    "like": 0,
@@ -38400,7 +38400,7 @@
   },
   {
    "rpid": 318894394161,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "英梨梨errr",
    "like": 1,
@@ -39041,7 +39041,7 @@
   },
   {
    "rpid": 322681013360,
-   "rootNo": 41,
+   "rootNo": 42,
    "isSub": true,
    "user": "吉隆坡气象学家",
    "like": 0,
@@ -40797,7 +40797,7 @@
    "rootNo": 19,
    "isSub": true,
    "user": "觅渡的裤子",
-   "like": 1,
+   "like": 2,
    "ctime": 1793853647,
    "firstSeen": "2026-11-05 13:00:02",
    "content": "你我简直就是兄弟啊(\n再补两个エノキドォ，坂井",
@@ -40811,7 +40811,7 @@
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
-     "like": 1
+     "like": 2
     },
     {
      "artist": "坂井",
@@ -40821,7 +40821,7 @@
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
-     "like": 1
+     "like": 2
     }
    ],
    "workInfo": null,
