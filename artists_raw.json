@@ -3655,7 +3655,7 @@
   ],
   "mentions": 9,
   "users": 8,
-  "likes": 100,
+  "likes": 101,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3732,7 +3732,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 91
+    "like": 92
    },
    {
     "artist": "昼寝",
@@ -4702,7 +4702,7 @@
     "artist": "黒本君",
     "written": "黑本君",
     "note": "jc系列也不错",
-    "rootNo": 32,
+    "rootNo": 33,
     "isSub": true,
     "user": "爱草芥的八奈见",
     "rpid": 322442556464,
@@ -5488,7 +5488,7 @@
   ],
   "mentions": 5,
   "users": 3,
-  "likes": 10,
+  "likes": 11,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5553,17 +5553,17 @@
     "artist": "胃之上奇嘉郎",
     "written": "胃之上奇嘉郎",
     "note": "画里有怨念的来了",
-    "rootNo": 33,
+    "rootNo": 32,
     "isSub": false,
     "user": "DERTF",
     "rpid": 322799332000,
-    "like": 10
+    "like": 11
    },
    {
     "artist": "胃之上奇嘉郎",
     "written": "胃之上奇嘉郎",
     "note": "著名的侍奉委员那本",
-    "rootNo": 33,
+    "rootNo": 32,
     "isSub": true,
     "user": "DERTF",
     "rpid": 322809270672,
@@ -5573,7 +5573,7 @@
     "artist": "胃之上奇嘉郎",
     "written": "胃之上奇嘉郎",
     "note": "在本子画师里面可以说是最顶的一批人之一了",
-    "rootNo": 33,
+    "rootNo": 32,
     "isSub": true,
     "user": "DERTF",
     "rpid": 322947834544,
@@ -6369,7 +6369,7 @@
     "artist": "毎日健康生活",
     "written": "每日健康生活",
     "note": "水里画师里的goat",
-    "rootNo": 32,
+    "rootNo": 33,
     "isSub": false,
     "user": "えっちゃん_Official",
     "rpid": 322419700624,
@@ -6379,7 +6379,7 @@
     "artist": "毎日健康生活",
     "written": "健康哥哥",
     "note": "",
-    "rootNo": 32,
+    "rootNo": 33,
     "isSub": true,
     "user": "Dorayakinana",
     "rpid": 318708690241,
@@ -8957,7 +8957,7 @@
   "aliases": [],
   "mentions": 3,
   "users": 2,
-  "likes": 0,
+  "likes": 1,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -9012,7 +9012,7 @@
     "isSub": true,
     "user": "觅渡的裤子",
     "rpid": 322988345888,
-    "like": 0
+    "like": 1
    }
   ]
  },
@@ -21173,7 +21173,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 0,
+  "likes": 1,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -21194,7 +21194,7 @@
     "isSub": true,
     "user": "觅渡的裤子",
     "rpid": 322988345888,
-    "like": 0
+    "like": 1
    }
   ]
  },
@@ -22363,7 +22363,7 @@
   ],
   "mentions": 1,
   "users": 1,
-  "likes": 3,
+  "likes": 4,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22384,7 +22384,7 @@
     "isSub": true,
     "user": "啾啾武夫",
     "rpid": 322392040048,
-    "like": 3
+    "like": 4
    }
   ]
  },

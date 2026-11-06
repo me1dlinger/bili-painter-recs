@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 21:00:02",
-  "claimedReplyCount": 982,
+  "fetchedAt": "2026-11-06 22:00:01",
+  "claimedReplyCount": 983,
   "rootCount": 256,
-  "subCount": 740,
-  "totalCount": 996,
+  "subCount": 741,
+  "totalCount": 997,
   "update": {
-   "lastFetchAt": "2026-11-06 21:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 20:01:35",
+   "lastFetchAt": "2026-11-06 22:00:01",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-06 21:01:35",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 369,
+   "chat": 370,
    "artist_rec": 577,
    "work_only": 13,
    "ask": 21,
@@ -1979,7 +1979,7 @@
    ],
    "mentions": 9,
    "users": 8,
-   "likes": 100,
+   "likes": 101,
    "lowConfidence": false,
    "notes": [
     "画功goat",
@@ -3005,7 +3005,7 @@
    ],
    "mentions": 5,
    "users": 3,
-   "likes": 10,
+   "likes": 11,
    "lowConfidence": false,
    "notes": [
     "很久不画了，领先业界十年",
@@ -5047,7 +5047,7 @@
    "aliases": [],
    "mentions": 3,
    "users": 2,
-   "likes": 0,
+   "likes": 1,
    "lowConfidence": false,
    "notes": [
     "列举推荐",
@@ -13072,7 +13072,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 0,
+   "likes": 1,
    "lowConfidence": false,
    "notes": [
     "再补两个之一，名单外，未核实"
@@ -13873,7 +13873,7 @@
    ],
    "mentions": 1,
    "users": 1,
-   "likes": 3,
+   "likes": 4,
    "lowConfidence": false,
    "notes": [],
    "evidence": [
@@ -16129,7 +16129,7 @@
    "rootNo": 1,
    "isSub": false,
    "user": "99Commun",
-   "like": 440,
+   "like": 441,
    "ctime": 1793367135,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "评论区的各位一人一个推荐画师",
@@ -16336,7 +16336,7 @@
    "rootNo": 7,
    "isSub": false,
    "user": "゚゙゚゙゚帕琪",
-   "like": 91,
+   "like": 92,
    "ctime": 1793425629,
    "firstSeen": "",
    "content": "晝寢，画功goat",
@@ -16350,7 +16350,7 @@
      "isSub": false,
      "user": "゚゙゚゙゚帕琪",
      "rpid": 318738474049,
-     "like": 91
+     "like": 92
     }
    ],
    "workInfo": null,
@@ -16633,7 +16633,7 @@
    "rootNo": 14,
    "isSub": false,
    "user": "不平等云雾",
-   "like": 48,
+   "like": 50,
    "ctime": 1793542679,
    "firstSeen": "2026-11-01 22:21:18",
    "content": "让AI做了个网页然后定时重新抓取评论更新[千郁郁表情包_XDDDDD]",
@@ -17112,8 +17112,33 @@
    "rootUser": ""
   },
   {
-   "rpid": 322419700624,
+   "rpid": 322799332000,
    "rootNo": 32,
+   "isSub": false,
+   "user": "DERTF",
+   "like": 11,
+   "ctime": 1793692257,
+   "firstSeen": "2026-11-03 16:00:02",
+   "content": "画里有怨念的来了：胃之上奇嘉郎",
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "胃之上奇嘉郎",
+     "written": "胃之上奇嘉郎",
+     "note": "画里有怨念的来了",
+     "rootNo": 32,
+     "isSub": false,
+     "user": "DERTF",
+     "rpid": 322799332000,
+     "like": 11
+    }
+   ],
+   "workInfo": null,
+   "rootUser": ""
+  },
+  {
+   "rpid": 322419700624,
+   "rootNo": 33,
    "isSub": false,
    "user": "えっちゃん_Official",
    "like": 10,
@@ -17126,35 +17151,10 @@
      "artist": "毎日健康生活",
      "written": "每日健康生活",
      "note": "水里画师里的goat",
-     "rootNo": 32,
+     "rootNo": 33,
      "isSub": false,
      "user": "えっちゃん_Official",
      "rpid": 322419700624,
-     "like": 10
-    }
-   ],
-   "workInfo": null,
-   "rootUser": ""
-  },
-  {
-   "rpid": 322799332000,
-   "rootNo": 33,
-   "isSub": false,
-   "user": "DERTF",
-   "like": 10,
-   "ctime": 1793692257,
-   "firstSeen": "2026-11-03 16:00:02",
-   "content": "画里有怨念的来了：胃之上奇嘉郎",
-   "category": "artist_rec",
-   "artists": [
-    {
-     "artist": "胃之上奇嘉郎",
-     "written": "胃之上奇嘉郎",
-     "note": "画里有怨念的来了",
-     "rootNo": 33,
-     "isSub": false,
-     "user": "DERTF",
-     "rpid": 322799332000,
      "like": 10
     }
    ],
@@ -26137,7 +26137,7 @@
    "rootNo": 1,
    "isSub": true,
    "user": "啾啾武夫",
-   "like": 3,
+   "like": 4,
    "ctime": 1793370369,
    "firstSeen": "2026-11-02 09:26:48",
    "content": "东山翔",
@@ -26151,7 +26151,7 @@
      "isSub": true,
      "user": "啾啾武夫",
      "rpid": 322392040048,
-     "like": 3
+     "like": 4
     }
    ],
    "workInfo": null,
@@ -30651,7 +30651,7 @@
   },
   {
    "rpid": 318704684641,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "幽心碧思",
    "like": 1,
@@ -30885,7 +30885,7 @@
   },
   {
    "rpid": 318706424961,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "卡面来打比了多_crossz",
    "like": 0,
@@ -31030,7 +31030,7 @@
   },
   {
    "rpid": 318707200929,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "奶淇琳都很亚撒西捏",
    "like": 1,
@@ -31325,7 +31325,7 @@
   },
   {
    "rpid": 322423651728,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "冥夜之猫",
    "like": 0,
@@ -31395,7 +31395,7 @@
   },
   {
    "rpid": 318708690241,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "Dorayakinana",
    "like": 0,
@@ -31408,7 +31408,7 @@
      "artist": "毎日健康生活",
      "written": "健康哥哥",
      "note": "",
-     "rootNo": 32,
+     "rootNo": 33,
      "isSub": true,
      "user": "Dorayakinana",
      "rpid": 318708690241,
@@ -32001,7 +32001,7 @@
   },
   {
    "rpid": 318712568881,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "郑律子",
    "like": 0,
@@ -33007,7 +33007,7 @@
   },
   {
    "rpid": 318720913409,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "鬼上身的男人",
    "like": 0,
@@ -33728,7 +33728,7 @@
   },
   {
    "rpid": 318724488753,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "白河萤来喽",
    "like": 0,
@@ -33876,7 +33876,7 @@
   },
   {
    "rpid": 322442556464,
-   "rootNo": 32,
+   "rootNo": 33,
    "isSub": true,
    "user": "爱草芥的八奈见",
    "like": 0,
@@ -33889,7 +33889,7 @@
      "artist": "黒本君",
      "written": "黑本君",
      "note": "jc系列也不错",
-     "rootNo": 32,
+     "rootNo": 33,
      "isSub": true,
      "user": "爱草芥的八奈见",
      "rpid": 322442556464,
@@ -39735,7 +39735,7 @@
   },
   {
    "rpid": 322807839984,
-   "rootNo": 33,
+   "rootNo": 32,
    "isSub": true,
    "user": "忆彡殇",
    "like": 0,
@@ -39774,7 +39774,7 @@
   },
   {
    "rpid": 322809270672,
-   "rootNo": 33,
+   "rootNo": 32,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -39787,7 +39787,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "著名的侍奉委员那本",
-     "rootNo": 33,
+     "rootNo": 32,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322809270672,
@@ -40614,7 +40614,7 @@
   },
   {
    "rpid": 322929331728,
-   "rootNo": 33,
+   "rootNo": 32,
    "isSub": true,
    "user": "zoezzzi",
    "like": 0,
@@ -40667,7 +40667,7 @@
   },
   {
    "rpid": 322947834544,
-   "rootNo": 33,
+   "rootNo": 32,
    "isSub": true,
    "user": "DERTF",
    "like": 0,
@@ -40680,7 +40680,7 @@
      "artist": "胃之上奇嘉郎",
      "written": "胃之上奇嘉郎",
      "note": "在本子画师里面可以说是最顶的一批人之一了",
-     "rootNo": 33,
+     "rootNo": 32,
      "isSub": true,
      "user": "DERTF",
      "rpid": 322947834544,
@@ -40765,7 +40765,7 @@
    "rootNo": 19,
    "isSub": true,
    "user": "觅渡的裤子",
-   "like": 0,
+   "like": 1,
    "ctime": 1793853647,
    "firstSeen": "2026-11-05 13:00:02",
    "content": "你我简直就是兄弟啊(\n再补两个エノキドォ，坂井",
@@ -40779,7 +40779,7 @@
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
-     "like": 0
+     "like": 1
     },
     {
      "artist": "坂井",
@@ -40789,7 +40789,7 @@
      "isSub": true,
      "user": "觅渡的裤子",
      "rpid": 322988345888,
-     "like": 0
+     "like": 1
     }
    ],
    "workInfo": null,
@@ -41136,6 +41136,20 @@
    "artists": [],
    "workInfo": null,
    "rootUser": "゚゙゚゙゚帕琪"
+  },
+  {
+   "rpid": 323140153008,
+   "rootNo": 92,
+   "isSub": true,
+   "user": "继国缘一233",
+   "like": 0,
+   "ctime": 1793971556,
+   "firstSeen": "2026-11-06 22:00:01",
+   "content": "无敌了这个",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "大海边的樱花树"
   }
  ]
 }
