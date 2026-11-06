@@ -5667,7 +5667,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 123,
+  "likes": 124,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5709,7 +5709,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 115
+    "like": 116
    },
    {
     "artist": "eo58",
@@ -12044,7 +12044,7 @@
   "aliases": [],
   "mentions": 2,
   "users": 2,
-  "likes": 123,
+  "likes": 124,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -12072,7 +12072,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 115
+    "like": 116
    },
    {
     "artist": "米山舞",
@@ -22817,7 +22817,7 @@
   "aliases": [],
   "mentions": 1,
   "users": 1,
-  "likes": 115,
+  "likes": 116,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22838,7 +22838,7 @@
     "isSub": false,
     "user": "木冬鏡",
     "rpid": 318672255777,
-    "like": 115
+    "like": 116
    }
   ]
  },

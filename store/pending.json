@@ -1,5 +1,15 @@
 {
- "generatedAt": "2026-11-06 10:00:02",
- "count": 0,
- "comments": []
+ "generatedAt": "2026-11-06 11:00:02",
+ "count": 1,
+ "comments": [
+  {
+   "rpid": 323077015968,
+   "user": "沁_史克爾",
+   "content": "回复 @霉霉子Official : 一般的誇飾說法拉 不是真的s",
+   "like": 0,
+   "isSub": true,
+   "root": 318738474049,
+   "autoMatched": []
+  }
+ ]
 }

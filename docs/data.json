@@ -9,17 +9,17 @@
    "face": "https://i2.hdslb.com/bfs/face/b2eb273da86c88f1a9f11a2a20886dcedf4a6729.jpg"
   },
   "desc": "各位想看切片的可以点点关注\n瓶子君152:\nhttps://space.bilibili.com/730732",
-  "fetchedAt": "2026-11-06 10:00:02",
-  "claimedReplyCount": 980,
+  "fetchedAt": "2026-11-06 11:00:02",
+  "claimedReplyCount": 981,
   "rootCount": 255,
-  "subCount": 739,
-  "totalCount": 994,
+  "subCount": 740,
+  "totalCount": 995,
   "update": {
-   "lastFetchAt": "2026-11-06 10:00:02",
-   "lastFetchNew": 0,
-   "publishedAt": "2026-11-06 09:01:32",
+   "lastFetchAt": "2026-11-06 11:00:02",
+   "lastFetchNew": 1,
+   "publishedAt": "2026-11-06 10:01:32",
    "delta": {
-    "comments": 0,
+    "comments": 1,
     "artists": 0,
     "mentions": 0
    },
@@ -29,7 +29,7 @@
  },
  "stats": {
   "categories": {
-   "chat": 367,
+   "chat": 368,
    "artist_rec": 577,
    "work_only": 13,
    "ask": 21,
@@ -3108,7 +3108,7 @@
    "aliases": [],
    "mentions": 4,
    "users": 4,
-   "likes": 123,
+   "likes": 124,
    "lowConfidence": false,
    "notes": [
     "基本功扎实，现代最强",
@@ -6966,7 +6966,7 @@
    "aliases": [],
    "mentions": 2,
    "users": 2,
-   "likes": 123,
+   "likes": 124,
    "lowConfidence": false,
    "notes": [
     "心目中的最古goat，史上最强",
@@ -14174,7 +14174,7 @@
    "aliases": [],
    "mentions": 1,
    "users": 1,
-   "likes": 115,
+   "likes": 116,
    "lowConfidence": false,
    "notes": [
     "过于勤奋，b站活跃，画风好模仿"
@@ -16271,7 +16271,7 @@
    "rootNo": 5,
    "isSub": false,
    "user": "木冬鏡",
-   "like": 115,
+   "like": 116,
    "ctime": 1793366509,
    "firstSeen": "",
    "content": "米山舞，我心目中的最古goat，史上最强。我是mai孝子，我考，我再考\neo58，这个似乎没有入驻b站，但速写直播里看得出基本功扎实的吓人，个人心目中的现代最强。\n毛谁，过于勤奋的，在b站上也活跃的，画风好模仿的，虽然有点公式的，从大学看到现在的，白嫖了他课的加定语goat",
@@ -16285,7 +16285,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 115
+     "like": 116
     },
     {
      "artist": "eo58",
@@ -16295,7 +16295,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 115
+     "like": 116
     },
     {
      "artist": "毛谁",
@@ -16305,7 +16305,7 @@
      "isSub": false,
      "user": "木冬鏡",
      "rpid": 318672255777,
-     "like": 115
+     "like": 116
     }
    ],
    "workInfo": null,
@@ -32338,7 +32338,7 @@
    "rootNo": 2,
    "isSub": true,
    "user": "Nonameforyou71",
-   "like": 1,
+   "like": 2,
    "ctime": 1793413290,
    "firstSeen": "",
    "content": "這位的人體還是偶爾會暴走",
@@ -33784,7 +33784,7 @@
    "rootNo": 2,
    "isSub": true,
    "user": "暴食-波奇Q",
-   "like": 4,
+   "like": 5,
    "ctime": 1793418245,
    "firstSeen": "",
    "content": "回复 @Cyborg86 :确实，感觉作者有点文青病上来了。少年这本还不说透，让读者猜。两边都擦点，两边都可能是。\n后续就是演都不演了，直接非➗走起来。拜托，这种青春懵动写一遍就好了，似是而非，就像是青春的涩口感。后面直接端按着头让你接受非➗，路径依赖都不如。改的什么东西[疼]",
@@ -41108,6 +41108,20 @@
    ],
    "workInfo": null,
    "rootUser": "99Commun"
+  },
+  {
+   "rpid": 323077015968,
+   "rootNo": 7,
+   "isSub": true,
+   "user": "沁_史克爾",
+   "like": 0,
+   "ctime": 1793930619,
+   "firstSeen": "2026-11-06 11:00:02",
+   "content": "回复 @霉霉子Official : 一般的誇飾說法拉 不是真的s",
+   "category": "chat",
+   "artists": [],
+   "workInfo": null,
+   "rootUser": "゚゙゚゙゚帕琪"
   }
  ]
 }
