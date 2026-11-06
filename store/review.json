@@ -1,31 +1,32 @@
 {
-  "generatedAt": "2026-11-06 04:10:00",
+  "generatedAt": "2026-11-06 22:48:00",
   "comments": {
-    "319318226353": {
-      "category": "artist_rec",
-      "artists": ["meme50"],
+    "323077015968": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "点名メメ50（meme50 日文写法），评价画工和风格最扎实",
+      "reason": "楼中楼解释用语（夸饰说法），未点名画师",
+      "mentions": []
+    },
+    "319337834689": {
+      "category": "artist_rec",
+      "artists": ["大仲"],
+      "works": [],
+      "reason": "点名大仲（名单外新画师），评价最对胃口但更新慢",
       "mentions": [
         {
-          "name_as_written": "メメ50",
-          "canonical_guess": "meme50",
-          "note": "有懂得吗，这位是我看画工和风格最扎实的"
+          "name_as_written": "大仲",
+          "canonical_guess": "大仲",
+          "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）"
         }
       ]
     },
-    "319318261985": {
-      "category": "artist_rec",
-      "artists": ["meme50"],
+    "323140153008": {
+      "category": "chat",
+      "artists": [],
       "works": [],
-      "reason": "同一用户楼中楼重复点名メメ50",
-      "mentions": [
-        {
-          "name_as_written": "メメ50",
-          "canonical_guess": "meme50",
-          "note": "点名推荐（重复发出）"
-        }
-      ]
+      "reason": "无敌了这个，感慨未点名画师",
+      "mentions": []
     }
   }
 }

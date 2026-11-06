@@ -21349,6 +21349,36 @@
   ]
  },
  {
+  "name": "大仲",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "硝苯不地平",
+    "isSub": false,
+    "written": "大仲",
+    "context": "",
+    "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "大仲",
+    "written": "大仲",
+    "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）",
+    "rootNo": 256,
+    "isSub": false,
+    "user": "硝苯不地平",
+    "rpid": 319337834689,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "大嘘",
   "aliases": [],
   "mentions": 1,

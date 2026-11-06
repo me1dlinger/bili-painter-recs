@@ -17,26 +17,28 @@
   "update": {
    "lastFetchAt": "2026-11-06 22:00:01",
    "lastFetchNew": 1,
-   "publishedAt": "2026-11-06 21:01:35",
+   "publishedAt": "2026-11-06 22:01:35",
    "delta": {
-    "comments": 1,
-    "artists": 0,
-    "mentions": 0
+    "comments": 0,
+    "artists": 1,
+    "mentions": 1
    },
-   "newArtists": [],
+   "newArtists": [
+    "大仲"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
-   "chat": 370,
-   "artist_rec": 577,
+   "chat": 369,
+   "artist_rec": 578,
    "work_only": 13,
    "ask": 21,
    "empty": 16
   },
-  "artistCount": 574,
-  "mentionCount": 1042
+  "artistCount": 575,
+  "mentionCount": 1043
  },
  "artists": [
   {
@@ -13190,6 +13192,27 @@
    ]
   },
   {
+   "name": "大仲",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）"
+   ],
+   "evidence": [
+    {
+     "rpid": 319337834689,
+     "commenter": "硝苯不地平",
+     "isSub": false,
+     "written": "大仲",
+     "context": "",
+     "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）"
+    }
+   ]
+  },
+  {
    "name": "大嘘",
    "aliases": [],
    "mentions": 1,
@@ -25225,8 +25248,19 @@
    "ctime": 1793935365,
    "firstSeen": "2026-11-06 12:00:02",
    "content": "看太多要脱敏了，现在最对胃口的是大仲，可惜更的慢",
-   "category": "chat",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "大仲",
+     "written": "大仲",
+     "note": "现在最对胃口的是大仲，可惜更的慢（名单外，未核实）",
+     "rootNo": 256,
+     "isSub": false,
+     "user": "硝苯不地平",
+     "rpid": 319337834689,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
