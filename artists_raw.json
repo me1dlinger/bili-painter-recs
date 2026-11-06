@@ -3655,7 +3655,7 @@
   ],
   "mentions": 9,
   "users": 8,
-  "likes": 99,
+  "likes": 100,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -3732,7 +3732,7 @@
     "isSub": false,
     "user": "゚゙゚゙゚帕琪",
     "rpid": 318738474049,
-    "like": 90
+    "like": 91
    },
    {
     "artist": "昼寝",
@@ -5667,7 +5667,7 @@
   "aliases": [],
   "mentions": 4,
   "users": 4,
-  "likes": 124,
+  "likes": 125,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -5719,7 +5719,7 @@
     "isSub": true,
     "user": "猫神kami",
     "rpid": 318680131905,
-    "like": 6
+    "like": 7
    },
    {
     "artist": "eo58",
@@ -22575,7 +22575,7 @@
   ],
   "mentions": 1,
   "users": 1,
-  "likes": 0,
+  "likes": 1,
   "lowConfidence": false,
   "notes": [],
   "evidence": [
@@ -22596,7 +22596,7 @@
     "isSub": true,
     "user": "DOOMSGUARDIANS",
     "rpid": 322440206192,
-    "like": 0
+    "like": 1
    }
   ]
  },
