@@ -23869,6 +23869,36 @@
   ]
  },
  {
+  "name": "精肉铺",
+  "aliases": [],
+  "mentions": 1,
+  "users": 1,
+  "likes": 0,
+  "lowConfidence": false,
+  "notes": [],
+  "evidence": [
+   {
+    "commenter": "柳木詩夢的小男友",
+    "isSub": false,
+    "written": "精肉铺",
+    "context": "",
+    "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）"
+   }
+  ],
+  "_raw": [
+   {
+    "artist": "精肉铺",
+    "written": "精肉铺",
+    "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）",
+    "rootNo": 257,
+    "isSub": false,
+    "user": "柳木詩夢的小男友",
+    "rpid": 319423287713,
+    "like": 0
+   }
+  ]
+ },
+ {
   "name": "紅村かる",
   "aliases": [
    "红村かる"

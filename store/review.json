@@ -1,12 +1,29 @@
 {
-  "generatedAt": "2026-11-07 00:10:00",
-  "comments": {
-    "323150294368": {
-      "category": "chat",
-      "artists": [],
-      "works": [],
-      "reason": "楼中楼调侃某画师失联（未点名画师名）",
-      "mentions": []
+ "generatedAt": "2026-11-07 08:10:00",
+ "comments": {
+  "319423287713": {
+   "category": "artist_rec",
+   "artists": [
+    "精肉铺"
+   ],
+   "works": [
+    "侄女系列"
+   ],
+   "reason": "一级评论点名画师（好像叫精肉铺），提到两本侄女系列作品",
+   "mentions": [
+    {
+     "name_as_written": "精肉铺",
+     "canonical_guess": "精肉铺",
+     "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）"
     }
+   ]
+  },
+  "319423387729": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "楼中楼长评（拿美少女万华镜类比怪谈系列、后来多是拉拉角色导致审美疲劳），未点名画师",
+   "mentions": []
   }
+ }
 }

@@ -17,26 +17,28 @@
   "update": {
    "lastFetchAt": "2026-11-07 08:00:02",
    "lastFetchNew": 0,
-   "publishedAt": "2026-11-07 07:01:34",
+   "publishedAt": "2026-11-07 08:01:33",
    "delta": {
     "comments": 0,
-    "artists": 0,
-    "mentions": 0
+    "artists": 1,
+    "mentions": 1
    },
-   "newArtists": [],
+   "newArtists": [
+    "精肉铺"
+   ],
    "newWorks": []
   }
  },
  "stats": {
   "categories": {
    "chat": 371,
-   "artist_rec": 578,
+   "artist_rec": 579,
    "work_only": 13,
-   "ask": 22,
+   "ask": 21,
    "empty": 16
   },
-  "artistCount": 575,
-  "mentionCount": 1043
+  "artistCount": 576,
+  "mentionCount": 1044
  },
  "artists": [
   {
@@ -14869,6 +14871,27 @@
    ]
   },
   {
+   "name": "精肉铺",
+   "aliases": [],
+   "mentions": 1,
+   "users": 1,
+   "likes": 0,
+   "lowConfidence": false,
+   "notes": [
+    "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）"
+   ],
+   "evidence": [
+    {
+     "rpid": 319423287713,
+     "commenter": "柳木詩夢的小男友",
+     "isSub": false,
+     "written": "精肉铺",
+     "context": "",
+     "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）"
+    }
+   ]
+  },
+  {
    "name": "紅村かる",
    "aliases": [
     "红村かる"
@@ -25271,8 +25294,19 @@
    "ctime": 1794003963,
    "firstSeen": "2026-11-07 07:00:01",
    "content": "现阶段第一时间想到的是这位\n主要看多了就也不是很在乎\n人体等等无关紧要的东西\n题材大于一切有没有懂得\n好像是叫精肉铺来着\n两本侄女系列真给我带来一种后怕感\n人体张力太夸张了\n这家伙现实里不会真的炼铜吧（）",
-   "category": "ask",
-   "artists": [],
+   "category": "artist_rec",
+   "artists": [
+    {
+     "artist": "精肉铺",
+     "written": "精肉铺",
+     "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）",
+     "rootNo": 257,
+     "isSub": false,
+     "user": "柳木詩夢的小男友",
+     "rpid": 319423287713,
+     "like": 0
+    }
+   ],
    "workInfo": null,
    "rootUser": ""
   },
