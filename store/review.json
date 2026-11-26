@@ -1,29 +1,810 @@
 {
- "generatedAt": "2026-11-07 08:10:00",
+ "generatedAt": "2026-11-26 19:30:00",
  "comments": {
-  "319423287713": {
-   "category": "artist_rec",
-   "artists": [
-    "精肉铺"
-   ],
-   "works": [
-    "侄女系列"
-   ],
-   "reason": "一级评论点名画师（好像叫精肉铺），提到两本侄女系列作品",
-   "mentions": [
-    {
-     "name_as_written": "精肉铺",
-     "canonical_guess": "精肉铺",
-     "note": "题材大于一切；两本侄女系列真给我带来一种后怕感（名单外，未核实）"
-    }
-   ]
-  },
-  "319423387729": {
+  "325119409200": {
    "category": "chat",
    "artists": [],
    "works": [],
-   "reason": "楼中楼长评（拿美少女万华镜类比怪谈系列、后来多是拉拉角色导致审美疲劳），未点名画师",
+   "reason": "闲聊，未点名画师",
    "mentions": []
+  },
+  "321075634865": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320451971409": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324090149568": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320104544785": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320248869217": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324268111072": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "323584152224": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324089900864": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324098155008": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "319928770177": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "321354548865": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324128488416": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324128389856": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "323266256528": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324772476848": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "325045766256": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "325196348256": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324151451104": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320388976289": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320548217217": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320647379265": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324522129552": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320795958401": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "324815926800": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "325004986048": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "321316560945": {
+   "category": "chat",
+   "artists": [],
+   "works": [],
+   "reason": "闲聊，未点名画师",
+   "mentions": []
+  },
+  "320720399825": {
+   "category": "ask",
+   "artists": [],
+   "works": [],
+   "reason": "问漫画名字",
+   "mentions": []
+  },
+  "320145710721": {
+   "category": "artist_rec",
+   "artists": [
+    "關谷あさみ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "関谷あさみ",
+     "canonical_guess": "關谷あさみ",
+     "note": "画的确实好看，我也喜欢"
+    }
+   ]
+  },
+  "323983672192": {
+   "category": "artist_rec",
+   "artists": [
+    "三上ミカ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "三上mika",
+     "canonical_guess": "三上ミカ",
+     "note": "晚安系列无敌"
+    }
+   ]
+  },
+  "323183394064": {
+   "category": "artist_rec",
+   "artists": [
+    "tamaki"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "tamaki",
+     "canonical_guess": "tamaki",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "319445344529": {
+   "category": "artist_rec",
+   "artists": [
+    "ホムンクルス",
+    "幾花にいろ"
+   ],
+   "works": [],
+   "reason": "人造人、几花",
+   "mentions": [
+    {
+     "name_as_written": "人造人",
+     "canonical_guess": "ホムンクルス",
+     "note": ""
+    },
+    {
+     "name_as_written": "几花",
+     "canonical_guess": "幾花にいろ",
+     "note": ""
+    }
+   ]
+  },
+  "319492645137": {
+   "category": "artist_rec",
+   "artists": [
+    "田屋沼屋"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "田屋沼屋",
+     "canonical_guess": "田屋沼屋",
+     "note": ""
+    }
+   ]
+  },
+  "323389301280": {
+   "category": "artist_rec",
+   "artists": [
+    "ぬんぬ",
+    "黒本君",
+    "たくじ",
+    "40010試作型",
+    "ほうき星",
+    "雲呑めお",
+    "森島コン"
+   ],
+   "works": [],
+   "reason": "列举画师与社团",
+   "mentions": [
+    {
+     "name_as_written": "ぬんぬ",
+     "canonical_guess": "ぬんぬ",
+     "note": ""
+    },
+    {
+     "name_as_written": "黒本君",
+     "canonical_guess": "黒本君",
+     "note": "みくろぺえじ 社团"
+    },
+    {
+     "name_as_written": "たくじ",
+     "canonical_guess": "たくじ",
+     "note": "Number 2 社团，名单外，未核实"
+    },
+    {
+     "name_as_written": "40010試作型",
+     "canonical_guess": "40010試作型",
+     "note": ""
+    },
+    {
+     "name_as_written": "ほうき星",
+     "canonical_guess": "ほうき星",
+     "note": ""
+    },
+    {
+     "name_as_written": "雲呑めお",
+     "canonical_guess": "雲呑めお",
+     "note": ""
+    },
+    {
+     "name_as_written": "森島コン",
+     "canonical_guess": "森島コン",
+     "note": ""
+    }
+   ]
+  },
+  "319741932769": {
+   "category": "artist_rec",
+   "artists": [
+    "いわお"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "いわお",
+     "canonical_guess": "いわお",
+     "note": "这个画师我随便起飞"
+    }
+   ]
+  },
+  "323521670752": {
+   "category": "artist_rec",
+   "artists": [
+    "青豆腐"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "青豆腐",
+     "canonical_guess": "青豆腐",
+     "note": ""
+    }
+   ]
+  },
+  "319772874801": {
+   "category": "artist_rec",
+   "artists": [
+    "笹森トモエ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "笹森",
+     "canonical_guess": "笹森トモエ",
+     "note": "看了半天没人提笹森"
+    }
+   ]
+  },
+  "319806553681": {
+   "category": "artist_rec",
+   "artists": [
+    "田屋沼屋"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "田屋沼屋",
+     "canonical_guess": "田屋沼屋",
+     "note": ""
+    }
+   ]
+  },
+  "323601427264": {
+   "category": "artist_rec",
+   "artists": [
+    "ratatatat74"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "ratatatat74",
+     "canonical_guess": "ratatatat74",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "323619267904": {
+   "category": "artist_rec",
+   "artists": [
+    "ratatatat74"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "ratatatat74",
+     "canonical_guess": "ratatatat74",
+     "note": ""
+    }
+   ]
+  },
+  "323804108816": {
+   "category": "artist_rec",
+   "artists": [
+    "海濑苍羽"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "海濑苍羽",
+     "canonical_guess": "海濑苍羽",
+     "note": ""
+    }
+   ]
+  },
+  "320040462481": {
+   "category": "artist_rec",
+   "artists": [
+    "WASABI"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "WASABI",
+     "canonical_guess": "WASABI",
+     "note": "亡国姬系列百看不厌"
+    }
+   ]
+  },
+  "320127118017": {
+   "category": "artist_rec",
+   "artists": [
+    "40010試作型"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "40010试作型",
+     "canonical_guess": "40010試作型",
+     "note": "泪子那本我用了好久"
+    }
+   ]
+  },
+  "320168213617": {
+   "category": "artist_rec",
+   "artists": [
+    "加濑大辉"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "加濑大辉",
+     "canonical_guess": "加濑大辉",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "320191118209": {
+   "category": "artist_rec",
+   "artists": [
+    "柚十扇"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "柚十扇",
+     "canonical_guess": "柚十扇",
+     "note": ""
+    }
+   ]
+  },
+  "320371361601": {
+   "category": "artist_rec",
+   "artists": [
+    "清炭ハリケーン"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "清碳",
+     "canonical_guess": "清炭ハリケーン",
+     "note": ""
+    }
+   ]
+  },
+  "320568061617": {
+   "category": "artist_rec",
+   "artists": [
+    "妄想caution"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "妄想caution",
+     "canonical_guess": "妄想caution",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "320618757281": {
+   "category": "artist_rec",
+   "artists": [
+    "MUK"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "muk",
+     "canonical_guess": "MUK",
+     "note": ""
+    }
+   ]
+  },
+  "324433192400": {
+   "category": "artist_rec",
+   "artists": [
+    "濑浦沙悟"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "濑浦沙悟",
+     "canonical_guess": "濑浦沙悟",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "320637291713": {
+   "category": "artist_rec",
+   "artists": [
+    "呉マサヒロ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "呉マサヒロ",
+     "canonical_guess": "呉マサヒロ",
+     "note": "这位老师嘛"
+    }
+   ]
+  },
+  "320981311793": {
+   "category": "artist_rec",
+   "artists": [
+    "かめたろ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "かめたろ",
+     "canonical_guess": "かめたろ",
+     "note": "看的很爽"
+    }
+   ]
+  },
+  "321079200977": {
+   "category": "artist_rec",
+   "artists": [
+    "きゃらだいん",
+    "たまび"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "きゃらだいん",
+     "canonical_guess": "きゃらだいん",
+     "note": ""
+    },
+    {
+     "name_as_written": "たまび",
+     "canonical_guess": "たまび",
+     "note": ""
+    }
+   ]
+  },
+  "321124778305": {
+   "category": "artist_rec",
+   "artists": [
+    "真白しらこ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "真白しらこ",
+     "canonical_guess": "真白しらこ",
+     "note": "真神"
+    }
+   ]
+  },
+  "321139822721": {
+   "category": "artist_rec",
+   "artists": [
+    "調四季"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "调四季",
+     "canonical_guess": "調四季",
+     "note": ""
+    }
+   ]
+  },
+  "324984175392": {
+   "category": "artist_rec",
+   "artists": [
+    "袁藤冲人"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "袁藤冲人",
+     "canonical_guess": "袁藤冲人",
+     "note": ""
+    }
+   ]
+  },
+  "325018574384": {
+   "category": "artist_rec",
+   "artists": [
+    "レフトハンド"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "レフトハンド",
+     "canonical_guess": "レフトハンド",
+     "note": ""
+    }
+   ]
+  },
+  "321210590673": {
+   "category": "artist_rec",
+   "artists": [
+    "肉棒魔羅ノ進"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "肉棒魔罗",
+     "canonical_guess": "肉棒魔羅ノ進",
+     "note": ""
+    }
+   ]
+  },
+  "325066963664": {
+   "category": "artist_rec",
+   "artists": [
+    "みちきんぐ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "米奇王",
+     "canonical_guess": "みちきんぐ",
+     "note": ""
+    }
+   ]
+  },
+  "325091476288": {
+   "category": "artist_rec",
+   "artists": [
+    "ポン高花田"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "ポン高花田",
+     "canonical_guess": "ポン高花田",
+     "note": ""
+    }
+   ]
+  },
+  "321278799121": {
+   "category": "artist_rec",
+   "artists": [
+    "白銀木犀"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "白銀木犀",
+     "canonical_guess": "白銀木犀",
+     "note": ""
+    }
+   ]
+  },
+  "325153242240": {
+   "category": "artist_rec",
+   "artists": [
+    "山绀屋やまこんぶ",
+    "いづれ"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "山紺屋",
+     "canonical_guess": "山绀屋やまこんぶ",
+     "note": ""
+    },
+    {
+     "name_as_written": "いづれ",
+     "canonical_guess": "いづれ",
+     "note": "名单外，未核实"
+    }
+   ]
+  },
+  "321339090257": {
+   "category": "artist_rec",
+   "artists": [
+    "hisasi"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "hisasi",
+     "canonical_guess": "hisasi",
+     "note": ""
+    }
+   ]
+  },
+  "325162799024": {
+   "category": "artist_rec",
+   "artists": [
+    "左藤空気"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "左藤空气",
+     "canonical_guess": "左藤空気",
+     "note": ""
+    }
+   ]
+  },
+  "325177613920": {
+   "category": "artist_rec",
+   "artists": [
+    "三色坊"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "三色坊",
+     "canonical_guess": "三色坊",
+     "note": "疑社团名，未核实"
+    }
+   ]
+  },
+  "325180525984": {
+   "category": "artist_rec",
+   "artists": [
+    "江鸟"
+   ],
+   "works": [],
+   "reason": "点名推荐画师",
+   "mentions": [
+    {
+     "name_as_written": "江鸟",
+     "canonical_guess": "江鸟",
+     "note": "名单外，未核实"
+    }
+   ]
   }
  }
 }

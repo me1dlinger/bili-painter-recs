@@ -41,7 +41,7 @@ QUIET = "--quiet" in sys.argv
 # 评论总数硬上限：抓满 CAP 条即冻结该项目（多余的丢弃、不入库）。
 # 目的：让网页「抓取评论 N 条」最终精确停在 CAP，不多不少。
 # 冻结动作（写 store/FROZEN + 移除 crontab）由 cron_update.sh / 会话侧执行。
-CAP = 1000
+CAP = 100000
 NOW = time.strftime("%Y-%m-%d %H:%M:%S")
 
 
