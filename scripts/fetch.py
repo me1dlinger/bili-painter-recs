@@ -38,10 +38,10 @@ from bilibili_api import Credential, Api  # noqa: E402
 
 BVID = "BV15cxq6tEFW"
 QUIET = "--quiet" in sys.argv
-# 评论总数硬上限：抓满 CAP 条即冻结该项目（多余的丢弃、不入库）。
-# 目的：让网页「抓取评论 N 条」最终精确停在 CAP，不多不少。
-# 冻结动作（写 store/FROZEN + 移除 crontab）由 cron_update.sh / 会话侧执行。
-CAP = 100000
+# 评论总数上限：CAP = 0 表示**不限**（每次全量拉取，推荐）。
+# 若设为正整数（如 1000），则抓满后多出的评论会被丢弃、不入库，配合冻结机制可让
+# 网页「抓取评论 N 条」精确停在 CAP —— 该机制代码保留但默认关闭。
+CAP = 0
 NOW = time.strftime("%Y-%m-%d %H:%M:%S")
 
 
@@ -212,7 +212,7 @@ async def main():
     # 保留按 ctime 升序的前 CAP 条（历史优先），本轮多出来的新评论直接不收录，
     # 同时把它们从 new_ids 里剔除，避免自动匹配 / 待复核队列引用不存在的评论。
     dropped = set()
-    if len(store) > CAP:
+    if CAP and len(store) > CAP:
         keep_keys = list(store.keys())[:CAP]
         keep_set = set(keep_keys)
         dropped = {k for k in store if k not in keep_set}
@@ -291,7 +291,7 @@ async def main():
               open(ppath, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
     log(f"新增 {len(new_ids)} 条评论，更新 {updated} 条，自动匹配新增提及 {added} 条")
-    log(f"评论库合计 {len(store)} 条{'（已满上限 ' + str(CAP) + '，多余不入库）' if len(store) >= CAP else ''}")
+    log(f"评论库合计 {len(store)} 条" + (f"（已满上限 {CAP}，多余不入库）" if CAP and len(store) >= CAP else ""))
     # 注意：只更新「上次抓取」这一块，published（上次发布快照）由 publish.sh 维护
     sp = os.path.join(STORE, "state.json")
     st = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else {}
